@@ -10,6 +10,10 @@
   * [[zh:obs|Open Bible Stories (zh)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zh|d43-zh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zh/archive/master.zip|d43-zh.zip]]
+
 **Recent Changes**
 {{changes>ns = zh}}
 
