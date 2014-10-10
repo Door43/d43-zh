@@ -8,7 +8,7 @@
   * **[[:zh:obs:notes:key-terms/peter|Peter]]**
   * **[[:zh:obs:notes:key-terms/repent|repent]]**
   * **[[:zh:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]] [[:en:obs:notes:key-terms/messiah|Christ]]**
+  * **[[:zh:obs:notes:key-terms/jesus|Jesus]] [[:zh:obs:notes:key-terms/messiah|Christ]]**
   * **[[:zh:obs:notes:key-terms/god|God]]**
   * **[[:zh:obs:notes:key-terms/forgive|forgive]]**
   * **[[:zh:obs:notes:key-terms/sin|sins]]**
@@ -22,4 +22,4 @@
   * **Jesus Christ** - Since "Christ" is a title here, some translators may choose to change the order and say, "Christ Jesus." Both orders are used in the Bible.
 
 
-**[[:zh:obs:notes:frames:43-10|<<]] | [[:en:obs:notes:43|Up]] | [[:en:obs:notes:frames:43-12|>>]]**
+**[[:zh:obs:notes:frames:43-10|<<]] | [[:zh:obs:notes:43|Up]] | [[:zh:obs:notes:frames:43-12|>>]]**
