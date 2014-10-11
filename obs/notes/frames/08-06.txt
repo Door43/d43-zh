@@ -5,6 +5,8 @@
 
 After two years, **Joseph** was still in prison, even though he was **innocent**. One night, the **Pharaoh**, which is what the **Egyptians** called their **kings**, had two **dreams** that **disturbed him greatly**. None of **his advisors** could tell him the **meaning of the dreams**. 
 
+几年之后，尽管是清白的，约瑟仍然在监狱里。埃及的国王，也就是法老，一直被两个梦困扰。他的大臣们没有一个可以告诉他这两个梦的意思。
+
 ===== Important Terms: =====
 
 
@@ -16,7 +18,7 @@ After two years, **Joseph** was still in prison, even though he was **innocent**
   * **[[:zh:obs:notes:key-terms:dream|dreams]]**
 
 
-==== Translation Notes: ====
+===== Translation Notes: =====
 
 
   * **disturbed him greatly** – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
