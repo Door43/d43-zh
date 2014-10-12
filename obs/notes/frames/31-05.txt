@@ -3,6 +3,10 @@
 {{:en:obs:obs-31-05.jpg?nolink&640x360}}
 
 Then **Peter** said to **Jesus**, “**Master****Bold Text**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
+
+
+于是彼得说“主，若是你，请叫我从水面上走到你那里去。”耶稣答道“你来吧。”
+
 ===== Important Terms: =====
 
   * **[[:zh:obs:notes:key-terms/peter|Peter]]**
