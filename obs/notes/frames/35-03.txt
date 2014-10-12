@@ -3,6 +3,9 @@
 {{:en:obs:obs-35-03.jpg?nolink&640x360}}
 
 “There was a man who had two **sons**. The younger son told his father, ‘Father, I want **my inheritance** now!’ So the father divided his **property** between his two sons.”
+
+“有一个人有两个儿子。小儿子对父亲说，‘父亲，我想要我的那份财产！’于是，父亲就将财产分给了两个儿子。”
+
 ===== Important Terms: =====
 
   * **[[:zh:obs:notes:key-terms/son|sons]]**
