@@ -3,6 +3,10 @@
 {{:en:obs:obs-29-03.jpg?nolink&640x360}}
 
 “Since the **servant** could not **pay the debt**, the **king** said, ‘Sell this man and his family as **slaves to make payment on his debt**.’”
+
+
+“因为这人没有什么可以偿还的，王就说：‘把这个人的妻子儿女当奴隶卖了，来偿还他的债’”。
+
 ===== Important Terms: =====
 
   * **[[:zh:obs:notes:key-terms/servant|servant]]**
