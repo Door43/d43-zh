@@ -3,6 +3,10 @@
 {{:en:obs:obs-29-08.jpg?nolink&640x360}}
 
 “The **king called the servant** and said, ‘You wicked servant! I **forgave** your debt because you **begged me**. **You should have done the same**.’ The king was so angry that he **threw** the **wicked** servant into prison until he could pay back all of his debt.”
+
+
+“王叫来了这仆人说：‘你这恶奴！你央求我，我就免了你的债。你应该像我这样做。’ 王震怒把他下到狱里，等他还清所欠的债。”
+
 ===== Important Terms: =====
 
   * **[[:zh:obs:notes:key-terms/king|king]]**
