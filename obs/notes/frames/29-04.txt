@@ -3,6 +3,10 @@
 {{:en:obs:obs-29-04.jpg?nolink&640x360}}
 
 “The **servant fell on his knees before the king** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ The king **felt pity** for the servant, so he **canceled all of his debt** and let him go.”
+
+
+“仆人就跪下来说：'请宽容我，将来我会还清。'王就动了慈心，免了他所有的债。”
+
 ===== Important Terms: =====
 
   * **[[:zh:obs:notes:key-terms/servant|servant]]**
