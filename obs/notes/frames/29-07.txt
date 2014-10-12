@@ -3,6 +3,10 @@
 {{:en:obs:obs-29-07.jpg?nolink&640x360}}
 
 “Some other **servants** saw **what had happened** and **were greatly disturbed**. They went to the **king** and told him **everything**.”
+
+
+“其他同伴看见他所做的事，就忧伤了，并把这事告诉了王。”
+
 ===== Important Terms: =====
 
   * **[[:zh:obs:notes:key-terms/servant|servants]]**
