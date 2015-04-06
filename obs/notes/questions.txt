@@ -1,1 +1,1 @@
-<nspages zh:obs:notes:questions -sortID -title -exclude:home -nbCol=3 -textPages="​List of all OBS Chinese (Mandarin) Questions Pages:"​>
+<nspages zh:obs:notes:questions -sortID -title -exclude:home -nbCol=3 -textPages="​List of all OBS Chinese (Simpified) Questions Pages:"​>
