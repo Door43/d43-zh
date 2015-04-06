@@ -1,25 +1,24 @@
-====== altar ======
+====== altar祭坛 ======
 
-
-===== Definition: =====
-
+===== Definition:定义 =====
 
 An altar is a raised structure on which sacrifices were burned as gifts, or offerings, to God.
 
-    * Altars were often made by packing together a mound of earth or by carefully placing stones into a large pile. 
-    * Some special altars were made of metal, such as gold or bronze.
-    * God told his people to build altars on which to make sacrifices to him, and the nations around Israel also built altars to make sacrifices to their gods.
+祭坛是一个叠高的建筑物用来在上面烧祭牲给神作为礼物或祭物。
 
-[See also: **[[zh:obs:notes:key-terms:sacrifice|sacrifice]]**]
+  * Altars were often made by packing together a mound of earth or by carefully placing stones into a large pile.
+  * <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>祭坛通常是把泥土堆成一堆或把石头小心的的堆成一堆作成的。</font>
+  * Some special altars were made of metal, such as gold or bronze.
+  * 有些<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>祭坛是用金属像金或铜作成的。</font>
+  * God told his people to build altars on which to make sacrifices to him, and the nations around Israel also built altars to make sacrifices to their gods.
+  * 神叫祂的百姓筑<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>祭坛在上面烧牲物给祂。在以色列四周的列国也</font> 筑<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>祭坛在上面烧牲物给他们的神。</font>
 
+[See also: **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**]【同时看：<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>祭牲</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>】</font>
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:zh:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an **altar** and sacrificed some of each kind of animal which could be used for a sacrifice.
-  ***[[:zh:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an **altar**.
-  ***[[:zh:obs:notes:frames:13-09|[13-09]]]** A priest would kill the animal and burn it on the **altar**.
-  ***[[:zh:obs:notes:frames:16-06|[16-06]]]** He (Gideon) built a new altar dedicated to God near where the **altar** to the idol used to be and made a sacrifice to God on it.
-
-
+  * **[[:zh:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an **altar**  and sacrificed some of each kind of animal which could be used for a sacrifice.
+  * **[[:zh:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an **altar**.
+  * **[[:zh:obs:notes:frames:13-09|[13-09]]]** A priest would kill the animal and burn it on the **altar**.
+  * **[[:zh:obs:notes:frames:16-06|[16-06]]]** He (Gideon) built a new altar dedicated to God near where the **altar**  to the idol used to be and made a sacrifice to God on it.
 ~~DISCUSSION:off~~
