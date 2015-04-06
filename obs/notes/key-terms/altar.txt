@@ -1,6 +1,10 @@
-====== altar祭坛 ======
+====== altar ======
 
-===== Definition:定义 =====
+====== 祭坛 ======
+
+===== Definition: =====
+
+===== 定义 =====
 
 An altar is a raised structure on which sacrifices were burned as gifts, or offerings, to God.
 
@@ -20,11 +24,11 @@ An altar is a raised structure on which sacrifices were burned as gifts, or offe
 一些圣经故事的例子
 
   * **[[:zh:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an **altar**  and sacrificed some of each kind of animal which could be used for a sacrifice.
-  * 诺亚下船<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>后</font> ，他筑了一个祭坛，献一些可以被用于献祭的<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>各种动物</font> 。
+  * 诺亚下船<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>后</font>    ，他筑了一个祭坛，献一些可以被用于献祭的<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>各种动物</font>    。
   * **[[:zh:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an **altar**.
   * 当他们到达献牺牲的地方，亚伯拉罕捆绑他的儿子以撒，把他放在一个祭坛。
   * **[[:zh:obs:notes:frames:13-09|[13-09]]]** A priest would kill the animal and burn it on the **altar**.
   * 祭师会杀死动物，烧在祭坛上。
   * **[[:zh:obs:notes:frames:16-06|[16-06]]]** He (Gideon) built a new altar dedicated to God near where the **altar**  to the idol used to be and made a sacrifice to God on it.
-  * 他（基甸）建立了一个新的祭坛献给神，是在<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>曾经是偶像祭坛</font> 的地方，并且向神献祭。
+  * 他（基甸）建立了一个新的祭坛献给神，是在<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>曾经是偶像祭坛</font>    的地方，并且向神献祭。
 ~~DISCUSSION:off~~
