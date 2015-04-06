@@ -1,1 +1,0 @@
-<nspages zh:obs:notes:key-terms -title -exclude:home -nbCol=3 -textPages="List of all OBS Chinese (Simplified) Important Words Pages:">
