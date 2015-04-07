@@ -40,7 +40,7 @@
   * <font 20px/inherit;;inherit;;inherit>** [06-01]  ** When  ** Abraham  ** was very old and his son, Isaac, had grown to be a man,  ** Abraham  ** sent one of his servants back to the land where his relatives lived to find a wife for his son, Isaac.。</font>
   * <font 20px/inherit;;inherit;;inherit>当亚伯拉罕很老时，他的儿子以撒已经成长为一个男人，亚伯拉罕打发仆人回他亲戚的住处，为他的儿子以撒找个老婆。</font>
   * <font 20px/inherit;;inherit;;inherit>** [06-04]  ** After a long time,  ** Abraham  ** died and all of the promises that God had made to him in the covenant were passed on to Isaac.</font>
-  * <font 20px/inherit;;inherit;;inherit>经过很长一段时间，亚伯拉罕死了，神和他在契约中所有的承诺，都被转嫁给以撒</font>
+  * <font 20px/inherit;;inherit;;inherit>经过很长一段时间，亚伯拉罕死了，神和他在契约中所有的承诺，都被传承给以撒。</font>
   * <font 20px/inherit;;inherit;;inherit>** [21-02]  ** God promised  ** Abraham  ** that through him all people</font>    <font 20px/inherit;;inherit;;inherit>groups of the world would receive.</font>
   * <font 20px/inherit;;inherit;;inherit>上帝应许亚伯拉罕，通过他，世界上</font>    <font 20px/inherit;;inherit;;inherit>所有的人都会 得福。</font>
   * ~~DISCUSSION:off~~e a blessing
