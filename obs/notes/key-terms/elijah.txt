@@ -22,17 +22,22 @@ Elijah was one of the most important prophets of Yahweh. Elijah prophesied when 
 
 [See also: **[[:zh:obs:notes:key-terms:prophet|prophet]]**, **[[:zh:obs:notes:key-terms:miracle|miracle]]**, **[[:zh:obs:notes:key-terms:ahab|Ahab]]**, **[[:zh:obs:notes:key-terms:baal|Baal]]**, **[[:zh:obs:notes:key-terms:yahweh|Yahweh]]**] [也参考：先知，神迹，亚哈，巴力，耶和华]
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible stories: 来自圣经故事里的例子 =====
 
-
-  ***[[:zh:obs:notes:frames:19-02|[19-02]]]** **Elijah** was a prophet when Ahab was king over the kingdom of Israel.
-  ***[[:zh:obs:notes:frames:19-02|[19-02]]]** **Elijah** said to Ahab, "There will be no rain or dew in the kingdom of Israel until I say so."
-  ***[[:zh:obs:notes:frames:19-03|[19-03]]]** God told **Elijah** to go to a stream in the wilderness to hide from Ahab who wanted to kill him. Every morning and every evening, birds would bring him bread and meat.
-  ***[[:zh:obs:notes:frames:19-04|[19-04]]]** But they took care of **Elijah**, and God provided for them so that their flour jar and their bottle of oil never became empty.
-  ***[[:zh:obs:notes:frames:19-05|[19-05]]]** After three and a half years, God told **Elijah** to return to the kingdom of Israel and speak with Ahab because he was going to send rain again.
-  ***[[:zh:obs:notes:frames:19-07|[19-07]]]** Then **Elijah** said to the prophets of Baal, "Kill a bull and prepare it as a sacrifice, but do not light the fire."
-  ***[[:zh:obs:notes:frames:19-12|[19-12]]]** Then **Elijah** said, "Do not let any of the prophets of Baal escape!"
-  ***[[:zh:obs:notes:frames:36-03|[36-03]]]** Then Moses and the prophet **Elijah** appeared. These men had lived hundreds of years before this. They talked with Jesus about his death that would soon happen in Jerusalem.
-
-
-~~DISCUSSION:off~~
+  * **[[:zh:obs:notes:frames:19-02|[19-02]]]****Elijah**  was a prophet when Ahab was king over the kingdom of Israel.
+  * [19-02] 当亚哈是以色列王国的王时，以利亚就是一个先知了。
+  * **[[:zh:obs:notes:frames:19-02|[19-02]]]****Elijah**  said to Ahab, "There will be no rain or dew in the kingdom of Israel until I say so."
+  * [19-02] 以利亚对亚哈说，“直到我说话有雨，否则全以色列王国将不会有雨或雨露”。
+  * **[[:zh:obs:notes:frames:19-03|[19-03]]]** God told **Elijah**  to go to a stream in the wilderness to hide from Ahab who wanted to kill him. Every morning and every evening, birds would bring him bread and meat.
+  * [19-03] 神告诉以利亚到荒野之地的溪流里去，躲着想要杀他的亚哈。每天早上和晚上，鸟儿会带给他面包和肉。
+  * **[[:zh:obs:notes:frames:19-04|[19-04]]]** But they took care of **Elijah**, and God provided for them so that their flour jar and their bottle of oil never became empty.
+  * [19-04] 但是他们看顾以利亚，并且神也为他们提供丰富，这样他们的面缸和油瓶从不会空。
+  * **[[:zh:obs:notes:frames:19-05|[19-05]]]** After three and a half years, God told **Elijah**  to return to the kingdom of Israel and speak with Ahab because he was going to send rain again.
+  * [19-05] 三年半后，神告诉以利亚去回到以色列王国，和亚哈通话，因为他要在那里再次送雨。
+  * **[[:zh:obs:notes:frames:19-07|[19-07]]]** Then **Elijah**  said to the prophets of Baal, "Kill a bull and prepare it as a sacrifice, but do not light the fire."
+  * [10-07] 于是以利亚对巴力的先知说，“杀一只公牛，准备用来作为祭祀，但是不要点火”。
+  * **[[:zh:obs:notes:frames:19-12|[19-12]]]** Then **Elijah**  said, "Do not let any of the prophets of Baal escape!"
+  * [19-12] 于是以利亚说，“不要让巴力的任何一个先知逃跑掉”。
+  * **[[:zh:obs:notes:frames:36-03|[36-03]]]** Then Moses and the prophet **Elijah**  appeared. These men had lived hundreds of years before this. They talked with Jesus about his death that would soon happen in Jerusalem.
+  * {36-03] 于是摩西和先知以利亚出现了。在次之前这些人已经活了几百年。他们和耶稣讲到了他不久将要在耶路撒冷他的死。
+~~DISCUSSION:off~~ 讨论：结束
