@@ -1,30 +1,30 @@
 ====== Galilee ======
 
-<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>加利利</font>
+<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>加利利</font>
 
 ===== Facts: =====
 
-<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>事实</font>
+<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>事实</font>
 
 Galilee is the most northern part of Israel, farther north than Samaria.
 
-<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>加利利是以色列最北部的部分，比撒玛利亚更北的地方。</font>
+<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>加利利是以色列最北部的部分，比撒玛利亚更北的地方。</font>
 
   * Galilee is bordered on the east by a large lake called "the Sea of Galilee."
-  * 加利利是<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>接壤于</font> 一个称为<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>“加利利海”的大湖泊的</font> 东面。
+  * 加利利是<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>接壤于</font>    一个称为<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>“加利利海”的大湖泊的</font>    东面。
   * Jesus grew up and lived in the town of Nazareth in Galilee.
-  * 耶稣长大，并住在加利利的小镇<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>拿撒勒。</font>
+  * 耶稣长大，并住在加利利的小镇<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>拿撒勒。</font>
 
 [See also: **[[:zh:obs:notes:key-terms:samaria|Samaria]]**, **[[:zh:obs:notes:key-terms:nazareth|Nazareth]]**]
 
-【<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>同时看：</font> 撒玛利亚，拿撒勒<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>​】</font>
+【同时看：撒玛利亚，拿撒勒​】
 
 ===== Examples from the Bible stories: =====
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>一些圣经故事的例子</font>
+一些圣经故事的例子
 
   * **[[:zh:obs:notes:frames:21-10|[21-10]]]** The prophet Isaiah said the Messiah would live in **Galilee**, comfort broken-hearted people, and proclaim freedom to captives and release to prisoners.
-  * 先知以赛亚说弥赛亚将生活在加利利，使心碎的得安慰，并宣布被<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>虏的得</font> 自由，被囚的得<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>释放</font> 。
+  * 先知以赛亚说弥赛亚将生活在加利利，使心碎的得安慰，并宣布被虏的得自由，被囚的得释放 。
   * **[[:zh:obs:notes:frames:26-01|[26-01]]]** After overcoming Satan's temptations, Jesus returned in the power of the Holy Spirit to the region of **Galilee**  where he lived.
   * **[[:zh:obs:notes:frames:39-06|[39-06]]]** Finally, the people said, "We know that you were with Jesus because you both are from **Galilee**."
   * **[[:zh:obs:notes:frames:41-06|[41-06]]]** Then the angel told the women, "Go and tell the disciples, 'Jesus has risen from the dead and he will go to **Galilee**  ahead of you.'"
