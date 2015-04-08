@@ -1,24 +1,126 @@
 ====== descendant ======
 
+後裔
 
 ===== Definition: =====
 
+定義 :
 
 A descendant is someone who is a direct blood relative of someone else further back in history.
 
-    * For example, Abraham was a descendant of Noah.
-    * A person's descendants would be his children, grandchildren, great-great-grandchildren, etc.
+後裔  就
 
+是  一個
+
+人  與
+
+歷史  中的某一個人有
+
+直接的血  緣關係
+
+  * For example, Abraham was a descendant of Noah.
+  * 例
+
+如，亞伯拉罕是挪亞的後裔
+  * A person's descendants would be his children, grandchildren, great-great-grandchildren, etc.
+  *
+
+一個人的
+
+後裔  就
+
+是他
+的孩子
+，
+孫子
+，  曾
+
+孫子，等等
+
+.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:02-09|[02-09]]]** "The woman's **descendant** will crush your head, and you will wound his heel."
-  ***[[:zh:obs:notes:frames:04-09|[04-09]]]** "I give the land of Canaan to your **descendants**."
-  ***[[:zh:obs:notes:frames:05-10|[05-10]]]** "Your **descendants** will be more than the stars in the sky."
-  ***[[:zh:obs:notes:frames:17-07|[17-07]]]** "Someone from your family will always rule as king over Israel, and the Messiah will be one of your **descendants**!"
-  ***[[:zh:obs:notes:frames:18-13|[18-13]]]** The kings of Judah were **descendants** of David.
-  ***[[:zh:obs:notes:frames:21-04|[21-04]]]** God promised King David that the Messiah would be one of David's own **descendants**.
-  ***[[:zh:obs:notes:frames:48-13|[48-13]]]** God promised David that the Messiah would be one of his **descendants**. Jesus, the Messiah, was that special **descendant** of David.
+聖經故事 中的例子
 
+  * **[[:zh:obs:notes:frames:02-09|[02-09]]]**"The woman's **descendant**  will crush your head, and you will wound his heel."
+  *
 
+“女人
+的後裔要傷你的頭，你  要
+
+傷他的腳跟。
+”
+  * **[[:zh:obs:notes:frames:04-09|[04-09]]]**"I give the land of Canaan to your **descendants**."
+  *
+
+“我  要把
+
+給
+迦南地  賜給
+
+你的後裔
+。
+”
+  * **[[:zh:obs:notes:frames:05-10|[05-10]]]**"Your **descendants**  will be more than the stars in the sky."
+  *
+
+“
+你的後裔
+將  比
+
+在天空中
+
+的星星  還多
+
+。
+”
+  * **[[:zh:obs:notes:frames:17-07|[17-07]]]**"Someone from your family will always rule as king over Israel, and the Messiah will be one of your **descendants**!"
+  *
+
+“  從
+
+你的家  中不斷
+
+有人作王統治以色列  人
+
+，
+你的後裔
+之一將成為彌賽亞
+！
+”
+  * **[[:zh:obs:notes:frames:18-13|[18-13]]]** The kings of Judah were **descendants**  of David.
+  *
+
+猶大
+的君王  們都
+
+是
+大衛的  後代
+  * **[[:zh:obs:notes:frames:21-04|[21-04]]]** God promised King David that the Messiah would be one of David's own **descendants**.
+  *
+
+神應許
+大衛王
+，彌賽亞
+將是
+大衛的
+子孫  之一
+  * **[[:zh:obs:notes:frames:48-13|[48-13]]]** God promised David that the Messiah would be one of his **descendants**. Jesus, the Messiah, was that special **descendant**  of David.
+  *
+
+神應許
+大衛
+，彌賽亞
+將是他
+的後裔
+之一。
+耶穌，
+基督
+，
+是大衛的  這一位
+
+特殊  的
+
+後裔。
 ~~DISCUSSION:off~~
