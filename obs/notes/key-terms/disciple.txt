@@ -1,25 +1,153 @@
 ====== disciple ======
 
+門徒
 
 ===== Definition: =====
 
+定義 :
+
 A disciple is a student who follows and learns from a teacher.
 
+門徒  就
+
+是  一個
+
+學生
+
+,  他跟隨
+
+老師  也向
+
+老師
+
+學習。
+
   * The people who listened to the teaching of Jesus and obeyed it were called disciples of Jesus.
+  * 一個人
+
+聽了
+耶穌的教導  並且
+
+服從
+，  他就
+
+被稱為
+耶穌
+的門徒。
   * Hundreds of disciples followed Jesus at different times during his ministry on earth.
+  *
+
+耶穌
+在
+
+地上  服事時,
+
+在不同的時間  有
+
+數百名
+
+門徒
+
+跟隨耶穌
   * The twelve apostles were chosen from among the disciples of Jesus. They continued to be called "disciples," as well as "apostles."
+  *
+
+十二使徒  是
+
+被
+從
+耶穌的門徒
+之  中選出來的
+
+。
+他們繼續
+被稱為“
+門徒
+”和
+“
+使徒
+”。
   * Just before Jesus went up to heaven, he commanded his disciples to teach others so that they could become his disciples, too.
+  *
+
+就在
+耶穌  升
+
+天  之前
+
+，
+他  命令
+
+他的  門徒去
+
+教  導
+
+別人
+，使他們  也都
+
+能夠
+成為他的  門徒
+
+。
   * Anyone, even in modern times, who follows the way and teachings of Jesus in obedience and faith is also a disciple of Jesus.
+  *
 
-[See also: **[[zh:obs:notes:key-terms:apostle|apostle]]**, **[[zh:obs:notes:key-terms:believer|believer]]**, **[[zh:obs:notes:key-terms:jesus|Jesus]]**]
+任何人，
 
+即使是在  現在
+
+，
+誰  在
+
+順服和信心  裏跟隨
+
+耶穌的  道路
+
+和教導  的, 也都被稱為
+
+耶穌的門徒。
+
+[See also: **[[:zh:obs:notes:key-terms:apostle|apostle]]**, **[[:zh:obs:notes:key-terms:believer|believer]]**, **[[:zh:obs:notes:key-terms:jesus|Jesus]]**]
+
+另請
+
+參見：
+使徒
+，
+信徒
+，
+耶穌
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:30-08|[30-08]]]** He (Jesus) gave the pieces to his **disciples** to give to the people. The **disciples** kept passing out the food, and it never ran out!
-  ***[[:zh:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
-  ***[[:zh:obs:notes:frames:38-11|[38-11]]]** Then Jesus went with his **disciples** to a place called Gethsemane. Jesus told his **disciples** to pray that they would not enter into temptation.
-  ***[[:zh:obs:notes:frames:42-10|[42-10]]]** Jesus said to his **disciples**, "All authority in heaven and on earth has been given to me. So go, make **disciples** of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you."
+聖經故事 中的例子
 
+  * **[[:zh:obs:notes:frames:30-08|[30-08]]]** He (Jesus) gave the pieces to his **disciples**  to give to the people. The **disciples**  kept passing out the food, and it never ran out!
+  *
 
+他
+（
+耶穌）  把零碎的食物
+
+給
+
+他的  門徒去
+
+給  其他
+
+的人。  門徒們
+
+不斷的  把
+
+食物
+傳遞出  去
+
+，食物永遠不會  用盡
+
+！
+  * **[[:zh:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his **disciples**  that he wanted to
+  * celebrate this Passover with them in Jerusalem, and that he would be killed there.
+  *
+  * **[[:zh:obs:notes:frames:38-11|[38-11]]]** Then Jesus went with his **disciples**  to a place called Gethsemane. Jesus told his **disciples**  to pray that they would not enter into temptation.
+  * **[[:zh:obs:notes:frames:42-10|[42-10]]]** Jesus said to his **disciples**, "All authority in heaven and on earth has been given to me. So go, make **disciples**  of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you."
 ~~DISCUSSION:off~~
