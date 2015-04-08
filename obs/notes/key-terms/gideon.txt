@@ -1,15 +1,46 @@
 ====== Gideon ======
 
+基甸
+
 ===== Facts: =====
+
+事实：
 
 Gideon was an Israelite man whom God raised up to deliver Israel from their enemies.
 
-基甸是<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>神兴起的一个</font> 以色列人来<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>拯救以色列人</font> 他们的敌人。
+基甸是<font inherit/inherit;;inherit;;inherit>神兴起的一个</font>    以色列人，来<font inherit/inherit;;inherit;;inherit>拯救以色列人脱离</font>    他们的敌人。
 
   * Gideon lived during the time, many years after the Israelites moved into Canaan, when a group of people called the Midianites kept attacking them.
+  *
+基甸
+住在
+以色列人
+迁入迦南地很多年后的一段时期，当时有
+一群人
+称为
+米甸人，
+不断
+攻击他们
+。
   * Gideon was very fearful of the Midianites, but God used him to lead the Israelites to fight against the Midianites and defeat them.
+  *
+基甸
+很
+害怕
+米甸人
+，
+但神
+用
+他带领
+以色列人与
+米甸人争战，并
+击败
+他们。
 
 ===== Examples from the Bible stories: =====
+
+一些圣经故事的例子
+:
 
   * **[[:zh:obs:notes:frames:16-05|[16-05]]]** The angel of Yahweh came to **Gideon**  and said, "God is with you, mighty warrior. Go and save Israel from the Midianites."
   * **[[:zh:obs:notes:frames:16-06|[16-06]]]****Gideon's**  father had an altar dedicated to an idol. God told **Gideon**  to tear down that altar.
