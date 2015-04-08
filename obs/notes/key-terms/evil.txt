@@ -2,7 +2,7 @@
 
 邪灵
 
-==== (evil, wicked, bad) （孽障的，邪恶的，坏的） ====
+==== (evil, wicked, bad) （邪恶的，悖逆的，恶的） ====
 
 ===== Definition: 定义 =====
 
@@ -11,27 +11,42 @@ Evil is any action, thought or character that is opposed to God's holy character
 邪灵是任何和神的圣洁的性格和意志相反的行为，思想或性格。
 
   * Evil people and evil behaviors can also be described as bad, wicked or immoral. The words "evil" and "wicked" often have a very similar meaning.
-  * 邪灵的人和邪灵的行为也可以被描述为坏的，邪恶的或不道德的。“邪灵”和“邪恶”的字眼经常有非常近似的意思。
+  * 邪灵的人和邪灵的行为也可以被描述为坏的，邪恶的或不道德的。“邪恶”和“悖逆”的字眼经常有非常近似的意思。
   * The results of evil are clearly shown in how people mistreat others by killing, stealing, slandering or being cruel and unkind.
-  * 邪灵，从人们如何通过杀害，偷盗，诽谤或冷酷无情以及待人刻薄的结果就可以清晰可见。
+  * 邪恶，从人们如何通过杀害，偷盗，诽谤或冷酷无情以及待人刻薄的结果就可以清晰可见。
   * An evil spirit is a being that rebels against God.
-  * 邪灵是违背神的旨意的。
+  * 邪恶是违背神的旨意的。
 
 "Evil" is the opposite of "good," and "wicked" is the opposite of "righteous."
 
-[See also: **[[:zh:obs:notes:key-terms:disobey|disobey]]**, **[[:zh:obs:notes:key-terms:sin|sin]]**, **[[:zh:obs:notes:key-terms:good|good]]**, **[[:zh:obs:notes:key-terms:righteous|righteous]]**]
+"邪恶“是”良善“的反义”，“悖逆”是“正义”的反义。
+
+[See also: **[[:zh:obs:notes:key-terms:disobey|disobey]]**, **[[:zh:obs:notes:key-terms:sin|sin]]**, **[[:zh:obs:notes:key-terms:good|good]]**, **[[:zh:obs:notes:key-terms:righteous|righteous]]**] [参见：违背，罪行，良善，正义]
 
 ===== Examples from the Bible stories: =====
 
+圣经故事 里的例子
+
   * **[[:zh:obs:notes:frames:02-04|[02-04]]]**"God just knows that as soon as you eat it, you will be like God and will understand good and **evil**  like he does."
+  * 神知道只要你吃了善恶树上的果子，你就会象神一样，并且会象他一样知道善和恶。
   * **[[:zh:obs:notes:frames:03-01|[03-01]]]** After a long time, many people were living in the world. They had become very **wicked**  and violent.
+  * 很长时间以后，很多人生活在这世上。他们变得非常邪恶和残暴。
   * **[[:zh:obs:notes:frames:03-02|[03-02]]]** But Noah found favor with God. He was a righteous man living among **wicked**  people.
+  * 但是诺亚蒙了神的恩。他是一个生活在恶人中的一个义人。
   * **[[:zh:obs:notes:frames:04-02|[04-02]]]** God saw that if they all kept working together to do **evil**, they could do many more sinful things.
+  * 神看到，如果他们都共同行恶的事，他们就会做更多有罪的事。
   * **[[:zh:obs:notes:frames:08-12|[08-12]]]**"You tried to do **evil**  when you sold me as a slave, but God used the **evil**  for good!"
+  * “<font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>你们曾经做了很坏的事，把我当做奴隶卖掉了，但是神使坏事变成好事！</font>
   * **[[:zh:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false gods and did many **evil**  things.
+  * <font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>他们（迦南人）敬拜假神，且作了很多恶事。</font>
   * **[[:zh:obs:notes:frames:17-01|[17-01]]]** But then he (Saul) became a **wicked**  man who did not obey God, so God chose a different man who would one day be king in his place.
+  * <font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>但是后来他（扫罗）变得悖逆，不遵从神了。所以神拣选了另外一个人，有一天将会代替扫罗。</font>
   * **[[:zh:obs:notes:frames:18-11|[18-11]]]** In the new kingdom of Israel, all the kings were **evil**.
+  * <font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>在以色列的新王国，所有的国王都是邪恶的</font>
   * **[[:zh:obs:notes:frames:29-08|[29-08]]]** The king was so angry that he threw the **wicked**  servant into prison until he could pay back all of his debt.
+  * <font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>这个国王震怒，就把那个邪恶的仆人下到狱里，直到他能够还清他所欠的所有的债。”</font>
   * **[[:zh:obs:notes:frames:45-02|[45-02]]]** They said, "We heard him (Stephen) speak **evil**  things about Moses and God!"
+  * 他们说，”我们听到他（史蒂芬）说关于摩西和神的邪恶的事！”
   * **[[:zh:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more suffering, sadness, crying, **evil**, pain, or death.
-~~DISCUSSION:off~~
+  * <font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>他（耶稣）将擦干每一滴泪水，再也没有痛苦，悲伤，哭泣，邪恶，疼痛和死亡。</font>
+~~DISCUSSION:off~~ 讨论：结束
