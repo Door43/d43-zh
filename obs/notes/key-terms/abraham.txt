@@ -2,7 +2,9 @@
 
 ====== 亚伯拉罕 ======
 
-==== <font 20px/inherit;;inherit;;inherit>(Abraham, Abram） （亚伯拉罕 亚伯兰）</font>     ====
+==== <font 20px/inherit;;inherit;;inherit>(Abraham, Abram）</font>     ====
+
+==== <font 20px/inherit;;inherit;;inherit>（亚伯拉罕 亚伯兰)</font>     ====
 
 ===== <font 20px/inherit;;inherit;;inherit>Facts: 事例</font>     =====
 
