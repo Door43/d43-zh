@@ -4,7 +4,7 @@
 
 ==== (faithful, faithfulness) ====
 
-（<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>有信心的，或是忠心的，有忠心</font> ）
+（<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>有信心的，或是忠心的，有忠心</font>    ）
 
 ===== Definition: =====
 
@@ -13,24 +13,44 @@ Being faithful (faithfulness) means being loyal to a person or living according 
 定义：忠心是对某人或某一套信仰的忠诚
 
   * A faithful person can be depended on to always keep his promises.
+  * 忠实的人可以依靠，始终保持自己的诺言。
   * To be faithful to someone means to be loyal to that person.
+  * 为了忠实于人意味着要忠于那个人。
   * A faithful person remains dedicated to a task, even when it is long and difficult.
+  * 忠实的人始终致力于任务，即使是漫长而艰难的。
   * Faithfulness is the consistent practice of doing what we say we will do, or what we believe God wants us to do.
+  * 忠诚是做什么，我们说，我们会做的，或者我们相信上帝什么要我们做的一贯做法。
   * God is faithful to us by keeping His promises to us.
+  * 神是信实我们通过保持他的应许给我们。
   * We are faithful to God when we persevere in obeying Him.
+  * 我们忠于上帝，当我们坚持服从他。我们忠于上帝，当我们坚持服从他。
 
 The opposite of "faithful" is "unfaithful."
 
+的“忠实”的反面是“不忠”。
+
 [See also: **[[:zh:obs:notes:key-terms:faith|faith]]**]
+
+另请参见：信仰
 
 ===== Examples from the Bible stories: =====
 
+从圣经故事的例子：
+
   * **[[:zh:obs:notes:frames:08-05|[08-05]]]** Even in prison, Joseph remained **faithful**  to God, and God blessed him.
+  * 即使是在监狱里，约瑟夫仍然忠于上帝，上帝保佑他。
   * **[[:zh:obs:notes:frames:14-12|[14-12]]]** Even so, God was still **faithful**  to His promises to Abraham, Isaac, and Jacob.
+  * 即便如此，上帝仍然忠实于他的应许给亚伯拉罕，以撒，雅各。
   * **[[:zh:obs:notes:frames:15-13|[15-13]]]** The people promised to remain **faithful**  to God and follow his laws.
+  * 人们承诺忠于上帝，并按照他的法律。
   * **[[:zh:obs:notes:frames:17-09|[17-09]]]** David ruled with justice and **faithfulness**  for many years, and God blessed him. However, toward the end of his life he sinned terribly against God.
+  * 大卫统治正义和忠诚多年，上帝保佑他。然而，对他生命的尽头，他得罪非常反对上帝。
   * **[[:zh:obs:notes:frames:18-04|[18-04]]]** God was angry with Solomon and, as a punishment for Solomon's **unfaithfulness**, he promised to divide the nation of Israel into two kingdoms after Solomon's death.
+  * 神向所罗门发怒，并作为惩罚所罗门的不忠，他答应来划分以色列民族分为两个王国所罗门死后。
   * **[[:zh:obs:notes:frames:35-12|[35-12]]]**"The older son said to his father, 'All these years I have worked **faithfully**  for you!"
+  * “他的父亲的大儿子说，”这些年来我已经为您忠实的工作！“
   * **[[:zh:obs:notes:frames:49-17|[49-17]]]** But God is **faithful**  and says that if you confess your sins, he will forgive you.
+  * 但神是信实的，并说，如果你承认你的罪，他会原谅你的。
   * **[[:zh:obs:notes:frames:50-04|[50-04]]]** If you remain **faithful**  to me to the end, then God will save you."
+  * 如果你忠实于我到最后，那么上帝会救你。“
 ~~DISCUSSION:off~~
