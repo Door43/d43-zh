@@ -41,5 +41,7 @@ Elijah was one of the most important prophets of Yahweh. Elijah prophesied when 
   * **[[:zh:obs:notes:frames:19-12|[19-12]]]** Then **Elijah**  said, "Do not let any of the prophets of Baal escape!"
   * [19-12] 于是以利亚说，“不要让巴力的任何一个先知逃跑掉”。
   * **[[:zh:obs:notes:frames:36-03|[36-03]]]** Then Moses and the prophet **Elijah**  appeared. These men had lived hundreds of years before this. They talked with Jesus about his death that would soon happen in Jerusalem.
-  * {36-03] 于是摩西和先知以利亚出现了。在此之前这些人已经活了几百年。他们和耶稣讲到了他不久将要在耶路撒冷他的死。
-~~DISCUSSION:off~~<font inherit/inherit;;inherit;;inherit>讨论：结束</font>
+  * {36-03] 于是摩西和先知以利亚出现了。在此之前这些人已经活了几百年。他们和耶稣讲到了他不久将要在耶路撒冷之死。
+~~DISCUSSION:off~~
+
+<font inherit/inherit;;inherit;;inherit>讨论：结束</font>
