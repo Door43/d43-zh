@@ -22,9 +22,7 @@
   * **[[:zh:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit **eternal life**?"
   * 一天，一个在犹太律法方面的专家来到耶稣面前试探他，说：“老师，我怎样才能长生不老呢？”耶稣回答说：“圣经里面怎么说的呢？”
   * **[[:zh:obs:notes:frames:28-01|[28-01]]]** One day, a rich young ruler came up to Jesus and asked him, "Good Teacher, what must I do to have **eternal life**?" Jesus said to him, "Why do you ask me about what is good? There is only One who is good, and that is God. But if you want to have **eternal life**, obey God's laws."
-  * 一天，一个有钱的年轻统治者来到耶稣面前，问他，“良善的老师，我必须要怎样做才能得到永生？” <font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>耶稣对他说：“你为什么问我什么是良善的呢？除了神以外，再没有良善的。如果你想承受永生，就当遵守神的诫命。</font>
+  * 一天，一个有钱的年轻统治者来到耶稣面前，问他，“良善的老师，我必须要怎样做才能得到永生？”  耶稣对他说：“你为什么问我什么是良善的呢？除了神以外，再没有良善的。如果你想承受永生，就当遵守神的诫命“。
   * **[[:zh:obs:notes:frames:28-10|[28-10]]]** Jesus answered, "Everyone who has left houses, brothers, sisters, father, mother, children, or property for my name's sake, will receive 100 times more and will also receive **eternal life**."
-  * 耶稣回答说，“每个离开房子的人，兄弟，姐妹，父亲，母亲，孩子，或财产为我名求的，将获得100倍以上，也将获得永生。”
+  * 耶稣回答说，“每个离开房子的人，兄弟，姐妹，父亲，母亲，孩子，或以我名义求的财产，将获得100倍以上，也将获得永生。”
 ~~DISCUSSION:off~~
-
-讨论结束
