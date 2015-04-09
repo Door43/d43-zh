@@ -1,25 +1,34 @@
 ====== witness ======
 
+见证者
 
 ===== Definition: =====
 
+定义
 
 A witness is someone who has seen or heard something happen.
 
+见证者是已经看到或听到某些事情发生的人。
 
-    * During a trial, witnesses tell what they have seen or heard. What the witnesses say helps the judge to decide if the person being accused is guilty or innocent.
-    * Witnesses are expected to tell the truth about what they have seen or heard.
-    * A witness who does not tell the truth about what he has seen or heard is called a, "false witness."
+  * During a trial, witnesses tell what they have seen or heard. What the witnesses say helps the judge to decide if the person being accused is guilty or innocent.
+  * 在审判时，见证者们诉说他们所看到的或听到的。目击者们所说的可帮助审法官决定这个被起诉的人是否有罪或无罪。
+  * Witnesses are expected to tell the truth about what they have seen or heard.
+  * 见证者们被期望告诉他们所看到的或听到的真相。
+  * A witness who does not tell the truth about what he has seen or heard is called a, "false witness."
+  * 一个不告诉他所看见的或听见真相的见证者，被叫做 “假见证者”。
 
-[See also: **[[zh:obs:notes:key-terms:guilt|guilt]]**, **[[zh:obs:notes:key-terms:judge|judge]]**]
-
+[See also: **[[:zh:obs:notes:key-terms:guilt|guilt]]**, **[[:zh:obs:notes:key-terms:judge|judge]]**] [参见：有罪，法官]
 
 ===== Examples from the Bible stories: =====
 
-    * **[[:zh:obs:notes:frames:39-02|[39-02]]]** Inside the house, the Jewish leaders put Jesus on trial. They brought many **false witnesses**  who lied about him.
-    * **[[:zh:obs:notes:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted, "We do not need any more **witnesses**. You have heard him say that he is the Son of God. What is your judgment?"
-    * **[[:zh:obs:notes:frames:42-08|[42-08]]]** "It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are **witnesses**  of these things."
-    * **[[:zh:obs:notes:frames:43-07|[43-07]]]** "We are **witnesses** to the fact that God raised Jesus to life again." 
+圣经故事里的例子：
 
-
+  * **[[:zh:obs:notes:frames:39-02|[39-02]]]** Inside the house, the Jewish leaders put Jesus on trial. They brought many **false witnesses**  who lied about him.
+  * 在这个屋子里面，犹太领袖审问着耶稣。他们买通了很多假目击证人，都说着关于耶稣的假话。
+  * **[[:zh:obs:notes:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted, "We do not need any more **witnesses**. You have heard him say that he is the Son of God. What is your judgment?"
+  * 大祭祀生气地撕碎了他的衣服，喊到，“我们不许要任何目击证人了。你已经听到他说了，他是神的儿子。你们的判决是什么？”
+  * **[[:zh:obs:notes:frames:42-08|[42-08]]]**"It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are **witnesses**  of these things."
+  * 在圣经里也曾写到：我的信徒们将宣告，每个人都应悔改，以便为他们的罪接受豁免。他们将在耶路撒冷开始做起。然后去到任何有人的地方去。你们就是这些事情的见证者。
+  * **[[:zh:obs:notes:frames:43-07|[43-07]]]**"We are **witnesses**  to the fact that God raised Jesus to life again."
+  * ”我们就是事实的见证者，既神使耶稣升天复活“。
 ~~DISCUSSION:off~~
