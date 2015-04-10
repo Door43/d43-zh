@@ -1,26 +1,36 @@
 ====== truth ======
 
+真理
 
-==== (truth, true, truly) ====
-
+==== (truth, true, truly) （真理，真实的，真实地） ====
 
 ===== Definition: =====
 
+定义
+
 Something that is "true" matches or conforms to how things really are. "True" things really did or really will happen.
 
-    * True things are real, genuine, actual, rightful, legitimate, or factual.
-    * The truth is an understanding, belief, fact, or statement that is true.
+某些“真实的”事，匹配或符合事情是如何发生的。‘真实的“事情确实发生过了或确实将要发生。
+
+  * True things are real, genuine, actual, rightful, legitimate, or factual.
+  * 真正的事情都是真实的，真正的，实际的，正确的，合法的或事实的。
+  * The truth is an understanding, belief, fact, or statement that is true.
+  * 真理就是真实的道理，信仰，事实或宣言。
 
 "True" is the opposite of "false." "Truth" is the opposite of a lie or deception.
 
+”真实的“是”错误的“的反义。”真理“是谎言或欺骗的反义。
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:02-04|[02-04]]]** The snake responded to the woman, "That is not **true**! You will not die."
-  ***[[:zh:obs:notes:frames:14-06|[14-06]]]** Immediately Caleb and Joshua, the other two spies, said, "It is **true ** that the people of Canaan are tall and strong, but we can certainly defeat them!"
-  ***[[:zh:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of Yahweh, the **true ** God.
-  ***[[:zh:obs:notes:frames:31-08|[31-08]]]** They worshiped Jesus, saying to him, "**Truly**, you are the Son of God." 
-  ***[[:zh:obs:notes:frames:39-10|[39-10]]]** "I have come to earth to tell the **truth** about God. Everyone who loves the **truth** listens to me." Pilate said, "What is **truth**?"
+圣经故事的例子：
 
-
+  * **[[:zh:obs:notes:frames:02-04|[02-04]]]** The snake responded to the woman, "That is not **true**! You will not die."
+  * 那蛇对这个女人回答到，”这不对！你不会死的”。
+  * **[[:zh:obs:notes:frames:14-06|[14-06]]]** Immediately Caleb and Joshua, the other two spies, said, "It is **true **  that the people of Canaan are tall and strong, but we can certainly defeat them!"
+  * 迦勒和约书亚，这两个探子马上说到，“迦南人都很高大强壮倒是真的，但我们肯定能打败他们！”
+  *
+  * **[[:zh:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of Yahweh, the **true **  God.
+  * **[[:zh:obs:notes:frames:31-08|[31-08]]]** They worshiped Jesus, saying to him, "**Truly**, you are the Son of God."
+  * **[[:zh:obs:notes:frames:39-10|[39-10]]]**"I have come to earth to tell the **truth**  about God. Everyone who loves the **truth**  listens to me." Pilate said, "What is **truth**?"
 ~~DISCUSSION:off~~
