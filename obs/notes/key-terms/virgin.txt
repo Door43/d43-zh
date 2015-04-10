@@ -1,22 +1,30 @@
 ====== virgin ======
 
+处女
 
-===== Definition: =====
+===== Definition: 定义： =====
 
 A virgin is a woman who has not had sexual relations.
 
-    * The prophet Isaiah said that the Messiah would be born from a virgin.
-    * Mary was a virgin when she was pregnant with Jesus. He did not have a human father.
+处女就是尚未有性关系的女人。
 
-[See also: **[[zh:obs:notes:key-terms:isaiah|Isaiah]]**, **[[zh:obs:notes:key-terms:messiah|Messiah]]**, **[[zh:obs:notes:key-terms:mary|Mary]]**, **[[zh:obs:notes:key-terms:jesus|Jesus]]**]
+  * The prophet Isaiah said that the Messiah would be born from a virgin.
+  * 先知以赛亚说，弥赛亚将会由一个处女而生。
+  * Mary was a virgin when she was pregnant with Jesus. He did not have a human father.
+  * 玛利亚在她怀着耶稣时还是个处女。主耶稣没有人类父亲。
 
+[See also: **[[:zh:obs:notes:key-terms:isaiah|Isaiah]]**, **[[:zh:obs:notes:key-terms:messiah|Messiah]]**, **[[:zh:obs:notes:key-terms:mary|Mary]]**, **[[:zh:obs:notes:key-terms:jesus|Jesus]]**] [参考：以赛亚，弥赛亚，耶稣]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a **virgin**.
-  ***[[:zh:obs:notes:frames:22-04|[22-04]]]** She (Mary) was a **virgin** and was engaged to be married to a man named Joseph.
-  ***[[:zh:obs:notes:frames:22-05|[22-05]]]** Mary replied, "How can this be, since I am a **virgin**?"
-  ***[[:zh:obs:notes:frames:49-01|[49-01]]]** An angel told a **virgin** named Mary that she would give birth to God's Son. So while she was still a **virgin**, she gave birth to a son and named him Jesus. 
+圣经故事里的例子：
 
-
+  * **[[:zh:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a **virgin**.
+  * 先知以赛亚曾预言说，弥赛亚将会由一个处女而生。
+  * **[[:zh:obs:notes:frames:22-04|[22-04]]]** She (Mary) was a **virgin**  and was engaged to be married to a man named Joseph.
+  * 她（玛利亚）是个处女，被许配给了一个叫约瑟的男人。
+  * **[[:zh:obs:notes:frames:22-05|[22-05]]]** Mary replied, "How can this be, since I am a **virgin**?"
+  * 玛利亚回答说：“这怎么可能？因为我还是个处女呢。”
+  * **[[:zh:obs:notes:frames:49-01|[49-01]]]** An angel told a **virgin**  named Mary that she would give birth to God's Son. So while she was still a **virgin**, she gave birth to a son and named him Jesus.
+  * 一个天使告诉处女玛利亚，她将会生一个神的儿子。所以在她还是个处女时，她生了一个儿子，取名叫耶稣。
 ~~DISCUSSION:off~~
