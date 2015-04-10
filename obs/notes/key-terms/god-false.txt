@@ -1,34 +1,151 @@
 ====== god ======
 
+神
+
 ==== (god, gods) ====
+
+（神，众神）
 
 ===== Definition: =====
 
+定义：
+
 A god is something that people worship because they believe it has great power to affect their lives.
+
+神
+是人们
+崇拜的某种东西
+，因为他们相信
+它有很大的能
+力，会
+影响他们的生活
+。
 
   * When god is written with a small 'g,' it refers to a false god.
   *
+神这个字在英文中若用小
+写的
+“g”，
+它指的是
+一个
+假神。
   * When God is written with a capital 'G,' it refers to the one and only true God.
   *
+神这个字在英文中若用
+大写的
+“G
+”，
+它指的是
+唯一
+的真神
+。
   * These "gods" do not exist. Yahweh is the only God, and he has no rival.
   *
+这些“众
+神”
+是不存在的
+。
+耶和华
+是唯一的
+神，他
+没有对手（没有其他的神）
+。
   * People sometimes make idols as symbols of their false gods.
   *
+人们
+有时会造
+偶像
+作为他们的
+假神
+的代表。
   * Demons often deceive people into believing that these false gods and their idols have power.
   *
+魔鬼
+往往
+欺骗人们
+相信
+这些假
+神和
+偶像
+有能力
+。
 
 [See also: **[[:zh:obs:notes:key-terms:god|God]]**, **[[:zh:obs:notes:key-terms:idol|idol]]**, **[[:zh:obs:notes:key-terms:demon|demon]]**]
 
+【同时看：神，
+偶像
+，魔鬼
+】
+
 ===== Examples from the Bible stories: =====
+
+一些圣经故事里的例子：
 
   * **[[:zh:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's **gods**.
   *
+通过这些灾害
+，
+神向
+法老显明
+，他
+比
+法老和
+所有
+埃及的
+神明
+更强大
+。
   * **[[:zh:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other **gods**."
   *
+然后，神与
+他们
+立约，
+说：“
+我是耶和华
+你的神
+，将你从埃及作奴 隶中拯救出来
+。不要
+拜
+别的神
+。
+”
   * **[[:zh:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false **gods**  and did many evil things.
   *
+他们（
+迦南人
+）
+崇拜
+假神
+，并
+做了许多
+恶事
+。
   * **[[:zh:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite **gods**  instead of Yahweh, the true God.
   *
+以色列人
+开始崇拜
+迦南人的众
+神
+，而不是
+耶和华
+真神
+。
   * **[[:zh:obs:notes:frames:18-13|[18-13]]]** But most of Judah's kings were evil, corrupt, and they worshiped idols. Some of the kings even sacrificed their children to false **gods**.
   *
+但大部分
+犹大
+的
+君王
+是恶的，
+腐败的
+，他们
+崇拜
+偶像
+。
+有些
+国王
+甚至献出
+自己的孩子给
+假神
+。
 ~~DISCUSSION:off~~
