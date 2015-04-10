@@ -12,17 +12,25 @@
 ===== Examples from the stories =====
 
 圣经故事中的例子：\\
-* "their eyes were opened" [02-06] means that they realized something they hadn't known before. It is <font 13px/arial;;rgb(0, 0, 0);;rgb(255, 255, 255)>an example of  ** metaphor ** : Their understanding is spoken in terms of seeing. It is also an example of</font>    **metonymy:** People can only see things when their eyes are open.
+* "their eyes were opened" [02-06] means that they realized something they hadn't known before. It is <font 13px/arial;;rgb(0, 0, 0);;rgb(255, 255, 255)>an example of  ** metaphor  ** : Their understanding is spoken in terms of seeing. It is also an example of</font>    **metonymy:** People can only see things when their eyes are open.
 
-他们的眼睛开了[02-06]意思是他们明白了一些他们从前不明白的事情。
+他们的眼睛开了[02-06]意思是他们明白了一些从前不明白的事情。这是一个暗喻的例子：他们的明白表达为看见。同时这也是一个明喻的例子：人只有当眼睛是打开时才能看见东西。
 
 \\
 * "will crush his head" [02-09] means will destroy him.
 
+要打破他的头[02-09]意思是要毁坏他。
+
 * "will wound his heal" [02-09] means will injure him, but not completely destroy him.
+
+要伤他的脚跟[02-09] 意思是要伤他，但不能完全毁坏他。
 
 * "he found grace in God's eyes" [03-02] is a Hebrew **idiom** that means that God chose to think kindly about him.
 
+在神的眼前蒙恩[03-02]是一个希伯来用法，意思是神要恩慈地顾念他。
+
 * "in God's eyes" [03-02] refers to God's thoughts. It is an example of **anthropomorphism**. God is a spirit and does not have eyes like we do, but here he is said to have eyes. It is also and example of **metaphor**. God's thoughts toward Noah are spoken of in terms of God's seeing Noah.
 
- ~~DISCUSSION~~
+在神的眼中[03-02]说到的是神的看法。这是一个拟人用法的例子。神是一个灵，不像我们，他是没有眼睛的，但这是说他有眼睛。这也是一个暗喻的例子。神向着挪亚的看法是借着神看到的挪亚来表达的。
+
+~~DISCUSSION~~
