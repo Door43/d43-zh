@@ -1,22 +1,30 @@
 ====== Uriah ======
 
+乌利亚
 
 ===== Facts: =====
 
+事迹实例：
+
 Uriah was a righteous man and one of King David's best soldiers.
 
+乌利亚是个义人，是大卫王的最好的士兵中的一个。
+
   * Uriah had a very beautiful wife named Bathsheba.
+  * 乌利亚有一个名叫拔士巴的漂亮妻子。
   * David committed adultery with Uriah's wife, and she became pregnant with David's child.
+  * 大卫和乌利亚的妻子行了奸淫，她就怀了大卫的孩子。
   * David caused Uriah to be killed in battle in order to cover up his sin. David then married Bathsheba.
+  * 大卫杀了乌利亚，为的是掩盖他的罪行，大卫于是娶了拔士巴。
 
+[See also: **[[:zh:obs:notes:key-terms:david|David]]**, **[[:zh:obs:notes:key-terms:bathsheba|Bathsheba]]**] [参见：大卫，拔士巴]
 
-[See also: **[[zh:obs:notes:key-terms:David|David]]**, **[[zh:obs:notes:key-terms:Bathsheba|Bathsheba]]**]
+===== Examples from the Bible storie： =====
 
+圣经故事里的例子：
 
-===== Examples from the Bible stories: =====
-
-  ***[[:zh:obs:notes:frames:17-12|[17-12]]]** Bathsheba's husband, a man named **Uriah**, was one of David's best soldiers. David called **Uriah** back from the battle and told him to go be with his wife. But **Uriah** refused to go home while the rest of the soldiers were in battle. So David sent **Uriah** back to the battle and told the general to place him where the enemy was strongest so that he would be killed.
-  ***[[:zh:obs:notes:frames:17-13|[17-13]]]** After **Uriah** was killed, David married Bathsheba.
-
-
+  * **[[:zh:obs:notes:frames:17-12|[17-12]]]** Bathsheba's husband, a man named **Uriah**, was one of David's best soldiers. David called **Uriah**  back from the battle and told him to go be with his wife. But **Uriah**  refused to go home while the rest of the soldiers were in battle. So David sent **Uriah**  back to the battle and told the general to place him where the enemy was strongest so that he would be killed.
+  * 拔士巴的丈夫名叫乌利亚，是大卫的最好的士兵之一。大卫把乌利亚从战场召回，告诉他去和他妻子团聚。但是乌利亚拒绝回家，而其他剩余的士兵还在战场上。所以大卫又把乌利亚派回战场，告诉将军把他派到敌军最强壮的地方去，这样他就会被杀死。
+  * **[[:zh:obs:notes:frames:17-13|[17-13]]]** After **Uriah**  was killed, David married Bathsheba.
+  * 在乌利亚战死后，大卫娶了拔士巴。
 ~~DISCUSSION:off~~
