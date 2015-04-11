@@ -1,21 +1,28 @@
-====== Ten Commandments ======
+====== 口Ten Commandments ======
 
+十诫
 
-===== Facts: =====
+===== Facts: 事例： =====
 
 God told Moses many commands that He wanted the Israelites to obey. He wrote ten of these commands on two slabs of stone.
 
+神告诉了摩西很多诫律，他想要以色列人来遵守。他在石头的两侧写下了十条诫律。
+
   * These Ten Commandments were special commands to help the Israelites love and worship God and love other people.
-  * These commandments were also part of God's covenant with his people. By obeying what God had commanded them to do, the people of Israel would show that they loved God and belonged to him. 
+  * 这十条诫律是帮助以色列人爱神、敬拜神并爱其他人的专门的诫律。
+  * These commandments were also part of God's covenant with his people. By obeying what God had commanded them to do, the people of Israel would show that they loved God and belonged to him.
+  * 这些诫律也是神和他的人民的合约的部分。以色列的人民通过服从神命令他们要做的，来表明他们爱神并属于他。
 
-[See also: **[[zh:obs:notes:key-terms:gods-law|God's Law]]**]
-
+[See also: **[[:zh:obs:notes:key-terms:gods-law|God's Law]]**] [参见：神的律法]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:13-07|[13-07]]]**  Then God wrote these **Ten Commandments** on two stone tablets and gave them to Moses.
-  ***[[:zh:obs:notes:frames:13-13|[13-13]]]**  When Moses came down the mountain and saw the idol, he was so angry that he smashed the stones on which God had written the **Ten Commandments**. 
-  ***[[:zh:obs:notes:frames:13-15|[13-15]]]**  Moses wrote the **Ten Commandments** on new stone tablets to replace the ones he had broken.
+圣经故事里的例子：
 
-
+  * **[[:zh:obs:notes:frames:13-07|[13-07]]]** Then God wrote these **Ten Commandments**  on two stone tablets and gave them to Moses.
+  * 于是神在两块石板上写下了这“ 十诫”，给了摩西。
+  * **[[:zh:obs:notes:frames:13-13|[13-13]]]** When Moses came down the mountain and saw the idol, he was so angry that he smashed the stones on which God had written the **Ten Commandments**.
+  * 当摩西下了山，看到了偶像，他非常生气，以至于弄碎了神写有十诫的石板。
+  * **[[:zh:obs:notes:frames:13-15|[13-15]]]** Moses wrote the **Ten Commandments**  on new stone tablets to replace the ones he had broken.
+  * 摩西在新的石板上写下了十诫，取代了他弄碎的那两块石板。
 ~~DISCUSSION:off~~
