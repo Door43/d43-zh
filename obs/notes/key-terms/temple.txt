@@ -22,14 +22,17 @@ The Temple was a building where the Israelites offered sacrifices to God.
   * The original temple that Solomon built was destroyed by the Babylonians, but was rebuilt after the Exile.
   * 所罗门建造的原来的神殿，被巴比伦人毁坏，在流放后被重新建造。
 
-[See also: **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**, **[[:zh:obs:notes:key-terms:solomon|Solomon]]**, **[[:zh:obs:notes:key-terms:babylon|Babylonians]]**]
+[See also: **[[sacrifice]]**, **[[Solomon]]**, **[[Babylonians]]**] [参见: 祭祀，所罗门，巴比伦人]
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:zh:obs:notes:frames:17-06|[17-06]]]** David wanted to build a **temple**  where all the Israelites could worship God and offer him sacrifices.
-  * **[[:zh:obs:notes:frames:18-02|[18-02]]]** In Jerusalem, Solomon built the **Temple**  for which his father David had planned and gathered materials. Instead of at the Tent of Meeting, people now worshiped God and offered sacrifices to him at the **Temple**. God came and was present in the **Temple**, and he lived there with his people.
-  * **[[:zh:obs:notes:frames:20-07|[20-07]]]** They (Babylonians) captured the city of Jerusalem, destroyed the **Temple**, and took away all the treasures.
-  * **[[:zh:obs:notes:frames:20-13|[20-13]]]** When the people arrived in Jerusalem, they rebuilt the **Temple**  and the wall around the city of the city and the **Temple**.
-  * **[[:zh:obs:notes:frames:25-04|[25-04]]]** Then Satan took Jesus to the highest point on the **Temple**  and said, "If you are the Son of God, throw yourself down, for it is written, 'God will command his angels to carry you so your foot does not hit a stone.'"
-  * **[[:zh:obs:notes:frames:40-07|[40-07]]]** When he died, there was an earthquake and the large curtain that separated the people from the presence of God in the **Temple**  was torn in two, from the top to the bottom.
+圣经故事li里的例子：
+
+  * **[[[17-06]]]** David wanted to build a **temple**  where all the Israelites could worship God and offer him sacrifices.
+  * 大卫想要建造一座神殿，在那里所有的以色列人都可以敬拜神，供奉祭祀。
+  * **[[[18-02]]]** In Jerusalem, Solomon built the **Temple**  for which his father David had planned and gathered materials. Instead of at the Tent of Meeting, people now worshiped God and offered sacrifices to him at the **Temple**. God came and was present in the **Temple**, and he lived there with his people.
+  * **[[[20-07]]]** They (Babylonians) captured the city of Jerusalem, destroyed the **Temple**, and took away all the treasures.
+  * **[[[20-13]]]** When the people arrived in Jerusalem, they rebuilt the **Temple**  and the wall around the city of the city and the **Temple**.
+  * **[[[25-04]]]** Then Satan took Jesus to the highest point on the **Temple**  and said, "If you are the Son of God, throw yourself down, for it is written, 'God will command his angels to carry you so your foot does not hit a stone.'"
+  * **[[[40-07]]]** When he died, there was an earthquake and the large curtain that separated the people from the presence of God in the **Temple**  was torn in two, from the top to the bottom.
 ~~DISCUSSION:off~~
