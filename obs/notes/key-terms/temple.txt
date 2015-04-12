@@ -13,8 +13,14 @@ The Temple was a building where the Israelites offered sacrifices to God.
   * Sometimes the term "Temple" refers to the whole Temple complex, including the courtyards that surrounded the main building.
   * 有时术语“神殿”是指整个神殿综合建筑群，包括环绕主建筑的庭院。
   * People came to the Temple building and its courtyards to pray, worship God and bring animals to sacrifice to God.
+  * 人们来到神殿建筑和庭院，祷告敬拜神，带动物来祭祀神。
   * The inner room of the Temple building, which had a thick curtain separating it from the rest of the Temple, could not be entered by anyone except the high priest.
+  *
+
+神殿建筑的内室，有一个厚的帘子，把内室和神殿其余部分隔开，除了大祭祀，任何人不得入内。
+
   * The original temple that Solomon built was destroyed by the Babylonians, but was rebuilt after the Exile.
+  * 所罗门建造的原来的神殿，被巴比伦人毁坏，在流放后被重新建造。
 
 [See also: **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**, **[[:zh:obs:notes:key-terms:solomon|Solomon]]**, **[[:zh:obs:notes:key-terms:babylon|Babylonians]]**]
 
