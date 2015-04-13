@@ -7,7 +7,7 @@
 定义\\
 * A figure of speech is a special way of speaking. In many figures of speech, the words and phrases are not meant to be understood literally. They mean something different from what the individual words mean.
 
-比喻是一种特别的表达方法。在许多的喻表里，它们的词句是不可以从字面上去理解的。它们的意思与单独的字义不同。
+比喻是一种特别的表达方法。许多的时候，比喻的词句是不可以从字面上去理解的。它们的意思与单独的字义不同。
 
 ===== Examples from the stories =====
 
@@ -19,11 +19,11 @@
 \\
 * "will crush his head" [02-09] means will destroy him.
 
-要打破他的头[02-09]意思是要毁坏他。
+要打破他的头[02-09]意思是要毁灭他。
 
 * "will wound his heal" [02-09] means will injure him, but not completely destroy him.
 
-要伤他的脚跟[02-09] 意思是要伤他，但不能完全毁坏他。
+要伤他的脚跟[02-09] 意思是要伤他，但不能完全毁灭他。
 
 * "he found grace in God's eyes" [03-02] is a Hebrew **idiom** that means that God chose to think kindly about him.
 
@@ -31,6 +31,6 @@
 
 * "in God's eyes" [03-02] refers to God's thoughts. It is an example of **anthropomorphism**. God is a spirit and does not have eyes like we do, but here he is said to have eyes. It is also and example of **metaphor**. God's thoughts toward Noah are spoken of in terms of God's seeing Noah.
 
-在神的眼中[03-02]说到的是神的看法。这是一个拟人用法的例子。神是一个灵，不像我们，他是没有眼睛的，但这是说他有眼睛。这也是一个暗喻的例子。神向着挪亚的看法是借着神看到的挪亚来表达的。
+在神的眼中[03-02]说到神的看法。这是拟人用法的一个例子。神是一个灵，不像我们，他是没有眼睛的，但这里说他有眼睛。这也是一个暗喻的例子。神向着挪亚的看法是借着神看到的挪亚来表达的。
 
 ~~DISCUSSION~~
