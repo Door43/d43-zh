@@ -1,23 +1,18 @@
 ===== Jesus the Teacher [49-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink&}}
 
 **Jesus** was also **a great teacher**, and he spoke with authority because he is the **Son of God**. He taught that you need to **love** other people **the same way** you love yourself.
 
-耶稣也是一个伟大的老师。他教导你要爱你的邻居就像爱你自己一样。
+因为耶稣是神的儿子，他话语不仅具有权柄，他也是伟大的先导者。他教导人们爱他人要象爱自己一样。
 
+===== Important Term =====
 
-===== Important Terms: =====
-
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:zh:obs:notes:key-terms/love|love]]**
-
-
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obs:notes:key-terms:god-son|Son of God]]**
+  * **[[:zh:obs:notes:key-terms:love|love]]**
 ===== Translation Notes: =====
 
-  * **a great teacher** - That is, "a very important teacher" or, "an excellent teacher."
-  * **the same way ** - That is, "as much as" or, "the same amount that" or, "to the same degree that."
-
-
+  * **a great teacher**  - That is, "a very important teacher" or, "an excellent teacher."
+  * **the same way **  - That is, "as much as" or, "the same amount that" or, "to the same degree that."
 **[[:zh:obs:notes:frames:49-02|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-04|>>]]**
