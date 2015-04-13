@@ -1,6 +1,6 @@
 ===== The Virgin Birth [49-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink&}}
 
 An angel told a **virgin** named **Mary** that she would give birth to **God's Son**. So while she was still a virgin, she gave birth to a son and named him **Jesus**. Therefore, Jesus is both God and human.
 
@@ -8,15 +8,11 @@ An angel told a **virgin** named **Mary** that she would give birth to **God's S
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/virgin|virgin]]**
-  * **[[:zh:obs:notes:key-terms/mary|Mary]]**
-  * **[[:zh:obs:notes:key-terms/god-son|God's Son]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  * **[[:zh:obs:notes:key-terms:virgin|virgin]]**
+  * **[[:zh:obs:notes:key-terms:mary|Mary]]**
+  * **[[:zh:obs:notes:key-terms:god-son|God's Son]]**
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:zh:obs:notes:frames:48-14|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-02|>>]]**
