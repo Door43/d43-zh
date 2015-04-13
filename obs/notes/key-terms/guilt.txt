@@ -1,33 +1,107 @@
 ====== guilt ======
 
+有罪
 
 ==== (guilt, guilty) ====
 
+(
+有罪，有罪的）
 
 ===== Definition: =====
 
+定義：
 
 Guilt is the fact of having sinned or committed a crime.
 
+有罪
+是
+已经
+犯了罪
+，或作
+了一件有罪
+的
+事。
 
-    * To be guilty means, "to have done something morally wrong," that is, "to have disobeyed God."
-    * People who are guilty deserve to be punished.
-    * Some languages might translate "guilt" as, "the weight of one's sins" or, "the counting of one's sins."
-
+  * To be guilty means, "to have done something morally wrong," that is, "to have disobeyed God."
+  *
+有罪是
+，
+“
+已经
+做了一些
+不道德的事
+”，即
+，
+“
+已经
+违背了神
+。
+”
+  * People who are guilty deserve to be punished.
+  *
+有罪的人
+应该受到惩罚
+。
+  * Some languages might translate "guilt" as, "the weight of one's sins" or, "the counting of one's sins."
+  *
+有些语言可能翻译
+“有罪
+”成，
+“
+一个人的
+罪过
+的重量
+”，或者
+“计算
+一个人的
+罪恶
+。
+”
 
 The opposite of "guilty" is "innocent."
 
+“有罪”
+的反面是
+“
+无 辜
+的
+”。
 
-[See also: **[[zh:obs:notes:key-terms:innocent|innocent]]**, **[[zh:obs:notes:key-terms:sin|sin]]**, **[[zh:obs:notes:key-terms:punish|punish]]**]
+[See also: **[[:zh:obs:notes:key-terms:innocent|innocent]]**, **[[:zh:obs:notes:key-terms:sin|sin]]**, **[[:zh:obs:notes:key-terms:punish|punish]]**]
 
+【同时看：
+无 辜
+，
+罪恶
+，
+惩罚
+】
 
 ===== Examples from the Bible stories: =====
 
+一些圣经故事里的例子：
 
-    * **[[:zh:obs:notes:frames:39-02|[39-02]]]** They brought many witnesses who lied about him (Jesus). However, their statements did not agree with each other, so the Jewish leaders could not prove he was **guilty**  of anything.
-    * **[[:zh:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, Pilate went out to the crowd and said, "I find no **guilt**  in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" Pilate replied, "He is not **guilty**." But they shouted even louder. Then Pilate said a third time, "He is not **guilty**!"
-    * **[[:zh:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them mocked Jesus, but the other said, "Don't you fear God? We are **guilty**, but this man is innocent.
-    * **[[:zh:obs:notes:frames:49-10|[49-10]]]** Because of your sin, you are **guilty** and deserve to die. 
-
-
+  * **[[:zh:obs:notes:frames:39-02|[39-02]]]** They brought many witnesses who lied about him (Jesus). However, their statements did not agree with each other, so the Jewish leaders could not prove he was **guilty**  of anything.
+  *
+他们
+带来了许多
+证人
+谎称
+他（
+耶稣）
+。
+然而，
+他们的发言
+并没有
+与对方
+同意，于是
+犹太领袖
+无法证明
+他是有罪
+的
+东西
+。
+  * **[[:zh:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, Pilate went out to the crowd and said, "I find no **guilt**  in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" Pilate replied, "He is not **guilty**." But they shouted even louder. Then Pilate said a third time, "He is not **guilty**!"
+  * **[[:zh:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them mocked Jesus, but the other said, "Don't you fear God? We are **guilty**, but this man is innocent.
+  * **[[:zh:obs:notes:frames:49-10|[49-10]]]** Because of your sin, you are **guilty**  and deserve to die.
 ~~DISCUSSION:off~~
