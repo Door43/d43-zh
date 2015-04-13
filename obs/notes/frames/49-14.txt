@@ -1,11 +1,12 @@
 ===== Believe in Jesus [49-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-14.jpg?nolink&}}
 
 **Jesus** invites you to **believe in him** and to **be baptized**. Do you **believe that** Jesus is the **Messiah**, the only **Son of God**? Do you believe that you are a **sinner** and that you deserve for **God** to **punish** you? Do you believe that Jesus **died** on the **cross** to **take away** your sins?
 
+耶稣邀请你来信他并受洗。
 
-你相信耶稣就是弥赛亚，神的儿子么？你相信你是罪人，应得神的惩罚么？你相信耶稣死在了十字架上，除去了你的罪么？耶稣邀请你来到他那里，相信他，来受洗。
+</font> <font inherit/inherit;;inherit;;rgb(0, 0, 0) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>你相信耶稣是弥赛亚，神的独生儿子吗？你相信你是罪人，应该受到神的惩罚吗？你相信耶稣死在十字架上除去你的罪吗？</font>
 
 ===== Important Terms: =====
 
