@@ -1,6 +1,4 @@
-====== teacher ======
-
-老师
+====== teacher 老师 ======
 
 ==== (teacher, Teacher) （老师，教师） ====
 
