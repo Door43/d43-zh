@@ -25,7 +25,7 @@ covenant is a formal, binding agreement between two parties that they must fulfi
 
 [See also: **[[:zh:obs:notes:key-terms:promise|promise]]**, **[[:zh:obs:notes:key-terms:covenant-new|New Covenant]]**]
 
-[参见：承诺  新约]
+[参见：承诺 新约]
 
 ===== Examples from the Bible stories: =====
 
@@ -43,6 +43,6 @@ covenant is a formal, binding agreement between two parties that they must fulfi
   * 神对摩西和以色列的百姓说：“如果你们遵从我的话语，履行和我之间的约定，你们必将得到奖赏，成为祭祀和圣洁的国度。
   * **[[:zh:obs:notes:frames:13-04|[13-04]]]** Then God gave them the **covenant**  and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other gods."
   * 神和他们立约并说:“我是你们的耶和华神，将你们从埃及的奴役中拯救出来，不许敬拜别的神。”
-  * **[[:zh:obs:notes:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the  that God had made **covenant**  with the Israelites at Sinai。
-  * 约书亚提醒人们要遵守神和以色列人在西奈山所立的约。
+  * **[[:zh:obs:notes:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the that God had made **covenant**  with the Israelites at Sinai。
+  * 约书亚提醒人们有义务要遵守神和以色列人在西奈山所立的约。
 ~~DISCUSSION:off~~
