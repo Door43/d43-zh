@@ -11,14 +11,22 @@ Nazareth is a town in the region of Galilee in northern Israel.
 拿撒勒是以色列北部加利利地区的一个镇。
 
   * Joseph and Mary were from Nazareth, and this is where they raised Jesus.
+  * 约瑟和马利亚来自拿撒勒，他们也是在那里养育耶稣的。
   * Many of the people in Nazareth did not respect the teaching of Jesus, because Jesus had grown up among them, and they thought that he was just an ordinary person.
+  * 因为耶稣是在他们中间长大的，许多拿撒勒的人都不尊重他的教训，他们想耶稣只是一个普通人。
   * The people of Nazareth tried to kill Jesus when he claimed to be the Messiah.
+  * 当耶稣宣称他是弥赛亚时，拿撒勒人想要杀死他。
 
 [See also: **[[:zh:obs:notes:key-terms:galilee|Galilee]]**, **[[:zh:obs:notes:key-terms:joseph|Joseph]]**, **[[:zh:obs:notes:key-terms:mary|Mary]]**, **[[:zh:obs:notes:key-terms:messiah|Messiah]]**]
 
+另请参见：加利利，约瑟，马利亚，弥赛亚
+
 ===== Examples from the Bible stories: =====
 
+圣经故事中的例子：
+
   * **[[:zh:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in **Nazareth**  to Bethlehem because their ancestor was David whose hometown was Bethlehem.
+  *
   * **[[:zh:obs:notes:frames:26-02|[26-02]]]** Jesus went to the town of **Nazareth**  where he had lived during his childhood.
   * **[[:zh:obs:notes:frames:26-07|[26-07]]]** The people of **Nazareth**  dragged Jesus out of the place of worship and brought him to the edge of a cliff to throw him off of it in order to kill him.
 ~~DISCUSSION:off~~
