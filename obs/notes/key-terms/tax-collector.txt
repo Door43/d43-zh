@@ -1,6 +1,4 @@
-====== tax collector ======
-
-税吏
+====== tax collector 税吏 ======
 
 ===== Definition: =====
 
