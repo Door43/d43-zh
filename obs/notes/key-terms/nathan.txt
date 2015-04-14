@@ -1,22 +1,26 @@
 ====== Nathan ======
 
+拿单
 
 ===== Facts: =====
 
+事迹：
+
 Nathan was a faithful prophet of God who lived during the time when David was king over Israel.
 
+拿单是这神一个忠心的先知，他生活在大卫作王治理以色列的时期。
+
   * God sent Nathan to confront David after David sinned grievously against Uriah.
+  * 在大卫在乌利亚的事上严重的犯罪之后，神差遣拿单去见他。
   * Nathan rebuked David, in spite of the fact that David was the king.
+  * 拿单责备大卫，尽管大卫当时是王。
   * David repented of his sin after Nathan spoke to him.
+  * 拿
 
-
-[See also: **[[zh:obs:notes:key-terms:david|David]]**, **[[zh:obs:notes:key-terms:uriah|Uriah]]**]
-
+[See also: **[[:zh:obs:notes:key-terms:david|David]]**, **[[:zh:obs:notes:key-terms:uriah|Uriah]]**]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:17-07|[17-07]]]** God sent the prophet **Nathan** to David with this message, "Because you are a man of war, you will not build this Temple for me."
-  ***[[:zh:obs:notes:frames:17-13|[17-13]]]** God was very angry about what David had done, so he sent the prophet **Nathan** to tell David how evil his sin was. 
-
-
+  * **[[:zh:obs:notes:frames:17-07|[17-07]]]** God sent the prophet **Nathan**  to David with this message, "Because you are a man of war, you will not build this Temple for me."
+  * **[[:zh:obs:notes:frames:17-13|[17-13]]]** God was very angry about what David had done, so he sent the prophet **Nathan**  to tell David how evil his sin was.
 ~~DISCUSSION:off~~
