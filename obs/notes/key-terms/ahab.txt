@@ -1,12 +1,12 @@
-====== Ahab ======
+====== Ahab 亚哈 ======
 
-====== 亚哈 ======
+======   ======
 
 ===== Facts: =====
 
 事例
 
-===== 事例 =====
+=====   =====
 
 Ahab was a very evil king who ruled over the northern kingdom of Israel.
 
@@ -30,5 +30,5 @@ Ahab was wicked and encouraged the people of the kingdom of Israel to worship fa
 ===== 一些圣经里的故事 =====
 
   * **[[:zh:obs:notes:frames:19-02|[19-02]]]** Elijah was a prophet when **Ahab**  was king over the kingdom of Israel. **Ahab**  was an evil man who encouraged people to worship a false god named Baal.
-  * [[:zh:obs:notes:frames:19-02|[19-02]以利亚在]]亚哈是以色列国的王时, 以利亚做先知。亚哈是个邪恶的人，他怂恿百姓去拜一个假神叫巴利。 * **[[:zh:obs:notes:frames:19-03|[19-03]]]Ahab** and his army looked for Elijah, but they could not find him. * ** [[:zh:obs:notes:frames:19-02|[19-02]]]** 亚哈和他 军队找过以利亚, 但是他们找不到他。 * ** [[:zh:obs:notes:frames:19-05|[19-05]]]** After three and a half years, God told Elijah to return to the kingdom of Israel and speak with ** Ahab** because he was going to send rain again. * ** [[:zh:obs:notes:frames:19-02|[19-02]]]** <font 12px/inherit;;inherit;;inherit>三年半 后, 神告诉以利亚回去以色列国，并告诉亚哈, 因为他要再次降雨到那里.。</font>
+  * [[:zh:obs:notes:frames:19-02|[19-02]以利亚在]]亚哈是以色列国的王时, 以利亚做先知。亚哈是个邪恶的人，他怂恿百姓去拜一个假神叫巴利。 * **[[:zh:obs:notes:frames:19-03|[19-03]]]Ahab** and his army looked for Elijah, but they could not find him. * ** [[:zh:obs:notes:frames:19-02|[19-02]]]** 亚哈和他 军队找过以利亚, 但是他们找不到他。 * ** [[:zh:obs:notes:frames:19-05|[19-05]]]** After three and a half years, God told Elijah to return to the kingdom of Israel and speak with **  Ahab** because he was going to send rain again. * ** [[:zh:obs:notes:frames:19-02|[19-02]]]** <font 12px/inherit;;inherit;;inherit>三年半 后, 神告诉以利亚回去以色列国，并告诉亚哈, 因为他要再次降雨到那里.。</font>
 ~~DISCUSSION:off~~
