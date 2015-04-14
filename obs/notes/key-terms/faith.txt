@@ -9,7 +9,7 @@ Faith is trust or confidence in someone or something.
 定义：信心是信赖或信任某人或某事。
 
   * Faith is the practice of believing in, trusting in, or relying on someone or something.
-  * 信心是因对某人或某事的相信，依靠或依赖而有的实际行动。
+  * 信心是因相信，信赖或依赖某人或某事而有的实际行动。
   * Faith in someone is believing that he always says what is true and he always does what he says he will do.
   * 对某人有信心是相信此人所说的都是真实的，并且他总是言行一致的。
   * When a person believes in God and trusts Jesus to save him, that person has faith.
@@ -17,7 +17,7 @@ Faith is trust or confidence in someone or something.
 
 If someone truly has faith in God, that person will act on that faith by obeying God.
 
-如果有人确实对神有信心，那个人的信心会表现出顺服神的行动。
+如果有人确实对神有信心，那个人的信心会使他有顺服神的行动。
 
 [See also: **[[:zh:obs:notes:key-terms:believe|believe]]**, **[[:zh:obs:notes:key-terms:faithful|faithful]]**]
 
@@ -30,9 +30,9 @@ If someone truly has faith in God, that person will act on that faith by obeying
   * **[[:zh:obs:notes:frames:05-06|[05-06]]]** When Isaac was a young man, God tested Abraham's **faith**  by saying, "Take Isaac, your only son, and kill him as a sacrifice to me."
   * 以撒年轻时，为了试验亚伯拉罕的信心，神说：“把以撒，你唯一的儿子，杀了作为祭物献给我。”
   * **[[:zh:obs:notes:frames:31-07|[31-07]]]** Then he (Jesus) said to Peter, "You man of little **faith**, why did you doubt?"
-  * 然后，他（耶稣）对彼得说：“你这个小信的人啊，为什么怀疑呢？”
+  * 然后，他（耶稣）对彼得说：“你这个小信的人啊，为什么疑惑呢？”
   * **[[:zh:obs:notes:frames:32-16|[32-16]]]** Jesus said to her, "Your **faith**  has healed you. Go in peace."
   * 耶稣对她说：“你的信救了你，平平安安地去吧。”
   * **[[:zh:obs:notes:frames:38-09|[38-09]]]** Then Jesus said to Peter, "Satan wants to have all of you, but I have prayed for you, Peter, that your **faith**  will not fail.
-  * 然后，耶稣对彼得说：“撒旦要得着你们，但彼得，我已经为你祷告，使你不会失去信心。
+  * 然后，耶稣对彼得说：“撒旦要得着你们，但彼得，我已经为你祷告，使你不会失去信心。”
 ~~DISCUSSION:off~~
