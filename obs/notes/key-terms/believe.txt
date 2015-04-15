@@ -1,8 +1,8 @@
-====== believe 相信 ======
+====== believe 信任 ======
 
 === (believe, believe in) ===
 
-（相信，信服）
+（相信/信任，信奉/信服）
 
 ===== Definition: =====
 
@@ -10,31 +10,40 @@
 
 "Believe" can have two related but different senses:
 
-“相信”可以是两个相关联但意思不同：
+“信任”有两个相关却又不同的意思。
 
-=== 1. Believe 相信 ===
+=== 1. Believe 信任 ===
 
   * To believe something is to accept or trust that it is true.
-  * 相信某事就是承认或信任那是真的。
+  * 相信某事就是接受或相信那事是真的。
   * To believe someone is to acknowledge that what that person has said is true.
-  * 相信某人就是承认那人所说的是真实的。
+  * 信任某人就是承认那人所说的是真实的。
 
-=== 2. Believe in 信服 ===
+=== 2. Believe in 信奉/信服 ===
 
   * To believe in someone is to trust that that person is reliable. In other words, it is to trust that the person is who he says he is, that he always speaks the truth, and that he will do what he has promised to do.
-  * 信服某人就是相信那人是可靠的。换句话，就是，相信那人他是他，他总是说真理，将做他已经应许要做的。
+  * 信服某人就是相信那人是可靠的。换句话，就是说，相信这个人就是他说他是的那个人，相信他永远说真话，相信他将做他已经应许要做的事。
   * To believe in an idea or principle is to be sure that that idea or principle is the right way to act or live. For example, a person might believe in honesty, and therefore always tell the truth.
-  * 信服一种理念或信念，就是确定该理念或信念是正确的方法去行动或生活。例如，一个人会相信正直，因此会一直告诉真相。
+  * 信奉一种理念或信念，就是肯定那个理念或信念是正确的为人处事的方式。例如，如果一个人信奉为人诚实，他就会一直讲真话。
   * When a person truly believes in something, the person will act in such a way that shows that belief.
   * 当一个人真正地相信某事时，这个人会用表明那个信念的方式去行动。
 
 [See also: **[[:zh:obs:notes:key-terms:faith|faith]]**, **[[:zh:obs:notes:key-terms:believer|believer]]**]
 
-===== Examples from the Bible stories: =====
+[参见：信仰，信徒/信仰者]
+
+===== Examples from the Bible stories =====
+
+一些圣经故事里的例子：
 
   * **[[:zh:obs:notes:frames:03-04|[03-04]]]** Noah warned the people about the coming flood and told them to turn to God, but they did not **believe**  him.
+  * 诺亚警告人们洪水将近，告诉他们去归向神，但是他们却不相信他。
   * **[[:zh:obs:notes:frames:04-08|[04-08]]]** Abram **believed**  God's promise. God declared that Abram was righteous because he **believed**  God's promise.
+  * 亚伯拉翰相信神的应许。神声明亚伯拉翰是公义的。
   * **[[:zh:obs:notes:frames:11-02|[11-02]]]** God provided a way to save the firstborn of anyone who **believed in**  him.
+  * 神给出了一个办法，来拯救任何相信他的头生的人（有长子继承权的人）。
   * **[[:zh:obs:notes:frames:11-06|[11-06]]]** But the Egyptians did not **believe**  God or obey his commands.
+  * 可是埃及人不相信神，不服从他的指令。
   * **[[:zh:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the Resurrection and the Life. Whoever **believes in**  me will live, even though he dies. Everyone who **believes in**  me will never die. Do you **believe**  this?"
+  * 耶稣回答说，“我就是复活和生命，无论谁信我都将得着生命，即使他死了。每个信我的人都将不会死。你相信这个吗？”
 ~~DISCUSSION:off~~
