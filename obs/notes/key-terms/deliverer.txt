@@ -1,6 +1,4 @@
-====== deliverer ======
-
-拯救者
+====== deliverer 拯救者 ======
 
 ===== Definition: =====
 
