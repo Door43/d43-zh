@@ -1,6 +1,4 @@
-====== death ======
-
-死亡
+====== death死亡 ======
 
 ==== (death, die, dying, dead) ====
 
