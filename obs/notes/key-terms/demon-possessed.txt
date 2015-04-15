@@ -1,6 +1,4 @@
-====== demon-possessed ======
-
-惡魔 附身
+====== demon-possessed 惡魔 附身 ======
 
 ===== Definition: =====
 
