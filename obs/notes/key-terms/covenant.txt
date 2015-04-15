@@ -1,6 +1,4 @@
-====== covenant ======
-
-立约
+====== covenant立约 ======
 
 ===== Definition: =====
 
