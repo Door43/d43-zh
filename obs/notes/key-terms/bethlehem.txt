@@ -1,19 +1,34 @@
-====== Bethlehem ======
+====== Bethlehem伯利恒 ======
 
 ===== Facts: =====
 
+实例
+
 Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It still exists to the present day.
 
+伯利恒是以色列地的一个小城，靠近耶路撒冷城。它至今仍然存在。
+
   * King David was born in Bethlehem; for this reason it has been called the "city of David."
+  * 大卫王出生在伯利恒；为着这个原因，它也被称为“大卫之城”。
   * The prophet Micah said that the Messiah would come from Bethlehem.
+  * 先知弥迦曾说，弥赛亚会从伯利恒来。
   * Bethlehem is the city where Jesus was born.
+  * 伯利恒是耶稣出生的地方。
 
 [See also: **[[:zh:obs:notes:key-terms:david|David]]**]
 
+[参见：大卫]
+
 ===== Examples from the Bible stories: =====
 
+圣经故事里的一些例子：
+
   * **[[:zh:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of **Bethlehem**.
+  * 大卫曾是个从伯利恒城来的牧人。
   * **[[:zh:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a virgin. The prophet Micah said that he would be born in the town of **Bethlehem**.
+  * 先知以赛亚预言道，弥赛亚将由一个处女而生。先知弥迦说，弥赛亚将出生在伯利恒。
   * **[[:zh:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in Nazareth to **Bethlehem**  because their ancestor was David whose hometown was **Bethlehem**.
+  * 耶稣和玛利亚只好从他们居住的拿撒勒长途旅行到伯利恒，因为他们的先祖是大卫，其家乡就是伯利恒。
   * **[[:zh:obs:notes:frames:23-06|[23-06]]]**"The Messiah, the Master, has been born in **Bethlehem**!"
+  * “弥赛亚，主，出生在伯利恒”！
 ~~DISCUSSION:off~~
