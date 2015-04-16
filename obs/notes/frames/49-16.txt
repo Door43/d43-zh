@@ -1,24 +1,23 @@
 ===== Sins Are Forgiven [49-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink&}}
 
 If you are a **Christian**, **God** has **forgiven** your **sins** because of what **Jesus** did. Now, God **considers you to be** a close friend instead of an enemy.
 
-如果你是一个基督徒，你的罪就因为耶稣所做的得到了赦免。现在，当神看到你的时候，他就不把你当成一个敌人，而是把你看成一个朋友。
-
+如果你是一个基督徒，因着耶稣所做的， 上帝已赦免了你的罪。现在，神看你是一个亲密的朋友而不是敌人了。
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/christian|Christian]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/forgive|forgiven]]**
-  * **[[:zh:obs:notes:key-terms/sin|sins]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  * **[[Christian]]**
+  * **[[God]]**
+  * **[[forgiven]]**
+  * **[[sins]]**
+  * **[[Jesus]]**
 ===== Translation Notes: =====
 
-  * **considers you to be** - That is, "thinks of you as" or, "regards you as" or, "calls you."
+翻译注解：
 
+  * **considers you to be**  - That is, "thinks of you as" or, "regards you as" or, "calls you."
+  * 认为你是 - 即 “觉得你象” 或 ”认为你象“ 或 ”呼召你“
 
-**[[:zh:obs:notes:frames:49-15|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-17|>>]]**
+**[[<<]] | [[Up]] | [[>>]]**
