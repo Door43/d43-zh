@@ -1,26 +1,33 @@
-====== son ======
-
+====== son儿子 ======
 
 ===== Definition: =====
 
+定义：
+
 A son is someone's direct male offspring. This is a relationship term and does not depend on the person's age.
 
-    * "Son" usually refers to a boy or man in relation to his parents.
-    * Sometimes the word "son" refers to a boy or man in relation to someone who cares for him as if he were his or her offspring. This can happen when someone adopts a boy to be his or her son.
+儿子是某个人的直接的男性后代。这是一个关系术语，而且不依赖人的年龄。
 
-[See also: **[[zh:obs:notes:key-terms:god-son|God the Son]]**]
+  * "Son" usually refers to a boy or man in relation to his parents.
+  * “儿子”通常是指一个男孩或男人和他的父母的关系。
+  * Sometimes the word "son" refers to a boy or man in relation to someone who cares for him as if he were his or her offspring. This can happen when someone adopts a boy to be his or her son.
+  * 有时字眼“儿子”是指一个男孩或男人和某个照顾他的人的关系，就好像他是他的或她的后代。这可以发生在某个人领养了一个男孩做他的或她的儿子的情况下。
 
+[See also: **[[:zh:obs:notes:key-terms:god-son|God the Son]]**]
+
+[参见：神圣子]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and promised again that he would have a **son** and as many descendants as the stars in the sky.
-  ***[[:zh:obs:notes:frames:04-09|[04-09]]]** God said, ""I will give you a **son** from your own body."
-  ***[[:zh:obs:notes:frames:05-05|[05-05]]]** About a year later, when Abraham was 100 years old and Sarah was 90, Sarah gave birth to Abraham's **son**.
-  ***[[:zh:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his **son** Isaac and laid him on an altar. He was about to kill his **son** when God said, "Stop! Do not hurt the boy! Now I know that you fear me because you did not keep your only **son** from me." 
-  ***[[:zh:obs:notes:frames:09-07|[09-07]]]** When she saw the baby, she took him as her own **son**.
-  ***[[:zh:obs:notes:frames:11-06|[11-06]]]** God killed every one of the Egyptians' firstborn **sons**.
-  ***[[:zh:obs:notes:frames:18-01|[18-01]]]** After many years, David died, and his **son** Solomon began to rule. 
-  ***[[:zh:obs:notes:frames:26-04|[26-04]]]** "Is this the **son** of Joseph?‚" they said. 
+圣经故事里的一些例子：
 
-
+  * **[[:zh:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and promised again that he would have a **son**  and as many descendants as the stars in the sky.
+  *
+  * **[[:zh:obs:notes:frames:04-09|[04-09]]]** God said, ""I will give you a **son**  from your own body."
+  * **[[:zh:obs:notes:frames:05-05|[05-05]]]** About a year later, when Abraham was 100 years old and Sarah was 90, Sarah gave birth to Abraham's **son**.
+  * **[[:zh:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his **son**  Isaac and laid him on an altar. He was about to kill his **son**  when God said, "Stop! Do not hurt the boy! Now I know that you fear me because you did not keep your only **son**  from me."
+  * **[[:zh:obs:notes:frames:09-07|[09-07]]]** When she saw the baby, she took him as her own **son**.
+  * **[[:zh:obs:notes:frames:11-06|[11-06]]]** God killed every one of the Egyptians' firstborn **sons**.
+  * **[[:zh:obs:notes:frames:18-01|[18-01]]]** After many years, David died, and his **son**  Solomon began to rule.
+  * **[[:zh:obs:notes:frames:26-04|[26-04]]]**"Is this the **son**  of Joseph?‚" they said.
 ~~DISCUSSION:off~~
