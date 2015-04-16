@@ -8,20 +8,18 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/save|save]]**
-  * **[[:zh:obs:notes:key-terms/believe|believes]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/receive|receives]]**
-  * **[[:zh:obs:notes:key-terms/lord|Master]]**
-  * **[[:zh:obs:notes:key-terms/love|loves]]**
-
-
+  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obs:notes:key-terms:save|save]]**
+  * **[[:zh:obs:notes:key-terms:believe|believes]]**
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obs:notes:key-terms:receive|receives]]**
+  * **[[:zh:obs:notes:key-terms:lord|Master]]**
+  * **[[:zh:obs:notes:key-terms:love|loves]]**
 ===== Translation Notes: =====
 
 翻译注解：
 
   * **he can have a close relationship with you**  - This can also be translated as, "so that you can be his child" or, "so that you can be his friend" or, "so you can belong to him."
-  * 他
+  * 他能和你建立亲密关系。这也可以译成 “这样你能成为他的孩子。” 或 "这样你能成为他的朋友” 或 “这样你能属于他。”
 
 **[[:zh:obs:notes:frames:49-12|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-14|>>]]**
