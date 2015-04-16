@@ -1,31 +1,34 @@
 ===== Follow Jesus' Teachings [49-17] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-17.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-17.jpg?nolink&}}
 
 If you are a friend of **God** and a **servant** of **Jesus** the **Master**, you will want to **obey** what Jesus teaches you. Even though you are a **Christian**, you will still **be tempted to sin**. But God **is faithful** and says that if you **confess your sins**, he will **forgive** you. **He will give you strength to fight against sin**.
 
-作为神的朋友，你就想要跟随耶稣的教导。尽管你是一个基督徒，你也仍然在与罪作斗争。但是神说如果你认自己的罪，他是信实的，必会赦免你，并且给你力量去与罪作斗争。
+如果你是神的朋友和主人耶稣的仆人，你就想要遵循耶稣的教导。尽管你是一个基督徒，你也会受到诱惑去犯罪。但神是信实的， 他说如果你认自己的罪，他会赦免你，并给你力量去与罪争战。
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/servant|servant]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/lord|Master]]**
-  * **[[:zh:obs:notes:key-terms/obey|obey]]**
-  * **[[:zh:obs:notes:key-terms/christian|Christian]]**
-  * **[[:zh:obs:notes:key-terms/tempt|tempted]]**
-  * **[[:zh:obs:notes:key-terms/sin|sin]]**
-  * **[[:zh:obs:notes:key-terms/faithful|faithful]]**
-  * **[[:zh:obs:notes:key-terms/forgive|forgive]]**
-
-
+  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obs:notes:key-terms:servant|servant]]**
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obs:notes:key-terms:lord|Master]]**
+  * **[[:zh:obs:notes:key-terms:obey|obey]]**
+  * **[[:zh:obs:notes:key-terms:christian|Christian]]**
+  * **[[:zh:obs:notes:key-terms:tempt|tempted]]**
+  * **[[:zh:obs:notes:key-terms:sin|sin]]**
+  * **[[:zh:obs:notes:key-terms:faithful|faithful]]**
+  * **[[:zh:obs:notes:key-terms:forgive|forgive]]**
 ===== Translation Notes: =====
 
-  * **be tempted to sin** - That is, ""be tempted to sin even though you know sin is wrong."
-  * **is faithful** - In this context this means that God, "keeps his promises."
-  * **confess your sins** - This could be translated as, "admit to God what you have done wrong."
-  * **He will give you strength to fight against sin** - That is, "He will give you spiritual strength to refuse to sin."
+翻译注解：
 
+  * **be tempted to sin**  - That is, ""be tempted to sin even though you know sin is wrong."
+  * 受到诱惑去犯罪 - 即 “尽管你知道罪是错的，受到诱惑还会去犯罪”
+  * **is faithful**  - In this context this means that God, "keeps his promises."
+  * 是信实的 - 这里文中意思是上帝“保守他的承诺”
+  * **confess your sins**  - This could be translated as, "admit to God what you have done wrong."
+  * 认你的罪 - 这可译成 “向神承认你所做的错事。”。
+  * **He will give you strength to fight against sin**  - That is, "He will give you spiritual strength to refuse to sin."
+  * 他会给你力量去与罪争战 - 即 “他会给你精神力量去拒绝罪”。
 
 **[[:zh:obs:notes:frames:49-16|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-18|>>]]**
