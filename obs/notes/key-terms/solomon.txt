@@ -1,25 +1,36 @@
-====== Solomon ======
+====== Solomon所罗门 ======
 
-
-===== Facts: =====
+===== Facts: 事迹实例 =====
 
 Solomon was the son of King David; his mother was Bathsheba.
 
+所罗门是大卫王的儿子；他的母亲是拔士巴。
+
   * When Solomon became king, God told him to ask for anything he wanted. So Solomon asked for wisdom to rule the people justly and well. God was pleased with Solomon's request and gave him both wisdom and much wealth.
+  * 当所罗门成为王时，神告诉他去要他想要的东西。所以所罗门请求要智慧，来公正地很好地统治管理他的人民。
   * Solomon built the Temple for God in Jerusalem that his father, David, had planned to build.
-  * Although Solomon ruled wisely in the beginning years of his reign, later on he foolishly married many foreign women and started worshiping their gods. 
+  * 所罗门为神在耶路撒冷建造了神殿，既他的父亲大卫曾经计划要建造的。
+  * Although Solomon ruled wisely in the beginning years of his reign, later on he foolishly married many foreign women and started worshiping their gods.
+  * 尽管所罗门在他在位的开始几年也明智地统治着，但后来他愚蠢地娶了很多外邦女子，并开始拜她们的神。
   * Because of Solomon's unfaithfulness, after his death, God divided the Israelites into two kingdoms that often fought against each other.
+  * 因为所罗门的不忠，他死后，神把以色列人分裂在两个国里，这两个国（后来）互相攻打。
 
-[See also: **[[zh:obs:notes:key-terms:david|David]]**, **[[zh:obs:notes:key-terms:bathsheba|Bathsheba]]**, **[[zh:obs:notes:key-terms:temple|Temple]]**]
+[See also: **[[:zh:obs:notes:key-terms:david|David]]**, **[[:zh:obs:notes:key-terms:bathsheba|Bathsheba]]**, **[[:zh:obs:notes:key-terms:temple|Temple]]**]
 
+[参见：大卫，拔士巴，神殿]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:17-14|[17-14]]]** Later,  David and Bathsheba had another son, and they named him **Solomon**.
-  ***[[:zh:obs:notes:frames:18-01|[18-01]]]** After many years, David died, and his son **Solomon** began to rule. God spoke to **Solomon** and asked him what he wanted most. When **Solomon** asked for wisdom, God was pleased and made him the wisest man in the world. **Solomon** learned many things and was a very wise judge. God also made him very wealthy.
-  ***[[:zh:obs:notes:frames:18-02|[18-02]]]** In Jerusalem, **Solomon** built the Temple for which his father David had planned and gathered materials.
-  ***[[:zh:obs:notes:frames:18-03|[18-03]]]** But **Solomon** loved women from other countries. ... When **Solomon** was old, he also worshiped their gods.
-  ***[[:zh:obs:notes:frames:18-04|[18-04]]]** God was angry with **Solomon** and, as a punishment for **Solomon's** unfaithfulness, he promised to divide the nation of Israel into two kingdoms after **Solomon's** death.
+圣经故事力的一些例子：
 
-
+  * **[[:zh:obs:notes:frames:17-14|[17-14]]]** Later, David and Bathsheba had another son, and they named him **Solomon**.
+  * 以后，大卫和巴士巴有了另一个儿子，他们给他取名叫所罗门。
+  * **[[:zh:obs:notes:frames:18-01|[18-01]]]** After many years, David died, and his son **Solomon**  began to rule. God spoke to **Solomon**  and asked him what he wanted most. When **Solomon**  asked for wisdom, God was pleased and made him the wisest man in the world. **Solomon**  learned many things and was a very wise judge. God also made him very wealthy.
+  * 很多年以后，大卫死了，他的儿子所罗门开始统治。神对所罗门说话，并问他他最想要什么。当所罗门请求要智慧时，神很高兴，使他成为世上最有智慧的人。所罗门学到了很多东西，还曾是个很智慧的法官。神也使他很富足。
+  * **[[:zh:obs:notes:frames:18-02|[18-02]]]** In Jerusalem, **Solomon**  built the Temple for which his father David had planned and gathered materials.
+  * 在耶路撒冷，所罗门建造了祭坛，因为他的父亲大卫曾经计划过并筹集了材料。
+  * **[[:zh:obs:notes:frames:18-03|[18-03]]]** But **Solomon**  loved women from other countries. … When **Solomon**  was old, he also worshiped their gods.
+  * 但是所罗门喜欢来自其它不同国家的女人.....当所罗门老了，他还是拜她们的神。
+  * **[[:zh:obs:notes:frames:18-04|[18-04]]]** God was angry with **Solomon**  and, as a punishment for **Solomon's**  unfaithfulness, he promised to divide the nation of Israel into two kingdoms after **Solomon's**  death.
+  * 神对所罗门很生气，作为对所罗门不忠的惩罚，神应许在所罗门死后把以色列国分裂成两个国。
 ~~DISCUSSION:off~~
