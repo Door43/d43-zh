@@ -1,26 +1,27 @@
 ===== God's Kingdom of Light [49-15] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-15.jpg?nolink&}}
 
 If you **believe** in **Jesus** and what he has done for you, you are a **Christian**! **God** has taken you out of **Satan's kingdom of darkness** and put you into **God’s kingdom of light**. God has taken away your old, sinful ways of doing things and has given you new, righteous ways of doing things.
 
-如果你相信，你就是一个基督徒了！神已经带你出了撒旦的黑暗王国，把你放到神的光明王国里。所有的旧事都去了，因为神让所有的都成为了新的。
+如果你相信耶稣并信他为你所做的，你就是一个基督徒了！神已经带你出了撒旦的黑暗王国，把你放到神的光明国度里。神已带走了你那老的和罪恶（带有罪性）的行事方式。并给了你新的正直的行事方式。
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/believe|believe]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/christian|Christian]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/satan|Satan's]]**
-  * **[[:zh:obs:notes:key-terms/kingdom|kingdom]]**
-  * **[[:zh:obs:notes:key-terms/kingdom-of-god|God's kingdom]]**
-
-
+  * **[[:zh:obs:notes:key-terms:believe|believe]]**
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obs:notes:key-terms:christian|Christian]]**
+  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obs:notes:key-terms:satan|Satan's]]**
+  * **[[:zh:obs:notes:key-terms:kingdom|kingdom]]**
+  * **[[:zh:obs:notes:key-terms:kingdom-of-god|God's kingdom]]**
 ===== Translation Notes: =====
 
-  * **Satan's kingdom of darkness** - "Darkness" is used here to refer to sin and everything that is evil. This could be translated as, "Satan's evil rule over people, which is like darkness."
-  * **God's kingdom of light** - "Light" here refers to God's holiness and goodness. This could be translated as, "God's righteous rule over people, which is like light." The Bible often compares evil to darkness, and goodness to light.
+翻译注解：
 
+  * **Satan's kingdom of darkness**  - "Darkness" is used here to refer to sin and everything that is evil. This could be translated as, "Satan's evil rule over people, which is like darkness."
+  * 撒旦的黑暗王国 - “黑暗”这里是指与罪相关和一切邪恶的事。 这可译作 “撒旦那对人邪恶的统治， 就象黑暗”
+  * **God's kingdom of light**  - "Light" here refers to God's holiness and goodness. This could be translated as, "God's righteous rule over people, which is like light." The Bible often compares evil to darkness, and goodness to light.
+  * 神的光明国度 - “光明” 在这里是关于上帝的圣洁和善良。这可译作 “上帝那对人正直的统治， 就象光明” 圣经里常将邪恶比做黑暗， 将善良比做光明。
 
 **[[:zh:obs:notes:frames:49-14|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-16|>>]]**
