@@ -4,30 +4,29 @@
 
 **Jesus** invites you to **believe in him** and to **be baptized**. Do you **believe that** Jesus is the **Messiah**, the only **Son of God**? Do you believe that you are a **sinner** and that you deserve for **God** to **punish** you? Do you believe that Jesus **died** on the **cross** to **take away** your sins?
 
-耶稣邀请你来信他并受洗。
-
-</font> <font inherit/inherit;;inherit;;rgb(0, 0, 0) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>你相信耶稣是弥赛亚，神的独生儿子吗？你相信你是罪人，应该受到神的惩罚吗？你相信耶稣死在十字架上除去你的罪吗？</font>
+耶稣邀请你来信他并受洗。你相信耶稣是弥赛亚，神的独生儿子吗？你相信你是罪人，应该受到神的惩罚吗？你相信耶稣死在十字架上除去你的罪吗？
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/believe|believe]]**
-  * **[[:zh:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:zh:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:zh:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:zh:obs:notes:key-terms/sin|sinner]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/punish|punish]]**
-  * **[[:zh:obs:notes:key-terms/death|died]]**
-  * **[[:zh:obs:notes:key-terms/cross|cross]]**
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obs:notes:key-terms:believe|believe]]**
+  * **[[:zh:obs:notes:key-terms:baptize|baptized]]**
+  * **[[:zh:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:zh:obs:notes:key-terms:god-son|Son of God]]**
+  * **[[:zh:obs:notes:key-terms:sin|sinner]]**
+  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obs:notes:key-terms:punish|punish]]**
+  * **[[:zh:obs:notes:key-terms:death|died]]**
+  * **[[:zh:obs:notes:key-terms:cross|cross]]**
+===== Translation Notes: 翻译注解 =====
 
-
-===== Translation Notes: =====
-
-  * **believe in him** - This can also be translated as, "trust in him" or, "trust in him to save you" or, "entrust your whole life to him."
-  * **be baptized** - This could also be translated as, "have someone baptize you" or, "let them baptize you."
-  * **believe that** - This can also be translated as, "acknowledge that" or, "agree that."
-  * **take away** - See note on **[[:zh:obs:notes:frames:49-11|[49-11]]]**.
-
+  * **believe in him**  - This can also be translated as, "trust in him" or, "trust in him to save you" or, "entrust your whole life to him."
+  * 相信他 - 这也能译成 “信任他” 或 “信他能救你” 或  “将你的生命全然交托给他。”
+  * **be baptized**  - This could also be translated as, "have someone baptize you" or, "let them baptize you."
+  * （被）受冼 - 这也能译成 “有人给你受冼” 或 “叫他们给你受冼”。
+  * **believe that**  - This can also be translated as, "acknowledge that" or, "agree that."
+  * 信那个 -  这也能译成 “承认那个” 或 “同意那个”。
+  * **take away**  - See note on **[[:zh:obs:notes:frames:49-11|[49-11]]]**.
+  * 带走，拿走 - 见49-11注解
 
 **[[:zh:obs:notes:frames:49-13|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-15|>>]]**
