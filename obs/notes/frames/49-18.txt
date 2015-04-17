@@ -1,24 +1,25 @@
 ===== Grow as a Christian [49-18] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-18.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-18.jpg?nolink&}}
 
 **God** tells you to **pray**, to study **his word**, to **worship** him with other **Christians**, and to tell others what he has done for you. All of these things help you **to have a deeper relationship with him**.
 
-神让你去祷告，学他的话语，和其他基督徒一起敬拜他，告诉其他人他所为你做的。所有这些都帮助你在与神的关系里得到成长。
+神叫你祷告，学他的话语，和其他基督徒一起敬拜他，告诉其他人他为你所做的。所有这些事能帮助你与神拥有（建立）更深的关系。
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/pray|pray]]**
-  * **[[:zh:obs:notes:key-terms/word-of-god|his word]]**
-  * **[[:zh:obs:notes:key-terms/worship|worship]]**
-  * **[[:zh:obs:notes:key-terms/christian|Christians]]**
-
-
+  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obs:notes:key-terms:pray|pray]]**
+  * **[[:zh:obs:notes:key-terms:word-of-god|his word]]**
+  * **[[:zh:obs:notes:key-terms:worship|worship]]**
+  * **[[:zh:obs:notes:key-terms:christian|Christians]]**
 ===== Translation Notes: =====
 
-  * **to have a deeper relationship with him** - This could also be translated as, "to love him more" or, "to know him more" or, "to become more faithful to him."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+翻译注解：
 
+  * **to have a deeper relationship with him**  - This could also be translated as, "to love him more" or, "to know him more" or, "to become more faithful to him."
+  * 与他拥有（建立）更深的关系 - 这也能译成 “爱他更多” 或“认识他更多” 或“变得更忠实于他”
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * 来自圣经故事 - 这些参考资料可能有些圣经译法略有差异。
 
 **[[:zh:obs:notes:frames:49-17|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:50-01|>>]]**
