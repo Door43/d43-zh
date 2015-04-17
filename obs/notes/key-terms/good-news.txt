@@ -1,6 +1,4 @@
-====== good news ======
-
-好消息
+====== good news好消息 ======
 
 ===== Definition: =====
 
