@@ -1,22 +1,24 @@
 ====== resurrection复活 ======
 
-===== Definition: =====
+===== Definition:定义 =====
 
 Resurrection is the act of becoming alive again after having died.
 
-    * To resurrect someone is to bring that person back to life again. Only God has the power to do this.
-    * The word "resurrection" often refers to Jesus' coming back to life after he died.
-    * When Jesus said, "I am the Resurrection and the Life" he meant that he is the source of resurrection, and the one who causes people to come back to life.
-    * Resurrection can be translated as, "coming back to life" or, "becoming alive again after being dead."
+复活是已经死亡以后行为又活过来
 
+  * To resurrect someone is to bring that person back to life again. Only God has the power to do this.
+  * 让人从死里复活，只有神的能量才能做到。
+  * The word "resurrection" often refers to Jesus' coming back to life after he died.
+  * 复活这个词通常是指耶稣死后又活过来。
+  * When Jesus said, "I am the Resurrection and the Life" he meant that he is the source of resurrection, and the one who causes people to come back to life.
+  * 耶稣说，“我是复活和生命”，他意味着他是复活的源头，而且他使人们得生命，
+  * Resurrection can be translated as, "coming back to life" or, "becoming alive again after being dead."
+  * 复活能够翻译为，：活过来的生命：或者，：“死后又活过来”。
 
-[See also: **[[zh:obs:notes:key-terms:life|life]]**, **[[zh:obs:notes:key-terms:death|death]]**, **[[zh:obs:notes:key-terms:raise|raise]]**]
-
+[See also: **[[:zh:obs:notes:key-terms:life|life]]**, **[[:zh:obs:notes:key-terms:death|death]]**, **[[:zh:obs:notes:key-terms:raise|raise]]**]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:21-14|[21-14]]]** Through the Messiah's death and **resurrection**, God would accomplish his plan to save sinners and start the New Covenant.
-  ***[[:zh:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the **Resurrection** and the Life. Whoever believes in me will live, even though he dies.
-
-
+  * **[[:zh:obs:notes:frames:21-14|[21-14]]]** Through the Messiah's death and **resurrection**, God would accomplish his plan to save sinners and start the New Covenant.
+  * **[[:zh:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the **Resurrection**  and the Life. Whoever believes in me will live, even though he dies.
 ~~DISCUSSION:off~~
