@@ -1,25 +1,27 @@
-====== righteous正义  义  合乎道德的  合乎正道的 义士 ======
+====== righteous正义 义 合乎道德的 合乎正道的 义士 ======
 
 ===== Definition: =====
 
 The word "righteous" means morally good and without fault. A righteous person does what is right, good, and proper. However, no one except God is completely righteous.
 
-    * Righteous people obey God and live in a way that pleases him.
-    * God judges people as righteous when they trust in Jesus to save them and cleanse them from their sins. 
-    * Jesus lived a completely righteous life on earth. When people trust in him and follow him in obedience, God gives them Jesus' righteousness. 
+这个词“正义的意思是品德高尚而且没有任何过失，一个正义的人，行的正，做的端，和适当的。无论如何，除了神没有一个人是完全的义人？
 
-"Righteous" is the opposite of "wicked."
+  * Righteous people obey God and live in a way that pleases him.
+  * 义人顺服神，活在他所喜悦的道上。
+  * God judges people as righteous when they trust in Jesus to save them and cleanse them from their sins.
+  * 神判定人们成为义人当他们相信耶稣拯救他们并且洗净他们的罪。
+  * Jesus lived a completely righteous life on earth. When people trust in him and follow him in obedience, God gives them Jesus' righteousness.
+  * 耶稣在地球上过着完全正义的生活！当人们在信任他跟从他顺服他的时候，天父给予他们耶稣的公义。
 
-[See also: **[[zh:obs:notes:key-terms:good|good]]**, **[[zh:obs:notes:key-terms:holy|holy]]**, **[[zh:obs:notes:key-terms:evil|wicked]]**]
+"Righteous" is the opposite of "wicked."正义是邪恶的反
 
+[See also: **[[:zh:obs:notes:key-terms:good|good]]**, **[[:zh:obs:notes:key-terms:holy|holy]]**, **[[:zh:obs:notes:key-terms:evil|wicked]]**]也看，好，神圣，邪恶
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:03-02|[03-02]]]** But Noah found favor with God. He was a **righteous** man, living among wicked people.
-  ***[[:zh:obs:notes:frames:04-08|[04-08]]]** God declared that Abram was **righteous** because he believed in God's promise.
-  ***[[:zh:obs:notes:frames:17-02|[17-02]]]** David was a humble and **righteous** man who trusted and obeyed God.
-  ***[[:zh:obs:notes:frames:23-01|[23-01]]]** Joseph, the man Mary was engaged to, was a **righteous** man.
-  ***[[:zh:obs:notes:frames:50-10|[50-10]]]** Then the **righteous** ones will shine like the sun in the kingdom of God their Father."
-
-
+  * **[[:zh:obs:notes:frames:03-02|[03-02]]]** But Noah found favor with God. He was a **righteous**  man, living among wicked people.
+  * **[[:zh:obs:notes:frames:04-08|[04-08]]]** God declared that Abram was **righteous**  because he believed in God's promise.
+  * **[[:zh:obs:notes:frames:17-02|[17-02]]]** David was a humble and **righteous**  man who trusted and obeyed God.
+  * **[[:zh:obs:notes:frames:23-01|[23-01]]]** Joseph, the man Mary was engaged to, was a **righteous**  man.
+  * **[[:zh:obs:notes:frames:50-10|[50-10]]]** Then the **righteous**  ones will shine like the sun in the kingdom of God their Father."
 ~~DISCUSSION:off~~
