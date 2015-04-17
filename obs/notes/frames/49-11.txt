@@ -8,18 +8,18 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/sin|sinned]]**
-  * **[[:zh:obs:notes:key-terms/punish|punished]]**
-  * **[[:zh:obs:notes:key-terms/death|die]]**
-  * **[[:zh:obs:notes:key-terms/sacrifice|sacrifice]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/forgive|forgive]]**
-
-
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obs:notes:key-terms:sin|sinned]]**
+  * **[[:zh:obs:notes:key-terms:punish|punished]]**
+  * **[[:zh:obs:notes:key-terms:death|die]]**
+  * **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**
+  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obs:notes:key-terms:forgive|forgive]]**
 ===== Translation Notes: =====
 
-  * **take away** - That is, "remove the penalty of" or, "remove the punishment for." The sacrifice of Jesus causes God to look at our sin as if it never existed.
+翻译注解：
 
+  * **take away**  - That is, "remove the penalty of" or, "remove the punishment for." The sacrifice of Jesus causes God to look at our sin as if it never existed.
+  * 除去 - 即 “去除什么的惩罚” 或 “为什么去除的惩罚”。 耶稣的献祭使神看我们的罪就象从来没存在过一样。
 
 **[[:zh:obs:notes:frames:49-10|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-12|>>]]**
