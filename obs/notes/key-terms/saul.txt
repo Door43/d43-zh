@@ -1,24 +1,33 @@
-====== Saul ======
-
+====== Saul扫罗 ======
 
 ===== Facts: =====
 
+事迹实例：
+
 Saul was an Israelite man whom God chose to become the first king of Israel.
 
+扫罗是个以色列人，神拣选了他成为以色列的第一个王。
+
   * Saul was tall and handsome, and a powerful soldier. He was the kind of person that the Israelites wanted to be their king.
+  * 扫罗高大且英俊（俊美），还是个英勇的士兵。他正是以色列人想要的人来做他们的王。
   * Although he served God at first, he later became proud and disobeyed God. As a result, God appointed David to take Saul's place as king.
+  * 尽管他一开始服侍神，后来他变得骄傲了，悖逆了神。结果是，神指派了大卫替代了扫罗做了王。
 
 Hundreds of years later, there was another Jew named Saul, but his name was changed to Paul after he came to know Jesus.
 
-[See also: **[[zh:obs:notes:key-terms:Paul|Paul]]**]
+几百年以后，有另外一个犹太人叫扫罗，但是在他认识了耶稣后他的名字改成了保罗。
 
+[See also: **[[:zh:obs:notes:key-terms:paul|Paul]]**]
+
+[参见：保罗]
 
 ===== Examples from the Bible stories: =====
 
+圣经故事里的一些例子：
 
-  ***[[:zh:obs:notes:frames:17-01|[17-01]]]** **Saul** was the first king of Israel. He was tall and handsome, just like the people wanted. **Saul** was a good king for the first few years that he ruled over Israel. But then he became a wicked man who did not obey God, so God chose a different man who would one day be king in his place.
-  ***[[:zh:obs:notes:frames:17-04|[17-04]]]** **Saul** became jealous of the people's love for David. **Saul** tried many times to kill him, so David hid from **Saul**. 
-  ***[[:zh:obs:notes:frames:17-05|[17-05]]]** Eventually, **Saul** died in battle, and David became king of Israel. 
-
-
+  * **[[:zh:obs:notes:frames:17-01|[17-01]]]****Saul**  was the first king of Israel. He was tall and handsome, just like the people wanted. **Saul**  was a good king for the first few years that he ruled over Israel. But then he became a wicked man who did not obey God, so God chose a different man who would one day be king in his place.
+  * 扫罗是以色列的第一个王。他高大且英俊，正是百姓想要的。扫罗在头几年是个英明能够的君王，他统治了以色列。但是后来他变成了一个邪恶的人，不服从神了，所以，神拣选了另外一个人，那人将有一天代替扫罗的王位。
+  * **[[:zh:obs:notes:frames:17-04|[17-04]]]****Saul**  became jealous of the people's love for David. **Saul**  tried many times to kill him, so David hid from **Saul**.
+  *
+  * **[[:zh:obs:notes:frames:17-05|[17-05]]]** Eventually, **Saul**  died in battle, and David became king of Israel.
 ~~DISCUSSION:off~~
