@@ -6,21 +6,22 @@
 
 耶稣做了很多神迹，证明了他就是上帝.他在海上行走,平息了风暴，治愈了病躯,吓退了敌人，让死人复活，并且把5饼2鱼变成足够5000人吃的食物.
 
+耶稣行了很多神迹来证明了他是神。他在海上行走, 平息风暴，治愈了很多病人, 赶鬼，让死人复活，并且把五饼二鱼变成足够五千人吃的食物.
+
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/miracle|miracles]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/heal|healed]]**
-  * **[[:zh:obs:notes:key-terms/demon|demons]]**
-  * **[[:zh:obs:notes:key-terms/raise|raised]]**
-  * **[[:zh:obs:notes:key-terms/death|dead]]**
-
-
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obs:notes:key-terms:miracle|miracles]]**
+  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obs:notes:key-terms:heal|healed]]**
+  * **[[:zh:obs:notes:key-terms:demon|demons]]**
+  * **[[:zh:obs:notes:key-terms:raise|raised]]**
+  * **[[:zh:obs:notes:key-terms:death|dead]]**
 ===== Translation Notes: =====
 
-  * **drove out demons** - That is, "made demons come out of people."
-  * **raised the dead to life** - This could also be translated as, "caused dead people to become alive again."
-
+  * **drove out demons**  - That is, "made demons come out of people."
+  * 赶鬼 - 即 “将鬼从人身上赶出来”。
+  * **raised the dead to life**  - This could also be translated as, "caused dead people to become alive again."
+  * 死里复活 - 这也可译成 ”使死人再次活过来“。
 
 **[[:zh:obs:notes:frames:49-01|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-03|>>]]**
