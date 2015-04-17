@@ -1,22 +1,26 @@
 ===== Adam and Eve Sinned [48-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink&}}
 
 **Satan** spoke through the snake in **the garden** in order to **deceive Eve**. Then she and **Adam sinned** against **God**. Because they sinned, everyone on earth gets sick and everyone **dies**.
+
+为了欺骗夏娃， 撒但通过园子里的蛇说话。然后她和亚当反抗神。因着他们犯罪， 地上的每个人都会生病且人人都要死。
+
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/satan|Satan]]**
-  * **[[:zh:obs:notes:key-terms/eve|Eve]]**
-  * **[[:zh:obs:notes:key-terms/adam|Adam]]**
-  * **[[:zh:obs:notes:key-terms/sin|sinned]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/death|dies]]**
-
-
+  * **[[:zh:obs:notes:key-terms:satan|Satan]]**
+  * **[[:zh:obs:notes:key-terms:eve|Eve]]**
+  * **[[:zh:obs:notes:key-terms:adam|Adam]]**
+  * **[[:zh:obs:notes:key-terms:sin|sinned]]**
+  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obs:notes:key-terms:death|dies]]**
 ===== Translation Notes: =====
 
-  * **the garden** - This refers to the garden created by God where he placed the first man and woman.
-  * **deceive Eve** - That is, "lie to Eve." Satan lied by leading Eve to doubt what God had said. By doing this, he tricked her into disobeying God.
+翻译注解“
 
+  * **the garden**  - This refers to the garden created by God where he placed the first man and woman.
+  * 园子 - 这是上帝造的园子， 他将第一个男人和第一个女人安置在那里。
+  * **deceive Eve**  - That is, "lie to Eve." Satan lied by leading Eve to doubt what God had said. By doing this, he tricked her into disobeying God.
+  * 欺骗夏娃 - 即 ”向夏娃馓谎“。撒但通过引夏娃怀疑上帝所说的来骗夏娃。通过这样， 他
 
 **[[:zh:obs:notes:frames:48-01|<<]] | [[:zh:obs:notes:48|Up]] | [[:zh:obs:notes:frames:48-03|>>]]**
