@@ -1,3 +1,5 @@
 This the list of important words and phrases. Click on the word to learn more.
 
 <nspages zh:obs:notes:key-terms -title -exclude:home -textPages="List of all OBS Chinese (Simplified) Important Words:">
+
+{{pagequery>ns:en:bible:notes:key-terms "ktobs"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}
