@@ -2,19 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-04.jpg?nolink&}}
 
-He also taught that you need to **love God** more than you love anything else, including  your wealth.
+He also taught that you need to **love God** more than you love anything else, including your wealth.
 
-他教导人们爱神胜过爱你的一切,甚至于包括你的财富！
+他教导人们要爱神胜过爱你的一切包括你的财富。
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/love|love]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-
-
+  * **[[:zh:obs:notes:key-terms:love|love]]**
+  * **[[:zh:obs:notes:key-terms:god|God]]**
 ===== Translation Notes: =====
 
-  * **your wealth** - This could also be translated as, "your money" or, "your possessions."
-
-
+  * **your wealth**  - This could also be translated as, "your money" or, "your possessions."
 **[[:zh:obs:notes:frames:49-03|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-05|>>]]**
