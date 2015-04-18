@@ -1,30 +1,35 @@
-====== Promised Land ======
-
+====== Promised Land应许之地 ======
 
 ==== (Promised Land, Canaan) ====
 
+（应许之地，迦南）
 
 ===== Facts: =====
 
+实例：
+
 This was the land that God had promised to give to Abraham and his descendants.
 
+这是神应许给亚伯拉翰和他的后裔之地。
+
   * After Abraham's descendants had lived in Canaan for many years, there was a famine and they had to move to the country of Egypt. Over 400 years later, God brought them back to Canaan.
+  * 亚伯拉翰的后裔们在迦南生活了很多年之后，发生了一次饥荒，他们不得不搬到埃及之地。400年后，神把他们带回迦南。
   * Canaan was also called the "Promised Land" by Abraham's descendants.
+  * 迦南也被亚伯拉翰的后裔称作“应许之地”。
   * Because of Israel's disobedience, God took the people out of Canaan for seventy years during the Exile. Then, he brought them back to the Promised land again.
+  * 因为以色列的背叛，在流亡七十年后神把百姓带出了迦南。于是，神再次把他们带回应许之地。
 
+[See also: **[[:zh:obs:notes:key-terms:canaan|Canaan]]**]
 
-[See also: **[[zh:obs:notes:key-terms:canaan|Canaan]]**]
+[参见：迦南]
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:zh:obs:notes:frames:12-01|[12-01]]]** They (Israelites) were no longer slaves, and they were going to the **Promised Land**!
-  ***[[:zh:obs:notes:frames:14-01|[14-01]]]** After God had told the Israelites the laws he wanted them to obey as part of his covenant with them, God began leading them from Mount Sinai toward the **Promised Land**, which was also called Canaan.
-  ***[[:zh:obs:notes:frames:14-02|[14-02]]]** God had promised Abraham, Isaac, and Jacob that he would give the **Promised Land** to their descendants, but now there were many people groups living there.
-  ***[[:zh:obs:notes:frames:14-14|[14-14]]]** Then God led the people to the edge of the **Promised Land** again.
-  ***[[:zh:obs:notes:frames:15-02|[15-02]]]** The Israelites had to cross the Jordan River to enter into the **Promised Land**.
-  ***[[:zh:obs:notes:frames:15-12|[15-12]]]** After this battle, God gave each tribe of Israel its own section of the **Promised Land**.
-  ***[[:zh:obs:notes:frames:20-09|[20-09]]]** This period of time when God's people were forced to leave the **Promised Land** is called the Exile.
- 
-
+  * **[[:zh:obs:notes:frames:12-01|[12-01]]]** They (Israelites) were no longer slaves, and they were going to the **Promised Land**!
+  * **[[:zh:obs:notes:frames:14-01|[14-01]]]** After God had told the Israelites the laws he wanted them to obey as part of his covenant with them, God began leading them from Mount Sinai toward the **Promised Land**, which was also called Canaan.
+  * **[[:zh:obs:notes:frames:14-02|[14-02]]]** God had promised Abraham, Isaac, and Jacob that he would give the **Promised Land**  to their descendants, but now there were many people groups living there.
+  * **[[:zh:obs:notes:frames:14-14|[14-14]]]** Then God led the people to the edge of the **Promised Land**  again.
+  * **[[:zh:obs:notes:frames:15-02|[15-02]]]** The Israelites had to cross the Jordan River to enter into the **Promised Land**.
+  * **[[:zh:obs:notes:frames:15-12|[15-12]]]** After this battle, God gave each tribe of Israel its own section of the **Promised Land**.
+  * **[[:zh:obs:notes:frames:20-09|[20-09]]]** This period of time when God's people were forced to leave the **Promised Land**  is called the Exile.
 ~~DISCUSSION:off~~
