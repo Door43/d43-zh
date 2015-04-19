@@ -6,10 +6,10 @@
 
 Pilate was the Roman governor who sentenced Jesus to death.
 
-彼拉多是判耶稣死刑的罗马统治者。
+彼拉多是判耶稣死刑的罗马巡抚长官。。
 
   * Because Pilate was the governor, he had the authority to put criminals to death.
-  * 因为彼拉多是统治者。他有权威判处囚犯死刑。
+  * 因为彼拉多是巡抚长官。他有权威判处囚犯死刑。
   * The Jewish religious leaders wanted Pilate to crucify Jesus, so they lied and said that Jesus was a criminal.
   * 犹太宗教领袖想要彼拉多钉死耶稣，所以他们撒了谎，说耶稣是个罪犯。
   * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he ordered his soldiers to crucify Jesus.
@@ -24,6 +24,7 @@ Pilate was the Roman governor who sentenced Jesus to death.
 圣经故事里的一些例子：
 
   * **[[:zh:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to **Pilate**, the Roman governor. They hoped that **Pilate**  would condemn Jesus as guilty and sentenced him to be killed. **Pilate**  asked Jesus, "Are you the King of the Jews?"
+  *
   * **[[:zh:obs:notes:frames:39-10|[39-10]]]****Pilate**  said, "What is truth?"
   * **[[:zh:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, **Pilate**  went out to the crowd and said, "I find no guilt in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" **Pilate**  replied, "He is not guilty." But they shouted even louder. Then **Pilate**  said a third time, "He is not guilty!"
   * **[[:zh:obs:notes:frames:39-12|[39-12]]]****Pilate**  became afraid that the crowd would begin to riot, so he ordered his soldiers to crucify Jesus.
