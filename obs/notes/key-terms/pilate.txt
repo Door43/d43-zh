@@ -11,7 +11,7 @@ Pilate was the Roman governor who sentenced Jesus to death.
   * Because Pilate was the governor, he had the authority to put criminals to death.
   * 因为彼拉多是巡抚长官。他有权威判处囚犯死刑。
   * The Jewish religious leaders wanted Pilate to crucify Jesus, so they lied and said that Jesus was a criminal.
-  * 犹太宗教领袖想要彼拉多钉死耶稣，所以他们撒了谎，说耶稣是个罪犯。
+  * 犹太宗教首领想要彼拉多钉死耶稣，所以他们撒了谎，说耶稣是个罪犯。
   * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he ordered his soldiers to crucify Jesus.
   * 彼拉多心里明白，耶稣是无罪的，但是他害怕民众，所以他命令他的士兵把耶稣钉在十字架上。
 
@@ -24,11 +24,15 @@ Pilate was the Roman governor who sentenced Jesus to death.
 圣经故事里的一些例子：
 
   * **[[:zh:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to **Pilate**, the Roman governor. They hoped that **Pilate**  would condemn Jesus as guilty and sentenced him to be killed. **Pilate**  asked Jesus, "Are you the King of the Jews?"
-  * 第二天一早，犹太领袖把耶稣带到罗马巡抚比拉多跟前。他们希望比拉多会判耶稣有罪，并判他死刑。比拉多问耶稣，“你是犹太人的王吗”？
+  * 第二天一早，犹太首领把耶稣带到罗马巡抚比拉多跟前。他们希望比拉多会判耶稣有罪，并判他死刑。比拉多问耶稣，“你是犹太人的王吗”？
   * **[[:zh:obs:notes:frames:39-10|[39-10]]]****Pilate**  said, "What is truth?"
   * 比拉多说，”真理是什么”？
   * **[[:zh:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, **Pilate**  went out to the crowd and said, "I find no guilt in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" **Pilate**  replied, "He is not guilty." But they shouted even louder. Then **Pilate**  said a third time, "He is not guilty!"
+  * 在和耶稣说话了之后，比拉多出来，来到众人面前，说，“我在这人身上没有发现有罪啊”。但是犹太首领和众人喊到，“钉他十字架！” 比拉多回答道，“他没有罪啊”。但是他们喊得更响了。于是比拉多第三次说，“他没有罪啊！”
   * **[[:zh:obs:notes:frames:39-12|[39-12]]]****Pilate**  became afraid that the crowd would begin to riot, so he ordered his soldiers to crucify Jesus.
+  * 比拉多害怕众人开始骚乱，于是他命令他的士兵去钉耶稣十字架。
   * **[[:zh:obs:notes:frames:40-02|[40-02]]]****Pilate**  commanded that a sign be put above Jesus' head that read, "King of the Jews."
+  * 比拉多吩咐，在耶稣的头上放上一个牌子，写着：“犹太人的王。”
   * **[[:zh:obs:notes:frames:41-02|[41-02]]]****Pilate**  said, "Take some soldiers and make the tomb as secure as you can."
+  * 比拉多说，“派一些士兵，把坟墓建得尽可能得坚固。”
 ~~DISCUSSION:off~~
