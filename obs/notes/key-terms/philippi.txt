@@ -15,8 +15,12 @@ Philippi was a city located in the northern part of ancient Greece.
 
 [See also: **[[:zh:obs:notes:key-terms:paul|Paul]]**, **[[:zh:obs:notes:key-terms:silas|Silas]]**, **[[:zh:obs:notes:key-terms:christian|Christian]]**]
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible stories:  =====
+
+圣经故事里的一些例子：
 
   * **[[:zh:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend Silas went to the town of **Philippi**  to proclaim the good news about Jesus.
+  * 一天，保罗和他的朋友西拉去了腓力比城，传播关于耶稣的福音。
   * **[[:zh:obs:notes:frames:47-13|[47-13]]]** The next day the leaders of the city released Paul and Silas from prison and asked them to leave **Philippi**.
+  * 第二天，城里的首领们从监牢里释放了保罗和西拉，并请他们离开腓力比。
 ~~DISCUSSION:off~~
