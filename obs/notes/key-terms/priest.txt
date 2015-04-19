@@ -1,4 +1,4 @@
-====== priest牧师 ======
+====== priest祭司 ======
 
 ===== Definition: =====
 
@@ -6,27 +6,35 @@
 
 A priest is a person with the special job of intermediary, or standing between, God and his people. God chose Aaron and his descendants to be his priests for the people of Israel. They did many different things, including:
 
-牧师是有着介于神和他的子民之间的专职神职的人。神拣选亚伦和他的后裔为作为他的牧师给以色列人。他们做了很多不同的事迹，包括：
+祭司是有着专职神职的介于神和他的子民之间的人。神拣选亚伦和他的后裔为作为他的牧师给以色列人。他们做了很多不同的事迹，包括：
 
   * Priests presented people's offerings to God.
-  * 牧师呈供人的奉品给神。
+  * 祭司呈供人的奉品给神。
   * Priests would pray to God for the people.
-  * 牧师为人向神祈祷。
+  * 祭司为人们向神祈求。
   * Priests taught the people God's instructions.
-  * 牧师教导人有关神的指示。
+  * 祭司教导人有关神的指示。
   * Priests would bless the people.
-  * 牧师会赐福给人们。
+  * 祭司会赐福人们。
 
 "Priest" could be translated as "intermediary," "mediator," "middle-man" or "sacrificer." Besides God's priests, there were also other priests who presented offerings to false gods such as Baal.
 
-“牧师”可以翻译成 “信使（中介）”，“调解人”，“中间人”，或 “祭祀者”。除了神的牧师，也有其他的牧师，他们呈供奉品给假神如巴力神。
+“祭司”可以翻译成 “信使（中介）”，“调解人”，“中间人”，或 “祭祀者”。除了神的祭司，也有其他的祭司，他们呈供奉品给假神，如巴力神。
 
 [See also: **[[:zh:obs:notes:key-terms:aaron|Aaron]]**, **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**]
 
+[参见：亚伦，祭祀]
+
 ===== Examples from the Bible stories: =====
 
+圣经故事里的一些例子：
+
   * **[[:zh:obs:notes:frames:04-07|[04-07]]]**"Melchizedek, the **priest**  of God Most High"
+  * “麦基洗德，至高神的祭司”。
   * **[[:zh:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the Tent of Meeting as a sacrifice to God. A **priest**  would kill the animal and burn it on the altar. The blood of the animal that was sacrificed covered the person's sin and made that person clean in God's sight. God chose Moses' brother, Aaron, and Aaron's descendants to be his **priests**.
+  * 任何一个违背了神律法的人会带一只动物到会幕前面的祭坛来，作为献给神的祭物。一个祭司会杀了那动物，并在祭坛上把它烧掉。被用来祭祀的动物的血掩盖了那人的罪，使那人在神的眼中得洁净。神拣选摩西的哥哥亚伦，和亚伦的后代作为他的祭司。
   * **[[:zh:obs:notes:frames:19-07|[19-07]]]** So the **priests**  of Baal prepared a sacrifice but did not light the fire.
+  * 所以，巴力的祭司们准备了祭品，但没有生火。
   * **[[:zh:obs:notes:frames:21-07|[21-07]]]** An Israelite **priest**  was someone who made sacrifices to God on behalf of the people as a substitute for the punishment of their sins. **Priests**  also prayed to God for the people.
+  * 以色列祭司就是以人的名义向神做祭祀的人，来替代他们的罪行的惩罚。祭司们也为着人们向神祈求。
 ~~DISCUSSION:off~~
