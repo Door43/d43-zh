@@ -1,24 +1,36 @@
-====== Pharaoh ======
+====== Pharaoh法老 ======
 
 ===== Facts: =====
 
+事迹：
 
 In ancient times, the kings who ruled over the country of Egypt were called pharaohs.
 
-    * Altogether, over 300 pharaohs ruled Egypt for more than 2,000 years.
-    * These Egyptians kings were very powerful and wealthy.
-    * Several of these pharaohs are mentioned in the Bible.
+在古时，统治埃及国的国王们被称为法老。
 
-[See also: **[[zh:obs:notes:key-terms:egypt|Egypt]]**, **[[zh:obs:notes:key-terms:king|king]]**]
+  * Altogether, over 300 pharaohs ruled Egypt for more than 2,000 years.
+  * 统共，有300多位法老统治埃及超过2000多年。
+  * These Egyptians kings were very powerful and wealthy.
+  * 这些埃及的国王们非常有权势且富有。
+  * Several of these pharaohs are mentioned in the Bible.
+  * 这些法老中有几位在圣经中被提及。
 
+[See also: **[[:zh:obs:notes:key-terms:egypt|Egypt]]**, **[[:zh:obs:notes:key-terms:king|king]]**]
+
+[参见：埃及，国王]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:08-06|[08-06]]]** One night, the **Pharaoh**, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
-  ***[[:zh:obs:notes:frames:08-08|[08-08]]]** **Pharaoh** was so impressed with Joseph that he appointed him to be the second most powerful man in all of Egypt!
-  ***[[:zh:obs:notes:frames:09-02|[09-02]]]** So the **Pharaoh** who was ruling over Egypt at that time made the Israelites slaves to the Egyptians.
-  ***[[:zh:obs:notes:frames:09-13|[09-13]]]** "I will send you to **Pharaoh** so that you can bring the Israelites out of their slavery in Egypt."
-  ***[[:zh:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed **Pharaoh ** that he is more powerful than **Pharaoh** and all of Egypt's gods.
+圣经故事里的一些例子：
 
-
+  * **[[:zh:obs:notes:frames:08-06|[08-06]]]** One night, the **Pharaoh**, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
+  * 一天晚上，被埃及人称作他们的王的法老做了两个梦，甚是困扰。
+  * **[[:zh:obs:notes:frames:08-08|[08-08]]]****Pharaoh**  was so impressed with Joseph that he appointed him to be the second most powerful man in all of Egypt!
+  * 法老对约瑟印象很好，任命他为全埃及的第二个最有权利的人。
+  * **[[:zh:obs:notes:frames:09-02|[09-02]]]** So the **Pharaoh**  who was ruling over Egypt at that time made the Israelites slaves to the Egyptians.
+  * 所以，在那时统治埃及的法老把以色列人当成奴隶。
+  * **[[:zh:obs:notes:frames:09-13|[09-13]]]**"I will send you to **Pharaoh**  so that you can bring the Israelites out of their slavery in Egypt."
+  * “我将派遣你到法老那里，这样你就可以把以色列人带出埃及，不做他们的奴隶。”
+  * **[[:zh:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed **Pharaoh **  that he is more powerful than **Pharaoh**  and all of Egypt's gods.
+  * 通过这些瘟疫灾祸，神向法老显明，他比法老和所有埃及的神更强大。
 ~~DISCUSSION:off~~
