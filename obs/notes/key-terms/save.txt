@@ -2,7 +2,7 @@
 
 ==== (save, salvation, saved) ====
 
-（拯救/解救，救恩，被拯救解救）
+（拯救/解救，救恩，被拯救/解救）
 
 ===== Definition: =====
 
@@ -10,14 +10,14 @@
 
 To save someone or something is to rescue that person or thing from something bad.
 
-拯救某人或某事，就是从不好的坏的事情中营救/搭救人或挽救某事。
+拯救/解救某人或某事，就是从不好的坏事中营救/搭救某人或挽救某事。
 
   * In a physical sense, people can be saved from harm, danger, or death.
   * 在实际意义上，人可以从伤害，危险或死亡中被抢救。
   * In a spiritual sense, if a person has been "saved," it means that through Jesus' death on the cross, God has forgiven him and rescued him from being punished for his sin.
   * 在属灵意义上，如果一个人已经“被救赎”，这意思是说，通过耶稣的十字架上的死，神原谅了他，把他因着他的罪从被惩罚中拯救出来。
   * Only God can save people from being punished for their sin.
-  * 只有神可以因着人们的罪，拯救人不被惩罚。
+  * 只有神可以因着人的罪，拯救人不受惩罚。
 
 [See also: **[[:zh:obs:notes:key-terms:sin|sin]]**, **[[:zh:obs:notes:key-terms:punish|punish]]**, **[[:zh:obs:notes:key-terms:cross|cross]]**]
 
@@ -30,7 +30,7 @@ To save someone or something is to rescue that person or thing from something ba
   * **[[:zh:obs:notes:frames:09-08|[09-08]]]** Moses tried to **save**  his fellow Israelite.
   * 摩西试图拯救他的同胞以色列人。
   * **[[:zh:obs:notes:frames:11-02|[11-02]]]** God provided a way to **save**  the firstborn son of anyone who believed in him.
-  * 神给任何一个相信他的人一个办法来拯救他们家头生的儿子。
+  * 神给任何一个相信他的人一个办法，来拯救他们头生的儿子。
   * **[[:zh:obs:notes:frames:12-05|[12-05]]]** Moses told the Israelites, "Stop being afraid! God will fight for you today and **save**  you."
   * 摩西告诉以色列人，“不要害怕！神今天会为你而战，并拯救你。”
   * **[[:zh:obs:notes:frames:12-13|[12-13]]]** The Israelites sang many songs to celebrate their new freedom and to praise God because he **saved**  them from the Egyptian army.
