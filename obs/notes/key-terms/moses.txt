@@ -1,25 +1,26 @@
-====== Moses ======
-
+====== Moses摩西 ======
 
 ===== Facts: =====
 
+事迹：
 
-Moses was a prophet and leader of the Israelite people for over 40 years.  
+Moses was a prophet and leader of the Israelite people for over 40 years.
 
-    * God chose Moses to free the Israelites from slavery in Egypt and lead them to the Promised Land.
-    * God gave Moses the stone tablets with his commandments for the Israelite people.
-    * Near the end of his life, Moses disobeyed God so he didn't get to live in the Promised Land of Canaan.
+摩西是个先知，做以色列人的首领40年。
 
-[See also: **[[zh:obs:notes:key-terms:egypt|Egypt]]**, **[[zh:obs:notes:key-terms:promised-land|Promised Land]]**]
+  * God chose Moses to free the Israelites from slavery in Egypt and lead them to the Promised Land.
+  * 神拣选了摩西把以色列人从埃及的奴役中解放了出来，并带领他们到了应许之地。
+  * God gave Moses the stone tablets with his commandments for the Israelite people.
+  *
+  * Near the end of his life, Moses disobeyed God so he didn't get to live in the Promised Land of Canaan.
+
+[See also: **[[:zh:obs:notes:key-terms:egypt|Egypt]]**, **[[:zh:obs:notes:key-terms:promised-land|Promised Land]]**]
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:zh:obs:notes:frames:09-12|[09-12]]]** One day while **Moses** was taking care of his sheep, he saw a bush that was on fire.
-  ***[[:zh:obs:notes:frames:12-05|[12-05]]]** **Moses** told the Israelites, "Stop being afraid! God will fight for you today and save you."
-  ***[[:zh:obs:notes:frames:12-07|[12-07]]]** God told **Moses** to raise his hand over the sea and divide the waters.
-  ***[[:zh:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a prophet of God.
-  ***[[:zh:obs:notes:frames:13-07|[13-07]]]** Then God wrote these Ten Commandments on two stone tablets and gave them to **Moses**.
-
-
+  * **[[:zh:obs:notes:frames:09-12|[09-12]]]** One day while **Moses**  was taking care of his sheep, he saw a bush that was on fire.
+  * **[[:zh:obs:notes:frames:12-05|[12-05]]]****Moses**  told the Israelites, "Stop being afraid! God will fight for you today and save you."
+  * **[[:zh:obs:notes:frames:12-07|[12-07]]]** God told **Moses**  to raise his hand over the sea and divide the waters.
+  * **[[:zh:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a prophet of God.
+  * **[[:zh:obs:notes:frames:13-07|[13-07]]]** Then God wrote these Ten Commandments on two stone tablets and gave them to **Moses**.
 ~~DISCUSSION:off~~
