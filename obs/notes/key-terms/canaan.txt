@@ -1,24 +1,38 @@
-====== Canaan ======
+====== Canaan迦南 ======
 
 ==== (Canaan, Promised Land) ====
 
+（迦南，应许之地）
 
 ===== Facts: =====
 
-This was the name of the land in the Middle East from the valley of the Jordan River to the Mediterranean Sea. 
+实例
+
+This was the name of the land in the Middle East from the valley of the Jordan River to the Mediterranean Sea.
+
+这是约旦河河谷中东部靠着地中海的地名，
 
   * God promised to give this land to Abraham and his descendants, the Israelites.
+  * 神应许把这地给亚伯拉罕和他的后裔们-----以色列人。
   * Today the countries and territories in that land are Israel, Lebanon, part of Jordan, part of Syria, and Palestine.
+  * 今天在那块应许之地的国家和领土有，以色列，黎巴嫩，部分约旦，部分叙利亚，和巴勒斯坦。
 
-[See also: **[[zh:obs:notes:key-terms:promised-land|Promised Land]]**]
+[See also: **[[:zh:obs:notes:key-terms:promised-land|Promised Land]]**]
+
+[参见：应许之地]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:04-05|[04-05]]]** He (Abram) took his wife, Sarai, together with all his servants and everything he owned and went to the land God showed him, the land of **Canaan**.
-  ***[[:zh:obs:notes:frames:04-06|[04-06]]]**  When Abram arrived in **Canaan** God said, "Look all around you. I will give to you and your descendants all the land that you can see as an inheritance."
-  ***[[:zh:obs:notes:frames:04-09|[04-09]]]** "I give the land of **Canaan** to your descendants." 
-  ***[[:zh:obs:notes:frames:05-03|[05-03]]]**  "I will give you and your descendants the land of **Canaan** as their possession and I will be their God forever."
-  ***[[:zh:obs:notes:frames:07-08|[07-08]]]** After twenty years away from his home in **Canaan**, Jacob returned there with his family, his servants, and all his herds of animals.
+圣经故事里的一些例子：
 
-
+  * **[[:zh:obs:notes:frames:04-05|[04-05]]]** He (Abram) took his wife, Sarai, together with all his servants and everything he owned and went to the land God showed him, the land of **Canaan**.
+  * 他（亚伯拉罕）带着他的妻子撒莱，和所有他的奴仆及所有能带的，一起去了神指示的地方~~~迦南地。
+  * **[[:zh:obs:notes:frames:04-06|[04-06]]]** When Abram arrived in **Canaan**  God said, "Look all around you. I will give to you and your descendants all the land that you can see as an inheritance."
+  * 当亚伯拉罕到了迦南，神说，“你举目看看周围。我将赐给你和你的后代所有你能看到的土地，作为你们的继承。”
+  * **[[:zh:obs:notes:frames:04-09|[04-09]]]**"I give the land of **Canaan**  to your descendants."
+  * “我赐迦南地给你的后代。”
+  * **[[:zh:obs:notes:frames:05-03|[05-03]]]**"I will give you and your descendants the land of **Canaan**  as their possession and I will be their God forever."
+  * “我将赐你和你的后代迦南地，作为他们的属地，我将永远是他们的神。”
+  * **[[:zh:obs:notes:frames:07-08|[07-08]]]** After twenty years away from his home in **Canaan**, Jacob returned there with his family, his servants, and all his herds of animals.
+  * 从他们离开迦南的家乡二十年后，雅各和他的家人，奴仆，及所有他的牲畜回到了那里。
 ~~DISCUSSION:off~~
