@@ -1,10 +1,16 @@
-====== people group万民/族群/部落 ======
+====== people group族群/部落 ======
 
 ==== (people group, nation, a people) ====
 
+(族群，民族，人民）
+
 ===== Definition: =====
 
+定义：
+
 A people group is a group of people who have a common ancestry, culture, or language.
+
+族群是有着共同的祖先，文化，或语言的一群人。
 
   * People groups usually live together in a particular land or country.
   * A people group may be made up of a single tribe, or of many tribes.
