@@ -1,27 +1,40 @@
-====== peace ======
-
+====== peace和平/和睦/喜乐 ======
 
 ==== (peace, peaceful) ====
 
+（和平/和睦，和平的/和睦的）
 
 ===== Definition: =====
 
-Peace is the absence of any conflict, fear, or intimidation. 
+定义：
+
+Peace is the absence of any conflict, fear, or intimidation.
+
+和平是没有冲突，恐惧或恐吓的。
 
   * Peace can refer to freedom from war between groups of people.
+  * 和平可以指族群部落之间没有战争的自由。
   * To make peace with a group of people is to stop fighting against them.
+  * 向一群人求和，就是停止和他们争战。
   * Peace can also refer to a good relationship between people or between people and God.
-  * Personal peace refers to a calm state of mind with no anxiety or fear. 
-
+  * 安乐/和睦也可以指人之间的良好的关系，或人和神之间的喜乐关系。
+  * Personal peace refers to a calm state of mind with no anxiety or fear.
+  * 个人的喜乐是指思想的平静状态，没有焦躁或恐惧。
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:15-06|[15-06]]]** God had commanded the Israelites not to make a **peace** treaty with any of the people groups in Canaan.  
-  ***[[:zh:obs:notes:frames:15-12|[15-12]]]** Then God gave Israel **peace** along all its borders. 
-  ***[[:zh:obs:notes:frames:16-03|[16-03]]]** Then God provided a deliverer who rescued them from their enemies and brought **peace** to the land. 
-  ***[[:zh:obs:notes:frames:21-13|[21-13]]]** He (Messiah) would die to receive the punishment for other people's sin. His punishment would bring **peace** between God and people. 
-  ***[[:zh:obs:notes:frames:48-14|[48-14]]]** David was the king of Israel, but Jesus is the king of the entire universe! He will come again and rule his kingdom with justice and **peace**, forever.
-  ***[[:zh:obs:notes:frames:50-17|[50-17]]]** Jesus will rule his kingdom with **peace** and justice, and he will be with his people forever. 
+圣经故事里的一些例子：
 
-
+  * **[[:zh:obs:notes:frames:15-06|[15-06]]]** God had commanded the Israelites not to make a **peace**  treaty with any of the people groups in Canaan.
+  * 神曾名命令 以色列人不要和迦南的族群签订和平条约。
+  * **[[:zh:obs:notes:frames:15-12|[15-12]]]** Then God gave Israel **peace**  along all its borders.
+  * 于是，神使色列地界内的人和平相处。
+  * **[[:zh:obs:notes:frames:16-03|[16-03]]]** Then God provided a deliverer who rescued them from their enemies and brought **peace**  to the land.
+  * 于是神派遣了一个士师，把他们从敌人那里救了出来，为那块土地带来了和平与安宁。
+  * **[[:zh:obs:notes:frames:21-13|[21-13]]]** He (Messiah) would die to receive the punishment for other people's sin. His punishment would bring **peace**  between God and people.
+  * 他（弥赛亚 ）将用死去为其他人的罪而受惩罚。他所受的惩罚将为神和子民之间带来和平与安详。
+  * **[[:zh:obs:notes:frames:48-14|[48-14]]]** David was the king of Israel, but Jesus is the king of the entire universe! He will come again and rule his kingdom with justice and **peace**, forever.
+  * 大卫是以色列的王，但耶稣是整个宇宙的王！耶稣将会在来，用正义与和平永远统治着他的国度。
+  * **[[:zh:obs:notes:frames:50-17|[50-17]]]** Jesus will rule his kingdom with **peace**  and justice, and he will be with his people forever.
+  * 耶稣用和平与正义统治着他的国度，他将和他的子民永远在一起。
 ~~DISCUSSION:off~~
