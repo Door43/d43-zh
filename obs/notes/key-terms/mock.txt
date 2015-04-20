@@ -1,23 +1,25 @@
-====== mock ======
-
+====== mock嘲笑/嘲讽/讥笑 ======
 
 ===== Definition: =====
 
+定义：
 
-To deride or make fun of someone, especially  in a cruel way.
+To deride or make fun of someone, especially in a cruel way.
 
-    * Mocking often involves taunting someone and laughing at them.
-    * To mock someone is to pretend to honor them, but in a way that actually shows contempt for them.
-    * A person can also mock someone by imitating that person's words or actions with the intent to embarrass them.
+嘲笑或嘲讽某人，特别是用残忍(冷酷的）的方式。
 
+  * Mocking often involves taunting someone and laughing at them.
+  * 嘲笑通常包含了嘲讽/嘲弄某人或笑话他们。
+  * To mock someone is to pretend to honor them, but in a way that actually shows contempt for them.
+  * 嘲弄某人，就是假装表扬他们，但实际上是以鄙视他们的方式做的。
+  * A person can also mock someone by imitating that person's words or actions with the intent to embarrass them.
+  * 人们也可以通过模仿他人的话或动作，带有使人尴尬的意图，来嘲讽人。
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:21-12|[21-12]]]** Isaiah prophesied that people would spit on, **mock**, and beat the Messiah. 
-  ***[[:zh:obs:notes:frames:39-05|[39-05]]]** The Jewish leaders all answered the high priest, "He deserves to die!" Then they blindfolded Jesus, spit on him, hit him, and **mocked** him.
-  ***[[:zh:obs:notes:frames:39-12|[39-12]]]** The soldiers whipped Jesus, and put a royal robe and a crown made of thorns on him. Then they **mocked** him by saying, "Look, the King of the Jews!"
-  ***[[:zh:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them **mocked** Jesus, but the other said, "Do you have no fear of God?"
-  ***[[:zh:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd **mocked** Jesus. They said to him, "If you are the Son of God, come down from the cross and save yourself! Then we will believe you."
-
-
+  * **[[:zh:obs:notes:frames:21-12|[21-12]]]** Isaiah prophesied that people would spit on, **mock**, and beat the Messiah.
+  * **[[:zh:obs:notes:frames:39-05|[39-05]]]** The Jewish leaders all answered the high priest, "He deserves to die!" Then they blindfolded Jesus, spit on him, hit him, and **mocked**  him.
+  * **[[:zh:obs:notes:frames:39-12|[39-12]]]** The soldiers whipped Jesus, and put a royal robe and a crown made of thorns on him. Then they **mocked**  him by saying, "Look, the King of the Jews!"
+  * **[[:zh:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them **mocked**  Jesus, but the other said, "Do you have no fear of God?"
+  * **[[:zh:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd **mocked**  Jesus. They said to him, "If you are the Son of God, come down from the cross and save yourself! Then we will believe you."
 ~~DISCUSSION:off~~
