@@ -1,28 +1,44 @@
 ====== curse ======
 
+====== 诅咒 ======
 
 ==== (curse, cursed) ====
 
+（诅咒，被诅咒）
+
 ===== Definition: =====
 
-To "curse" is to exercise spiritual authority to cause negative things to happen to the person or thing that is being "cursed." 
+定义：
 
-    * A "curse" is a declaration that harm will happen to someone or something.
-    * To "curse" someone or something causes bad things to happen to that person or thing.
- 
+To "curse" is to exercise spiritual authority to cause negative things to happen to the person or thing that is being "cursed."
+
+诅咒是行使精神上的权威力量降祸于人或事
+
+  * A "curse" is a declaration that harm will happen to someone or something.
+  * 诅咒是宣告对人或事的伤害。
+  * To "curse" someone or something causes bad things to happen to that person or thing.
+  * 被诅咒是某人或某事会有坏的事发生在他们身上。
+
 To "curse" is the opposite of to "bless."
 
-[See also: **[[zh:obs:notes:key-terms:bless|bless]]**]
+诅咒的反义词是祝福
 
+[See also: **[[:zh:obs:notes:key-terms:bless|bless]]**]
+
+[参见  祝福]
 
 ===== Examples from the Bible stories: =====
 
+来自圣经故事实例：
 
-  ***[[:zh:obs:notes:frames:02-09|[02-09]]]** God said to the snake, "You are **cursed**!" 
-  ***[[:zh:obs:notes:frames:02-11|[02-11]]]** "Now the ground is **cursed**, and you will need to work hard to grow food."
-  ***[[:zh:obs:notes:frames:04-04|[04-04]]]** "I will bless those who bless you and **curse** those who **curse** you."
-  ***[[:zh:obs:notes:frames:39-07|[39-07]]]** Then Peter vowed, saying, "May God **curse** me if I know this man!"
-  ***[[:zh:obs:notes:frames:50-16|[50-16]]]** Because Adam and Eve disobeyed God and brought sin into this world, God **cursed** it and decided to destroy it. 
-
-
+  * **[[:zh:obs:notes:frames:02-09|[02-09]]]** God said to the snake, "You are **cursed**!"
+  * 神对蛇说：“你是被诅咒的！”
+  * **[[:zh:obs:notes:frames:02-11|[02-11]]]**"Now the ground is **cursed**, and you will need to work hard to grow food."
+  * 现在大地被诅咒了，你必须历经辛苦才能种出粮食。“
+  * **[[:zh:obs:notes:frames:04-04|[04-04]]]**"I will bless those who bless you and **curse**  those who **curse**  you."
+  * “我将赐福那些祝福你的人，也诅咒那些诅咒你的人。”
+  * **[[:zh:obs:notes:frames:39-07|[39-07]]]** Then Peter vowed, saying, "May God **curse**  me if I know this man!"
+  * 然后彼得发誓说：“如果我认识这个人，就让神诅咒我！”
+  * **[[:zh:obs:notes:frames:50-16|[50-16]]]** Because Adam and Eve disobeyed God and brought sin into this world, God **cursed**  it and decided to destroy it.
+  * 因为亚当和夏娃违背了神，将罪恶带到了世界上，神就诅咒这个世界，并决定摧毁它。
 ~~DISCUSSION:off~~
