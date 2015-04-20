@@ -1,29 +1,40 @@
-====== persecute ======
-
+====== persecute迫害 ======
 
 ==== (to persecute, persecution) ====
 
+[迫害（动词），迫害（名词）]
 
 ===== Definition: =====
 
+定义：
 
 To persecute someone is to repeatedly attack him or to treat him cruelly.
 
-    * It is possible to persecute a single person, a small group of people, or even a large number of people.
-    * The Jewish religious leaders persecuted Jesus because they did not like what he was teaching.
-    * After Jesus went back to heaven, the Jewish religious leaders and the Roman government persecuted the Christians. However, the believers refused to stop preaching and teaching about Jesus, and the Church continued to grow.
-    * Other words for "persecution" are "mistreatment" or, "abuse" or, "oppression" or, "hostility."
+迫害某人，就是不断重复地攻击他或残酷地对待他。
 
-[See also: **[[zh:obs:notes:key-terms:jewish-leaders|Jewish leaders]]**, **[[zh:obs:notes:key-terms:rome|Rome]]**, **[[zh:obs:notes:key-terms:christian|Christians]]**, **[[zh:obs:notes:key-terms:church|Church]]**]
+  * It is possible to persecute a single person, a small group of people, or even a large number of people.
+  * 迫害一个人，一小群人，或甚至一大群人，都是可能的。
+  * The Jewish religious leaders persecuted Jesus because they did not like what he was teaching.
+  * 犹太宗教首领迫害耶稣，因为他们不喜欢耶稣所宣扬的东西。
+  * After Jesus went back to heaven, the Jewish religious leaders and the Roman government persecuted the Christians. However, the believers refused to stop preaching and teaching about Jesus, and the Church continued to grow.
+  * 在耶稣回到天国后，犹太宗教首领和罗马政府迫害基督徒。然而，信徒们拒绝停止传扬和宣传耶稣，而且教会继续成长壮大。
+  * Other words for "persecution" are "mistreatment" or, "abuse" or, "oppression" or, "hostility."
+  * 对应“迫害”其它的词就是“虐待”，或“辱骂”，或“压迫”，或“恶意”。
 
+[See also: **[[:zh:obs:notes:key-terms:jewish-leaders|Jewish leaders]]**, **[[:zh:obs:notes:key-terms:rome|Rome]]**, **[[:zh:obs:notes:key-terms:christian|Christians]]**, **[[:zh:obs:notes:key-terms:church|Church]]**]
+
+[参见：犹太首领，罗马，基督徒，教会]
 
 ===== Examples from the Bible stories: =====
 
+圣经故事里的一些例子：
 
-    * **[[:zh:obs:notes:frames:33-07|[33-07]]]** "The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or **persecution**, he falls away."
-    * **[[:zh:obs:notes:frames:45-06|[45-06]]]** That day many people in Jerusalem started **persecuting** the followers of Jesus, so the believers fled to other places. 
-    * **[[:zh:obs:notes:frames:46-02|[46-02]]]** Saul heard someone say, "Saul! Saul! Why do you **persecute** me?" Saul asked, "Who are you, Master?" Jesus replied to him, "I am Jesus. You are **persecuting** me!"
-    * **[[:zh:obs:notes:frames:46-04|[46-04]]]** But Ananias said, "Master, I have heard how this man has **persecuted** the believers."
-
-
+  * **[[:zh:obs:notes:frames:33-07|[33-07]]]**"The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or **persecution**, he falls away."
+  * “<font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>那岩石土地就像是一个人听了神的道，高兴地领受之。但是当他经历了苦难或迫害，他就倒下了。”</font>
+  * **[[:zh:obs:notes:frames:45-06|[45-06]]]** That day many people in Jerusalem started **persecuting**  the followers of Jesus, so the believers fled to other places.
+  * 那天，在耶路撒冷的很多人开始迫害耶稣的信徒，所以信徒们都逃到其它地方去了。
+  * **[[:zh:obs:notes:frames:46-02|[46-02]]]** Saul heard someone say, "Saul! Saul! Why do you **persecute**  me?" Saul asked, "Who are you, Master?" Jesus replied to him, "I am Jesus. You are **persecuting**  me!"
+  * 扫罗听到有人说，“扫罗！扫罗！你为什么迫害我？”扫罗问道，“你是谁？主啊？”
+  * **[[:zh:obs:notes:frames:46-04|[46-04]]]** But Ananias said, "Master, I have heard how this man has **persecuted**  the believers."
+  * 但是亚拿尼亚说，“主啊，我已经听到这个人是怎样迫害信徒们的。”
 ~~DISCUSSION:off~~
