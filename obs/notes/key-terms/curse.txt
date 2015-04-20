@@ -1,6 +1,4 @@
-====== curse ======
-
-====== 诅咒 ======
+====== curse 诅咒 ======
 
 ==== (curse, cursed) ====
 
@@ -25,7 +23,7 @@ To "curse" is the opposite of to "bless."
 
 [See also: **[[:zh:obs:notes:key-terms:bless|bless]]**]
 
-[参见  祝福]
+[参见 祝福]
 
 ===== Examples from the Bible stories: =====
 
