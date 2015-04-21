@@ -15,7 +15,9 @@
 
 [See also: **[[:zh:obs:notes:key-terms:life|life]]**, **[[:zh:obs:notes:key-terms:save|save]]**, **[[:zh:obs:notes:key-terms:sin|sin]]**, **[[:zh:obs:notes:key-terms:death|death]]**] [参见：生命，拯救，死亡]
 
-===== Examples from the Bible stories:圣经故事里的例子 =====
+===== Examples from the Bible stories: =====
+
+圣经故事里的例子；
 
   * **[[:zh:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit **eternal life**?"
   * 一天，一个在犹太律法方面的专家来到耶稣面前试探他，说：“老师，我怎样才能得到永生呢？”耶稣回答说：“圣经里面怎么说的呢？”
