@@ -1,0 +1,22 @@
+===== Open Bible Stories - Help =====
+
+If you need help with Open Bible Stories you can
+
+  * Read the [[:zh:get-started|How to Get Started]] tutorial
+  * Read the [[#The translationAcademy Handbook|translationAcademy Handbook]] below
+  * [[#Get Connected|Get connected]] to the Door43 community below
+
+===== The translationAcademy Handbook =====
+
+{{page>zh:ta:intro:handbook}}
+
+===== Get Connected =====
+
+Join others in our Hall group. Help develop a better Door43. Share ideas with the developers. Click [[https://hall.com/invites/Hl5sUFX5flazj1u7H3aCFg|here]]. Are you translating the stories? Click [[https://hall.com/invites/4-0kfZ-9_0pi3FtB-dt7jA|here]] to join the Translators Group. Follow the links using Chrome, Safari, FireFox, or IE 11 (or higher).
+
+===== Downloads =====
+
+You can also download the zip files of the images in [[https://api.unfoldingword.org/obs/jpg/1/en/obs-images-360px.zip|standard definition ]]or [[https://api.unfoldingword.org/obs/jpg/1/en/obs-images-2160px.zip|high definition]].
+
+If you would like to download the text, images, or video clips, click [[:zh:obs:resources|here]].
+
