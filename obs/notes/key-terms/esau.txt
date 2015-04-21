@@ -17,7 +17,9 @@ Esau was one of the twin sons of Isaac and Rebekah. He was the first baby born. 
 
 [See also: **[[:zh:obs:notes:key-terms:isaac|Isaac]]**, **[[:zh:obs:notes:key-terms:rebekah|Rebekah]]**, **[[:zh:obs:notes:key-terms:jacob|Jacob]]**] 也参见：以撒，利百加，雅各。
 
-===== Examples from the Bible stories: 来自圣经故事的实例 =====
+===== Examples from the Bible stories: =====
+
+圣经故事里的例子：
 
   * **[[:zh:obs:notes:frames:06-07|[06-07]]]** When Rebekah's babies were born, the older son came out red and hairy, and they named him **Esau**.
   * [06-07] 当利百加的孩子出生时，大儿子出生时皮肤红红的并且毛发很多，于是他们给他命名为以扫。
