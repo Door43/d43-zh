@@ -8,21 +8,23 @@ But **God loved** everyone in the world so much that he **gave his only Son** so
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/love|loved]]**
-  * **[[:zh:obs:notes:key-terms/god-son|Son]]**
-  * **[[:zh:obs:notes:key-terms/believe|believes]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/punish|punished]]**
-  * **[[:zh:obs:notes:key-terms/sin|sins]]**
-  * **[[:zh:obs:notes:key-terms/life|live]]**
-
-
+  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obs:notes:key-terms:love|loved]]**
+  * **[[:zh:obs:notes:key-terms:god-son|Son]]**
+  * **[[:zh:obs:notes:key-terms:believe|believes]]**
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obs:notes:key-terms:punish|punished]]**
+  * **[[:zh:obs:notes:key-terms:sin|sins]]**
+  * **[[:zh:obs:notes:key-terms:life|live]]**
 ===== Translation Notes: =====
 
-  * **gave his only Son** - This could also be translated as, "offered his only Son to the world as a sacrifice for sins" or, "gave us his only Son to be a sacrifice for our sins."
-  * **whoever believes** - This could also be translated as, "anyone who believes."
-  * **whoever believes in Jesus will not be punished for his sins, but will live with God forever** - This could also be translated as, "When anyone believes in Jesus, God will not punish that person for his sins, but will allow him to live with God forever."
+翻译注解：
 
+  * **gave his only Son**  - This could also be translated as, "offered his only Son to the world as a sacrifice for sins" or, "gave us his only Son to be a sacrifice for our sins."
+  * 给他的独生子 - 这也可译成 “将他的独生子赐给世人为罪作祭物”。
+  * **whoever believes**  - This could also be translated as, "anyone who believes."
+  * 无论谁信 - 这也可译成 “任何人信”。
+  * **whoever believes in Jesus will not be punished for his sins, but will live with God forever**  - This could also be translated as, "When anyone believes in Jesus, God will not punish that person for his sins, but will allow him to live with God forever."
+  * 无论谁信耶书
 
 **[[:zh:obs:notes:frames:49-08|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-10|>>]]**
