@@ -8,15 +8,15 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
-  * **[[:zh:obs:notes:key-terms/save|saved]]**
-  * **[[:zh:obs:notes:key-terms/sin|sin]]**
-
-
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obs:notes:key-terms:kingdom-of-god|kingdom of God]]**
+  * **[[:zh:obs:notes:key-terms:save|saved]]**
+  * **[[:zh:obs:notes:key-terms:sin|sin]]**
 ===== Translation Notes: =====
 
-  * **to be saved from your sin** - That is, "to be saved from being punished for your sin" or, "that God would save you from your sin" or, "to receive salvation from your sin."
+翻译注解：
 
+  * **to be saved from your sin**  - That is, "to be saved from being punished for your sin" or, "that God would save you from your sin" or, "to receive salvation from your sin."
+  * 从罪里被拯救出来 - 即 “从你因罪该受到惩罚中拯救出来” 或 “上帝要将你从罪中拯救出来”。 或 “从罪中得救赎”。
 
 **[[:zh:obs:notes:frames:49-04|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-06|>>]]**
