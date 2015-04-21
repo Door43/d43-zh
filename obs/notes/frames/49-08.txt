@@ -8,18 +8,18 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/sin|sin]]**
-  * **[[:zh:obs:notes:key-terms/adam|Adam]]**
-  * **[[:zh:obs:notes:key-terms/eve|Eve]]**
-  * **[[:zh:obs:notes:key-terms/sin|sinned]]**
-  * **[[:zh:obs:notes:key-terms/descendant|descendants]]**
-
-
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obs:notes:key-terms:sin|sin]]**
+  * **[[:zh:obs:notes:key-terms:adam|Adam]]**
+  * **[[:zh:obs:notes:key-terms:eve|Eve]]**
+  * **[[:zh:obs:notes:key-terms:sin|sinned]]**
+  * **[[:zh:obs:notes:key-terms:descendant|descendants]]**
 ===== Translation Notes: =====
 
-  * **is separated from God** - This can also be translated as, "cannot live with God" or, "cannot be near God" or, "cannot have a relationship with God."
+翻译注解：
 
+  * **is separated from God**  - This can also be translated as, "cannot live with God" or, "cannot be near God" or, "cannot have a relationship with God."
+  * 与神隔绝 - 这也可译为 “不能与神同住” 或 “不能接近神” 或 “不能与神建立关系”。
 
 **[[:zh:obs:notes:frames:49-07|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-09|>>]]**
