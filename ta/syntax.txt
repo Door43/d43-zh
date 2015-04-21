@@ -80,5 +80,4 @@ A dialog window opens, paste in the formatted content (with **bold**, //italics/
 Go [[:wiki:syntax|here]] for more information on formatting the text.\\
 Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
 
-\\
-Back to the [[en:ta:workshop]] page
+
