@@ -8,22 +8,25 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/sin|sin]]**
-  * **[[:zh:obs:notes:key-terms/guilt|guilty]]**
-  * **[[:zh:obs:notes:key-terms/death|die]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/cross|cross]]**
-  * **[[:zh:obs:notes:key-terms/receive|received]]**
-  * **[[:zh:obs:notes:key-terms/punish|punishment]]**
-
-
+  * **[[:zh:obs:notes:key-terms:sin|sin]]**
+  * **[[:zh:obs:notes:key-terms:guilt|guilty]]**
+  * **[[:zh:obs:notes:key-terms:death|die]]**
+  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obs:notes:key-terms:cross|cross]]**
+  * **[[:zh:obs:notes:key-terms:receive|received]]**
+  * **[[:zh:obs:notes:key-terms:punish|punishment]]**
 ===== Translation Notes: =====
 
-  * **Because of your sin** - This can also be translated as, "Because you have sinned." To make it clear that this is talking about all people, for some languages it may be more clear to translate this as, "Because all people have sinned, they are guilty. They deserve death."
-  * **God should be angry** - This can also be translated as, "It would be right for God to be angry."
-  * **poured out his anger on** - That is, "directed his anger at" or, "placed all of his anger upon" or, "was angry only with."
-  * **received your punishment** - This could also be translated as, "was punished instead of you" or, "was punished for your sin." To make it clear that this applies to everyone, it could also be translated as, "was punished for everyone's sin."
+翻译注解：
 
+  * **Because of your sin**  - This can also be translated as, "Because you have sinned." To make it clear that this is talking about all people, for some languages it may be more clear to translate this as, "Because all people have sinned, they are guilty. They deserve death."
+  * 因你的罪 - 这也能译为 “因为你有罪”。明确的说是指所有人，有些语言里译得更清楚为 “因为所有的人都犯有罪，所以他们是有罪的，他们该死。
+  * **God should be angry**  - This can also be translated as, "It would be right for God to be angry."
+  * 上帝该生气 - 这也能译为 “上帝有权利生气”。
+  * **poured out his anger on**  - That is, "directed his anger at" or, "placed all of his anger upon" or, "was angry only with."
+  * 倾倒他的愤怒 - 即 “指他生气在” 或 ”将他的愤怒倾倒在“ 或 ”只生气于“。
+  * **received your punishment**  - This could also be translated as, "was punished instead of you" or, "was punished for your sin." To make it clear that this applies to everyone, it could also be translated as, "was punished for everyone's sin."
+  * 接受你的惩罚 - 这也能理解为 “代你受惩罚” 或 “为你的罪受惩罚”。明确的讲这适用于每个人， 这也能译为 “为每个人的罪受惩罚”。
 
 **[[:zh:obs:notes:frames:49-09|<<]] | [[:zh:obs:notes:49|Up]] | [[:zh:obs:notes:frames:49-11|>>]]**
