@@ -1,4 +1,4 @@
-====== high priest  大祭司 ======
+====== high priest 大祭司 ======
 
 ===== Definition: =====
 
@@ -9,13 +9,20 @@ The high priest was the leader over all of Israel's priests.
 大祭司是全以色列祭司的领袖。
 
   * The Israelites had many priests, but only one high priest at a time.
+  * 在当时以色列有很多祭司，但只有一位大祭司。
   * The high priest had special responsibilities. He was the only one who was permitted to go into the most holy part of the Temple to offer a special sacrifice once a year.
+  * 大祭司有特别的职责，在一年一次特定的祭祀中，只有他被允许进入圣殿的最神圣之处进行祭祀。
 
 [See also: **[[:zh:obs:notes:key-terms:priest|priest]]**, **[[:zh:obs:notes:key-terms:temple|Temple]]**]
 
+[参见：祭司，圣殿 ]
+
 ===== Examples from the Bible stories: =====
 
+来自圣经故事实例：
+
   * **[[:zh:obs:notes:frames:13-08|[13-08]]]** No one could enter the room behind the curtain except the **high priest**, because God lived there.
+  *
   * **[[:zh:obs:notes:frames:21-07|[21-07]]]** The Messiah who would come would be the perfect **high priest**  who would offer himself as a perfect sacrifice to God.
   * **[[:zh:obs:notes:frames:38-03|[38-03]]]** The Jewish leaders, led by the **high priest**, paid Judas thirty silver coins to betray Jesus.
   * **[[:zh:obs:notes:frames:39-01|[39-01]]]** The soldiers led Jesus to the house of the **high priest**  in order for the **high priest**  to question him.
