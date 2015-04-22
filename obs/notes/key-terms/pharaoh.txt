@@ -9,7 +9,7 @@ In ancient times, the kings who ruled over the country of Egypt were called phar
 在古时，统治埃及国的国王们被称为法老。
 
   * Altogether, over 300 pharaohs ruled Egypt for more than 2,000 years.
-  * 统共，有300多位法老统治埃及超过2000多年。
+  * 统共有300多位法老统治埃及超过2000多年。
   * These Egyptians kings were very powerful and wealthy.
   * 这些埃及的国王们非常有权势且富有。
   * Several of these pharaohs are mentioned in the Bible.
@@ -21,7 +21,7 @@ In ancient times, the kings who ruled over the country of Egypt were called phar
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的一些例子：
+圣经故事里的例子：
 
   * **[[:zh:obs:notes:frames:08-06|[08-06]]]** One night, the **Pharaoh**, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
   * 一天晚上，被埃及人称作他们的王的法老做了两个梦，甚是困扰。
