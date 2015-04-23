@@ -1,23 +1,32 @@
-====== innocent ======
-
+====== innocent无辜的 ======
 
 ===== Definition: =====
 
+定义：
+
 To be innocent means to **not** be guilty of something.
 
-  * In the case of a crime, a person is innocent of the crime if he has **not** committed that crime.
+（某人）是无辜的，意思指（某人）是无罪于某事的。
+
+  * In the case of a crime, a person is innocent of the crime if he has **not**  committed that crime.
+  * 在一个犯罪案件中，如果一个人没有犯下罪行，那么他是无辜的。
   * Jesus is the only human being who was completely innocent, because he never did anything wrong. He was sinless.
+  * 耶稣是唯一的完全无罪的人类，因为他从没有做任何错事。他是无罪的。
 
 The opposite of "innocent" is "guilty."
 
-[See also: **[[zh:obs:notes:key-terms:guilt|guilt]]**]
+“无辜”的反义词是“有罪”
 
+[See also: **[[:zh:obs:notes:key-terms:guilt|guilt]]**]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh:obs:notes:frames:08-06|[08-06]]]** After two years, Joseph was still in prison, even though he was **innocent**.
-  ***[[:zh:obs:notes:frames:40-04|[40-04]]]** One of them mocked Jesus, but the other said, "Do you have no fear of God? We are guilty, but this man is **innocent**." 
-  ***[[:zh:obs:notes:frames:40-08|[40-08]]]** When the soldier guarding Jesus saw everything that happened, he said, "Certainly, this man was **innocent**. He was the Son of God."
+圣经故事里的例子：
 
-
+  * **[[:zh:obs:notes:frames:08-06|[08-06]]]** After two years, Joseph was still in prison, even though he was **innocent**.
+  * 两年后，约瑟仍收押在监狱里，尽管他是无辜的。
+  * **[[:zh:obs:notes:frames:40-04|[40-04]]]** One of them mocked Jesus, but the other said, "Do you have no fear of God? We are guilty, but this man is **innocent**."
+  * 他们中的一个（士兵）取笑着耶稣，但是另一个说道，“你不惧怕神吗？我们是有罪的，但是这人是无辜的呀。”
+  * **[[:zh:obs:notes:frames:40-08|[40-08]]]** When the soldier guarding Jesus saw everything that happened, he said, "Certainly, this man was **innocent**. He was the Son of God."
+  * 当看守耶稣的士兵看见了所发生的一切时，他说，“毫无疑问，这个人是无辜的。他确实是神的儿子。”
 ~~DISCUSSION:off~~
