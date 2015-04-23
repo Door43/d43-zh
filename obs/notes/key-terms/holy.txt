@@ -26,7 +26,7 @@ Make sure that the translation of the word "holy" does not mean something that i
 来自圣经故事实例：
 
   * **[[:zh:obs:notes:frames:01-16|[01-16]]]** He (God) blessed the seventh day and made it **holy**, because on this day he rested from his work.
-  *
+  * 他（神）赐福给第7日，把这一天订为圣日，因为神要在这一天停止工作而休息。
   * **[[:zh:obs:notes:frames:09-12|[09-12]]]**"You are standing on **holy**  ground."
   * **[[:zh:obs:notes:frames:13-01|[13-02]]]**"If you will obey me and keep my covenant, you will be my prized possession, a kingdom of priests, and a **holy**  nation."
   * **[[:zh:obs:notes:frames:13-05|[13-05]]]**"Always be sure to keep the Sabbath day **holy**."
