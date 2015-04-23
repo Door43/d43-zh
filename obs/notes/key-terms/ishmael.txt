@@ -1,21 +1,18 @@
-====== Ishmael ======
-
+====== Ishmael以实玛力 ======
 
 ===== Facts: =====
 
-Ishmael was the son of Abraham and Sarah's servant, Hagar. 
+事迹：
 
-    * Ishmael was not the son through whom God would fulfill his promise to Abraham.
-    * Ishmael means, "God hears."
+Ishmael was the son of Abraham and Sarah's servant, Hagar.
 
-[See also: **[[zh:obs:notes:key-terms:Abraham|Abraham]], [[zh:obs:notes:key-terms:Sarah|Sarah]]**]
+  * Ishmael was not the son through whom God would fulfill his promise to Abraham.
+  * Ishmael means, "God hears."
 
+[See also: **[[:zh:obs:notes:key-terms:abraham|Abraham]], [[:zh:obs:notes:key-terms:sarah|Sarah]]**]
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:zh:obs:notes:frames:05-02|[05-02]]]** So Abram married Hagar. Hagar had a baby boy, and Abram named him **Ishmael**.
-  ***[[:zh:obs:notes:frames:05-04|[05-04]]]** "I will make **Ishmael** a great nation, too, but my covenant will be with Isaac."
-
-
+  * **[[:zh:obs:notes:frames:05-02|[05-02]]]** So Abram married Hagar. Hagar had a baby boy, and Abram named him **Ishmael**.
+  * **[[:zh:obs:notes:frames:05-04|[05-04]]]**"I will make **Ishmael**  a great nation, too, but my covenant will be with Isaac."
 ~~DISCUSSION:off~~
