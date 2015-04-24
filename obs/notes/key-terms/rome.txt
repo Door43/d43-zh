@@ -2,7 +2,7 @@
 
 ==== (Rome, Roman) ====
 
-[罗马，罗马人]
+[罗马，罗马的/罗马帝国的/罗马人]
 
 ===== Facts: =====
 
@@ -23,14 +23,18 @@ In the current day, Rome is the capital city of the country of Italy.
 
 [See also: **[[:zh:obs:notes:key-terms:pilate|Pilate]]**, **[[:zh:obs:notes:key-terms:paul|Paul]]**, **[[:zh:obs:notes:key-terms:good-news|good news好消息]]**]
 
+[参见：彼拉多，保罗，福音（好消息）]
+
 ===== Examples from the Bible stories: =====
 
+圣经故事里的例子：
+
   * **[[:zh:obs:notes:key-terms:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman**  government told everyone to go for a census to the town where their ancestors had lived.
-  * 当玛丽将要分娩的时候，罗马政府告诉所有人，去做人口普查，他们的祖先曾经住在城镇
+  * 当玛丽即将临近分娩的时候，罗马政府告诉所有人，到镇上他们的祖先曾经居住的地方，去做户籍普查。
   * **[[:zh:obs:notes:key-terms:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman**  army.)
-  * 耶稣问恶魔，你叫什么名字，他回答说，我的名字叫军团，因为我们人数众多。（军团在罗马军队 是一组二， 三千士兵。）
+  * 于是，耶稣问那恶魔，“你叫什么名字”？他回答说，我的名字叫军团，因为我们人数众多”。（军团，在罗马军队中， 是几千士兵一组。）
   * **[[:zh:obs:notes:key-terms:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman**  governor, Pilate, hoping to have Jesus killed.
-  * 第二天一早，犹太人首领带领耶稣去罗马总督，彼拉多，希望耶稣遇难
+  * 第二天一早，犹太人首领带着耶稣去见罗马总督彼拉多，希望能杀掉耶稣。
   * **[[:zh:obs:notes:key-terms:39-12|[39-12]]]** The **Roman**  soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
-  * 罗马士兵鞭打耶稣又给他穿上皇袍并且戴上皇冠，然后嘲笑他说，“看呐，这就是犹大的王！”
+  * 罗马士兵鞭打耶稣，又给他穿上王袍并且戴上王冠，然后他们嘲笑他说，“看呐，这就是犹大的王！”
 ~~DISCUSSION:off~~
