@@ -1,9 +1,8 @@
+<font 22px/inherit;;inherit;;inherit>** Lazarus拉撒路 **</font>
 
-
-**Lazarus拉撒路**
 ===== Facts: =====
 
-事實
+事實依据：
 
 Lazarus was a friend of Jesus whom he raised from the dead.
 
@@ -39,4 +38,3 @@ Lazarus was a friend of Jesus whom he raised from the dead.
   * **[[:zh:obs:notes:frames:37-11|[37-11]]]** But the religious leaders of the Jews were jealous, so they gathered together to plan how they could kill Jesus and **Lazarus**.
   * 但犹太人 的 宗教领袖 們都 很嫉妒 ， 所以他们 聚集在一起 商議，他们 怎么 才能 杀死 耶稣和 拉撒路 。
 ~~DISCUSSION:off~~
-
