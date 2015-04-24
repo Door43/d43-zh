@@ -1,19 +1,18 @@
 ====== Story #1: The Creation ======
 
-故事1：创造
+<font 22px/inherit;;inherit;;inherit>** 故事1：创造 **</font>
 
 ===== Comprehension Questions and Answers =====
 
-问题解答
-
-  - **Where did everything in the universe come from? 宇宙中的一切是从哪里来的？**
-      * //God created everything. [01-01] 上帝创造了一切。 [01-01]//
-  - **How long did it take God to create everything? **//上帝花了多久创造了一切？//
-      * //Six days. [01-01] 六天。//
-  - **What was God's usual response to the things he created at the end of each day? 一天结束后上帝对他所创造的事物通常是怎么回应的？**
-      * //He said it was good. [01-02], [01-04], [01-05], [01-06], [01-07], [01-08] 他说是好的。//
-  - **In what way did God make man different than the animals? 上帝是用什么方式将人造的不同于动物？**
-      * //He made man in his image and in his likeness. [01-09] 他是按他自己的形象和样式造的。//
+**<font 20px/inherit;;inherit;;inherit>问题解答</font> **
+  - **Where did everything in the universe come from? ** <font 12px/inherit;;inherit;;inherit>** 宇宙中的一切是从哪里来的 **</font> **？**
+      * //God created everything. [01-01] 神创造了一切。 [01-01]//
+  - **How long did it take God to create everything? ** **<font 12px/inherit;;inherit;;inherit>神用了多长时间创造了一切</font> ** ？
+      * //Six days. [01-01] 六天。[01 - 01]//
+  - **What was God's usual response to the things he created at the end of each day? <font 12px/inherit;;inherit;;inherit>在每一天结束时，神对他所造的万物的回应通常是什么？</font> **
+      * //He said it was good. [01-02], [01-04], [01-05], [01-06], [01-07], [01-08] 他说这是好的。//
+  - **In what way did God make man different than the animals? 神用什么方法造人，而不同于动物？ **
+      * //He made man in his image and in his likeness. [01-09] 他是按他自己的形象和样式造人。//
   - **What did God say would be the responsibility of the human beings? 上帝说人类的职责是什么？**
       * //They would have authority over the earth and over the animals to care for them. [01-09] 他们将有权管理地上的和动物界的一切。//
   - **How did God make the first man? 上帝是如何造第一个人的？**
