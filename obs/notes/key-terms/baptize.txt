@@ -2,7 +2,7 @@
 
 ==== (to baptize, baptism) ====
 
-（施洗，动词，施洗，名词）
+[施洗，（动词），施洗，（名词）]
 
 ===== Definition: =====
 
@@ -10,12 +10,12 @@
 
 To baptize someone is to ritually wash that person with water. This act is called, "baptism."
 
-施洗某人，就是在仪式上用水给那人洗浴。这个行为被叫做”施洗“。
+施洗某人，就是在仪式上用水洗浴那人。这个行为被叫做”施洗“。
 
   * Baptism is a way for a person to demonstrate that they repent of their former life, and associate themselves with a certain religious group, teacher, or way of life.
-  * 施洗是一种方式，既，为一个人声明他悔改了他原来的生命，并把他和某种宗教族群或生活方式联系在一起。。
+  * 施洗是为一个人声明他悔改了他原来的生命的一种方式，并把他自己和某种宗教族群，某个指导者，或某个生活方式联系在一起。。
   * John (the Baptist) baptized people as a sign of repentance from their sins.
-  * 约翰（施洗者）施洗了人，作为悔改他们的罪的一个标志。
+  * 约翰（施洗者）施洗了人，作为人从他们的罪中悔改的一个标志。
   * Christian baptism is a representation of our hearts being cleansed from sin by faith in Jesus Christ, and of our entrance into the Church.
   * 基督徒的洗礼，表明我们的心从罪中籍着信仰耶稣基督而被洁净，并表明我们进入了教会。
   * Christians vary in the way they do baptism. Some pour the water on the person, and others put the person completely under the water.
