@@ -1,17 +1,21 @@
 ====== Barnabas 巴拿巴 ======
 
-===== Facts: 事迹实例 =====
+===== Facts: =====
+
+事实依据：
 
 Barnabas was one of the early Christians who lived during the time of the apostles.
 
-巴拿巴是使徒时代的早期基督徒中的一位。
+巴拿巴是早期基督徒中的一位，曾生活在使徒时代。
 
   * When Saul (Paul) became a Christian, Barnabas encouraged the other believers to accept him as a fellow believer.
-  * 当扫罗（保罗）成为基督徒时，巴拿巴鼓励其他的信奉者接受他作为一个同伴信从。
+  * 当扫罗（保罗）成为基督徒后，巴拿巴鼓励其他的信奉者接受扫罗作为一个同伴信徒。
   * Barnabas and Paul traveled together to preach the good news about Jesus in different cities.
-  * 巴拿巴和保罗一同旅行，以便传耶稣在不同城市的福音。
+  * 巴拿巴和保罗一同赶路，以便在各个城市传关于耶稣的福音。
 
-[See also: **[[:zh:obs:notes:key-terms:paul|Saul (Paul)]]**, **[[:zh:obs:notes:key-terms:christian|Christian]]**] [参见：扫罗（保罗），基督徒]
+[See also: **[[:zh:obs:notes:key-terms:paul|Saul (Paul)]]**, **[[:zh:obs:notes:key-terms:christian|Christian]]**]
+
+[参见：扫罗（保罗），基督徒]
 
 ===== Examples from the Bible stories: =====
 
