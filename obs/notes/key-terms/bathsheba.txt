@@ -2,7 +2,7 @@
 
 ===== Facts: =====
 
-===== <font 16px/inherit;;inherit;;inherit>事实依据：</font>  =====
+<font 16px/inherit;;inherit;;inherit>事实依据：</font>
 
 Bathsheba was the wife of Uriah, a soldier in King David's army. She became the wife of David, and the mother of Solomon.
 
