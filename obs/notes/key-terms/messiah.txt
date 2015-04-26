@@ -10,28 +10,47 @@
 
 "Messiah" means, "Anointed One" or, "Chosen One" and refers to God's Son, whom God the Father appointed to rule over his people, and to save them from sin and death.
 
-“弥赛亚”意思是，“手膏者”，或 ”被拣选者“，既意指神的儿子，神天父指派来统治他的子民，并拯救他们远离他们的罪和死亡。
+“弥赛亚”意思是，“受膏者”，或 ”被拣选者“，既意指神的儿子，神天父指派来统治他的子民，并拯救他们远离他们的罪和死亡。
 
   * Hundreds of years before the Messiah came, God's prophets told many things about the Messiah. These prophecies are written in the Bible.
-  * 在弥赛亚到来前的几百年前，神的先知们预言了很多关于弥赛亚的神迹。这些预言都被写在圣经里。
+  * 在弥赛亚到来的几百年前，神的先知们预言了很多关于弥赛亚的神迹。这些预言都被写在圣经里。
   * During Jesus' time living on earth, he fulfilled many of those prophecies; someday he will come back and fulfill the rest of the prophecies about the Messiah.
+  * 在耶稣生活在地上的时代，他应验了很多预言；某一天，他将会回来，应验先知们关于弥赛亚的剩余的预言。
   * Jesus also did many miraculous works to prove that he is the Messiah.
+  * 耶稣也行了很多的神迹，来证明他就是弥赛亚。
   * The Messiah is a descendent of King David.
+  * 弥赛亚是大卫王的后裔。
   * In the Greek language, the word for Messiah is "Christ."
+  * 在希腊语言里。弥赛亚一词就是“基督”。
 
 [See also: **[[:zh:obs:notes:key-terms:god-son|Son of God]]**, **[[:zh:obs:notes:key-terms:david|David]]**, **[[:zh:obs:notes:key-terms:jesus|Jesus]]**]
 
+[参见：神的儿子，大卫，耶稣]
+
 ===== Examples from the Bible stories: =====
 
+圣经故事里的例子：
+
   * **[[:zh:obs:notes:frames:17-07|[17-07]]]** The **Messiah**  was God's Chosen One who would save the people of the world from sin.
+  * 弥赛亚是神拣选的圣者，他将把这世上的人从罪中救赎出来。
   * **[[:zh:obs:notes:frames:17-08|[17-08]]]** As it happened, the Israelites would have to wait a long time before the **Messiah**  came, almost 1,000 years.
+  * 因为这已经发生了，在弥赛亚到来之前，以色列人不得不等待了很长的一段时间，几乎1000年。
   * **[[:zh:obs:notes:frames:21-01|[21-01]]]** From the very beginning, God planned to send the **Messiah**.
+  * 从一开始，神就计划派遣弥赛亚。
   * **[[:zh:obs:notes:frames:21-04|[21-04]]]** God promised King David that the **Messiah**  would be one of David's own descendants.
+  * 神应许大卫王，弥赛亚将是大卫自己的后裔中的一个。
   * **[[:zh:obs:notes:frames:21-05|[21-05]]]** The **Messiah**  would start the New Covenant.
-  * **[[:zh:obs:notes:frames:21-06|[21-06]]]** God's prophets also said that the **Messiah**  would be a prophet, a priest, and a king.
+  * 弥赛亚将开启新约（时代）。
+  * **[[:zh:obs:notes:frames:21-06|[21-06]]]** God's prophets <font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>also said that the</font> **Messiah** <font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>would be a prophet, a priest, and a king.</font>
+  * 神的先知们也说，弥赛亚将是一位先知，祭司，和一位君王。
   * **[[:zh:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the **Messiah**  would be born from a virgin.
+  * 先知以赛亚曾预言，弥赛亚将由一个处女而生。
   * **[[:zh:obs:notes:frames:43-07|[43-07]]]**"But God raised him to life again to fulfill the prophecy which says, 'You will not let your **Holy One**  rot in the grave.'"
+  * “但是神使他升天复活，去应验所说的预言，”你将不会让你的圣者腐烂在坟墓里。“
   * **[[:zh:obs:notes:frames:43-09|[43-09]]]**"But know for certain that God has caused Jesus to become both Lord and **Messiah**!"
+  * ”但是，要知道，神已经使耶稣成为了主和弥赛亚，二者合一！”
   * **[[:zh:obs:notes:frames:43-11|[43-11]]]** Peter answered them, "Every one of you should repent and be baptized in the name of Jesus **Christ**  so that God will forgive your sins."
+  * 彼得回答他们，”每一个人都应该忏悔，都要以耶稣基督的名受洗，这样，神将会饶恕你们的罪。”
   * **[[:zh:obs:notes:frames:46-06|[46-06]]]** Saul reasoned with the Jews, proving that Jesus was the **Messiah**.
+  * 扫罗和犹太人讲道理，证明了耶稣就是弥赛亚。
 ~~DISCUSSION:off~~
