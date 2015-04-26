@@ -1,6 +1,8 @@
 ====== Philippi腓力比 ======
 
-===== Facts:实例 =====
+===== Facts: =====
+
+事实依据：
 
 Philippi was a city located in the northern part of ancient Greece.
 
@@ -15,7 +17,7 @@ Philippi was a city located in the northern part of ancient Greece.
 
 [See also: **[[:zh:obs:notes:key-terms:paul|Paul]]**, **[[:zh:obs:notes:key-terms:silas|Silas]]**, **[[:zh:obs:notes:key-terms:christian|Christian]]**]
 
-===== Examples from the Bible stories:  =====
+===== Examples from the Bible stories: =====
 
 圣经故事里的一些例子：
 
