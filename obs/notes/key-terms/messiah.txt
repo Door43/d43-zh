@@ -41,7 +41,7 @@
   * 神应许大卫王，弥赛亚将是大卫自己的后裔中的一个。
   * **[[:zh:obs:notes:frames:21-05|[21-05]]]** The **Messiah**  would start the New Covenant.
   * 弥赛亚将开启新约（时代）。
-  * **[[:zh:obs:notes:frames:21-06|[21-06]]]** God's prophets <font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>also said that the</font> **Messiah** <font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>would be a prophet, a priest, and a king.</font>
+  * **[[:zh:obs:notes:frames:21-06|[21-06]]]** God's prophets <font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>also said that the</font> **Messiah**  <font inherit/inherit;;inherit;;rgb(51, 51, 51) text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px;>would be a prophet, a priest, and a king.</font>
   * 神的先知们也说，弥赛亚将是一位先知，祭司，和一位君王。
   * **[[:zh:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the **Messiah**  would be born from a virgin.
   * 先知以赛亚曾预言，弥赛亚将由一个处女而生。
@@ -52,5 +52,5 @@
   * **[[:zh:obs:notes:frames:43-11|[43-11]]]** Peter answered them, "Every one of you should repent and be baptized in the name of Jesus **Christ**  so that God will forgive your sins."
   * 彼得回答他们，”每一个人都应该忏悔，都要以耶稣基督的名受洗，这样，神将会饶恕你们的罪。”
   * **[[:zh:obs:notes:frames:46-06|[46-06]]]** Saul reasoned with the Jews, proving that Jesus was the **Messiah**.
-  * 扫罗和犹太人讲道理，证明了耶稣就是弥赛亚。
+  * 扫罗和犹太人讲道理，证明耶稣就是弥赛亚。
 ~~DISCUSSION:off~~
