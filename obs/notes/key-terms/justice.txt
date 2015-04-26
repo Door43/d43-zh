@@ -1,8 +1,8 @@
-====== justice正义/公道 ======
+====== justice正义/公正 ======
 
 ==== (justice, justly) ====
 
-（正义/公道，公正地/公道地）
+（正义/公正，正义地/公正地）
 
 ===== Definition: =====
 
@@ -10,17 +10,17 @@
 
 Justice is right or reasonable behavior or treatment.
 
-正义/公道就是指正确的或合理的行为或为人处事。
+正义/公正，就是正确的或合理的行为或待人处事。
 
   * Laws, actions, and decisions that are just are morally right and fair.
-  * 公正的法律，行动和决策，在道德上都是正确和公平的。
+  * 公正的法律，行动和决策，在道德上都是正确的和公平的。
 
   * To rule justly is to make decisions that are morally right and to treat fairly those people over whom one rules.
-  * 公正地统治（国家），就是要在道义上做出正确的决策，以及要公平地对待受统治的人民。
+  * 公正地统治（国家），就是要在道义上做出正确的决策，要公平地对待受统治的人民。
 
 [See also: **[[:zh:obs:notes:key-terms:judge|judge]]**]
 
-[参见：正义/公道]
+[参见：审判]
 
 ===== Examples from the Bible stories: =====
 
@@ -31,7 +31,7 @@ Justice is right or reasonable behavior or treatment.
   * **[[:zh:obs:notes:frames:18-13|[18-13]]]** Some of these kings (of Judah) were good men who ruled **justly**  and worshiped God.
   * 犹大王中有一些王是和善的，公正地统治着（国家），并崇拜神。
   * **[[:zh:obs:notes:frames:19-16|[19-16]]]** They (the prophets) all told the people to stop worshiping idols and to start showing **justice**  and mercy to others.
-  * 他们（先知们）都告诉人们，停止拜偶像，要去把公义和怜悯（的一面）展示给人。
+  * 他们（先知们）都告诉人们，要停止拜偶像，要去把公义和怜悯（的一面）展示给人。
   * **[[:zh:obs:notes:frames:50-17|[50-17]]]** Jesus will rule his kingdom with peace and **justice**, and he will be with his people forever.
-  * 耶稣将用平安和公义管理着他的国度，并且将和他的子民永远在一起。
+  * 耶稣将用安宁和公义管理着他的国度，并且将和他的子民永远在一起。
 ~~DISCUSSION:off~~
