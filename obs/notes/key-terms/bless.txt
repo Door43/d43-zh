@@ -2,26 +2,26 @@
 
 ==== (bless, blessed, blessing) ====
 
-赐福，被保佑，祝福）
+赐福，被保守，祝福）
 
 ===== Definition: =====
 
 定义：
 
-Tsomeone or something is to state a desire for positive and beneficial things to happen to them.o "bless"
+To bless someone or something is to state a desire for positive and beneficial things to happen to them.
 
-“保守”某人或某事，就是说出一个愿望，希望积极和有益的事情发生在这些人身上。
+“祝福/赐福”某人或某事，就是说出一个愿望，希望积极和有益的事情发生在这些人身上。
 
   * To cause beneficial things to happen to someone or something.
   * 使有益的事情发生在某人或某事上。
   * A father would often pronounce a formal blessing on his children.
-  * 一个父亲会经常宣布一个正式的祝福给他的孩子们。
+  * 一个父亲会经常祝福他的孩子们。
   * When God blesses something he causes it to be fruitful and to have a positive effect on others.
-  * 当神保守某事时，他使这保守富有成效，并对其他人具有积极的影响。
+  * 当神保守某人或某事时，他使这保守富有成效，并对其他人具有积极的影响。
 
 The opposite of "bless" is "curse."
 
-“”赐福“的反义词是”诅咒“。
+“”祝福“的反义词是”诅咒“。
 
 [See also: **[[:zh:obs:notes:key-terms:curse|curse]]**]
 
@@ -29,7 +29,7 @@ The opposite of "bless" is "curse."
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的一些例子:
+圣经故事里的例子:
 
   * **[[:zh:obs:notes:frames:01-07|[01-07]]]** God saw that it was good and he **blessed**  them.
   * 神看见这是好的并祝福他们。
