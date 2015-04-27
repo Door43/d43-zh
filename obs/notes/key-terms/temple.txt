@@ -1,41 +1,40 @@
-====== Temple 神殿 ======
+====== Temple 圣殿 ======
 
-===== Facts: 神迹 =====
+===== Facts: =====
+
+事实依据：
 
 The Temple was a building where the Israelites offered sacrifices to God.
 
-神殿是以色列人供奉祭祀神的一所建筑。
+圣殿是以色列人供奉祭祀神的一所建筑物。
 
   * God referred to the Temple as his dwelling place where the people could come to him.
-  * 神把神殿作为他居住的地方，在那里人们可以来找他。
+  * 神把圣殿作为他居住的地方，在那里人们可以来找他。
   * Sometimes the term "Temple" refers to the whole Temple complex, including the courtyards that surrounded the main building.
-  * 有时术语“神殿”是指整个神殿综合建筑群，包括环绕主建筑的庭院。
+  * 有时“圣殿”一词，是指整个圣殿综合建筑群，包括环绕主建筑的庭院。
   * People came to the Temple building and its courtyards to pray, worship God and bring animals to sacrifice to God.
-  * 人们来到神殿建筑和庭院，祷告敬拜神，带动物来祭祀神。
+  * 人们来到圣殿建筑物和庭院，祷告敬拜神，带动物来祭祀神。
   * The inner room of the Temple building, which had a thick curtain separating it from the rest of the Temple, could not be entered by anyone except the high priest.
-  *
-
-神殿建筑的内室，有一个厚的帘子，把内室和神殿其余部分隔开，除了大祭祀，任何人不得入内。
-
+  * 圣殿建筑的内室，有一个厚的帘子，把内室和圣殿的其余部分隔开，除了大祭司，任何人不得入内。
   * The original temple that Solomon built was destroyed by the Babylonians, but was rebuilt after the Exile.
-  * 所罗门建造的原来的神殿，被巴比伦人毁坏，在流放后被重新建造。
+  * 所罗门建造的原来的圣殿，被巴比伦人毁坏，在大流放后被重新建造。
 
 [See also: **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**, **[[:zh:obs:notes:key-terms:solomon|Solomon]]**, **[[:zh:obs:notes:key-terms:babylonians|Babylonians]]**] [参见: 祭祀，所罗门，巴比伦人]
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例子：
+圣经故事里的例证：
 
   * **[[:zh:obs:notes:key-terms:17-06|[17-06]]]** David wanted to build a **temple**  where all the Israelites could worship God and offer him sacrifices.
-  * 大卫想要建造一座神殿，在那里所有的以色列人都可以敬拜神，供奉祭祀。
+  * 大卫想要建造一座圣殿，在那里所有的以色列人都可以敬拜神，供奉祭祀。
   * **[[:zh:obs:notes:key-terms:18-02|[18-02]]]** In Jerusalem, Solomon built the **Temple**  for which his father David had planned and gathered materials. Instead of at the Tent of Meeting, people now worshiped God and offered sacrifices to him at the **Temple**. God came and was present in the **Temple**, and he lived there with his people.
-  * 在耶路撒冷，所罗门建造了神殿，因为他的父亲大卫曾计划并且已经聚集了材料。取代会幕的是，现在人们在神殿敬拜神，并供奉祭祀，神来到神殿，在那里显现，他和他的人民住在那里。
+  * 在耶路撒冷，所罗门建造了圣殿，因为他的父亲大卫曾筹划建造，并且已经聚集了材料。取代会幕的是，现在人们在圣殿敬拜神，并供奉祭祀。神来到圣殿，在那里显现，他和他的子民都住在那里。
   * **[[:zh:obs:notes:key-terms:20-07|[20-07]]]** They (Babylonians) captured the city of Jerusalem, destroyed the **Temple**, and took away all the treasures.
-  * 他们（巴比伦人）占领了耶路撒冷城，毁坏了神殿，拿走了所有的金银财宝。
+  * 他们（巴比伦人）占领了耶路撒冷城，毁坏了圣殿，抢走了所有的金银财宝。
   * **[[:zh:obs:notes:key-terms:20-13|[20-13]]]** When the people arrived in Jerusalem, they rebuilt the **Temple**  and the wall around the city of the city and the **Temple**.
-  * 当人们到达耶路撒冷时，他们重建了神殿院墙和城墙。
+  * 当人们到达耶路撒冷时，他们重建了圣殿，和院墙和城墙。
   * **[[:zh:obs:notes:key-terms:25-04|[25-04]]]** Then Satan took Jesus to the highest point on the **Temple**  and said, "If you are the Son of God, throw yourself down, for it is written, 'God will command his angels to carry you so your foot does not hit a stone.'"
-  * 于是撒旦把耶稣带到神殿的制高点，说，“如果你是神的儿子，跳下去，因为经上写着，“神将命令他的天使接着你，你的脚不会碰到石头”。
+  * 于是撒旦把耶稣带到圣殿的制高点，说，“如果你是神的儿子，那就跳下去，因为经上写着，“神将命令他的天使接着你，你的脚不会碰到石头”。
   * **[[:zh:obs:notes:key-terms:40-07|[40-07]]]** When he died, there was an earthquake and the large curtain that separated the people from the presence of God in the **Temple**  was torn in two, from the top to the bottom.
-  * 在他死时，有大地震，神殿中那巨大的把人和神在显现时分隔开的帐幕从上到下裂成两半。
+  * 在他死时，有大地震，圣殿中那巨大的帐幕，把人和神在显现时分隔开，帐子从上到下裂成两半。
 ~~DISCUSSION:off~~
