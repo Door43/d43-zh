@@ -6,14 +6,14 @@
 
 ===== Facts: =====
 
-事迹实例：
+事实依据：
 
   * Sarah was Abraham's wife.
   * 撒拉是亚伯拉罕的妻子。
   * Sarah's name was originally "Sarai," but God changed it to Sarah.
-  * 撒拉 的名字原来是“萨莱”，但是神把它改成撒拉。
+  * 撒拉的名字原来是“萨莱”，但是神把它改成撒拉。
   * Sarah gave birth to the son God had promised to her and Abraham.
-  * 撒拉生了神应许她和亚伯拉罕的儿子。
+  * 撒拉生了个儿子，是神应许她和亚伯拉罕的。
 
 [See also: **[[:zh:obs:notes:key-terms:abraham|Abraham]]**, **[[:zh:obs:notes:key-terms:isaac|Isaac]]**]
 
@@ -21,7 +21,7 @@
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的一些例子：
+圣经故事里的例证：
 
   * **[[:zh:obs:notes:frames:05-01|[05-01]]]**"So Abram's wife, **Sarai**, said to him, "Since God has not allowed me to have children and now I am too old to have children, here is my servant, Hagar. Marry her also so she can have a child for me."
   * “所以亚伯拉罕的妻子萨莱对他说，”因为神尚未允许我后孩子，而且现在我老了，不能有孩子了。这是我的仆人夏甲，和她结婚吧，这样她可以为我生一个孩子”。
