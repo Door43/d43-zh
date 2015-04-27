@@ -1,4 +1,4 @@
-====== high priest 大祭司 ======
+====== high priest  大祭司 ======
 
 ===== Definition: =====
 
@@ -19,7 +19,7 @@ The high priest was the leader over all of Israel's priests.
 
 ===== Examples from the Bible stories: =====
 
-来自圣经故事实例：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:13-08|[13-08]]]** No one could enter the room behind the curtain except the **high priest**, because God lived there.
   * 除了大祭司没有人可以进入帘子后面的房间，因为神住在里面。
