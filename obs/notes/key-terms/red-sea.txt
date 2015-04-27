@@ -2,11 +2,11 @@
 
 ===== Facts: =====
 
-实例：
+事实依据：
 
 The Red Sea is a body of water that separates northern Africa from the Arabian Peninsula.
 
-红海是把北非和阿拉伯半岛分开的水域。
+红海是分隔北非和阿拉伯半岛的水域。
 
   * The Red Sea forms much of the eastern border of Egypt and is to the southwest of the Promised Land.
   * 红海形成了埃及东部边界的大部分，位于应许之地的西南。
@@ -21,7 +21,7 @@ The Red Sea is a body of water that separates northern Africa from the Arabian P
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的一些例子：
+圣经故事里的例证：
 
   * **[[:zh:obs:notes:frames:12-04|[12-04]]]** When the Israelites saw the Egyptian army coming, they realized they were trapped between Pharaoh's army and the **Red Sea**.
   * 当以色列人看到埃及军队来了，他们意识到他们被法老的军队和红海包围了。
