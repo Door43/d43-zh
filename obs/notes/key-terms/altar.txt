@@ -2,18 +2,18 @@
 
 ===== Definition: =====
 
-===== 定义 =====
+===== 定义： =====
 
 An altar is a raised structure on which sacrifices were burned as gifts, or offerings, to God.
 
-祭坛是一个叠高的建筑物用来在上面烧祭牲给神作为礼物或祭物。
+祭坛是一个叠高的结构用来在上面烧祭牲给神作为礼物或祭物。
 
   * Altars were often made by packing together a mound of earth or by carefully placing stones into a large pile.
-  * <font inherit/inherit;;inherit;;inherit>祭坛通常是把泥土堆成一堆或把石头小心的的堆成一堆作成的。</font>
+  * <font inherit/inherit;;inherit;;inherit>祭坛通常是把泥土堆成一堆或把石头小心的堆成一堆作成的。</font>
   * Some special altars were made of metal, such as gold or bronze.
-  * 有些<font inherit/inherit;;inherit;;inherit>祭坛是用金属像金或铜作成的。</font>
+  * 有些特别的祭坛是用金属造的，好像金或铜作成的。
   * God told his people to build altars on which to make sacrifices to him, and the nations around Israel also built altars to make sacrifices to their gods.
-  * 神叫祂的百姓筑<font inherit/inherit;;inherit;;inherit>祭坛在上面烧祭牲给祂。在以色列四周的列国也</font>    筑<font inherit/inherit;;inherit;;inherit>祭坛在上面烧祭牲给他们的神。</font>
+  * 神叫祂的百姓筑祭坛在上面献祭给祂。在以色列四周的列国也筑祭坛在上面献祭给他们的神。
 
 [See also: **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**]【同时看：<font inherit/inherit;;inherit;;inherit>祭牲</font>    <font inherit/inherit;;inherit;;inherit>】</font>
 
