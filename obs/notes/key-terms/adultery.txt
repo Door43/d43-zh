@@ -30,9 +30,9 @@ Be sure to translate this in a way that doesn't offend or embarrass people. Lang
 圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:13-06|[13-06]]]**"Do not commit **adultery**."
-  * [13-06]不可犯奸淫
+  * [13-06]"不可犯奸淫"
   * **[[:zh:obs:notes:frames:28-02|[28-02]]]** Do not commit **adultery**.
   * [28-02]不可犯奸淫
   * **[[:zh:obs:notes:frames:34-07|[34-07]]]**"The religious leader prayed like this, 'Thank you, God, that I am not a sinner like other men—such as robbers, unjust men, **adulterers**, or even like that tax collector.'"
-  * [34-07]『那宗教领袖是这样祈祷的：「神啊，谢谢你，我不是一个罪人，好像劫匪，不公正的人，犯奸淫者，甚至像那税吏。 」』
+  * [34-07]『那宗教领袖是这样祈祷的：「神啊，谢谢你，我不是一个罪人，好像其他人—强盗、不公正的人、犯奸淫者、甚至像那税吏。 」』
 ~~DISCUSSION:off~~
