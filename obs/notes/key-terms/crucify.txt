@@ -11,9 +11,9 @@ To crucify someone is to tie him or hang him to a cross and leave him there to s
   * People who were crucified died from either blood loss or suffocation.
   * 人被钉在十字架上，会因失血或窒息而死。
   * Crucifixion was a common method that the Roman Empire used to execute the worst criminals or people who had rebelled against the authority of Rome.
-  * 在十字架上受死是罗马帝国用于处决最坏的罪犯和那些反叛帝国的人的一种常见的方法。
+  * 罗马帝国统治者用在十字架上受死来处决罪大恶极的罪犯，以及那些反叛罗马权威的人，这在当时是一种常用的方法。
   * The Roman Empire used professional executioners to crucify people. These executioners made crucifixions as long and as painful as possible.
-  * 罗马帝国用专业的执行人实施 将人钉死在十字架上，这些行刑人员能尽可能的让受死的人死的更痛苦。
+  * 罗马帝国用专业的执行人实施 将人钉死在十字架上，这些行刑人员会尽可能的让受死的人经历更漫长痛苦的死亡过程。
   * During the time of Jesus, Rome ruled the Jews and did not allow them to execute a criminal. When the Jewish religious leaders wanted to kill Jesus, they had to ask the Roman governor to order his soldiers to crucify Jesus.
   * 在主耶稣时代，罗马帝国统治犹太人，不允许他们处决罪犯。当犹太人的宗教领袖想要处死主耶稣时，他们必须要求罗马统治者派士兵行刑，将主耶稣钉死在十字架上。
   * The Romans crucified Jesus by nailing him to a cross. He suffered for six hours, and then died.
@@ -21,7 +21,7 @@ To crucify someone is to tie him or hang him to a cross and leave him there to s
 
 [See also: **[[:zh:obs:notes:key-terms:cross|cross]]**, **[[:zh:obs:notes:key-terms:rome|Roman Empire]]**]
 
-[参见：  十字架 ，罗马帝国 ]
+[参见： 十字架 ，罗马帝国 ]
 
 ===== Examples from the Bible stories: =====
 
@@ -40,5 +40,5 @@ To crucify someone is to tie him or hang him to a cross and leave him there to s
   * **[[:zh:obs:notes:frames:43-09|[43-09]]]**"You **crucified**  this man, Jesus."
   * “你们将主耶稣钉死在十字架上。”
   * **[[:zh:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you healed by the power of Jesus the Messiah. You **crucified**  Jesus, but God raised him to life again!"
-  * 彼得 对他们说：“这站在你们面前的人，曾被主耶稣弥赛亚医治，你们在十字架上钉死了主耶稣，但神又让他复活了！”
+  * 彼得 对他们说：“这站在你们面前的人，曾被主耶稣弥赛亚的大能医治，你们在十字架上钉死了主耶稣，但神又让他复活了！”
 ~~DISCUSSION:off~~
