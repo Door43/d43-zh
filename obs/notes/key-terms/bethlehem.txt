@@ -11,7 +11,7 @@ Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It
   * King David was born in Bethlehem; for this reason it has been called the "city of David."
   * 大卫王出生在伯利恒；为着这个原因，该城也被称为“大卫之城”。
   * The prophet Micah said that the Messiah would come from Bethlehem.
-  * 先知弥迦曾说，弥赛亚会从伯利恒来。
+  * 先知弥迦曾说，弥赛亚会从伯利恒而来。
   * Bethlehem is the city where Jesus was born.
   * 伯利恒是耶稣出生的地方。
 
@@ -21,7 +21,7 @@ Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例子：
+圣经故事里的例证：
 
   * **[[:zh:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of **Bethlehem**.
   * 大卫曾是个从伯利恒城来的牧人。
@@ -30,5 +30,5 @@ Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It
   * **[[:zh:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in Nazareth to **Bethlehem**  because their ancestor was David whose hometown was **Bethlehem**.
   * 约瑟和马利亚只好从他们居住的拿撒勒长途赶路到了伯利恒，因为他们的先祖是大卫，其家乡就是伯利恒。
   * **[[:zh:obs:notes:frames:23-06|[23-06]]]**"The Messiah, the Master, has been born in **Bethlehem**!"
-  * “弥赛亚，主，出生在伯利恒”！
+  * “弥赛亚，主，已降生在了伯利恒”！
 ~~DISCUSSION:off~~
