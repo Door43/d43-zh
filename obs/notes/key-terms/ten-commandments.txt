@@ -1,6 +1,8 @@
 ====== Ten Commandments 十诫 ======
 
-===== Facts: 事例： =====
+===== Facts: =====
+
+事实依据：
 
 God told Moses many commands that He wanted the Israelites to obey. He wrote ten of these commands on two slabs of stone.
 
@@ -15,7 +17,7 @@ God told Moses many commands that He wanted the Israelites to obey. He wrote ten
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例子：
+圣经故事里的例证：
 
   * **[[:zh:obs:notes:frames:13-07|[13-07]]]** Then God wrote these **Ten Commandments**  on two stone tablets and gave them to Moses.
   * 于是神在两块石板上写下了这“ 十诫”，给了摩西。
