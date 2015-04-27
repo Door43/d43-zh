@@ -23,11 +23,11 @@ covenant is a formal, binding agreement between two parties that they must fulfi
 
 [See also: **[[:zh:obs:notes:key-terms:promise|promise]]**, **[[:zh:obs:notes:key-terms:covenant-new|New Covenant]]**]
 
-[参见：承诺 新约]
+[参见：承诺， 新约]
 
 ===== Examples from the Bible stories: =====
 
-神经故事实例：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:04-09|[04-09]]]** Then God made a **covenant**  with Abram. A **covenant**  is an agreement between two parties.
   * 神与亚伯兰立约，立约是双方之间的协议。
