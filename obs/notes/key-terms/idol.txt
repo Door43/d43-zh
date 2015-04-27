@@ -15,13 +15,7 @@ An idol is an object that people make so they can worship it.
   * Sometimes things happen by coincidence that make idols seem to have power. Sometimes demons work through idols in order to deceive people.
   * 有时，发生了巧合，使得偶像看上去似乎有权能。有时魔鬼通过偶像施法，去欺骗人。
   * Idols are often made of precious materials like gold or silver.
-  *
-偶像
-通常用像
-金
-或银
-的珍贵
-材料作成的。
+  * 偶像 通常用像 金 或银 的珍贵 材料作成的。
 
 [See also: **[[:zh:obs:notes:key-terms:god-false|god]]**, **[[:zh:obs:notes:key-terms:worship|worship]]**]
 
