@@ -1,4 +1,4 @@
-====== heal医治/痊愈/愈合 ======
+====== heal 医治/痊愈/愈合 ======
 
 ===== Definition: =====
 
@@ -21,7 +21,7 @@ To heal is to cause a person's wounds, disease, or disability (such as blindness
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例子：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:19-14|[19-14]]]** One of the miracles happened to Naaman, an enemy commander, who had a horrible skin disease. He had heard of Elisha so he went and asked Elisha to **heal**  him.
   * 这些神迹中有一个发生在乃缦身上，乃缦是一个敌方的军长，他有着可怕的皮肤病。他听说了以利沙，于是跑去请求以利沙给他治病。
