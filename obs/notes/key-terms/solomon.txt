@@ -1,6 +1,8 @@
 ====== Solomon所罗门 ======
 
-===== Facts: 事迹实例 =====
+===== Facts: =====
+
+事实依据：
 
 Solomon was the son of King David; his mother was Bathsheba.
 
@@ -21,7 +23,7 @@ Solomon was the son of King David; his mother was Bathsheba.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事力的一些例子：
+圣经故事力的例证：
 
   * **[[:zh:obs:notes:frames:17-14|[17-14]]]** Later, David and Bathsheba had another son, and they named him **Solomon**.
   * 以后，大卫和巴士巴有了另一个儿子，他们给他取名叫所罗门。
@@ -32,5 +34,5 @@ Solomon was the son of King David; his mother was Bathsheba.
   * **[[:zh:obs:notes:frames:18-03|[18-03]]]** But **Solomon**  loved women from other countries. … When **Solomon**  was old, he also worshiped their gods.
   * 但是所罗门喜欢来自其它不同国家的女人…..当所罗门老了，他还是拜她们的神。
   * **[[:zh:obs:notes:frames:18-04|[18-04]]]** God was angry with **Solomon**  and, as a punishment for **Solomon's**  unfaithfulness, he promised to divide the nation of Israel into two kingdoms after **Solomon's**  death.
-  * 神对所罗门很生气，作为对所罗门不忠的惩罚，神应许在所罗门死后把以色列国分裂成两个国。
+  * 神对所罗门很恼怒，作为对所罗门不忠的惩罚，神应许在所罗门死后把以色列国分裂成两个国。
 ~~DISCUSSION:off~~
