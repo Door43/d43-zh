@@ -36,5 +36,5 @@ Make sure that the translation of the word "holy" does not mean something that i
   * **[[:zh:obs:notes:frames:22-05|[22-05]]]**"So the baby will be **holy**, the Son of God."
   * “所以这个婴儿将是神圣的，是神的儿子。”
   * **[[:zh:obs:notes:frames:50-02|[50-02]]]** As we wait for Jesus to return, God wants us to live in a way that is **holy**  and that honors him.
-  * 在等待主耶稣归来的日子，神让我们用一种圣洁的方式生活来荣耀他。
+  * 在等待主耶稣归来的日子，神让我们以一种圣洁的方式生活来荣耀他。
 ~~DISCUSSION:off~~
