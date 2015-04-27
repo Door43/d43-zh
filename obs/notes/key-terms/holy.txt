@@ -23,7 +23,7 @@ Make sure that the translation of the word "holy" does not mean something that i
 
 ===== Examples from the Bible stories: =====
 
-来自圣经故事实例：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:01-16|[01-16]]]** He (God) blessed the seventh day and made it **holy**, because on this day he rested from his work.
   * 他（神）赐福给第7日，把这一天订为圣日，因为神在这一天停止了工作而休息。
