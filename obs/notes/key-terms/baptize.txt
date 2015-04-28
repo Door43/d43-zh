@@ -2,7 +2,7 @@
 
 ==== (to baptize, baptism) ====
 
-[施洗，（动词），施洗，（名词）]
+[施洗，（动词），施洗/洗礼（名词）]
 
 ===== Definition: =====
 
@@ -10,12 +10,12 @@
 
 To baptize someone is to ritually wash that person with water. This act is called, "baptism."
 
-施洗某人，就是在仪式上用水洗浴那人。这个行为被叫做”施洗“。
+施洗某人，就是在仪式上用水洗浴那人。这个行为被叫做”施洗”。
 
   * Baptism is a way for a person to demonstrate that they repent of their former life, and associate themselves with a certain religious group, teacher, or way of life.
-  * 施洗是为一个人声明他悔改了他原来（旧）的生命的一种方式，并把他自己和某种宗教族群，某个倡导者，或某个生活方式联系在一起。。
+  * 洗礼是为一个人声明他悔改了他原来（旧）的生命的一种方式，并把他自己和某种宗教族群，某个倡导者，或某个生活方式联系在一起。。
   * John (the Baptist) baptized people as a sign of repentance from their sins.
-  * 约翰（施洗者）施洗了人，使人从他们的罪中悔改作为一个迹象。
+  * 约翰（施洗者）给人行的洗礼，是使人从他们的罪中悔改的一个标志。
   * Christian baptism is a representation of our hearts being cleansed from sin by faith in Jesus Christ, and of our entrance into the Church.
   * 基督徒的洗礼，表明我们的心籍着信服耶稣基督，从罪中被洁净，并表明我们进入了教会。
   * Christians vary in the way they do baptism. Some pour the water on the person, and others put the person completely under the water.
@@ -30,7 +30,7 @@ To baptize someone is to ritually wash that person with water. This act is calle
 圣经故事例证：
 
   * **[[:zh:obs:notes:key-terms:24-03|[24-03]]]** When people heard John's message, many of them repented from their sins, and John **baptized**  them. Many religious leaders also came to be **baptized**  by John, but they did not repent or confess their sins.
-  * 当人们听到约翰的信息时，他们中的很多人悔改了他们的罪，并且约翰施洗了他们。很多宗教首领们也来找约翰施洗，但是他们并没有悔改或承认他们的罪。
+  * 当人们听到约翰的信息时，他们中的很多人悔改了他们的罪，并且约翰给他们行了水礼。尽管很多宗教首领们也来找约翰受洗了，但是他们并没有悔改或承认他们的罪。
   * **[[:zh:obs:notes:key-terms:24-06|[24-06]]]** The next day, Jesus came to be **baptized**  by John.
   * 第二天，耶稣来了，约翰施洗了他。
   * **[[:zh:obs:notes:key-terms:24-07|[24-07]]]** John said to Jesus, "I am not worthy to **baptize**  you. You should **baptize**  me instead."
