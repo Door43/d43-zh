@@ -10,7 +10,7 @@
 
 When someone inherits something, he or she receives something valuable from someone else because of a special relationship with that person.
 
-某人因着和另外某人的一层特殊关系，从那人接受了某些有价值的东西时，这（行为）就叫继承。
+当某人因着和另一人的一层特殊关系，从那人接受了某些有价值的东西时，这就产生了继承/传承。
 
   * **Inheritance from Family**  - After the death of a relative, sometimes family members receive money or property (items or land) that that relative owned before they died.
   * 从家族继承 - 在一个亲属去世后，有时家族的成员们就接受那亲属死前所拥有的钱财或地产（物品或土地）。
@@ -23,7 +23,7 @@ When someone inherits something, he or she receives something valuable from some
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例子：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:04-06|[04-06]]]** When Abram arrived in Canaan God said, "Look all around you. I will give to you and your descendants all the land that you can see as an **inheritance**."
   * 当亚伯兰到达迦南时，神说，“看看你四周。我将赐给你和你的后代子孙所有你能看到的土地，作为传承。”
