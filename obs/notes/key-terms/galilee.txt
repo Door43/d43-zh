@@ -1,4 +1,4 @@
-====== Galilee 加利利 ======
+====== Galilee 加利利 P ======
 
 ===== Facts: =====
 
@@ -6,12 +6,12 @@
 
 Galilee is the most northern part of Israel, farther north than Samaria.
 
-<font inherit/inherit;;inherit;;inherit>加利利是以色列最北部的部分，比撒玛利亚更北的地方。</font>
+<font inherit/inherit;;inherit;;inherit>加利利是以色列最北的地方，比撒玛利亚更靠北。</font>
 
   * Galilee is bordered on the east by a large lake called "the Sea of Galilee."
-  * 加利利是<font inherit/inherit;;inherit;;inherit>接壤于</font>    一个称为<font inherit/inherit;;inherit;;inherit>“加利利海”的大湖泊的</font>    东面。
+  * 加利利<font inherit/inherit;;inherit;;inherit>接壤于</font>    一个称为<font inherit/inherit;;inherit;;inherit>“加利利海”的大湖泊的</font>    东面。
   * Jesus grew up and lived in the town of Nazareth in Galilee.
-  * 耶稣长大，并住在加利利的小镇<font inherit/inherit;;inherit;;inherit>拿撒勒。</font>
+  * 耶稣住在加利利的小镇<font inherit/inherit;;inherit;;inherit>拿撒勒，长大成人。</font>
 
 [See also: **[[:zh:obs:notes:key-terms:samaria|Samaria]]**, **[[:zh:obs:notes:key-terms:nazareth|Nazareth]]**]
 
@@ -22,17 +22,11 @@ Galilee is the most northern part of Israel, farther north than Samaria.
 一些圣经故事的例子
 
   * **[[:zh:obs:notes:frames:21-10|[21-10]]]** The prophet Isaiah said the Messiah would live in **Galilee**, comfort broken-hearted people, and proclaim freedom to captives and release to prisoners.
-  * 先知以赛亚说弥赛亚将生活在加利利，使心碎的得安慰，并宣布被虏的得自由，被囚的得释放 。
+  * 先知以赛亚说弥赛亚将生活在加利利，使心碎的得安慰，并宣告被虏的得自由，被囚的得释放 。
   * **[[:zh:obs:notes:frames:26-01|[26-01]]]** After overcoming Satan's temptations, Jesus returned in the power of the Holy Spirit to the region of **Galilee**  where he lived.
-  * 勝过撒但的试探后，耶稣带着圣灵的能力<font inherit/inherit;;inherit;;inherit>回到了</font>    加利利他所住的区域。
+  * 勝过撒但的试探后，耶稣带着圣灵的能力<font inherit/inherit;;inherit;;inherit>回到了</font>    加利利他所住的地方。
   * **[[:zh:obs:notes:frames:39-06|[39-06]]]** Finally, the people said, "We know that you were with Jesus because you both are from **Galilee**."
-  *
-
-最后 ，有人说 ， “我们知道， 你是和 耶稣一伙的 ，因为 你们俩 都来自 加利利 。 ”
-
+  * 最后 ，有人说 ， “我们知道， 你是和耶稣一伙的，因为你们俩都来自加利利 。 ”
   * **[[:zh:obs:notes:frames:41-06|[41-06]]]** Then the angel told the women, "Go and tell the disciples, 'Jesus has risen from the dead and he will go to **Galilee**  ahead of you.'"
-  *
-
-然后天使告诉 女人们 ， “ 去告诉 门徒们 ， ” 耶稣 从死里复活了 ，他在你们以先 会去 加利利 。 '“
-
+  * 然后天使告诉女人们， “ 去告诉门徒们 ， ” 耶稣从死里复活了，他会比你们先 去加利利 。”
 ~~DISCUSSION:off~~
