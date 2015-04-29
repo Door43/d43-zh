@@ -1,34 +1,34 @@
-====== Figure of Speech 比喻 ======
+====== Figure of Speech 比拟或比喻 P ======
 
 ===== Definition =====
 
 定义\\
 * A figure of speech is a special way of speaking. In many figures of speech, the words and phrases are not meant to be understood literally. They mean something different from what the individual words mean.
 
-比喻是一种特别的表达方法。许多的时候，比喻的词句是不可以从字面上去理解的。它们的意思与单独的字义不同。
+比拟或比喻是一种特别的表达方法。许多的时候，比拟或比喻的词句是不可以从字面上去理解。整句话的意义与这些词单独来看时意义是不同的。
 
 ===== Examples from the stories =====
 
 圣经故事中的例子：\\
 * "their eyes were opened" [02-06] means that they realized something they hadn't known before. It is <font 13px/arial;;rgb(0, 0, 0);;rgb(255, 255, 255)>an example of  ** metaphor  ** : Their understanding is spoken in terms of seeing. It is also an example of</font>    **metonymy:** People can only see things when their eyes are open.
 
-他们的眼睛开了[02-06]意思是他们明白了一些从前不明白的事情。这是一个暗喻的例子：他们的明白表达为看见。同时这也是一个明喻的例子：人只有当眼睛是打开时才能看见东西。
+“他们的眼睛被打开了”[02-06]意思是他们明白了一些从前不明白的事情。这是一个暗喻的例子：用“看见”来描述他们的明白。同时这也是一个换喻的例子：人只有当眼睛是打开时才能看见东西。
 
 \\
 * "will crush his head" [02-09] means will destroy him.
 
-要打破他的头[02-09]意思是要毁灭他。
+“要打破他的头”[02-09]意思是要毁灭他。
 
 * "will wound his heal" [02-09] means will injure him, but not completely destroy him.
 
-要伤他的脚跟[02-09] 意思是要伤他，但不能完全毁灭他。
+“要伤他的脚跟”[02-09] 意思是要伤他，但不能完全毁灭他。
 
 * "he found grace in God's eyes" [03-02] is a Hebrew **idiom** that means that God chose to think kindly about him.
 
-在神的眼前蒙恩[03-02]是一个希伯来用法，意思是神要恩慈地顾念他。
+“他在神的眼前蒙恩”[03-02]是一个希伯来用法，意思是神要顾念他。
 
 * "in God's eyes" [03-02] refers to God's thoughts. It is an example of **anthropomorphism**. God is a spirit and does not have eyes like we do, but here he is said to have eyes. It is also and example of **metaphor**. God's thoughts toward Noah are spoken of in terms of God's seeing Noah.
 
-在神的眼中[03-02]说到神的看法。这是拟人用法的一个例子。神是一个灵，不像我们，他是没有眼睛的，但这里说他有眼睛。这也是一个暗喻的例子。神向着挪亚的看法是借着神看到的挪亚来表达的。
+“在神的眼前”[03-02]说到神的看法。这是一个拟人用法的例子。神是一个灵，不像我们有眼睛，但这里说他有眼睛。这也是一个暗喻的例子。借着“神看挪亚”来描述神对挪亚的看法。
 
 ~~DISCUSSION~~
