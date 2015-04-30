@@ -1,6 +1,6 @@
 ====== evil 邪恶 P ======
 
-==== (evil, wicked, bad) （邪恶的，不义的，恶的） ====
+==== (evil, wicked, bad) （邪恶的，罪恶的，坏的） ====
 
 ===== Definition: =====
 
@@ -8,22 +8,22 @@
 
 Evil is any action, thought or character that is opposed to God's holy character and will.
 
-邪恶是和神的圣洁的性格和意志背道而驰的行为，思想或性格。
+邪恶是和神的圣洁的性格和意志背道而驰的行为、思想或性格。
 
   * Evil people and evil behaviors can also be described as bad, wicked or immoral. The words "evil" and "wicked" often have a very similar meaning.
-  * 邪恶的人和行为也可以被描述为恶的，不义的或不道德的。“邪恶的”和“不义的”的字眼通常有着非常近似的意思。
+  * 邪恶的人和行为也可以被描述为恶的、不义的或不道德的。 “邪恶的”和“不义的” 这两个词，通常有着非常近似的意思。
   * The results of evil are clearly shown in how people mistreat others by killing, stealing, slandering or being cruel and unkind.
-  * 邪恶所体现的，从人们杀害，偷盗，诽谤或冷酷无情以及待人刻薄等的恶待他人的行为中就可清楚看见。
+  * 邪恶所招致的后果，从人们是如何杀害、偷盗、诽谤或冷酷无情和待人刻薄等恶待他人的行为中就显而易见。
   * An evil spirit is a being that rebels against God.
   * 邪灵是悖逆神的。
 
 "Evil" is the opposite of "good," and "wicked" is the opposite of "righteous."
 
-"邪恶”是“良善”的反义词，“不义”是“公义”的反义词。
+"邪恶的”是“良善”的反义词，“罪恶的”是“正义的”的反义词。
 
 [See also: **[[:zh:obs:notes:key-terms:disobey|disobey]]**, **[[:zh:obs:notes:key-terms:sin|sin]]**, **[[:zh:obs:notes:key-terms:good|good]]**, **[[:zh:obs:notes:key-terms:righteous|righteous]]**]
 
-[参见：违背，罪，良善的，公义的]
+[参见：违背，罪，良善的，正义的/公义的]
 
 ===== Examples from the Bible stories: =====
 
@@ -36,20 +36,20 @@ Evil is any action, thought or character that is opposed to God's holy character
   * **[[:zh:obs:notes:frames:03-02|[03-02]]]** But Noah found favor with God. He was a righteous man living among **wicked**  people.
   * 但是诺亚蒙了神的恩。他是一个生活在恶人当中的义人。
   * **[[:zh:obs:notes:frames:04-02|[04-02]]]** God saw that if they all kept working together to do **evil**, they could do many more sinful things.
-  * 神看到，如果他们都一直行恶的事，那他们就会行更多的罪。
+  * 神看到，如果他们一直都作恶多端，那他们就会做很多更加罪恶累累的事。
   * **[[:zh:obs:notes:frames:08-12|[08-12]]]**"You tried to do **evil**  when you sold me as a slave, but God used the evil for good! "
-  * “你们虽然做了一件恶事，把我当奴隶卖掉，但是神使坏事变成好事！”
+  * “你们虽然做了一件恶事，把我当奴隶卖掉了，但是神使坏事变成好事！”
   * **[[:zh:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false gods and did many **evil**  things.
-  * 他们（迦南人）拜假神，且作了很多恶事。
+  * 他们（迦南人）拜假神，且做了很多恶事。
   * **[[:zh:obs:notes:frames:17-01|[17-01]]]** But then he (Saul) became a **wicked**  man who did not obey God, so God chose a different man who would one day be king in his place.
-  * 但是后来他（扫罗）变成了一个不遵从神的恶人，所以神拣选了另外一个人，有一天他将会代替扫罗做王。
+  * 但是后来他（扫罗）变成了一个不遵从神的恶人，所以神拣选了另外一个人，有一天那人将会代替扫罗做王。
   * **[[:zh:obs:notes:frames:18-11|[18-11]]]** In the new kingdom of Israel, all the kings were **evil**.
   * 在以色列的新王国（北国），所有的国王都是邪恶的。
   * **[[:zh:obs:notes:frames:29-08|[29-08]]]** The king was so angry that he threw the **wicked**  servant into prison until he could pay back all of his debt.
-  * 国王非常震怒，就把那个邪恶的仆人送进监狱，直到他能够还清所有欠下的债。
+  * 国王非常震怒，就把那个邪恶的仆人送进了牢狱，直到他能够还清所有欠下的债。
   * **[[:zh:obs:notes:frames:45-02|[45-02]]]** They said, "We heard him (Stephen) speak **evil**  things about Moses and God!"
   * 他们说，”我们听到他（司提反）说亵渎诽谤摩西和神的话！”
   * **[[:zh:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more suffering, sadness, crying, **evil**, pain, or death.
-  * 他（耶稣）将擦干每一滴泪水，也不再有痛苦，悲伤，哭泣，邪恶，疼痛或死亡。
+  * 他（耶稣）将擦干每一滴泪水，也不再有痛苦、悲伤、哭泣、邪恶、疼痛或死亡。
 
 ~~DISCUSSION:off
