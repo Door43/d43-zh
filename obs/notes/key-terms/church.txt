@@ -1,8 +1,8 @@
-====== church 教堂 做礼拜 全体教徒 ======
+====== church 教会  教堂  做礼拜  全体教徒 ======
 
 ==== (church, Church) ====
 
-(教堂 做礼拜 全体教徒，教派 教会）
+(教会 教堂 做礼拜 全体教徒，教派 教会）
 
 ===== Definition： =====
 
@@ -10,12 +10,12 @@
 
 The word, "church" refers to a group of people who believe in Jesus. When those believers are in a local area such as a city or a region, it is written as, "church." When it refers to believers everywhere, it is written as, "Church."
 
-小写的教会代表一群相信耶稣的人。当这些信仰者在一个地区或城市聚会的地方，就是小写，为教堂。当这些信仰者在各地的总称就是大写的教派，教会。
+小写的“教会”是指一群相信耶稣的人，当这些信仰者在一个地区或城市时，就是小写的“教会”。当指这些信仰者在各地的总称就是大写的“教派” 。
 
   * The original meaning of the word for "church" in the Bible is "called out (to meet together)."
-  * 在圣经中“教堂”一词的原意是“受招集而聚在一起”
-  * "Church" could be translated as a "gathering together" or "assembly" of believers. The word "congregation" has a similar meaning. However, the believers are still the "church" even when they are not together.
-  * “教堂”也可以翻译成信仰者的“聚会”或“集会”，也就是做礼拜。但即使他们不聚在一起，“教堂”一词仍指所有信仰者，即教徒。
+  * 在圣经中“教会”一词的原意是“受招集而聚在一起”
+  * "Church" could be translated as a "gathering together" or "assembly" of believers. The word “congregation” has a similar meaning. However, the believers are still the “church” even when meaning. However, the believers are still the "church" even when they are not together.
+  * “教会”也可以翻译成信仰者的“聚会”或“集会”，和“召集”一词近似。但即使他们不聚在一起，“教堂”一词仍指所有信仰者，即教徒。
   * In the Bible, the word "church" always refers to Christian believers, and never to a building.
   * 在圣经中，“教堂”一词 一直代表基督的信仰者，从来不是指建筑物。
   * The church meets together to pray, teach God's truth, and encourage each other to live in a way that is pleasing to God.
