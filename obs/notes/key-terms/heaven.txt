@@ -1,8 +1,8 @@
-====== heaven 天国 ======
+====== heaven 天堂/天空 P ======
 
 ==== (heaven, sky, heavenly) ====
 
-（天国，天空，天上）
+（天堂，天空，天上的）
 
 ===== Definition: =====
 
@@ -10,7 +10,7 @@
 
 The word "heaven" can refer to two different things in the Bible:
 
-“天国”一词在圣经中可以指两种不同的意思。
+“heaven”一词在圣经中可以指两种不同的意思。
 
   * Sometimes "heaven" refers to the place where God lives.
   * 有时“天堂”是指神住的地方。
@@ -30,9 +30,9 @@ The word "heaven" can refer to two different things in the Bible:
   * **[[:zh:obs:notes:frames:23-07|[23-07]]]** Suddenly, the skies were filled with angels praising God, saying, "Glory to God in **heaven**  and peace on earth to the people he favors!"
   * 突然，天空中布满了天使，他们高声赞美神：“在天荣耀归于神，在地平安归于他所喜悦的人！”
   * **[[:zh:obs:notes:frames:29-09|[29-09]]]** Then Jesus said, "This is what my **heavenly**  Father will do to every one of you if you do not forgive your brother from your heart."
-  * 耶稣说：“如果你不是从内心饶恕你的弟兄，那我的天父也会以同样方式对待你们中的每一个人。”
+  * 耶稣说：“如果你不是从内心饶恕你的弟兄，那我天父也会以同样方式对待你们中的每一个人。”
   * **[[:zh:obs:notes:frames:37-09|[37-09]]]** Then Jesus looked up to **heaven**  and said, "Father, thank you for hearing me."
-  * 然后耶稣抬头向着天空说：“父啊，谢谢你听我说。”
+  * 然后耶稣抬头向着天说：“父啊，我感谢你，因为你已经垂听了我。”
   * **[[:zh:obs:notes:frames:42-11|[42-11]]]** Then Jesus went up to **heaven**, and a cloud hid him from their sight.
-  * 耶稣升上了天国，一朵云彩把他从人们的视线中遮挡住了。
+  * 耶稣被接上升，一朵云彩把他从人们的视线中遮挡住了。
 ~~DISCUSSION:off~~
