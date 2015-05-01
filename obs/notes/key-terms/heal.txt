@@ -1,4 +1,4 @@
-====== heal 医治/痊愈/愈合 ======
+====== heal 医治/痊愈/愈合 P ======
 
 ===== Definition: =====
 
@@ -6,10 +6,10 @@
 
 To heal is to cause a person's wounds, disease, or disability (such as blindness) to no longer exist. It also means to cause a sick or disabled person to be healthy again.
 
-医治，就是使人的伤口，疾病，或残疾（如盲眼）不复存在。这也是说，使一个有病或残疾的人又恢复了健康。
+医治，就是使人的伤口、疾病、或残疾（如瞎眼）不复存在。这也是说，使一个有病或残疾的人又恢复了健康。
 
   * A person who is healed has been made well.
-  * （大病）痊愈的人，已经恢复得很好。
+  * 一个痊愈的人，就是已经恢复健康了。
   * Natural healing happens gradually.
   * 逐渐地自然愈合。
   * Miraculous healing normally occur suddenly, as when Peter caused a crippled man to immediately be able to walk.
@@ -17,26 +17,26 @@ To heal is to cause a person's wounds, disease, or disability (such as blindness
 
 [See also: **[[:zh:obs:notes:key-terms:miracle|miracle]]**]
 
-[参见：奇迹]
+[参见：奇迹/神迹]
 
 ===== Examples from the Bible stories: =====
 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:19-14|[19-14]]]** One of the miracles happened to Naaman, an enemy commander, who had a horrible skin disease. He had heard of Elisha so he went and asked Elisha to **heal**  him.
-  * 这些神迹中有一个发生在乃缦身上，乃缦是一个敌方的军长，他有着可怕的皮肤病。他听说了以利沙，于是跑去请求以利沙给他治病。
+  * 这些神迹中有一个发生在乃缦身上，乃缦是敌军的一位元帅，他有着可怕的皮肤病。他听说了以利沙，于是跑去请求以利沙给他治病。
   * **[[:zh:obs:notes:frames:21-10|[21-10]]]** He (Isaiah) also predicted that the Messiah would **heal**  sick people and those who could not hear, see, speak, or walk.
-  * 他（以赛亚）预言，弥赛亚将会医治病人，以及那些不能听见和看见，不能说话或走路的那些人。
+  * 他也（以赛亚）预言说，弥赛亚将会医治生病的人，以及那些不能听见、、不能看见，不能说话或不能走路的那些人。
   * **[[:zh:obs:notes:frames:26-06|[26-06]]]** Jesus continued saying, "And during the time of the prophet Elisha, there were many people in Israel with skin diseases. But Elisha did not **heal**  any of them. He only **healed**  the skin disease of Naaman, a commander of Israel's enemies."
-  * 耶稣继续说道，“在先知以利沙时期，在以色列很多人有皮肤病。但是以利沙没有医治他们任何人。他只医治以色列的敌对军军长乃缦的皮肤病。
+  * 耶稣继续说道，“在先知以利沙的时期，在以色列很多人有皮肤病。但是以利沙没有医治他们中的任何人。他只医治以色列的敌军元帅乃缦的皮肤病。”
   * **[[:zh:obs:notes:frames:26-08|[26-08]]]** They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed**  them.
   * 他们带来了很多生病或残疾的人，包括那些不能看见，不能走路，不能听见，或不能说话的人。耶稣治好了他们。
   * **[[:zh:obs:notes:frames:32-14|[32-14]]]** She had heard that Jesus had **healed**  many sick people and thought, "I'm sure that if I can just touch Jesus' clothes, then I will be **healed**, too!"
-  * 她听说耶稣治好了很多病人，就想，“我肯定，如果我只要能摸一下耶稣的衣服，我就会也能被治愈！”
+  * 她听说耶稣治好了很多病人，就想，“我肯定，如果我只要能摸一下耶稣的衣服，那么我也会得痊愈！”
   * **[[:zh:obs:notes:frames:44-03|[44-03]]]** Immediately, God **healed**  the lame man, and he began to walk and jump around, and to praise God.
-  * 立刻，神治好了那个跛足的人，那人就开始走路和跳跃，然后赞美神。
+  * 立刻，神治好了那个瘸腿的人，那人就开始走路和跳跃，然后赞美神。
   * **[[:zh:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you **healed**  by the power of Jesus the Messiah."
-  * 彼得回答他们，“这站在你们面前的人被耶稣弥赛亚的大能得痊愈了。”
+  * 彼得回答他们，“这站在你们面前的人藉着耶稣弥赛亚的大能得痊愈了。”
   * **[[:zh:obs:notes:frames:49-02|[49-02]]]**] Jesus did many miracles that prove he is God. He walked on water, calmed storms, **healed**  many sick people, drove out demons, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
-  * 耶稣行了很多神迹，证明他就是神。他行在水上，平息了风暴，治愈了很多病人，驱魔赶鬼，使死人复活，把五块饼两条鱼变成足够的食物供5000人吃饱。
+  * 耶稣行了很多神迹，证明他就是神。他行在水上，平息了风暴，治愈了很多生病的人，驱魔赶鬼，使死人复活，把五块饼两条鱼变成足够的食物供5000多人吃饱。
 ~~DISCUSSION:off~~
