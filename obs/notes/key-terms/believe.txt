@@ -22,11 +22,11 @@
 === 2. Believe in 信奉/信服 ===
 
   * To believe in someone is to trust that that person is reliable. In other words, it is to trust that the person is who he says he is, that he always speaks the truth, and that he will do what he has promised to do.
-  * 信奉/信服某人。就是相信那人是可信赖的。换句话说，就是，相信这个人就是他说他是的那个人，相信他永远说真话，相信他将做他已承诺要做的事。
+  * 信奉/信服某人。就是相信那人是可信赖的。换句话说，就是相信那人（对方）本身是和他自己口中所说的一样的；相信他永远说真话；相信他将做他已承诺要做的事。
   * To believe in an idea or principle is to be sure that that idea or principle is the right way to act or live. For example, a person might believe in honesty, and therefore always tell the truth.
   * 信奉一种理念或信念，就是肯定那个理念或信念是正确的为人处事的方式。例如，如果一个人信奉（为人）诚实，那么他就会一直讲真话。
   * When a person truly believes in something, the person will act in such a way that shows that belief.
-  * 当一个人真正地信服某种东西时，这个人就会以显示这个信念/信仰的方式去为人处事。
+  * 当一个人真正地信服某种东西时，这个人就会以显示那种信念/信仰的方式去为人处事。
 
 [See also: **[[:zh:obs:notes:key-terms:faith|faith]]**, **[[:zh:obs:notes:key-terms:believer|believer]]**]
 
@@ -34,16 +34,16 @@
 
 ===== Examples from the Bible stories =====
 
-圣经故事里的例子：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:03-04|[03-04]]]** Noah warned the people about the coming flood and told them to turn to God, but they did not **believe**  him.
   * 诺亚警告人们，洪水将近，告诉他们去归向神，但是他们却不相信他。
   * **[[:zh:obs:notes:frames:04-08|[04-08]]]** Abram **believed**  God's promise. God declared that Abram was righteous because he **believed**  God's promise.
   * 亚伯拉罕相信神的应许。神宣布，亚伯拉罕是公义的，因为他相信神的应许。
   * **[[:zh:obs:notes:frames:11-02|[11-02]]]** God provided a way to save the firstborn of anyone who **believed in**  him.
-  * 神给出了一个办法，来拯救每个相信神的头生子（有长子继承权的人）。
+  * 神预备了一个办法，来拯救每个相信神的头生子（有长子名分的人）。
   * **[[:zh:obs:notes:frames:11-06|[11-06]]]** But the Egyptians did not **believe**  God or obey his commands.
-  * 可是埃及人既不相信神，也不服从他的指令。
+  * 可是埃及人既不相信神，也不服从他的命令。
   * **[[:zh:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the Resurrection and the Life. Whoever **believes in**  me will live, even though he dies. Everyone who **believes in**  me will never die. Do you **believe**  this?"
   * 耶稣回答说，“我就是复活和生命，无论谁信我都将得着生命，即使他死了。每个信我的人都将不会死。你相信这个吗？”
 ~~DISCUSSION:off~~
