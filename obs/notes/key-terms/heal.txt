@@ -1,4 +1,4 @@
-====== heal 医治/痊愈/愈合 P ======
+====== heal 医治/治病/痊愈/愈合 P ======
 
 ===== Definition: =====
 
@@ -6,14 +6,14 @@
 
 To heal is to cause a person's wounds, disease, or disability (such as blindness) to no longer exist. It also means to cause a sick or disabled person to be healthy again.
 
-医治，就是使人的伤口、疾病、或残疾（如瞎眼）不复存在。这也是说，使一个有病或残疾的人又恢复了健康。
+医治/治病/愈合，就是使人的伤口愈合、疾病或残疾（如失明）不再有。这也是说，使一个生病或残疾的人又恢复了健康。
 
   * A person who is healed has been made well.
-  * 一个痊愈的人，就是已经恢复健康了。
+  * 病愈之人，恢复良好。
   * Natural healing happens gradually.
-  * 逐渐地自然愈合。
+  * 自然愈合，缓慢恢复。
   * Miraculous healing normally occur suddenly, as when Peter caused a crippled man to immediately be able to walk.
-  * 奇迹般的治愈通常是突然发生的，正如彼得使一个跛脚的人立即能走路了。
+  * 奇迹般的愈合常常是突然发生的，正如彼得使一个跛脚的人立即能走路了。
 
 [See also: **[[:zh:obs:notes:key-terms:miracle|miracle]]**]
 
@@ -26,7 +26,7 @@ To heal is to cause a person's wounds, disease, or disability (such as blindness
   * **[[:zh:obs:notes:frames:19-14|[19-14]]]** One of the miracles happened to Naaman, an enemy commander, who had a horrible skin disease. He had heard of Elisha so he went and asked Elisha to **heal**  him.
   * 这些神迹中有一个发生在乃缦身上，乃缦是敌军的一位元帅，他有着可怕的皮肤病。他听说了以利沙，于是跑去请求以利沙给他治病。
   * **[[:zh:obs:notes:frames:21-10|[21-10]]]** He (Isaiah) also predicted that the Messiah would **heal**  sick people and those who could not hear, see, speak, or walk.
-  * 他也（以赛亚）预言说，弥赛亚将会医治生病的人，以及那些不能听见、、不能看见，不能说话或不能走路的那些人。
+  * 他也（以赛亚）预言说，弥赛亚将会医治生病的人，以及那些不能听见、不能看见、不能说话或不能走路的那些人。
   * **[[:zh:obs:notes:frames:26-06|[26-06]]]** Jesus continued saying, "And during the time of the prophet Elisha, there were many people in Israel with skin diseases. But Elisha did not **heal**  any of them. He only **healed**  the skin disease of Naaman, a commander of Israel's enemies."
   * 耶稣继续说道，“在先知以利沙的时期，在以色列很多人有皮肤病。但是以利沙没有医治他们中的任何人。他只医治以色列的敌军元帅乃缦的皮肤病。”
   * **[[:zh:obs:notes:frames:26-08|[26-08]]]** They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed**  them.
