@@ -6,12 +6,12 @@
 
 A king is the ruler of an independent city, state, or country.
 
-王是一个独立城市，国家或地域的统治者。
+王是一座独立城市、一个国家（国度）或一块地域的统治者。
 
   * Sometimes someone becomes king because a group of people want him to be their king.
-  * 有时，有些王做王是因为一群人想拥戴他成为他们的王。
+  * 有时，有些人成为王，是因为一群人想拥戴他做他们的王。
   * Usually when a king dies, his first son becomes king.
-  * 一般情况下，当一个王驾崩了，他的头生子继位做王。
+  * 一般情况下，当一个王去世了，他的头生子继位做王。
   * Sometimes someone will kill the king so that he can become king in his place.
   * 有时，有人谋反杀了王，从而他可以做王篡取王位。
 
@@ -21,18 +21,18 @@ A king is the ruler of an independent city, state, or country.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例子：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:08-06|[08-06]]]** One night, the Pharaoh, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
   * 一天晚上，法老，既埃及人对他们的王的称谓，做了两个梦，甚是堪扰。
   * **[[:zh:obs:notes:frames:16-01|[16-01]]]** The Israelites had no **king**, so everyone did what they thought was right for them.
-  * 以色列人曾经没有王，所以，他们做他们自己认为对的事情。
+  * 以色列人曾经没有王，所以，人人做他们自己认为对的事情。
   * **[[:zh:obs:notes:frames:16-18|[16-18]]]** Finally, the people asked God for a **king**  like all the other nations had.
-  * 最终，以色列人祈求神赐给他们一个王，就象所有其它民族一样拥有王。
+  * 最终，以色列人祈求神赐给他们一个王，就象所有其它民族拥有王一样。
   * **[[:zh:obs:notes:frames:17-05|[17-05]]]** Eventually, Saul died in battle, and David became **king**  of Israel. He was a good **king**, and the people loved him.
   * 最终，扫罗战死沙场，大卫做了以色列的王。他是一个和善的王，深受黎民百姓爱戴。
   * **[[:zh:obs:notes:frames:21-06|[21-06]]]** God's prophets also said that the Messiah would be a prophet, a priest, and a **king**.
-  * 神的先知们也说，弥赛亚将会是一个先知，一个祭司，并且是个王。
+  * 神的先知们也说，弥赛亚将会是一位先知、一位祭司，并且是一个王。
   * **[[:zh:obs:notes:frames:48-14|[48-14]]]** David was the **king**  of Israel, but Jesus is the **king**  of the entire universe!
-  * 大卫是以色列的王，但是耶稣是全宇宙的王！
+  * 大卫是以色列的王，但是耶稣是整个宇宙的王！
 ~~DISCUSSION:off~~
