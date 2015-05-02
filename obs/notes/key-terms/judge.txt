@@ -2,7 +2,7 @@
 
 ==== (to judge, judgment) ====
 
-[宣判/审判（动词），判定/判决（名词）]
+[宣判/审判（动词），审判/判决（名词）]
 
 ===== Definition: =====
 
@@ -10,29 +10,29 @@
 
 To judge is to decide whether something or someone is legally or morally right or wrong. This decision is called a "judgment."
 
-宣判/判定/审判（某事物），就是决定某事或某人在法律或道德上是否正确或错误。这个决定被称作 “判定/判决”。
+审判/宣判，就是在法律或道德层面上，决定某事或某人是否对或错。这个决定被称作 “审判/判决”。
 
   * When God judges sin, it means he condemns it as evil.
-  * 当神审判（人的）罪时，这意思是说，，神判决这罪是邪恶的。
+  * 当神审判（人的）罪时，这意思是说，神判决这罪是邪恶的。
   * The "judgment of God" may express his decision to condemn something or someone as sinful.
-  * “神的审判” 可以表达他的决定，来判处某事或某人的罪恶。
+  * “神的审判” 可以表示神做出的决定，来判处某事或某人是否有罪。
   * The "judgment of God" also often refers to his punishment of sinners.
   * “神的审判”通常也指神对罪人的惩罚。
 
 [See also: **[[:zh:obs:notes:key-terms:justice|justice]]**]
 
-[参见：正义/公道]
+[参见：正义/公义]
 
 ===== Examples from the Bible stories: =====
 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:19-16|[19-16]]]** The prophets warned the people that if they did not stop doing evil and start obeying God, then God would **judge**  them as guilty, and he would punish them.
-  * 先知们警告人们，如果他们还不停止作恶多端，改而开始敬拜神，那么神将判定他们有罪，将会惩罚他们。
+  * 先知们警告人们，如果他们还不停止作恶多端，（改而）开始敬拜神，那么神将判定他们有罪，而且将会惩罚他们。
   * **[[:zh:obs:notes:frames:21-08|[21-08]]]** A king is someone who rules over a kingdom and **judges**  the people. The Messiah would come would be the perfect king who would sit on the throne of his ancestor David. He would reign over the whole world forever, and who would always **judge**  honestly and make the right decisions.
   * 王就是统治王国和审判人民的人。将要来的弥赛亚将是完美的王，将坐在他的先祖大卫的宝座上。他将永远统治全世界，并将公平审判，做出正确的决策。
   * **[[:zh:obs:notes:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted to the other religious leaders, "We do not need any more witnesses! You have heard him say that he is the Son of God. What is your **judgment**?"
   * 大祭司愤怒地撕破了他的衣裳，向其他的宗教首领们喊到，“我们不需要任何更多的证据了！你们已经听到他说，他是神的儿子。你们的判决到底是什么？”
   * **[[:zh:obs:notes:frames:50-14|[50-14]]]** But God will **judge**  everyone who does not believe in Jesus. He will throw them into hell, where they will weep and grind their teeth in anguish forever.
-  * 但是神将审判任何一个不信耶稣的的人。他将把他们扔进地狱，在那里他们将永远地痛苦地哀哭切齿。
+  * 但是神将审判任何一个不信耶稣的的人。他将把他们扔进地狱，在那里他们将永远地在痛苦中哀哭切齿。
 ~~DISCUSSION:off~~
