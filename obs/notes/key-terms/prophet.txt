@@ -10,7 +10,7 @@
 
 A prophet is a person who speaks God's messages to people. He tells them what God wants them to know. God is the one who chooses and appoints the prophet to do this.
 
-先知是把神的信息说给人的人。神告诉先知们神想要他们知道的（事情）。神是那个拣选和指任先知做事的那一个。
+先知是把神的信息宣讲给人的人。神告诉先知神要他们知道的（事情）。神就是那个拣选和任命先知做这事的那一位。
 
   * "Prophet" could be translated as "God's spokesman."
   * “先知”可被译作 “神的发言人”。
@@ -21,22 +21,22 @@ A prophet is a person who speaks God's messages to people. He tells them what Go
   * Prophets told people about things that God had said would happen in the future.
   * 先知告诉人们，神曾说过的将会在未来发生。
   * Prophets also warned people to turn away from their sins and obey God.
-  * 先知们也警告人们，要远离罪，并信服神。
+  * 先知也警告人们，要远离罪，并信服神。
   * There were also false prophets who claimed to speak messages from false gods such as Baal.
-  * 也有假先知，他们自称是从假神，如巴力神，来传达信息的。
+  * 也有假先知，他们传从假神如巴力的信息。
 
 [See also: **[[:zh:obs:notes:key-terms:fulfill|fulfill]]**]
 
-[参见：履行/兑现]
+[参见：应验/完成/兑现]
 
 ===== Examples from the Bible stories: =====
 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a **prophet**  of God.
-  * 当以色列人看见埃及人都死了，他们信服了神并相信，摩西是神的一位先知。
+  * 当以色列人看见埃及人都死了，他们信服了神并相信：摩西是神的一位先知。
   * **[[:zh:obs:notes:frames:17-13|[17-13]]]** God was very angry about what David had done, so he sent the **prophet**  Nathan to tell David how evil his sin was.
-  * 神非常生气大卫所做的，于是他指派先知拿单告诉大卫大卫的罪是多么的邪恶。
+  * 神非常生气大卫所做的，于是他指派先知拿单，去告诉大卫他的罪是多么的邪恶。
   * **[[:zh:obs:notes:frames:19-01|[19-01]]]** Throughout the history of the Israelites, God sent them **prophets**. The **prophets**  heard messages from God and then told the people God's messages.
   * 纵观以色列的历史，神指派了先知给以色列人。先知们听到了神的信息，然后把神的信息传了百姓。
   * **[[:zh:obs:notes:frames:19-06|[19-06]]]** All the people of the entire kingdom of Israel, including the 450 **prophets**  of Baal, came to Mount Carmel.
@@ -46,9 +46,9 @@ A prophet is a person who speaks God's messages to people. He tells them what Go
   * **[[:zh:obs:notes:frames:21-09|[21-09]]]** The **prophet**  Isaiah **prophesied**  that the Messiah would be born from a virgin.
   * 先知以赛亚曾预言，弥赛亚将由一个处女而生。
   * **[[:zh:obs:notes:frames:43-05|[43-05]]]**"This fulfills the **prophecy**  made by the **prophet**  Joel in which God said, 'In the last days, I will pour out my Spirit.'"
-  * “这应验了神曾说过的先知约珥做出的预言”，“在最后的日子里，我将浇灌我的灵。”
+  * “这应验了神曾说过的先知约珥说出的预言”，“在最后的日子里，我将浇出我的灵。”
   * **[[:zh:obs:notes:frames:43-07|[43-07]]]**"This fulfills the **prophecy**  which says, 'You will not let your Holy One rot in the grave.'"
-  * “这应验了预言，既，”你必不叫你的圣者腐朽在墓里”。
+  * “这应验了预言，既，”你必不叫你的圣者腐朽在墓里（你必不将你的圣者撇在阴间）”。
   * **[[:zh:obs:notes:frames:48-12|[48-12]]]** Moses was a great **prophet**  who proclaimed the word of God. But Jesus is the greatest **prophet**  of all. He is the Word of God.
-  * 摩西是一个伟大的宣告神的话的先知。但是耶稣是所有先知中最为伟大的。他是神的道。
+  * 摩西是一位传神的福音的伟大的先知， 但是耶稣是所有先知中最为伟大的。他就是神的道。
 ~~DISCUSSION:off~~
