@@ -2,14 +2,14 @@
 
 ===== Facts: =====
 
-实例：
+事实依据：
 
 After King Solomon died, the Israelites split into two kingdoms. The kingdom of Israel was the northern kingdom, composed of ten of the tribes of Israel.
 
-在所罗门死后，以色列人分裂成两个国。以色列国是北部的国，由以色列的十个支派组成。
+在所罗门王死后，以色列人分裂成两个国。以色列国是北部的国，由以色列的十个支派组成。
 
   * All of the kings of the kingdom of Israel were evil. They convinced the people to stop worshiping God at the Temple in Jerusalem, and to serve idols and false gods instead. So God eventually sent the Assyrians to attack them and to take many of them away as captives.
-  * 以色列国的所有的国王都是昏恶的。他们说服黎民百姓停止在耶路撒冷敬拜神，
+  * 以色列国的所有的国王都是昏恶的。他们说服黎民百姓不要在耶路撒冷的圣殿敬拜假神，侍奉偶像和假神。所以神最终将派遣亚述人攻打他们，并掳走他们中的许多人。
   * The Assyrians brought foreigners to live with the few remaining people of the kingdom of Israel. These foreigners intermarried with the Israelites, and their descendants became the Samaritan people.
   * 亚述人把外邦人带来，和以色列国的少数留下来的人居住在一起。这些外邦人和以色列人互通婚姻，他们的后代就成为了撒玛利亚人。
 
@@ -19,7 +19,7 @@ After King Solomon died, the Israelites split into two kingdoms. The kingdom of 
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例子：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their kingdom in the northern part of the land and were called the **kingdom of Israel**.
   * 背叛罗波安的以色列国的其它十个支派任命一个叫耶罗波安的人为他们的王。他们在该地的北部建立了他们的王国，以色列国。
