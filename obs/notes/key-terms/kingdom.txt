@@ -9,9 +9,9 @@ A kingdom is a group of people ruled by a king.
 王国是被一个王统治着的一个族群。
 
   * A kingdom can be of any geographical size; a king might govern a nation or country or only one city.
-  * 一个王国可以是任何地理区域的大小的：一个国王可以统治一个国家，或本邦本土，或只是一个城市。
+  * 一个王国可以是不分任何地理区域大小的；一个国王可以统治一个民族、一个国家、或只是一个城市。
   * "Kingdom" also refers to the ruling or governing power that a king exercises over a group of people.
-  * “王国”也指一个国王操纵族群的统治或执政的能力。
+  * “王国”也指一个国王操纵族群的统治或执政能力。
   * God's kingdom refers to his rule over everything.
   * 神的国度是指神对一切的掌管。
   * Satan also temporarily rules over many things. This is "Satan's kingdom" which will be destroyed by God.
@@ -32,7 +32,7 @@ A kingdom is a group of people ruled by a king.
   * **[[:zh:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel rebelled against Rehoboam. Only two tribes remained faithful to him. These two tribes became the **kingdom**  of Judah.
   * 以色列国的十个支派部落起来反叛了罗波安。只有两个支派仍忠于他。这两个支派成为犹大国。
   * **[[:zh:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their **kingdom**  in the northern part of the land and were called the **kingdom**  of Israel.
-  * 背叛罗波安的以色列国的其它十个支派，选派了一个名叫耶罗波安的人做他们的王。他们把他们的国建立在了该地的北部，称作以色列国。
+  * 背叛罗波安的以色列国的其它十个支派，选派了一个名叫耶罗波安的人做他们的王。他们把自己的国建立在了该地的北部，称作以色列国。
   * **[[:zh:obs:notes:frames:21-08|[21-08]]]** A king is someone who rules over a **kingdom**  and judges the people.
-  * 国王就是统治一个国，并评判众民的人。
+  * 国王就是统治一个国、并审判人民的人。
 ~~DISCUSSION:off~~
