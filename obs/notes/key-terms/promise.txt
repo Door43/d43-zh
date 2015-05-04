@@ -13,18 +13,18 @@ A promise is a vow or commitment to do something.
   * When someone promises that something will happen, he says that it will definitely happen.
   * 当某人承诺某些事将会发生时，他说那肯定将会发生。
   * Promises are important parts of formal agreements such as covenants.
-  * 承诺是正式协议的重要部分，如合约。
+  * 承诺是正式协议的重要部分，如合约（立约）。
 
 [See also: **[[:zh:obs:notes:key-terms:covenant|covenant]]**]
 
-[参见：合约]
+[参见：合约/立约
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible Stories： =====
 
-圣经故事里的一些例子：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:03-15|[03-15]]]** God said, "I **promise**  I will never again curse the ground because of the evil things people do, or destroy the world by causing a flood, even though people are sinful from the time they are children."
-  * 神说，“我承诺（应许）我将不再因为人们做恶事而诅咒土地；或引发洪水来摧毁世界，尽管人从他们的孩童时期就是有罪的”。
+  * 神说，“我承诺我将不再因为人们做恶事而诅咒土地；或引发洪水来毁灭世界，尽管人从他们的婴孩时期就是有罪的”。
   * **[[:zh:obs:notes:frames:03-16|[03-16]]]** God then made the first rainbow as a sign of his **promise**. Every time the rainbow appeared in the sky, God would remember what he **promised**  and so would his people.
   * 神于是造了第一道彩虹作为他的应许的一个标记。每次彩虹出现在空中时，神就会记住他所应许的，他的子民也将记住。
   * **[[:zh:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and **promised**  again that he would have a son and as many descendants as the stars in the sky. Abram believed God's **promise**.
