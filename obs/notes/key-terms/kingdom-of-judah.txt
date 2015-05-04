@@ -6,11 +6,11 @@
 
 ===== Facts: =====
 
-事迹实例
+事实依据：
 
 Judah was the largest of the twelve tribes of Israel. After King Solomon died, the Israelites split into two kingdoms: Israel and Judah. The kingdom of Judah was the southern kingdom, composed of the tribes of Judah and Benjamin.
 
-犹大是以色列十二个支派中最大的一个支派。所罗门王死后，以色列人被分裂成两个国：以色列和犹大。犹大国是南部国，包括犹大和本杰明两个支派。
+犹大是以色列十二个支派中最大的一个支派。所罗门王死后，以色列人被分裂成两个国：以色列国和犹大国。犹大国是南部的国，包括犹大和本杰明两个支派。
 
   * The capital city of the kingdom of Judah was Jerusalem.
   * 犹大国的首府是耶路撒冷。
@@ -25,7 +25,7 @@ Judah was the largest of the twelve tribes of Israel. After King Solomon died, t
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例子：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:18-07|[18-07]]]** Only two tribes remained faithful to him (Rehoboam). These two tribes became the **kingdom of Judah**.
   * 只有两个支派仍然效忠于他（罗波安）。这两个支派成为了犹大国。
