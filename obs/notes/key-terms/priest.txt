@@ -6,20 +6,20 @@
 
 A priest is a person with the special job of intermediary, or standing between, God and his people. God chose Aaron and his descendants to be his priests for the people of Israel. They did many different things, including:
 
-祭司是有着专职神职的介于神和他的子民之间的人。神拣选亚伦和他的后裔为作为他的牧师给以色列人。他们做了很多不同的事迹，包括：
+祭司是介于神和他的子民之间的有着神职专职的人。神拣选亚伦和他的后裔，做他赐给以色列人的祭司。他们做了很多不同的事迹，包括：
 
   * Priests presented people's offerings to God.
-  * 祭司呈供人的奉品给神。
+  * 祭司向神供奉人的祭物。
   * Priests would pray to God for the people.
   * 祭司为人们向神祈求。
   * Priests taught the people God's instructions.
-  * 祭司教导人有关神的指示。
+  * 祭司向人传导有关神的指令。
   * Priests would bless the people.
-  * 祭司会赐福人们。
+  * 祭司也会向人赐福。
 
 "Priest" could be translated as "intermediary," "mediator," "middle-man" or "sacrificer." Besides God's priests, there were also other priests who presented offerings to false gods such as Baal.
 
-“祭司”可以翻译成 “信使（中介）”，“调解人”，“中间人”，或 “祭祀者”。除了神的祭司，也有其他的祭司，他们呈供奉品给假神，如巴力神。
+“祭司”可被翻译成 “信使（中介）”，“调解人”，“中间人”，或 “祭祀者”。除了神的祭司，也有其他的祭司，他们供奉祭品给假神，如巴力神。
 
 [See also: **[[:zh:obs:notes:key-terms:aaron|Aaron]]**, **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**]
 
@@ -27,7 +27,7 @@ A priest is a person with the special job of intermediary, or standing between, 
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的一些例子：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:04-07|[04-07]]]**"Melchizedek, the **priest**  of God Most High"
   * “麦基洗德，至高神的祭司”。
