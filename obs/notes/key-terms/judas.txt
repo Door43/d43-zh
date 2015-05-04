@@ -6,14 +6,14 @@
 
 Judas was one of Jesus' twelve apostles. However, he betrayed Jesus to the Jewish leaders.
 
-犹大是耶稣的十二个门徒中的一个。然而，他把耶稣出卖给了犹太首领。
+犹大是耶稣十二位门徒中的一个。然而，他把耶稣出卖给了犹太首领。
 
   * Judas managed the apostles' money, but he stole some of it for himself.
-  * 犹大管理着门徒们的钱，但是他经常偷一些钱据为己有。
+  * 犹大管着门徒们的钱，但是他经常偷一些钱据为己有。
   * Judas betrayed Jesus by telling the religious leaders where Jesus was so they could arrest him.
   * 犹大告诉宗教首领耶稣所在的地方，出卖了耶稣，以便他们能抓到耶稣。
   * When the religious leaders condemned Jesus to die, Judas regretted that he had betrayed Jesus, so he killed himself.
-  * 当宗教首领们判处耶稣死刑时，犹大后悔l了他对耶稣的背叛，于是自杀了。
+  * 当宗教首领们判处耶稣死刑时，犹大后悔背叛了耶稣，于是自杀了。
 
 [See also: **[[:zh:obs:notes:key-terms:apostle|apostle]]**, **[[:zh:obs:notes:key-terms:betray|betray]]**, **[[:zh:obs:notes:key-terms:jewish-leaders|religious leaders]]**]
 
@@ -24,11 +24,11 @@ Judas was one of Jesus' twelve apostles. However, he betrayed Jesus to the Jewis
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:38-02|[38-02]]]** One of Jesus' disciples was a man named **Judas**. … After Jesus and the disciples arrived in Jerusalem, **Judas**  went to the Jewish leaders and offered to betray Jesus to them in exchange for money.
-  * 耶稣门徒中有一个人叫犹大, …….在耶稣和门徒们到了耶路撒冷后，犹大去到犹太人首领那里，向他们供出了耶稣，换取了钱。
+  * 耶稣门徒中有一个人叫犹大, …….在耶稣和门徒们到了耶路撒冷后，犹大去到犹太人首领那里，向他们供出了耶稣，以换取金钱。
   * **[[:zh:obs:notes:frames:38-03|[38-03]]]** The Jewish leaders, led by the high priest, paid **Judas**  thirty silver coins to betray Jesus.
-  * 犹太首领们，由大祭司领着，付给犹大三十块银币，从而使犹大出卖了耶稣。
+  * 犹太首领们由大祭司领着，付给犹大三十块银币，从而使犹大出卖了耶稣。
   * **[[:zh:obs:notes:frames:38-14|[38-14]]]****Judas**  came with the Jewish leaders, soldiers, and a large crowd. They were all carrying swords and clubs. **Judas**  came to Jesus and said, "Greetings, teacher," and kissed him.
   * 犹大和犹太首领，士兵以及一大群人一起来了。他们全都手持宝剑和棍杖。犹大来到耶稣跟前，说，“你好，夫子，”并亲吻了他。
   * **[[:zh:obs:notes:frames:39-08|[39-08]]]** Meanwhile, **Judas**, the betrayer, saw that the Jewish leaders had condemned Jesus to die. He became full of sorrow and went away and killed himself.
-  * 与此同时，叛徒犹大看见犹太首领判处耶稣死刑，他满心悲伤地离开，自杀了。
+  * 与此同时，叛徒犹大看见犹太首领判处了耶稣死刑，他满心悲伤地离开，自杀了。
 ~~DISCUSSION:off~~
