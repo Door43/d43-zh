@@ -6,14 +6,14 @@
 
 Moses was a prophet and leader of the Israelite people for over 40 years.
 
-摩西是一位先知，做以色列人的首领长达40多年。
+摩西是一位先知，做了以色列人的首领长达40多年。
 
   * God chose Moses to free the Israelites from slavery in Egypt and lead them to the Promised Land.
-  * 神拣选了摩西把以色列人从埃及的奴役中解放了出来，并带领他们到了应许之地。
+  * 神拣选了摩西把以色列人从埃及的奴役中拯救了出来，并带领他们到了应许之地。
   * God gave Moses the stone tablets with his commandments for the Israelite people.
-  * 神赐给摩西他给以色列人写有十诫的石板。
+  * 神赐给摩西他为以色列人写有十诫的那块石板。
   * Near the end of his life, Moses disobeyed God so he didn't get to live in the Promised Land of Canaan.
-  * 在摩西晚年，他违背了神，所以他没有住在迦南的应许之地。
+  * 在摩西晚年，他悖逆了神，所以他没有住在迦南的应许之地。
 
 [See also: **[[:zh:obs:notes:key-terms:egypt|Egypt]]**, **[[:zh:obs:notes:key-terms:promised-land|Promised Land]]**]
 
@@ -24,7 +24,7 @@ Moses was a prophet and leader of the Israelite people for over 40 years.
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:09-12|[09-12]]]** One day while **Moses**  was taking care of his sheep, he saw a bush that was on fire.
-  * 一天，正当摩西正在看护着羊群时，他看见树丛在着火燃烧。
+  * 一天，正当摩西在看护着羊群时，他看见灌木丛在着火。
   * **[[:zh:obs:notes:frames:12-05|[12-05]]]****Moses**  told the Israelites, "Stop being afraid! God will fight for you today and save you."
   * 摩西告诉以色列人，“不要害怕！神今天将为你们而战，并拯救你们。”
   * **[[:zh:obs:notes:frames:12-07|[12-07]]]** God told **Moses**  to raise his hand over the sea and divide the waters.
@@ -32,5 +32,5 @@ Moses was a prophet and leader of the Israelite people for over 40 years.
   * **[[:zh:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a prophet of God.
   * 当以色列人看到埃及人都死了，他们信奉了耶稣，相信摩西就是神（派来的）的先知。
   * **[[:zh:obs:notes:frames:13-07|[13-07]]]** Then God wrote these Ten Commandments on two stone tablets and gave them to **Moses**.
-  * 于是，神在两块石板上写下了这十诫，给了摩西。
+  * 于是，神在两块石板上写下了这十诫，赐给了摩西。
 ~~DISCUSSION:off~~
