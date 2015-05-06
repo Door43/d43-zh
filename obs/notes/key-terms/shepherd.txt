@@ -15,7 +15,7 @@ A shepherd is a person who takes care of sheep.
   * They guide sheep so they don't get lost or wander into danger.
   * 他们引导着羊，这样羊群不会丢掉或步入危险之地。
   * They protect sheep from wild animals that try to attack them.
-  * 他们保护着羊不受野兽的攻击。
+  * 他们保护着羊群不受野兽的攻击。
   * It is also used as a metaphor about leaders and those who follow them.
   * 这也用来比喻领导者和跟随领导者的那些人。
 
@@ -25,7 +25,7 @@ A shepherd is a person who takes care of sheep.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的一些例子：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd**  in the wilderness far away from Egypt.
   * 摩西成为了一个远离埃及的旷野之地的牧羊人。
