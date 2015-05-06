@@ -6,12 +6,12 @@
 
 A son is someone's direct male offspring. This is a relationship term and does not depend on the person's age.
 
-儿子是某个人的直接的男性后代。这是一个关系用语，而且不依赖人的年龄。
+儿子是某个人的直接的男性后代。这是一个关系用语，而且和人的年龄无关。
 
   * "Son" usually refers to a boy or man in relation to his parents.
   * “儿子”通常是指一个男孩或男人和他的父母的关系。
   * Sometimes the word "son" refers to a boy or man in relation to someone who cares for him as if he were his or her offspring. This can happen when someone adopts a boy to be his or her son.
-  * 有时字眼“儿子”是指一个男孩或男人和某个照顾他的人的关系，就好像他是他的或她的后代。这可以发生在某个人领养了一个男孩做他的或她的儿子的情况下。
+  * 有时“儿子”是指一个男孩或男人和某个照顾他的人的关系，就好像他是他/她的后代。这可以发生在某个人领养了一个男孩做他/她的儿子的情况下。
 
 [See also: **[[:zh:obs:notes:key-terms:god-son|God the Son]]**]
 
@@ -19,7 +19,7 @@ A son is someone's direct male offspring. This is a relationship term and does n
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例证：
+圣经故事例证：
 
   * **[[:zh:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and promised again that he would have a **son**  and as many descendants as the stars in the sky.
   * 神对亚伯拉罕说了话，并再次应许他，他将会有一个儿子，并有很多子子孙孙的后代，象天上的星星一样多。
