@@ -11,7 +11,7 @@ A king is the ruler of an independent city, state, or country.
   * Sometimes someone becomes king because a group of people want him to be their king.
   * 有时，有些人成为王，是因为一群人想拥戴他做他们的王。
   * Usually when a king dies, his first son becomes king.
-  * 一般情况下，当一个王去世了，他的头生子继位做王。
+  * 通常情况下，当一个王去世了，他的长子继位做王。
   * Sometimes someone will kill the king so that he can become king in his place.
   * 有时，有人谋反杀了王，（以便）篡取王位，从而做王。
 
