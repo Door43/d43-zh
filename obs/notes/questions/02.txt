@@ -12,7 +12,7 @@
   - **What was the snake's first question to Eve? 蛇对夏娃问的第一个问题是什么？**
       * //Did God really tell you not to eat the fruit from any of the trees in the garden? [02-02] //
       * //神真的告诉你不可吃园中任何树上的果子吗？//
-  - **From Which Tree Adam and Eve were not allowed to eat? ****哪棵树上的（果子）是****不允许****亚当和夏娃吃的?**
+  - **From Which Tree Adam and Eve were not allowed to eat? ****哪棵树上的（果子）是****不允许****亚当和夏娃吃的****?**
       * //They were not to eat from tree of the knowledge of good and evil. [02-03] //
       * //他们不能吃善恶智慧树上的果子。//
   - **What did God say would happen if Adam and his wife ate from the tree of the knowledge of good and evil? ****如果亚当和他的妻子吃了善恶智慧书上的果子神说了什么将会发生？ **
@@ -29,17 +29,23 @@
       * //不是，他们自己选择吃那果子，悖逆了神。//
   - **What did the man and the woman do when they realized they were naked? ****当那男人和女人意识到他们****赤身裸体时，**** 他们做了什么？**
       * //They sewed leaves together to make clothes. [02-06] //
-      * //他们将（无花果树）////树叶缝在一起做成衣服。//////
-  - **How did the man respond when God confronted him about his sin? 当上帝当面问他的罪， 那男人怎么回答？**
-      * //He blamed the woman. [02-08] 他责备那女人。//
-  - **How did the woman respond when God confronted her about her sin? ****当上帝****当面问她的罪，**** 那女人怎么回答？**
-      * //She blamed the snake. [02-08]她责备蛇。//
-  - **What was God's curse on the snake? ****上帝对蛇的咒诅是什么？**
-      * //You will slide on your belly, and the woman's descendent will crush your head. [02-09] 你将用肚子行走，并且女人的后裔会打碎你的头。//
-  - **What was God's curse on the woman? ****上帝对女人的咒诅是什么？**
-      * //You will have painful childbirth, and although your desire will be for your husband, he will rule over you. [02-10] 你生孩子时会疼痛，尽管你的心思意念在你丈夫上，他将管辖你。 //
-  - **What was God's curse on the man? ****上帝对男人的咒诅是什么？**
-      * //You will work hard to grow food, and you will die and return to the dirt. [02-11] 你将努力劳作得到（以）食物，且你会死并归尘土。//
-  - **How did God prevent Adam and Eve from living forever?上帝怎样防止亚当和夏娃永远活下去？**
-      * //He sent them out of the garden and guarded the entrance with powerful angels. [02-12] 他将他们赶出园子并由大有能力的天使把守入口处。（使他们没法接触到生命树）。//
+      * //他们将（无花果树）////树叶缝在一起做成衣服。//
+  - **How did the man respond when God confronted him about his sin? 当神怒斥他问他的罪时， 那男人是怎么回答的？**
+      * //He blamed the woman. [02-08] //
+      * //他责备那女人。//
+  - **How did the woman respond when God confronted her about her sin? ****当神怒斥那女人****问她的罪时，**** 那女人是怎么回答？**
+      * //She blamed the snake. [02-08]//
+      * //她责备那蛇。//
+  - **What was God's curse on the snake? 神****对蛇的咒诅是什么？**
+      * //You will slide on your belly, and the woman's descendent will crush your head. [02-09] //
+      * //你必用肚子行走，并且女人的后裔会打碎你的头。//
+  - **What was God's curse on the woman? 神****对女人的咒诅是什么？**
+      * //You will have painful childbirth, and although your desire will be for your husband, he will rule over you. [02-10] //
+      * //你生产儿女时必多受痛苦，尽管你的心思意念在你丈夫身上，他必管辖你。 //
+  - **What was God's curse on the man? 神****对男人的咒诅是什么？**
+      * //You will work hard to grow food, and you will die and return to the dirt. [02-11] //
+      * //你必终身劳苦，才能种植并获得食物，而且将会死，归于尘土。//
+  - **How did God prevent Adam and Eve from living forever?神怎样阻止亚当和夏娃永远活下去？**
+      * //He sent them out of the garden and guarded the entrance with powerful angels. [02-12] //
+      * //他将他们赶出园子，并由大有能力的天使把守（园子的）入口处 。//
 **[[:zh:obs:notes:questions:01|<< ]] | [[:zh:obs:notes:questions:03| >>]]**
