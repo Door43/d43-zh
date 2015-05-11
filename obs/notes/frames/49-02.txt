@@ -6,16 +6,16 @@
 
 耶稣行了很多神迹来证明他是神。他在海上行走, 平息风暴，治愈了很多病人, 赶鬼，让死人复活，并且把五饼二鱼变成足够五千人吃的食物.
 
-===== Important Terms: =====
+===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms:miracle|miracles]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:heal|healed]]**
-  * **[[:zh:obs:notes:key-terms:demon|demons]]**
-  * **[[:zh:obs:notes:key-terms:raise|raised]]**
-  * **[[:zh:obs:notes:key-terms:death|dead]]**
-===== Translation Notes: =====
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus ]]** 耶稣
+  * **[[:zh:obs:notes:key-terms:miracle|miracles 奇迹]]**
+  * **[[:zh:obs:notes:key-terms:god|God 上帝，神]]**
+  * **[[:zh:obs:notes:key-terms:heal|healed]] 医治， ****治愈**
+  * **[[:zh:obs:notes:key-terms:demon|demons 鬼]]**
+  * **[[:zh:obs:notes:key-terms:raise|raised 举起，升起]]。**
+  * **dead 死，死亡**
+===== Translation Notes: 翻译注解： =====
 
   * **drove out demons**  - That is, "made demons come out of people."
   * 赶鬼 - 即 “将鬼从人身上赶出来”。
