@@ -1,6 +1,6 @@
 ====== 50. Jesus Returns ======
 
-<font 16px/inherit;;inherit;;inherit>** 耶稣的归来  **</font>
+<font 14px/inherit;;inherit;;inherit>耶稣的归来</font>
 
 ===== Overview: =====
 
@@ -12,7 +12,7 @@ The Church has waited for the return of Jesus for almost 2000 years. Jesus taugh
 
 ====== Translate the Story ======
 
- **<font 18px/inherit;;inherit;;inherit>故事翻译</font> **
+**<font 18px/inherit;;inherit;;inherit>故事翻译</font>    **
 
 Click on the links below to translate each frame of the story.
 
