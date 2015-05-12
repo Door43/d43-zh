@@ -1,23 +1,34 @@
-===== The Enemy [50-05] =====
+===== The Enemy [50-05]敌人 =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink&}}
 
 **Jesus** told his **disciples** a story to explain what will happen to people when the world ends. He said, “A man planted **good seed** in his field. While he was sleeping, his enemy came and planted **weed seeds** along with the **wheat**, and then he went away.”
 
 耶稣告诉他的门徒一个故事，来帮助他们了解世界的末了会是什么样。“神的国就像一个人撒好种子在地上。当他睡觉的时候，敌人来了，撒上了杂草，夹杂在麦子中，然后就离开了。
 
+New Translation:
+
+耶稣给他的门徒们讲了一个故事，解释当世界末了时对人将会发生的是什么。他说，"一个人在他的地里播种了优良的好种子。正当他睡觉时，他的敌人来了，播撒了草籽在麦地中，然后离开了。”
+
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/good|good]]**
+重要用语（词语）：
 
-
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **耶稣**
+  * **[[:zh:obs:notes:key-terms:disciple|disciples]]**
+  * **信徒/门徒**
+  * **[[:zh:obs:notes:key-terms:good|good]]**
+  * **优良的/好的**
 ===== Translation Notes: =====
 
-  * **good seed** - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for "seed." If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, "good seed like rice."
-  * **weed seeds** - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
-  * **wheat** - That is, "wheat seeds." Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
+标注（粗体字）的译文：
 
+  * **good seed**  - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for "seed." If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, "good seed like rice."
+  * 优良的种子 — 这种子就是麦子颗粒。如果这种类型的种子在你的语言地区中不为人所知，最好用一个大致的词。如果没有大致的词，有必要选一种人们知道的粮食的种子，例如 “大米的优良种子。”
+  * **weed seeds**  - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
+  * 草籽 — 所播种的草籽长得野草一样高，但不可以食用。没有用处。
+  * **wheat**  - That is, "wheat seeds." Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
+  * 麦子 — 就是 “麦粒 “。麦子是一种粮食，长得象草一样高。其种子供人食用。
 
 **[[:zh:obs:notes:frames:50-04|<<]] | [[:zh:obs:notes:50|Up]] | [[:zh:obs:notes:frames:50-06|>>]]**
