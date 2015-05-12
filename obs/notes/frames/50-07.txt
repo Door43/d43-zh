@@ -1,25 +1,38 @@
 ===== Wait for the Harvest [50-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink}}
+<font 16px/inherit;;inherit;;inherit>** 期待收获 **</font>
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
 “The **servants** responded to their **master**, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** into my **barn**.’”
 
-
 “他们回答，‘那我们要把杂草除掉么？’主人说，‘你们要是那样做的话，那好的麦子也会被拔出来的。等到收割的时候把它们都收到一起，然后再烧掉杂草，把麦子收归粮仓吧。’”
+
+New Translation:
+
+仆人问他的主人道：“我们应该把野草拔出去吗？” 主人说，“不，如果你拔了，你也会拔出一些麦苗的。等到收获时，把野草聚成一堆烧掉，把麦子收到我的粮仓里。”
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/servant|servants]]**
-  * **[[:zh:obs:notes:key-terms/lord|master]]**
+重要用语（词语）：
 
-
+  * **[[:zh:obs:notes:key-terms:servant|servants]]**
+  * **仆人**
+  * **[[:zh:obs:notes:key-terms:lord|master]]**
+  * **主人**
 ===== Translation Notes: =====
 
-  * (Jesus continues to tell the story.)
-  * **you will pull out some of the wheat as well** - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds, and to pull the weeds without uprooting the wheat.
-  * **until the harvest** - That is, "until the time when the wheat is ready to harvest" or, "until the wheat has grown enough to be harvested."
-  * **the wheat** - That is, "the harvested wheat grains."
-  * **barn** - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a "storehouse."
+标注（粗体字）译文：
 
+  * (Jesus continues to tell the story.)
+  * （耶稣继续讲故事）
+  * **you will pull out some of the wheat as well**  - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds, and to pull the weeds without uprooting the wheat.
+  * 你会把拔出的一些麦苗的 — 就是说，“你也会偶尔拔出一些麦苗的。” 会很难从野草中分辨出麦苗，并且很难拔出草而不带出麦苗。
+  * **until the harvest**  - That is, "until the time when the wheat is ready to harvest" or, "until the wheat has grown enough to be harvested."
+  * 直到收获 — 就是说，“直到麦子准备收获的时候”或 “直到麦苗已长得足够成熟，以待收获。”
+  * **the wheat**  - That is, "the harvested wheat grains."
+  * 麦子 — 就是“已收获的麦粒。”
+  * **barn**  - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a "storehouse."
+  * 粮仓  — 指已收获的麦粒被收好和贮存的建筑物。也可以被称作“堆栈/仓库”
 
 **[[:zh:obs:notes:frames:50-06|<<]] | [[:zh:obs:notes:50|Up]] | [[:zh:obs:notes:frames:50-08|>>]]**
