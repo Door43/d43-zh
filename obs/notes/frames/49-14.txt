@@ -6,18 +6,18 @@
 
 耶稣邀请你来信他并受洗。你相信耶稣是弥赛亚，神的独生儿子吗？你相信你是罪人，应该受到神的惩罚吗？你相信耶稣死在十字架上除去你的罪吗？
 
-===== Important Terms: =====
+===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms:believe|believe]]**
-  * **[[:zh:obs:notes:key-terms:baptize|baptized]]**
-  * **[[:zh:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:zh:obs:notes:key-terms:god-son|Son of God]]**
-  * **[[:zh:obs:notes:key-terms:sin|sinner]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:punish|punish]]**
-  * **[[:zh:obs:notes:key-terms:death|died]]**
-  * **[[:zh:obs:notes:key-terms:cross|cross]]**
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus ]]** 耶稣
+  * **[[:zh:obs:notes:key-terms:believe|believe]]** 信，相信
+  * **[[:zh:obs:notes:key-terms:baptize|baptized ]]** 受洗
+  * **[[:zh:obs:notes:key-terms:messiah|Messiah]]** 弥赛亚
+  * **[[:zh:obs:notes:key-terms:god-son|Son of God ]]** 神的儿子
+  * **[[:zh:obs:notes:key-terms:sin|sinner ]]** 罪人
+  * **[[:zh:obs:notes:key-terms:god|God 上帝， 神]]**
+  * **[[:zh:obs:notes:key-terms:punish|punish ]]** 惩罚
+  * **[[:zh:obs:notes:key-terms:death|died ]]** 死
+  * **[[:zh:obs:notes:key-terms:cross|cross ]]** 十字架
 ===== Translation Notes: 翻译注解 =====
 
   * **believe in him**  - This can also be translated as, "trust in him" or, "trust in him to save you" or, "entrust your whole life to him."
