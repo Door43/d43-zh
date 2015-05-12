@@ -1,32 +1,50 @@
 ===== Remain Faithful [50-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink}}
+**保持信实**
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink&}}
 
 **Jesus** also said, “A **servant** is** not greater than his master**. Just as the authorities of this world have hated me, they will torture and kill you **because of me**. Although **in this world** you will **suffer**, be encouraged because I have defeated **Satan**, the one who rules this world. If you **remain faithful to me to the end**, then **God will save you**!”
 
-
 耶稣曾说，“仆人不能高过主人。你们将因为我遭受折磨或被杀。在这个世上，你们会碰到很多麻烦，但要勇敢。我已经打败了撒旦！持守信心到最后，你们就将获救。”
 
+New Translation:
+
+耶稣也曾说，“仆人不能大过他的主人。正如这世上的权贵已经恨我了，他们会因为我折磨并迫害你们。尽管在这世上你们会受苦受难，但要坚强，因为我已经战胜撒旦这个统治这世界的魔鬼。如果你们继续信实于我到最后，那么神将会拯救你们！"
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/servant|servant]]**
-  * **[[:zh:obs:notes:key-terms/lord|master]]**
-  * **[[:zh:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:zh:obs:notes:key-terms/satan|Satan]]**
-  * **[[:zh:obs:notes:key-terms/faithful|faithful]]**
-  * **[[:zh:obs:notes:key-terms/save|save]]**
+重要的用语（词语）：
 
-
+  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **耶稣**
+  * **[[:zh:obs:notes:key-terms:servant|servant]]**
+  * **仆人**
+  * **[[:zh:obs:notes:key-terms:lord|master]]**
+  * **主人**
+  * **[[:zh:obs:notes:key-terms:suffer|suffer]]**
+  * **受苦/受难**
+  * **[[:zh:obs:notes:key-terms:satan|Satan]]**
+  * **撒旦**
+  * **[[:zh:obs:notes:key-terms:faithful|faithful]]**
+  * **信实的/忠实的**
+  * **[[:zh:obs:notes:key-terms:save|save]]**
+  * **拯救**
 ===== Translation Notes: =====
 
-  * **not greater than** - That is, "not more important than" or, in this case, "not treated better than."
-  * **because of me** - That is, "because you obey me" or, "because you teach people about me" or, "because you belong to me."
-  * **in this world** - This could also be translated as, "in this lifetime."
-  * **remain faithful to me** - That is, "Keep obeying me."
-  * **to the end** - That is, "to the end of your life."
-  * **will save you** - This refers to spiritual salvation rather than physical deliverance from harm. It has already been stated that many believers will be killed or tortured.
+标注（粗体字）的翻译：
 
+  * **not greater than**  - That is, "not more important than" or, in this case, "not treated better than."
+  * 不大于（高于）— 就是，”不比（没有）.....重要”，或在某种情况下，“不被平等对待。”
+  * **because of me**  - That is, "because you obey me" or, "because you teach people about me" or, "because you belong to me."
+  * 因为我 — 就是，“因为你们顺服我 ”或 ”因为你们向人传关于我的福音”，或 “因为你们属于我”。
+  * **in this world**  - This could also be translated as, "in this lifetime."
+  * 在这世上 — 这也可以翻译为，“在此生中"。
+  * **remain faithful to me**  - That is, "Keep obeying me."
+  * 继续信实于我 — 就是，”继续顺服我。”
+  * **to the end**  - That is, "to the end of your life."
+  * 到最后 — 就是，“直到你生命的尽头。”
+  * **will save you**  - This refers to spiritual salvation rather than physical deliverance from harm. It has already been stated that many believers will be killed or tortured.
+  * 将拯救你们 — 这是指属灵的拯救，而不是从受伤害的身体中拯救。
 
 **[[:zh:obs:notes:frames:50-03|<<]] | [[:zh:obs:notes:50|Up]] | [[:zh:obs:notes:frames:50-05|>>]]**
