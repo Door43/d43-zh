@@ -1,6 +1,6 @@
 ===== Wait for the Harvest [50-07] =====
 
-<font 16px/inherit;;inherit;;inherit>** 期待收获 **</font>
+<font 16px/inherit;;inherit;;inherit>** 等待收获  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
@@ -33,6 +33,6 @@ New Translation:
   * **the wheat**  - That is, "the harvested wheat grains."
   * 麦子 — 就是“已收获的麦粒。”
   * **barn**  - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a "storehouse."
-  * 粮仓  — 指已收获的麦粒被收好和贮存的建筑物。也可以被称作“堆栈/仓库”
+  * 粮仓 — 指已收获的麦粒被收好和贮存的建筑物。也可以被称作“堆栈/仓库”
 
 **[[:zh:obs:notes:frames:50-06|<<]] | [[:zh:obs:notes:50|Up]] | [[:zh:obs:notes:frames:50-08|>>]]**
