@@ -1,6 +1,6 @@
 ===== The Good News [50-02] =====
 
-好消息/福音
+福音/好消息
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink&}}
 
@@ -32,7 +32,7 @@ New Translation:
   * **好消息/福音**
 ===== Translation Notes: =====
 
-标注（粗体字）的翻译：
+标注（粗体字）译文：
 
   * **the end will come**  - This could be translated as, "the end of this world will come" or, "the end of this world will happen" or, "this present world will end."
   * **末期即将来临**  — 这也可以被翻译为，“这世界的末世即将来临”，或 “这世界的末期即将发生”，或 “这当今世界即将结束。”
