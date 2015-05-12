@@ -14,7 +14,7 @@ New Translation:
 
 ===== Important Terms: =====
 
-重要 用语（词语）：
+重要用语（词语）：
 
   * **[[:zh:obs:notes:key-terms:people-group|people groups]]**
   * **族群/部落**
@@ -30,7 +30,7 @@ New Translation:
   * **信徒/门徒**
 ===== Translation Notes： =====
 
-标注 （粗体字）的翻译：
+标注（粗体字）译文：
 
   * **make disciples**  - This has the meaning, "help people to become my disciples."
   * **做（成为）信徒**  — 这意思是，“帮助人们成为我的信徒。”
