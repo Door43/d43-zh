@@ -1,8 +1,8 @@
-====== church 教会  全体教徒 ======
+====== church 教会 全体教徒 ======
 
 ==== (church, Church) ====
 
-(教会  全体教徒，教派  教会的职务）
+(教会 全体教徒，教派 教会的职务）
 
 ===== Definition： =====
 
@@ -10,7 +10,7 @@
 
 The word, "church" refers to a group of people who believe in Jesus. When those believers are in a local area such as a city or a region, it is written as, "church." When it refers to believers everywhere, it is written as, "Church."
 
-“教会”(小写)是指一群信仰耶稣的人.当这些叫土徒在当地的某个地区或城市时，就是小写的“教会”。当指这些教徒在各地的总称就是“教派” (大写).
+“教会”(小写)是指一群信仰耶稣的人.当这些教徒在当地的某个地区或城市时，就是小写的“教会”。当指这些教徒在各地的总称就是“教派” (大写).
 
   * The original meaning of the word for "church" in the Bible is "called out (to meet together)."
   * 在圣经中“教会”一词的原意是“受召集而聚在一起”
@@ -31,8 +31,8 @@ The word, "church" refers to a group of people who believe in Jesus. When those 
 
 圣经故事例证：
 
-  * **[[:zh:obs:notes:frames:43-12|[43-12]]]** About 3,000 people believed what Peter said and became of Jesus. They were baptized and became part of the **church**  at Jerusalem.
-  * 大约有3000 人因相信彼得所传的福音而成为基督徒。他们受洗成为耶路撒冷教会的一部分会众。
+  * **[[:zh:obs:notes:frames:43-12|[43-12]]]** About 3,000 people believed what Peter said and became followers of Jesus. They were baptized and became part of the **church**  at Jerusalem.
+  * 大约有3000人相信彼得所传的福音而成为基督的追随者。他们受洗成为耶路撒冷教会的一部分会众。
   * **[[:zh:obs:notes:frames:46-09|[46-09]]]** Most of the people in Antioch were not Jews, but for the first time, very many of them also became believers.Barnabas and Saul went there to teach these new believers more about Jesus and to strengthen the **church**
   * 在安堤阿的大多数人都不是犹太人，其中很多人第一次听到福音就成为教徒。巴拿巴和扫罗到那里给新信徒传扬更多关于基督的福音，以壮大巩固当地的教会.
   * **[[:zh:obs:notes:frames:46-10|[46-10]]]** So the **church**  in Antioch prayed for Barnabas and Saul and placed their hands on them. Then they sent them off to preach the good news of Jesus in many other places.
