@@ -1,8 +1,8 @@
-====== inherit继承/传承/承袭 ======
+====== inherit 继承 L ======
 
 ==== (to inherit, inheritance) ====
 
-[继承（动词）传承/承袭（名词）]
+[继承（动词）产业（名词）]
 
 ===== Definition: =====
 
@@ -10,12 +10,12 @@
 
 When someone inherits something, he or she receives something valuable from someone else because of a special relationship with that person.
 
-当某人因着和他人的一层特殊关系，而从那人接受了某些有价值的东西时， 这人就继承/传承了那东西。
+当某人继承了某件东西时，表示他因着和其他人的一层特殊关系，而从那人接受了某些有价值的东西。
 
   * **Inheritance from Family**  - After the death of a relative, sometimes family members receive money or property (items or land) that that relative owned before they died.
-  * 从家族继承 — 在一个亲属去世后，家族的成员们往往就接受那亲属死前所拥有的钱财或地产（物品或土地）。
+  * 从家族继承 - 在一个亲属去世后，家族的成员们有时就接受那亲属死前所拥有的钱财或地产（物品或土地）。
   * **Inheritance from God**  - God has promised to give certain things to his people. To the descendants of Abraham, he promised land. To those who trust in Jesus, he promised an inheritance of eternal (or everlasting) life with him in heaven.
-  * 从神传承 — 神已应许把某些东西给他的子民。对于亚伯拉罕的后裔们来说，神应许了土地。对于信耶稣的那些人来说，他应许了一个和神在天国永生（或永恒）的传承。
+  * 从神承受 - 神已应许把某些东西给他的子民。对于亚伯拉罕的后裔，神应许了土地。对于信耶稣的人，祂应许他们得一个永远的（或永恒的）生命，和祂同在天国里。
 
 [See also: **[[:zh:obs:notes:key-terms:promised-land|Promised Land]]**]
 
@@ -26,9 +26,9 @@ When someone inherits something, he or she receives something valuable from some
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:04-06|[04-06]]]** When Abram arrived in Canaan God said, "Look all around you. I will give to you and your descendants all the land that you can see as an **inheritance**."
-  * 当亚伯兰到达迦南时，神说，“看看你四周。我将赐给你和你的子孙后代所有你能看到的土地，作为（继承的）产业。”
+  * 当亚伯兰到达迦南时，神说，“看看你四周。凡你能看到的土地，我将赐给你和你的后裔作为产业。”
   * **[[:zh:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to **inherit**  eternal life?"
   * 一天，一位犹太律法师来到耶稣面前，说，“老师，我必须怎么做，才能得永生？”
   * **[[:zh:obs:notes:frames:35-03|[35-03]]]**"There was a man who had two sons. The younger son told his father, 'Father, I want my **inheritance**  now!' So the father divided his property between the two sons."
-  * “有一个人，他有两个儿子。小儿子告诉他的父亲，”父亲，我想要继承我的那份产业！”于是，那父亲把他的产业分给了两个儿子。
+  * “有一个人，他有两个儿子。小儿子告诉他的父亲，”父亲，我现在要得我的那份产业！”于是，那父亲把他的产业分给了两个儿子。
 ~~DISCUSSION:off~~
