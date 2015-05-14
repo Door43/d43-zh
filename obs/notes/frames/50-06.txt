@@ -1,16 +1,12 @@
 ===== The Weeds [50-06] =====
 
-<font 16px/inherit;;inherit;;inherit>** 草籽 **</font>
+<font 16px/inherit;;inherit;;inherit>** 草籽  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink&}}
 
 “When the plants sprouted, the **servants** of the man said, ‘**Master**, you planted **good** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
 
 “当作物长出来的时候，工人们问主人，‘主人，你种了好种子，可是为什么有杂草呢？’他们的主人回答说，‘是敌人放在当中的。’”
-
-New Translation:
-
-当作物发芽生长时，仆人说道，“主人啊，你在那地里播种了好的种子。可为什么有野草在里面？”主人回答说，”必定是敌人种的。”
 
 ===== Important Terms: =====
 
