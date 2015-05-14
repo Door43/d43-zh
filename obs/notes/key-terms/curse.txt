@@ -1,4 +1,4 @@
-====== curse 诅咒 ======
+====== curse 诅咒 p ======
 
 ==== (curse, cursed) ====
 
@@ -38,5 +38,5 @@ To "curse" is the opposite of to "bless."
   * **[[:zh:obs:notes:frames:39-07|[39-07]]]** Then Peter vowed, saying, "May God **curse**  me if I know this man!"
   * 然后彼得发誓说：“如果我认识这个人，就让神诅咒我！”
   * **[[:zh:obs:notes:frames:50-16|[50-16]]]** Because Adam and Eve disobeyed God and brought sin into this world, God **cursed**  it and decided to destroy it.
-  * 因为亚当和夏娃悖逆了神，将罪恶带到了这世上，神就诅咒这个世界，并决定摧毁它。
+  * 因为亚当和夏娃悖逆了神，将罪恶带到了这世上，神就诅咒这个世界，并决定毁灭它。
 ~~DISCUSSION:off~~
