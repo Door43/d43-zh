@@ -17,7 +17,7 @@ To crucify someone is to tie him or hang him to a cross and leave him there to s
   * During the time of Jesus, Rome ruled the Jews and did not allow them to execute a criminal. When the Jewish religious leaders wanted to kill Jesus, they had to ask the Roman governor to order his soldiers to crucify Jesus.
   * 在耶稣时代，罗马帝国统治犹太人，不允许他们处决罪犯。当犹太人的宗教首领想要处死耶稣时，他们不得不要求罗马统治者派士兵行刑，来将耶稣钉死在十字架上。
   * The Romans crucified Jesus by nailing him to a cross. He suffered for six hours, and then died.
-  * 罗马人将耶稣钉在十字架上，他受了约6个小时的痛苦后死去。
+  * 罗马人将耶稣钉在十字架上，他经受了约6个小时的痛苦后死去。
 
 [See also: **[[:zh:obs:notes:key-terms:cross|cross]]**, **[[:zh:obs:notes:key-terms:rome|Roman Empire]]**]
 
@@ -40,5 +40,5 @@ To crucify someone is to tie him or hang him to a cross and leave him there to s
   * **[[:zh:obs:notes:frames:43-09|[43-09]]]**"You **crucified**  this man, Jesus."
   * “你们将耶稣钉死在十字架上。”
   * **[[:zh:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you healed by the power of Jesus the Messiah. You **crucified**  Jesus, but God raised him to life again!"
-  * 彼得回答他们说：“这站在你们面前的人，曾被主耶稣弥赛亚的大能医治，你们在十字架上钉死了耶稣，但神又让他升天复活了！”
+  * 彼得回答他们说：“这站在你们面前的人，曾被耶稣弥赛亚的大能医治，你们在十字架上钉死了耶稣，但神又让他升天复活了！”
 ~~DISCUSSION:off~~
