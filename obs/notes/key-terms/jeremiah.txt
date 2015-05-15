@@ -1,4 +1,4 @@
-====== Jeremiah 耶利米 ======
+====== Jeremiah 耶利米 L ======
 
 耶利米
 
@@ -8,23 +8,31 @@
 
 Jeremiah was a prophet of God in the kingdom of Judah.
 
-耶利米是猶大國裡神的先知。
+耶利米是犹大国里神的先知。
 
   * Like most of the prophets, Jeremiah often had to warn the people that God was going to punish them for their sins.
-  * 像大多數先知一樣，耶利米也經常警告世人，神會因他們的罪懲罰他们。
+  *
+像大多数先知一样，耶利米也经常警告世人，神会因他们的罪惩罚他们。
   * Jeremiah prophesied that the Babylonians would capture Jerusalem, which made some of the people of Judah angry. So they put him in a dry well and left him there to die. But the king of Judah ordered his servants to rescue Jeremiah from the well.
-  * 耶利米所說的有關迦勒底人將會攻佔耶路撒冷的預言，惹怒了許多猶大人。於是他們就把他關在一個枯井裡去等死。但是猶大王卻派了幾個僕人去把耶利米從井裡給救出來。
+  *
+耶利米所说的有关迦勒底人将会攻占耶路撒冷的预言，惹怒了许多犹大人。
+于是他们就把他关在一个枯井里去等死。
+但是犹大王却派了几个仆人去把耶利米从井里给救出来。
 
 [See also: **[[:zh:obs:notes:key-terms:prophet|prophet]]**, **[[:zh:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**, **[[:zh:obs:notes:key-terms:babylon|Babylon]]**]
 
-【參見：先知，猶大王國，巴比倫】
+【參見：
+先知，犹大国，巴比伦 】
 
 ===== Examples from the Bible stories: =====
 
-聖經故事裡的例子：
+圣经故事里的例子 ：
 
   * **[[:zh:obs:notes:frames:19-17|[19-17]]]** Once, the prophet **Jeremiah**  was put into a dry well and left there to die. He sank down into the mud that was in the bottom of the well, but then the king had mercy on him and ordered his servants to pull **Jeremiah**  out of the well before he died.
-  * 【19－17】有一次，先知耶利米被關在一個枯井裡等死，因為他是陷在井底下的淤泥中（有生命的危險）。但是當時的國王卻憐憫他，在他快要死之前，派了幾個僕人把耶利米從井裡拉上來。
+  * 【19－17】
+有一次，先知耶利米被关在一个枯井里等死，因为他是陷在井底下的淤泥中，
+但是当时的国王却怜悯他，在他快要死之前，派了几个仆人把耶利米从井里拉上来。
   * **[[:zh:obs:notes:frames:21-05|[21-05]]]** Through the prophet **Jeremiah**, God promised that he would make a New Covenant, but not like the covenant God made with Israel at Sinai.
-  * 【21－05】神藉著先知耶利米，應許他（以色列）要與他另立一個新的約，但是這個約並不像從前神在西乃山上與以色列所立的約。
+  * 【21－05】
+神借着先知耶利米，应许神要另立一个新约，但是这个约并不像从前神在西乃山与以色列所立的约。
 ~~DISCUSSION:off~~
