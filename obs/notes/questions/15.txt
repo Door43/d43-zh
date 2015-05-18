@@ -1,27 +1,27 @@
-====== Story #15: The Promised Land ======
+====== Story #15: The Promised Land 故事 #15：应许之地 ======
 
-===== Comprehension Questions and Answers =====
+===== Comprehension Questions and Answers 综合理解问答 =====
 
-  - **When it was time to enter the Promised Land, what did Joshua do first**
-      * //He sent two spies to Jericho. [15-01]//
-  - **What did the spies promise to do for Rahab the prostitute?**
-      * //They promised to protect Rahab and her family when the Israelites destroyed the city. [15-01]//
-  - **How were the Israelites able to cross the Jordan River?**
-      * //When the priests started to step into the Jordan River, the water stopped flowing. [15-02]//
-  - **How did the Israelites attack Jericho?**
-      * //They marched around the city once a day for six days, then on the seventh day they marched around the city seven more times. While they marched around the city for the last time, the soldiers shouted while the priests blew trumpets. [15-03], [15-04]//
-  - **What happened when the soldiers shouted and the priests blew trumpets?**
-      * //The walls of Jericho fell down so the Israelites could destroy everything in the city. [15-05]//
-  - **What happened to Rahab and her family?**
-      * //They were not killed, and became part of the Israelites. [15-05]//
-  - **How did the Gibeonites trick the Israelites into making a peace treaty with them?**
-      * //They said they were from a place far from Canaan. [15-06]//
-  - **Why did Joshua and the Israelites not know the Gibeonites were lying?**
-      * //They did not ask God. [15-06]//
-  - **Why did the Israelites keep the peace treaty and defend the Gibeonites?**
-      * //Because they had made a promise before God. [15-07]//
-  - **How did God fight for the Israelites against the Amorites?**
-      * //He confused the Amorites, sent large hailstones on them, and caused the sun to stay in one place so the Israelites had enough time to completely defeat them. [15-09], [15-10]//
+  - **When it was time to enter the Promised Land, what did Joshua do first ** 当约书亚进入应许之地时，做的第一件事是什么？
+      * //He sent two spies to Jericho. [15-01]  // 他派了两个探子去耶利哥。
+  - **What did the spies promise to do for Rahab the prostitute? ** 探子承诺妓女喇合做什么?
+      * //They promised to protect Rahab and her family when the Israelites destroyed the city. [15-01] // 当以色列人摧毁这座城时，他们承诺保护喇合和她的家人。
+  - **How were the Israelites able to cross the Jordan River? ** 以色列人是如何能穿越约旦河的?
+      * //When the priests started to step into the Jordan River, the water stopped flowing. [15-02] // 当祭司开始踏入约旦河时, 河水停止了流动。
+  - **How did the Israelites attack Jericho? ** 以色列人是怎么攻击耶利哥的?
+      * //They marched around the city once a day for six days, then on the seventh day they marched around the city seven more times. While they marched around the city for the last time, the soldiers shouted while the priests blew trumpets. [15-03], [15-04]  // 他们每天绕城一次，连续绕六天, 然后第七日绕城七次。当他们最后一次绕城时 , 祭司们吹号士兵们喊叫。
+  - **What happened when the soldiers shouted and the priests blew trumpets? ** 当士兵喊叫和祭司吹号时发生了什么 ?
+      * //The walls of Jericho fell down so the Israelites could destroy everything in the city. [15-05] // 耶利哥的城墙倒塌了，所以以色列人可以摧毁城里的一切。
+  - **What happened to Rahab and her family? ** 喇合和她的家人发生了什么？
+      * //They were not killed, and became part of the Israelites. [15-05] // 他们没有被杀死, 并成了以色列人的一部分。
+  - **How did the Gibeonites trick the Israelites into making a peace treaty with them? ** 基遍人是如何诱骗以色列人与他们签订和平条约的?
+      * //They said they were from a place far from Canaan. [15-06] // 他们说他们是从离迦南很远的地方来的。
+  - **Why did Joshua and the Israelites not know the Gibeonites were lying? ** 为什么约书亚和以色列人不知道基遍人在撒谎?
+      * //They did not ask God. [15-06] // 他们没有（询）问上帝。
+  - **Why did the Israelites keep the peace treaty and defend the Gibeonites? ** 为什么以色列遵守和平条约并保卫基遍人?
+      * //Because they had made a promise before God. [15-07]  // 因为他们在神面前做了承诺。
+  - **How did God fight for the Israelites against the Amorites? ** 上帝是如何帮以色列人与亚摩利人争战的？
+      * //He confused the Amorites, sent large hailstones on them, and caused the sun to stay in one place so the Israelites had enough time to completely defeat them. [15-09], [15-10] // 他扰乱亚摩利人, 对他们降了很大的冰雹 , 使太阳总呆在一个地方，以便以色列人有足够的时间完全打败他们。
   - **What did Joshua and the Israelites do to the other Canaanite people groups who attacked them?**
       * //Joshua and the Israelites destroyed them. [15-11]//
   - **How was the Promised Land divided?**
@@ -30,60 +30,6 @@
       * //To remind them of their obligation to obey the covenant that God had made with them. [15-13]//
   - **How did the Israelites answer Joshua?**
       * //They promised to remain faithful to God and to follow his laws. [15-13]//
-**[[:zh:obs:notes:questions:14|<< ]] | [[:zh:obs:notes:questions:16| >>]]**
+**[[:zh:obs:notes:questions:14|<< ]] | [[:zh:obs:notes:questions:16| >>]]**<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit># 15:</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>应许之地</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>领悟问题和答案</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>1</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。当约书亚进入应许之地时做了什么？</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他派了两个间谍去耶利哥。(15-01)</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>2</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。间谍承诺妓女喇合做什么?</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他们承诺当以色列人摧毁这座城市时保护喇合和她的家人。(15-01)</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>3</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。以色列人是如何能穿越约旦河的?</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>当祭司开始进入约旦河时,</font> 河水停止了流动。 (15-02) \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>4</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。以色列人是怎么攻击耶利哥?</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他们每天绕城一次连续绕六天,</font> 然后第七日绕城七次。当他们最后一次在绕城时 , 祭司吹号士兵们喊叫。 [15-03],[15-04] \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>5</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。当士兵喊叫,</font> 祭司吹号时发生了什么 ? \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>耶利哥的城墙倒塌了，所以以色列人可以摧毁一切。(15-05)</font>
 
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit># 15:</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>应许之地</font>   \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>领悟问题和答案</font>   \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>1</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。当约书亚进入应许之地时做了什么？</font>   \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他派了两个间谍去耶利哥。(15-01)</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>2</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。间谍承诺妓女喇合做什么?</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他们承诺当以色列人摧毁这座城市时保护喇合和她的家人。(15-01)</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>3</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。以色列人是如何能穿越约旦河的?</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>当祭司开始进入约旦河时,</font> 河水停止了流动。
-(15-02)    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>4</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。以色列人是怎么攻击耶利哥?</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他们每天绕城一次连续绕六天,</font> 然后第七日绕城七次。当他们最后一次在绕城时
-, 祭司吹号士兵们喊叫。
-[15-03],[15-04]    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>5</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。当士兵喊叫,</font> 祭司吹号时发生了什么
-?    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>耶利哥的城墙倒塌了，所以以色列人可以摧毁一切。(15-05)</font>
-
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>6.</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>喇合和她的家人发生了什么</font>   \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他们没有被杀死,</font> 并成了以色列人中的一部分。
-(15-05)    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>7</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。基遍人是如何诱使以色列人与他们签订和平条约的?</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他们说他们是从远离迦南的地方来的。(15-06)</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>8</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。为什么约书亚和以色列人不知道基遍人在撒谎?</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他们没有问上帝。(15-06)</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>9</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。为什么以色列遵守和平条约并保护基遍人?</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>因为他们在神之前做了承诺。(15-07)</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>10</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。上帝是如何帮以色列人与亚摩利人战斗的呢?</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他扰乱亚摩利人,</font> 对他们降了很大的冰雹
-, 使太阳总呆在一个地方，以便以色列人有足够的时间完全打败他们。
-[15-09],[10]    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>11</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。约书亚和以色列人对其他攻击他们的迦南人团伙做了什么?</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>约书亚和以色列人摧毁了他们。(15-11)</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>12</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。应许之地是如何划分的?</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>上帝给以色列每十二个支派一份自己的领域。(15,15)</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>13</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。为什么在约书亚年老的时候叫以色列人在一起?</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>提醒他们要遵循上帝所立的契约。</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>(</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>战绩)</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>14</font>
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。以色列人是如何回答约书亚?</font>    \\
-<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他们承诺忠实于上帝并遵循他的律法。(15-13)</font>
+<font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>6.</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>喇合和她的家人发生了什么</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他们没有被杀死,</font> 并成了以色列人中的一部分。 (15-05) \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>7</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。基遍人是如何诱使以色列人与他们签订和平条约的?</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他们说他们是从远离迦南的地方来的。(15-06)</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>8</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。为什么约书亚和以色列人不知道基遍人在撒谎?</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他们没有问上帝。(15-06)</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>9</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。为什么以色列遵守和平条约并保护基遍人?</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>因为他们在神之前做了承诺。(15-07)</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>10</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。上帝是如何帮以色列人与亚摩利人战斗的呢?</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他扰乱亚摩利人,</font> 对他们降了很大的冰雹 , 使太阳总呆在一个地方，以便以色列人有足够的时间完全打败他们。 [15-09],[10] \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>11</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。约书亚和以色列人对其他攻击他们的迦南人团伙做了什么?</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>约书亚和以色列人摧毁了他们。(15-11)</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>12</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。应许之地是如何划分的?</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>上帝给以色列每十二个支派一份自己的领域。(15,15)</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>13</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。为什么在约书亚年老的时候叫以色列人在一起?</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>提醒他们要遵循上帝所立的契约。</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>(</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>战绩)</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>14</font> <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>。以色列人是如何回答约书亚?</font> \\ <font 12pt/ ;;rgb(102, 102, 102) line-height: 150%; font-family: 宋体; font-size: 12pt;;;inherit>他们承诺忠实于上帝并遵循他的律法。(15-13)</font>
