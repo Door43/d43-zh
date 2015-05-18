@@ -1,4 +1,4 @@
-====== wise 智慧 W ======
+====== wise 智慧 P ======
 
 === (wise, wisdom, wisely) （智慧的，智慧，明智地） ===
 
@@ -11,9 +11,9 @@ A person who is "wise" is one who exercises "wisdom." To be wise is to discern o
   * To have "wisdom" is to possess important knowledge or experience.
   * 有”智慧“，就要具备重要的知识或经历。
   * A "wise" person is able to make good choices.
-  * 一个”智慧“的人是能够做出正确的选择的。
+  * 一个”智慧的"人是能够做出正确的选择的。
   * To act "wisely" is to know what is right and to do it.
-  * 行动有<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>”智慧“</font> ，就是知道什么是正确的，并且去做。
+  * 行动有<font inherit/inherit;;inherit;;inherit>”智慧“</font>    ，就是知道什么是正确的，并且去做。
 
 ===== Examples from the Bible stories: =====
 
@@ -24,7 +24,7 @@ A person who is "wise" is one who exercises "wisdom." To be wise is to discern o
   * **[[:zh:obs:notes:frames:18-01|[18-01]]]** When Solomon asked for **wisdom**, God was pleased and made him the **wisest**  man in the world.
   * 当所罗门求智慧时，神很喜悦，并使他成为世上最有智慧的人。
   * **[[:zh:obs:notes:frames:23-09|[23-09]]]** Some time later, **wise**  men from countries far to the east saw an unusual star in the sky.
-  * 一段时间以后，来自遥远东方一些国家的智慧人看见了空中一颗不寻常的星星。
+  * 一段时间以后，来自遥远东方国家的智慧人看见了空中一颗不寻常的星星。
   * **[[:zh:obs:notes:frames:45-01|[45-01]]]** He (Stephen) had a good reputation and was full of the Holy Spirit and of **wisdom**.
   * 他（司提反）有好名声，并且满了圣灵和智慧。
 ~~DISCUSSION:off~~
