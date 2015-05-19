@@ -1,4 +1,4 @@
-====== witness 证人/见证人/目击者 ======
+====== witness 见证人 ======
 
 ===== Definition: =====
 
@@ -6,14 +6,14 @@
 
 A witness is someone who has seen or heard something happen.
 
-见证人/证人/是已经看到或听到所发生的（某些）事的人。
+见证人是看到或听到所发生的某些事的人。
 
   * During a trial, witnesses tell what they have seen or heard. What the witnesses say helps the judge to decide if the person being accused is guilty or innocent.
-  * 在审判时，见证人（证人）陈述他们所看到的或听到的。见证人（证人）所说的可以帮助法官决定这个被起诉的人是否有罪或无罪。
+  * 审判时，见证人陈述他们所看到或听到的。见证人所说的可以帮助法官决定被起诉的人是否有罪。
   * Witnesses are expected to tell the truth about what they have seen or heard.
-  * 人们希望见证人（证人）告诉他们所看到的或听到的真相。
+  * 见证人应当把所看到的或听到的真相讲出来。
   * A witness who does not tell the truth about what he has seen or heard is called a, "false witness."
-  * 一个不说出真相（所看到的或听到的）的见证人/证人，被叫做 “假见证人”/“假证人”。
+  * 一个不<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>所看到的或听到的</font> 说出来证人，被叫做 “假见证人”。
 
 [See also: **[[:zh:obs:notes:key-terms:guilt|guilt]]**, **[[:zh:obs:notes:key-terms:judge|judge]]**]
 
