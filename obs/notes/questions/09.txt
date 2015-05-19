@@ -2,34 +2,62 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Why were the Egyptians afraid of the Israelites?****为什么埃及人害怕以色列人?**
-  - //Because there were so many Israelites. [09-02] 因为有太多的以色列人.
-  - **What did Pharaoh do to the Israelites because he was afraid of them? 法老因为害怕他们，对以色列人做了什么。 
-      * //He made them slaves to the Egyptians. [09-02] 他使他们做埃及人的奴隶.
-  - **How did Pharaoh try to keep the Israelites from increasing in number? 法老如何设法使以色列人数不增加?**
-      * //He ordered all Israelite baby boys to be thrown into the Nile River. [09-04] 他下令把所有以色列男婴扔进尼罗河.//
-  - **What happened to the baby boy in the basket in the river? 在篮子里的男婴在河里发生了什么?**
-      * //A daughter of Pharaoh saw him, took him as her own son, and named him Moses. [09-06], [09-07] 法老的女儿看到他,把他当作自己的儿子,并给他取名为摩西.//
-  - **What did Moses do in order to save a fellow Israelite? 摩西为了保护一个以色列人做了什么?**
-      * //He killed an Egyptian who was beating him, and buried the Egyptian's body. [09-08], [09-09] 他把一个埃及人殴打致死,而且埋葬了这个埃及人的尸体.//
-  - **Why did Moses have to flee from Egypt? 为什么摩西不得不逃亡埃及?**
-      * //When Pharaoh found out that he killed the Egyptian, he wanted to kill Moses. [09-10] 当法老发现摩西杀了那个埃及人,他就想杀了摩西.//
-  - **Where did Moses go to escape from Pharaoh? 摩西逃脱法老去了哪里?**
-      * //He went to the wilderness. [09-10] 他去了旷野.//
-  - **What unusual thing did Moses see while taking care of his sheep in the wilderness? 当摩西在旷野照看他的羊时，他看到了什么不寻常的事情?**
-      * //He saw a bush that was on fire, but it did not burn up. [09-12] 他看到荆棘被火烧着,,但是没有毁坏.//
-  - **What did God tell Moses as he approached the burning bush? 当摩西接近燃烧的荆棘时，神告诉摩西什么?**
-      * //God said, "Moses, take off your shoes. You are standing on holy ground." [09-12] 神说,"摩西,脱下你的鞋子,你正站在圣地上".//
-  - **How do we know God cared about the Israelites in Egypt? 我们怎么知道神关心在埃及的以色列人?**
-      * //God said to Moses, "I have seen the suffering of my people." [09-13] 神对摩西说,"我已经看到我的百姓的苦难".//
-  - **What did God send Moses to do for the Israelites? 神派摩西为以色列人做了什么?**
-      * //God told him to go to Pharaoh and bring the Israelites out of their slavery in Egypt. [09-13]神打发他去见法老并将以色列人从为奴之地的埃及领出来.
-  - **What land did God say he would give to the Israelites? 神说他将给以色列人什么土地?**
-      * //The land of Canaan, the land God had promised to Abraham, Isaac, and Jacob. [09-13] 迦南地,就是神已经向亚伯拉罕,以撒和雅各许诺的这块地.//
-  - **What name did God say would be his forever? 神说什么名字直到永远都将是他的名字.**
-      * //Yahweh. [09-14] 耶和华。
-  - **Who did God send to help Moses?神派谁去帮助摩西?**
-      * //God sent Moses' brother, Aaron, to help him. [09-15]神派摩西的弟兄,亚伦去帮助他.//
-  - **How did God say Pharaoh would react to Moses and Aaron?神是怎么说法老对摩西和亚伦的反应?**
-      * //Pharaoh would be stubborn. [09-15]法老将固执己见.//
-**[[:zh:obs:notes:questions:08|<< ]] | [[:zh:obs:notes:questions:10| >>]]*
+**1. Why were the Egyptians afraid of the Israelites?****为什么埃及人害怕以色列人?  **
+
+//* Because there were so many Israelites. [09-02] 因为有太多的以色列人. - //
+
+//**2. What did Pharaoh do to the Israelites because he was afraid of them? 法老因为害怕他们，对以色列人做了什么。 *** //
+
+//*** //He made them slaves to the Egyptians. [09-02] 他使他们做埃及人的奴隶. - // ** //
+
+//**//**3. How did Pharaoh try to keep the Israelites from increasing in number? 法老如何设法使以色列人数不增加?** // ** //
+
+//**//* // He ordered all Israelite baby boys to be thrown into the Nile River. [09-04] 他下令把所有以色列男婴扔进尼罗河.// - // ** //
+
+//**//**4. What happened to the baby boy in the basket in the river? 在篮子里的男婴在河里发生了什么?** // ** //
+
+//**//* // A daughter of Pharaoh saw him, took him as her own son, and named him Moses. ** ////**法老的女儿看到他,把他当作自己的儿子,并给他取名为摩西.// - // ** //
+
+//**//**5. What did Moses do in order to save a fellow Israelite? 摩西为了保护一个以色列人做了什么?** // ** //
+
+//**//* // He killed an Egyptian who was beating him, and buried the Egyptian's body. [09-08], [09-09] 他把一个埃及人殴打致死,而且埋葬了这个埃及人的尸体.// - // ** //
+
+//**//**6. Why did Moses have to flee from Egypt? 为什么摩西不得不逃亡埃及?** // ** //
+
+//**//* // When Pharaoh found out that he killed the Egyptian, he wanted to kill Moses. ** ////**当法老发现摩西杀了那个埃及人,他就想杀了摩西.// -// ** //
+
+//**//**7. Where did Moses go to escape from Pharaoh? 摩西逃脱法老去了哪里?** // ** //
+
+//**//* // He went to the wilderness. [09-10] 他去了旷野.// - // ** //
+
+//**//**8. What unusual thing did Moses see while taking care of his sheep in the wilderness? 当摩西在旷野照看他的羊时，他看到了什么不寻常的事情?** // ** //
+
+//**//* // He saw a bush that was on fire, but it did not burn up. [09-12] 他看到荆棘被火烧着,,但是没有毁坏.// - // ** //
+
+//**//**9. What did God tell Moses as he approached the burning bush? 当摩西接近燃烧的荆棘时，神告诉摩西什么?** // ** //
+
+//**//* // God said, "Moses, take off your shoes. You are standing on holy ground." [09-12] 神说,"摩西,脱下你的鞋子,你正站在圣地上".// // ** //
+
+//**//**10. How do we know God cared about the Israelites in Egypt? 我们怎么知道神关心在埃及的以色列人?** // ** //
+
+//**//* // God said to Moses, "I have seen the suffering of my people." [09-13] 神对摩西说,"我已经看到我的百姓的苦难".// // ** //
+
+//**//11. **What did God send Moses to do for the Israelites? 神派摩西为以色列人做了什么?** // ** //
+
+//**//* // God told him to go to Pharaoh and bring the Israelites out of their slavery in Egypt. [09-13]神打发他去见法老并将以色列人从为奴之地的埃及领出来. - ** //
+
+//**12. ** What land did God say he would give to the Israelites? 神说他将给以色列人什么土地?** ** //
+
+//*** //The land of Canaan, the land God had promised to Abraham, Isaac, and Jacob. [09-13] 迦南地,就是神已经向亚伯拉罕,以撒和雅各许诺的这块地.// - ** //
+
+//**13. ** What name did God say would be his forever? 神说什么名字直到永远都将是他的名字.** ** //
+
+//*** //Yahweh. [09-14] 耶和华。 - // ** //
+
+//**//**14. Who did God send to help Moses?神派谁去帮助摩西?** // ** //
+
+//**//* // God sent Moses' brother, Aaron, to help him. [09-15]神派摩西的弟兄,亚伦去帮助他.// - // ** //
+
+//**//**15. How did God say Pharaoh would react to Moses and Aaron?神是怎么说法老对摩西和亚伦的反应?** // ** //
+
+//**//* // Pharaoh would be stubborn. [09-15]法老将固执己见.// **[[:zh:obs:notes:questions:08|<< ]] | [[:zh:obs:notes:questions:10| >>]]* // ** //
