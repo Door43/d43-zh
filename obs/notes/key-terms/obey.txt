@@ -1,4 +1,4 @@
-====== obey顺服 W ======
+====== obey 顺服 L ======
 
 ===== Definition: =====
 
@@ -6,14 +6,14 @@
 
 To obey is to follow the law or to do what someone in authority commands.
 
-顺服就是遵守律法，或做掌权者的命令。
+顺服就是遵守律法，或做掌权者所命令的。
 
   * When the law or someone in authority commands people to do something, they obey by doing it.
   * 当律法或掌权者命令人们去做某事时，人们照着去做就是顺服。
   * When the law or someone in authority commands people not to do something, they obey by not doing it.
   * 当律法或掌权者命令人们不要做某事时，人们不去做就是顺服。
   * <font inherit/inherit;;inherit;;inherit>The only person who completely obeyed God was Jesus Christ, and him alone. The opposite of "obey" is "disobey."</font>
-  * 唯一完全顺服神的人只有耶稣基督，仅他而已。“顺服”的反义词是“悖逆”。
+  * 唯一完全顺服神的人只有耶稣基督，仅祂而已。“顺服”的反义词是“悖逆”。
 
 [See also: **[[:zh:obs:notes:key-terms:disobey|disobey]]**]
 
@@ -32,5 +32,5 @@ To obey is to follow the law or to do what someone in authority commands.
   * **[[:zh:obs:notes:frames:05-10|[11-06]]]** But the Egyptians did not believe God or **obey**  his commands.
   * 但是埃及人既不相信神，也不顺服神的命令。
   * **[[:zh:obs:notes:frames:13-07|[13-07]]]** If the people **obeyed**  these laws, God promised that he would bless and protect them.
-  * 神应许若百姓遵行律法，他要赐福并保守他们。
+  * 神应许若百姓遵行律法，祂要赐福并保守他们。
 ~~DISCUSSION:off~~
