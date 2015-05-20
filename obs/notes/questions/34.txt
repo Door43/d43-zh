@@ -1,32 +1,35 @@
 ====== Story #34: Jesus Teaches Other Stories ======
 
-**<font 24pt/inherit;;inherit;;inherit>Story #34: Jesus Teaches Other</font> ** **<font 24pt/inherit;;inherit;;inherit>Stories</font> ** **<font 24pt/SimSun;;inherit;;inherit>耶稣传讲其他故事</font> **
+**<font 24pt/inherit;;inherit;;inherit>Story #34: Jesus Teaches Other</font>    ** **<font 24pt/inherit;;inherit;;inherit>Stories</font>    ** **<font 24pt/SimSun;;inherit;;inherit>耶稣教导的其他故事</font>    **
 
-**<font 18pt/SimSun;;inherit;;inherit>Comprehension Questions and</font> ** **<font 18pt/SimSun;;inherit;;inherit>Answers</font> ** **<font 18pt/SimSun;;inherit;;inherit>问题和答案</font> **
-  - **<font 12pt/SimSun;;inherit;;inherit>How does a mustard seed compare to other seeds?</font> ** **<font 12pt/SimSun;;inherit;;inherit></font> ** **<font 12pt/SimSun;;inherit;;inherit>怎样比较一粒芥菜种子和其他种子？</font> **
-      * //<font 12pt/SimSun;;inherit;;inherit>It is the smallest seed of all. [34-01]</font> // //<font 12pt/SimSun;;inherit;;inherit>它是种子中最小的。</font> //
-  - **<font 12pt/SimSun;;inherit;;inherit>What happens to a mustard seed when it grows?</font> ** **<font 12pt/SimSun;;inherit;;inherit>当芥菜种子长大后会是怎样的？</font> **
-      * //<font 12pt/SimSun;;inherit;;inherit>It becomes the largest of all the garden plants. [34-02]</font> // //<font 12pt/SimSun;;inherit;;inherit>它会变成花园中最大的种植物。</font> //
-  - **<font 12pt/SimSun;;inherit;;inherit>What happens to yeast when it is mixed into bread dough?</font> ** **<font 12pt/SimSun;;inherit;;inherit>当发酵粉放在生面团中会怎么样？</font> **
-      * //<font 12pt/SimSun;;inherit;;inherit>It spreads throughout the dough. [34-03]</font> // //<font 12pt/SimSun;;inherit;;inherit>会将面团发大</font> //
-  - **<font 12pt/SimSun;;inherit;;inherit>What did the man do after he found the treasure that was hidden in the field?</font> ** **<font 12pt/SimSun;;inherit;;inherit>当一个人发现地里有财宝他会怎么做？</font> **
-      * //<font 12pt/SimSun;;inherit;;inherit>He sold all that he had and used the money to buy it. [34-04]</font> // //<font 12pt/SimSun;;inherit;;inherit>他会变卖他所有的然后买下地。</font> //
-  - **<font 12pt/SimSun;;inherit;;inherit>What did the pearl merchant do when he found a perfect pearl?</font> ** **<font 12pt/SimSun;;inherit;;inherit>当一个珠宝商发现一颗完美的珠宝后他会怎么做？</font> **
-      * //<font 12pt/SimSun;;inherit;;inherit>He sold all that he had and used the money to buy it. [34-05]</font> // //<font 12pt/SimSun;;inherit;;inherit>他会变卖他所有的然后买下它。</font> //
-  - **<font 12pt/SimSun;;inherit;;inherit>To whom did Jesus tell the story of the two men praying at the Temple?</font> ** **<font 12pt/SimSun;;inherit;;inherit>耶稣告诉谁关于两个人在殿堂祷告的事？</font> **
-      * //<font 12pt/SimSun;;inherit;;inherit>People who trusted in their own good deeds and despised other people. [34-06]</font> // //<font 12pt/SimSun;;inherit;;inherit>耶稣告诉了那相信自己好行为并鄙视他人的人。</font> //
-  - **<font 12pt/SimSun;;inherit;;inherit>Why did the religious leader thank God?</font> ** **<font 12pt/SimSun;;inherit;;inherit>宗教领袖因为什么感谢上帝？</font> **
-      * //<font 12pt/SimSun;;inherit;;inherit>He thanked God that he was not a sinner like other men. [34-07]</font> // //<font 12pt/SimSun;;inherit;;inherit>他感谢上帝的原因是他不像其他人一样是罪人。</font> //
-  - **<font 12pt/SimSun;;inherit;;inherit>Why did the religious leader think he was righteous?</font> ** **<font 12pt/SimSun;;inherit;;inherit>为什么宗教领袖认为他是公义的？</font> **
-      * //<font 12pt/SimSun;;inherit;;inherit>He fasted two times every week and gave ten percent of his money and goods. [34-08]</font> // //<font 12pt/SimSun;;inherit;;inherit>因为他觉得他每周禁食两次然后十一奉献。</font> //
-  - **<font 12pt/SimSun;;inherit;;inherit>What did the tax collector request from God?</font> ** **<font 12pt/SimSun;;inherit;;inherit>税</font> ** **<font 12pt/SimSun;;inherit;;inherit>l</font> ** **<font 12pt/SimSun;;inherit;;inherit>员</font> ** **<font 12pt/SimSun;;inherit;;inherit>向神求什么？</font> **
-      * //<font 12pt/SimSun;;inherit;;inherit>He asked God to be be merciful to him because he was a sinner. [34-09]</font> // //<font 12pt/SimSun;;inherit;;inherit>他向神求怜悯因为他是罪人。</font> //
-  - **<font 12pt/SimSun;;inherit;;inherit>Which man did God declare to be righteous?</font> ** **<font 12pt/SimSun;;inherit;;inherit>神认为神是义的。</font> **
-      * //<font 12pt/SimSun;;inherit;;inherit>The tax collector. [34-10]</font> // //<font 12pt/SimSun;;inherit;;inherit>税员</font> //
-  - **<font 12pt/SimSun;;inherit;;inherit>What will God do to everyone who is proud?</font> ** **<font 12pt/SimSun;;inherit;;inherit>神向骄傲的人做什么？</font> **
-      * //<font 12pt/SimSun;;inherit;;inherit>He will humble them. [34-01]</font> // //<font 12pt/SimSun;;inherit;;inherit>降卑他们</font> //
-  - **<font 12pt/SimSun;;inherit;;inherit>What will God do to everyone who is humble?</font> ** **<font 12pt/SimSun;;inherit;;inherit>神怎么向谦卑的人？</font> **
-      * //<font 12pt/SimSun;;inherit;;inherit>He will lift them up. [34-10]</font> // //<font 12pt/SimSun;;inherit;;inherit>升高他们</font> //
+**<font 18pt/SimSun;;inherit;;inherit>Comprehension Questions and</font>    ** **<font 18pt/SimSun;;inherit;;inherit>Answers</font>    领悟** **<font 18pt/SimSun;;inherit;;inherit>问题和答案</font>    **
+  - **<font 12pt/SimSun;;inherit;;inherit>How does a mustard seed compare to other seeds?</font>    ****** **<font 12pt/SimSun;;inherit;;inherit>怎样比较一粒芥菜种子和其他种子？</font>    **
+      * //<font 12pt/SimSun;;inherit;;inherit>It is the smallest seed of all. [34-01]</font>    // //<font 12pt/SimSun;;inherit;;inherit>它是种子中最小的。</font>    //
+  - **<font 12pt/SimSun;;inherit;;inherit>What happens to a mustard seed when it grows?</font>    ** **<font 12pt/SimSun;;inherit;;inherit>当芥菜种子长大后会是怎样的？</font>    **
+      * //<font 12pt/SimSun;;inherit;;inherit>It becomes the largest of all the garden plants. [34-02]</font>    // //<font 12pt/SimSun;;inherit;;inherit>它会变成花园中最大的植物。</font>    //
+  - **<font 12pt/SimSun;;inherit;;inherit>What happens to yeast when it is mixed into bread dough?</font>    ** **<font 12pt/SimSun;;inherit;;inherit>当发酵粉放在生面团中会怎么样？</font>    **
+      * //<font 12pt/SimSun;;inherit;;inherit>It spreads throughout the dough. [34-03]</font>    // //<font 12pt/SimSun;;inherit;;inherit>会将面团发大</font>    //
+  - **<font 12pt/SimSun;;inherit;;inherit>What did the man do after he found the treasure that was hidden in the field?</font>    ** **<font 12pt/SimSun;;inherit;;inherit>当一个人发现地里有财宝他会怎么做？</font>    **
+      * //<font 12pt/SimSun;;inherit;;inherit>He sold all that he had and used the money to buy it. [34-04]</font>    // //<font 12pt/SimSun;;inherit;;inherit>他会变卖他的一切去买下那地。</font>    //
+  - **<font 12pt/SimSun;;inherit;;inherit>What did the pearl merchant do when he found a perfect pearl?</font>    ** **<font 12pt/SimSun;;inherit;;inherit>当一个珠宝商发现一颗完美的珠宝后他会怎么做？</font>    **
+      * //<font 12pt/SimSun;;inherit;;inherit>He sold all that he had and used the money to buy it. [34-05]</font>    // //<font 12pt/SimSun;;inherit;;inherit>他会变卖他的一切去买下它。</font>    //
+  - **<font 12pt/SimSun;;inherit;;inherit>To whom did Jesus tell the story of the two men praying at the Temple?</font>    ** **<font 12pt/SimSun;;inherit;;inherit>耶稣告诉谁关于两个人在殿堂祷告的事？</font>    **
+      * //<font 12pt/SimSun;;inherit;;inherit>People who trusted in their own good deeds and despised other people. [34-06]</font>    // //<font 12pt/SimSun;;inherit;;inherit>耶稣告诉了那相信自己好行为并鄙视他人的人。</font>    //
+  - **<font 12pt/SimSun;;inherit;;inherit>Why did the religious leader thank God?</font>    为什么<font 12pt/SimSun;;inherit;;inherit>宗教领袖感谢上帝？</font>    ******
+      * //<font 12pt/SimSun;;inherit;;inherit>He thanked God that he was not a sinner like other men. [34-07]</font>    // //<font 12pt/SimSun;;inherit;;inherit>他感谢上帝他不像其他人那样是罪人。</font>    //
+  - **<font 12pt/SimSun;;inherit;;inherit>Why did the religious leader think he was righteous?</font>    ** **<font 12pt/SimSun;;inherit;;inherit>为什么宗教领袖认为他是公义的？</font>    **
+      * //<font 12pt/SimSun;;inherit;;inherit>He fasted two times every week and gave ten percent of his money and goods. [34-08]</font>    // //<font 12pt/SimSun;;inherit;;inherit>因为他每周禁食两次和十一奉献钱财。</font>    //
+  - **<font 12pt/SimSun;;inherit;;inherit>What did the tax collector request from God?</font>    ** **<font 12pt/SimSun;;inherit;;inherit>税</font>
+<font 16px line-height: 22.3999996185303px;/SimSun;;inherit;;inherit>吏</font>
+
+</font> **** ** **<font 12pt/SimSun;;inherit;;inherit>向神求什么？</font>    **
+      * //<font 12pt/SimSun;;inherit;;inherit>He asked God to be be merciful to him because he was a sinner. [34-09]</font>    // //<font 12pt/SimSun;;inherit;;inherit>他向神求怜悯因为他是罪人。</font>    //
+  - **<font 12pt/SimSun;;inherit;;inherit>Which man did God declare to be righteous?</font>    ** **<font 12pt/SimSun;;inherit;;inherit>神认为那个人是义的？</font>    **
+      * //<font 12pt/SimSun;;inherit;;inherit>The tax collector. [34-10]</font>    // //<font 12pt/SimSun;;inherit;;inherit>税吏</font>    //
+  - **<font 12pt/SimSun;;inherit;;inherit>What will God do to everyone who is proud?</font>    ** **<font 12pt/SimSun;;inherit;;inherit>神向骄傲的人做什么？</font>    **
+      * //<font 12pt/SimSun;;inherit;;inherit>He will humble them. [34-01]</font>    // //<font 12pt/SimSun;;inherit;;inherit>降卑他们</font>    //
+  - **<font 12pt/SimSun;;inherit;;inherit>What will God do to everyone who is humble?</font>    ** **<font 12pt/SimSun;;inherit;;inherit>神向谦卑的人做什么？</font>    **
+      * //<font 12pt/SimSun;;inherit;;inherit>He will lift them up. [34-10]</font>    他将<font 12pt/SimSun;;inherit;;inherit>升高他们</font>    //////
 
 ===== Comprehension Questions and Answers =====
 
