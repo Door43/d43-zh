@@ -1,4 +1,4 @@
-====== angel天使 ======
+====== angel 天使 P ======
 
 ===== Definition: =====
 
@@ -25,7 +25,7 @@ The opposite of "angel" is a "demon."
 
 [See also: **[[:zh:obs:notes:key-terms:demon|demon]]**]
 
-<font 14px line-height: 13.0666666030884px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px;;;inherit>[</font> <font 14px line-height: 13.0666666030884px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px;;;inherit>参考：恶</font> <font 14px line-height: 13.0666666030884px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px;;;inherit>魔</font> <font 14px line-height: 13.0666666030884px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px;;;inherit>]</font>
+[参考：恶魔]
 
 ===== Examples from the Bible stories: =====
 
@@ -34,15 +34,15 @@ The opposite of "angel" is a "demon."
   * **[[:zh:obs:notes:key-terms:02-12|[02-12]]]** God placed large, powerful **angels**  at the entrance to the garden to keep anyone from eating the fruit of the tree of life.
   * [02-12]神安排高大强壮的天使们，把守着园子的入口，防止任何人吃生命树上的果子。
   * **[[:zh:obs:notes:key-terms:22-03|[22-03]]]** The **angel**  responded to Zechariah,"I was sent by God to bring you this good news."
-  * [22-03]天使回答撒迦利亚，“我奉神的差遣，给你带来好消息。”
+  * [22-03]天使回答撒迦利亚，“我奉神的差遣，给你带来这个好消息。”
   * **[[:zh:obs:notes:key-terms:23-06|[23-06]]]** Suddenly, a shining **angel**  appeared to them (the shepherds), and they were terrified. The **angel**  said, "Do not be afraid, because I have some good news for you."
-  * [23-06]忽然，一位发光的天使出现在他们（牧羊人）的面前，他们都很惧怕。天使说，“不要害怕，因为我给你们带来了好消息。”
+  * [23-06]忽然，一位明亮的天使出现在他们（牧羊人）的面前，他们都很惧怕。天使说，“不要害怕，因为我给你们带来了好消息。”
   * **[[:zh:obs:notes:key-terms:23-07|[23-07]]]** Suddenly, the skies were filled with **angels**  praising God…
   * [23-07]忽然，天空中布满了天使，赞美着神….
   * **[[:zh:obs:notes:key-terms:25-08|[25-08]]]** Then **angels**  came and took care of Jesus.
   * [25-08]于是，天使们来了，看顾了耶稣。
   * **[[:zh:obs:notes:key-terms:38-12|[38-12]]]** Jesus was very troubled and his sweat was like drops of blood. God sent an **angel**  to strengthen him.
-  * [38-12]耶稣极其伤痛，他的汗如血滴一样。神差遣天使去加添他的力量。
+  * [38-12]耶稣极其难过，他的汗如血滴一样。神差遣一个天使去加添他的力量。
   * **[[:zh:obs:notes:key-terms:38-15|[38-15]]]**"I could ask the Father for an army of **angels**  to defend me."
   * [38-15]“我可以向天父祈求天使大军来守护我“。
 ~~DISCUSSION:off~~
