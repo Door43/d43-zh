@@ -6,10 +6,10 @@
 
 In ancient times, chariots were lightweight carts with two wheels that were pulled by horses.
 
-在古时，战车是有两个轮子由马拉着的轻型马车。
+在古时，战车是由马拉着的、<font 14px line-height: 13.0666666030884px;/inherit;;inherit;;inherit>有两个轮子的</font> 轻型车子。
 
   * People would sit or stand in chariots, using them for war or travel.
-  * 人可以坐在或站在马车上，马车用于战争或旅行。
+  * 人可以坐在或站在战车上，用于战争或旅行。
   * In war, an army that had chariots had a great advantage of speed and mobility over an army that did not have chariots.
   * 在战争中，拥有战车的军队比没有战车的军队，有着极大的速度性和流动性的优势。
 
@@ -18,7 +18,7 @@ In ancient times, chariots were lightweight carts with two wheels that were pull
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:12-10|[12-10]]]** So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their **chariots**  to get stuck.
-  * 因此，他们跟随着以色列人，经过红海，来到这条小径上，但是神使埃及人慌乱了阵脚，使他们的战车陷入混乱中。
+  * [12-10]因此，他们跟随着以色列人，经过红海，来到这条小径上，但是神使埃及人慌乱了阵脚，使他们的战车陷入混乱中。
   * **[[:zh:obs:notes:frames:45-07|[45-07]]]** As he walked along the road, Philip saw an important official from Ethiopia riding in his **chariot**.
-  * 正当腓利沿着路走着时，他看见一个来自衣索匹亚的达官贵人，骑在他的战车上。
+  * [45-07]正当腓利沿着路走着时，他看见一个来自衣索匹亚的达官贵人，骑在他的战车上。
 ~~DISCUSSION:off~~
