@@ -1,4 +1,4 @@
-====== Caleb迦勒 ======
+====== Caleb 迦勒 P ======
 
 ===== Facts: =====
 
@@ -18,9 +18,9 @@ Caleb was one of the twelve Israelite spies whom Moses sent to explore the land 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like.
-  * [14-04]当以色列人到达迦南的边界时，摩西拣选了十二个人，每一个以色列的支派选一人。他指示这些人去窥探<font 14px line-height: 13.0666666030884px;/inherit;;inherit;;inherit>那地</font> ，看看<font 14px line-height: 13.0666666030884px;/inherit;;inherit;;inherit>那地的情形</font> 是怎样。
+  * [14-04]当以色列人到达迦南的边界时，摩西拣选了十二个人，每一个以色列的支派选一人。他指示这些人去窥探<font 14px line-height: 13.0666666030884px/inherit;;inherit;;inherit>那地</font>    ，看看<font 14px line-height: 13.0666666030884px/inherit;;inherit;;inherit>那地的情形是怎样。</font>
   * **[[:zh:obs:notes:frames:14-06|[14-06]]]** Immediately **Caleb**  and Joshua, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them! God will fight for us!"
-  * [14-06]<font 14px line-height: 13.0666666030884px;/inherit;;inherit;;inherit>其他两个探子，</font> 迦勒和约书亚，立刻说道，“迦南的人又高又壮，这是事实，但我们肯定能打败他们！神将为我们而战！”
+  * [14-06]<font 14px line-height: 13.0666666030884px/inherit;;inherit;;inherit>其他两个探子，</font>    迦勒和约书亚，立刻说道，“迦南的人又高又壮，这是事实，但我们肯定能打败他们！神将为我们而战！”
   * **[[:zh:obs:notes:frames:14-08|[14-08]]]**"Except for Joshua and **Caleb**, everyone who is twenty years old or older will die there and never enter the Promised Land."
   * [14-08]除了约书亚和迦勒，每个二十岁或以上的人都将死在那里，不能进入应许之地。“
 ~~DISCUSSION:off~~
