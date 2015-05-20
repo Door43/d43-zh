@@ -13,22 +13,22 @@ A witness is someone who has seen or heard something happen.
   * Witnesses are expected to tell the truth about what they have seen or heard.
   * 见证人应当把所看到的或听到的真相讲出来。
   * A witness who does not tell the truth about what he has seen or heard is called a, "false witness."
-  * 一个不<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>所看到的或听到的</font> 说出来证人，被叫做 “假见证人”。
+  * 若一个见证人所说的并不是他<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>所看到的或听到的真相</font>    ，被称作 “假见证人”。
 
 [See also: **[[:zh:obs:notes:key-terms:guilt|guilt]]**, **[[:zh:obs:notes:key-terms:judge|judge]]**]
 
-[参见：有罪，法官]
+[参见：有罪，士师
 
 ===== Examples from the Bible stories: =====
 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:39-02|[39-02]]]** Inside the house, the Jewish leaders put Jesus on trial. They brought many **false witnesses**  who lied about him.
-  * 在这个屋子里面，犹太首领们审问着耶稣。他们带来了很多假证人，都说着关于耶稣的谎话。
+  * 在屋子里面，犹太首领们审问耶稣。他们带来了很多假见证人说谎话陷害<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>耶稣</font> 。
   * **[[:zh:obs:notes:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted, "We do not need any more **witnesses**. You have heard him say that he is the Son of God. What is your judgment?"
-  * 大祭祀生气地撕碎了他的衣服，喊到，“我们不需要任何更多的证人了。你已经听到他说了，他是神的儿子。你们这判决（到底）是什么？”
+  * 大祭司生气地撕碎了他的衣服，喊着说：“我们不需要更多的见证人了。你已经听到他说他是神的儿子了。你们认为该如可处置他？”
   * **[[:zh:obs:notes:frames:42-08|[42-08]]]**"It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are **witnesses**  of these things."
-  * “在圣经里也曾写到：我的信徒们将宣告，每个人都应悔改，以便为他们的罪接受宽恕。他们将在耶路撒冷开始做起。然后到所有有人有族群的地方去。你们就是这些事情的见证者。”
+  * “圣经上也曾写道：“我的门徒要宣告，每个人都要悔改，使他们的罪被赦免。他们这样做要从耶路撒冷开始，然后到各处的所有人。你们就是这些事的见证人。”
   * **[[:zh:obs:notes:frames:43-07|[43-07]]]**"We are **witnesses**  to the fact that God raised Jesus to life again."
-  * ”我们就是这事实的见证者，即神使耶稣升天复活“。
+  * ”我们就是神使耶稣复活的见证人。”
 ~~DISCUSSION:off~~
