@@ -6,7 +6,7 @@
 
 In ancient times, chariots were lightweight carts with two wheels that were pulled by horses.
 
-在古时，战车是由马拉着的、<font 14px line-height: 13.0666666030884px;/inherit;;inherit;;inherit>有两个轮子的</font> 轻型车子。
+在古时，战车是由马拉着的、<font 14px line-height: 13.0666666030884px/inherit;;inherit;;inherit>有两个轮子的</font>    轻型车子。
 
   * People would sit or stand in chariots, using them for war or travel.
   * 人可以坐在或站在战车上，用于战争或旅行。
@@ -18,7 +18,7 @@ In ancient times, chariots were lightweight carts with two wheels that were pull
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:12-10|[12-10]]]** So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their **chariots**  to get stuck.
-  * [12-10]因此，他们跟随着以色列人，经过红海，来到这条小径上，但是神使埃及人慌乱了阵脚，使他们的战车陷入混乱中。
+  * [12-10]<font 14px line-height: 13.0666666030884px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px;;;inherit>因此，他们随以色列人也下了红海，走在那条路上。但是神使埃及人产生混乱，</font> <font 14px line-height: 13.0666666030884px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px;;;inherit>使他们的战车不能前进。</font>
   * **[[:zh:obs:notes:frames:45-07|[45-07]]]** As he walked along the road, Philip saw an important official from Ethiopia riding in his **chariot**.
-  * [45-07]正当腓利沿着路走着时，他看见一个来自衣索匹亚的达官贵人，骑在他的战车上。
+  * [45-07]正当腓利沿着路走，他看见一个来自衣索匹亚的重要官员，坐在他的战车上。
 ~~DISCUSSION:off~~
