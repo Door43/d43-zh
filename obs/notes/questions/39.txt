@@ -1,6 +1,4 @@
-====== Story #39: Jesus Is Put on Trial ======
-
-故事# 39:耶稣受审
+====== Story #39: Jesus Is Put on Trial <font 14px font-weight: normal; line-height: 1.4;/inherit;;inherit;;inherit>故事# 39:</font> 耶稣受审 ======
 
 领悟问题和答案
 
@@ -66,7 +64,7 @@
 
 他们鞭打耶稣，把皇家长袍和荆棘王冠给他上，并嘲笑他。 (39-12)
 
-===== Comprehension Questions and Answers =====
+===== Comprehension Questions and Answers 理解性<font 14px line-height: 19.6000003814697px; background-color: rgb(255, 255, 255);/Arial, sans-serif;;inherit;;rgb(34, 34, 34) font-family: Arial, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(255, 255, 255);>问题和答案</font>  =====
 
   - **What time of the day was it when the Jewish leaders began to question Jesus?**
       * //It was the middle of the night. [39-01]//
