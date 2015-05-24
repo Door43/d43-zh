@@ -1,8 +1,8 @@
-====== tempt 引诱 ======
+====== tempt 试探 W ======
 
 ==== (to tempt, temptation) ====
 
-（引诱，诱惑）
+（试探，试探）
 
 ===== Definition: =====
 
@@ -10,27 +10,27 @@
 
 To tempt someone is to try to get that person to do something wrong.
 
-诱惑某人，就是尝试去使人做错误的事情。
+试探某人就是试着去使那人做错误的事情。
 
   * A temptation is something that causes a person to want to do something wrong.
-  * 诱惑是导致一个人想去做错误的事情的行为。
+  * 一个试探是一些会导致人想去犯错的事物。
   * People are tempted by their own sinful nature and by other people.
-  * 人们都会受到他们自己的罪恶的天性以及其他人的诱惑。
+  * 人会被自己罪的天性和其他人试探。
   * Satan also tempts people to disobey God and to sin against God by doing wrong things.
-  * 撒旦也引诱人去违背神，通过做错误的事情来犯罪悖逆神。
+  * 撒旦也会试探人使人违背神并犯罪得罪神。
   * Jesus resisted all of Satan's temptations. Jesus never sinned.
-  * 耶稣抵制所有撒旦的诱惑。耶稣从不犯罪。
+  * 耶稣抵挡了撒旦所有的试探。耶稣从来没有犯过罪。
 
-[See also: **[[:zh:obs:notes:key-terms:sin|sin]]**, **[[:zh:obs:notes:key-terms:disobey|disobey]]**, **[[:zh:obs:notes:key-terms:satan|Satan]]**] 参见：罪行，违背，撒旦]
+[See also: **[[:zh:obs:notes:key-terms:sin|sin]]**, **[[:zh:obs:notes:key-terms:disobey|disobey]]**, **[[:zh:obs:notes:key-terms:satan|Satan]]**] 参见：罪，违背，撒旦]
 
 ===== Examples from the Bible stories: =====
 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted**  him to sin.
-  * 于是撒旦来到耶稣跟前，引诱他去犯罪。
+  * 于是撒旦来到耶稣跟前，试探他使他犯罪。
   * **[[:zh:obs:notes:frames:25-08|[25-08]]]** Jesus did not give in to Satan's **temptations**, so Satan left him.
-  * 耶稣没有屈服于撒旦的诱惑，所以撒旦离开了他。
+  * 耶稣没有被撒旦的试探胜过，于是撒旦离开了他。
   * **[[:zh:obs:notes:frames:38-11|[38-11]]]** Jesus told his disciples to pray that they would not enter into **temptation**.
-  * 耶稣告诉他的信徒们要祷告，祷告他们将不会陷入诱惑。
+  * 耶稣告诉他的门徒们要祷告，使他们不被试探。
 ~~DISCUSSION:off~~
