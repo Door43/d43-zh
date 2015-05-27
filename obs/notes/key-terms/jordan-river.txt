@@ -1,4 +1,4 @@
-====== Jordan River约旦河 ======
+====== Jordan River 约旦河 L ======
 
 ===== Facts: =====
 
@@ -13,20 +13,21 @@ The Jordan River is a river that flows from north to south, and forms the easter
   * The Jordan River flows through the Sea of Galilee and then empties into the Dead Sea.
   * 约旦河流经加利利海，然后汇入死海。
   * When Joshua led the Israelites into Canaan, they had to cross the Jordan River while it was flooding and very deep. Because it was too deep to wade across, God miraculously stopped the water from flowing so they could go across.
-  * 当约书亚带领以色列人进入迦南时，在约旦河洪水泛滥而且（水流）很深的时候，他们跨过了约旦河。因为河水太深了，不能趟水过河，神行神迹使河水停止流动，这样他们就能走过去了。
+  * 当约书亚带领以色列人进入迦南地时，他们需要过约旦河，而当时约旦河水泛滥且水很深。因为河水太深了，不能趟水过河，神行神迹使河水停止流动，这样他们就能走过去了。
 
 [See also: **[[:zh:obs:notes:key-terms:canaan|Canaan]]**]
 
-[参见：迦南]
+[参见：迦南地]
 
 ===== Examples from the Bible stories: =====
 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:15-02|[15-02]]]** The Israelites had to cross the **Jordan River**  to enter into the Promised Land.
-  * 以色列人不得不跨过约旦河，进入到应许之地。
+  * 以色列人必须过约旦河，进入到应许之地。
   * **[[:zh:obs:notes:frames:15-03|[15-03]]]** After the people crossed the **Jordan River**, God told Joshua how to attack the powerful city of Jericho.
-  * 在众人跨过约旦河后，神告诉约书亚怎样去攻打强大的耶利哥城。
+  * 在众人过约旦河后，神告诉约书亚怎样去攻打强大的耶利哥城。
   * **[[:zh:obs:notes:frames:19-14|[19-14]]]** Elisha told him (Naaman) to dip himself seven times in the **Jordan River**.
-  * 以利沙告诉他（乃幔）要把他自己浸入约旦河七次。
+  *
+以利沙告诉他（乃幔）要把他自己浸入约旦河七次。
 ~~DISCUSSION:off~~
