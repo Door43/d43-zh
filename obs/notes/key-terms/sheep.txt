@@ -1,4 +1,4 @@
-====== sheep羊 ======
+====== sheep羊W ======
 
 ===== Definition: =====
 
@@ -9,26 +9,26 @@ A sheep is a medium-sized animal with four legs that has wool all over its body.
 羊是中等尺寸的四肢动物，全身覆盖羊毛。
 
   * People eat meat from sheep and use their wool to make clothing and other things.
-  * 人类吃羊身上的肉，用它们的羊毛做衣服或其它东西。
+  * 人类吃羊身上的肉，用它们的毛做衣服和其它东西。
   * Sheep are very trusting, weak and timid. They are easily influenced to wander away. They need a shepherd to lead them in the right direction and to provide them with food, water and shelter.
-  * 羊是非常可信赖的，软弱而胆怯。它们很容易受到惊扰而走失。他们需要一个牧羊人以正确的方向来带领它们，并提供他们食物，水和庇护。
+  * 羊是非常可信赖的，软弱而胆怯。它们很容易受到惊扰而走失。它们需要一个牧人来带领它们到<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>正确的方向</font> ，并提供它们食物，水和庇护。
   * In the Bible, people are compared to sheep who have God as their shepherd.
-  * 在圣经里，人被比做羊，他们有神做他们的牧羊人。
+  * 在圣经里，人被比做羊，他们有神做他们的牧人。
 
 [See also: **[[:zh:obs:notes:key-terms:shepherd|shepherd]]**, **[[:zh:obs:notes:key-terms:lamb|lamb]]**]
 
-[参见：牧羊人，羔羊]
+[参见：牧人，羔羊]
 
 ===== Examples from the Bible stories: =====
 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:09-12|[09-12]]]** One day while Moses was taking care of his **sheep**, he saw a bush that was on fire.
-  * 一天，正当摩西看顾他的羊群时，他看见荆棘树丛着火了。
+  * 一天，正当摩西看管他的羊群时，他看见荆棘丛着火了。
   * **[[:zh:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of Bethlehem. At different times while he was watching his father's **sheep**, David had killed both a lion and a bear that had attacked the **sheep**.
-  * 大卫曾是来自伯利恒城的一个牧羊人。在他还在不同的时辰看顾他父亲的羊群时，大卫就已经杀死了曾攻击羊群的一只狮子和一只熊。
+  * 大卫曾是来自伯利恒城的一个牧人。在看管他父亲的羊群时，大卫曾在不同间里杀死了攻击羊群的狮子和熊。
   * **[[:zh:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like **sheep**  without a shepherd.
-  * 对耶稣来说，人就象没有牧羊人的羊。
+  * 对耶稣来说，这些百姓就象没有牧人的羊。
   * **[[:zh:obs:notes:frames:38-08|[38-08]]]** Jesus said, "All of you will all abandon me tonight. It is written, 'I will strike the shepherd and all the **sheep**  will be scattered.'"
-  * 耶稣说，“你们所有人今晚都将背弃我。圣经记载，”我将击打牧羊人，所有的羊群都将四处离散”。
+  * 耶稣说，“你们所有人今晚都将背弃我。圣经上记着说：”我要击打牧人，羊群就分散。”
 ~~DISCUSSION:off~~
