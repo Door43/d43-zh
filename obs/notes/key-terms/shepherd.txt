@@ -1,4 +1,4 @@
-====== shepherd牧羊人 ======
+====== shepherd牧人W ======
 
 ===== Definition: =====
 
@@ -6,18 +6,18 @@
 
 A shepherd is a person who takes care of sheep.
 
-牧羊人是看护羊群的人。
+牧人是看护羊群的人。
 
   * Sometimes a shepherd is the owner of the sheep, and sometimes he works for the owner.
-  * 有时一个牧羊人是羊的主人，有时牧羊人是为羊的主人工作。
+  * 有时一个牧人是羊的主人，有时牧羊人是为羊的主人工作。
   * Shepherds lead sheep to grass so they can eat and to safe water so they can drink.
-  * 牧羊人领着羊到草地去吃草，到水边去喝水。
+  * 牧人领着羊到草地去吃草，到安全的水边去喝水。
   * They guide sheep so they don't get lost or wander into danger.
-  * 他们引导着羊，这样羊群不会丢掉或步入危险之地。
+  * 他们引导着羊，这样羊群不会走丢或步入危险之地。
   * They protect sheep from wild animals that try to attack them.
   * 他们保护着羊群不受野兽的攻击。
   * It is also used as a metaphor about leaders and those who follow them.
-  * 这也用来比喻领导者和跟随领导者的那些人。
+  * 这也用来比喻领袖和跟随领袖的人。
 
 [See also: **[[:zh:obs:notes:key-terms:sheep|sheep]]**]
 
@@ -28,13 +28,13 @@ A shepherd is a person who takes care of sheep.
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd**  in the wilderness far away from Egypt.
-  * 摩西成为了一个远离埃及的旷野之地的牧羊人。
+  * <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>在远离埃及的旷野之地</font> 摩西成为了一个的牧人。
   * **[[:zh:obs:notes:frames:17-02|[17-02]]]** David was a **shepherd**  from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep.
   * 大卫杀了曾攻击羊群的狮子和熊。
   * **[[:zh:obs:notes:frames:23-06|[23-06]]]** That night, there were some **shepherds**  in a nearby field guarding their flocks.
-  * 那天晚上，在附近的野地有一些牧羊人在看护着羊群。
+  * 那天晚上，在附近的野地有一些牧人在看护着羊群。
   * **[[:zh:obs:notes:frames:23-08|[23-08]]]** The **shepherds**  soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them.
-  * 牧羊人不久到了耶稣在的地方，他们发现他正躺在食槽里，正如天使告诉他们的。
+  * 牧人不久到了耶稣在的地方，他们发现他正躺在一个动物食槽里，正如天使告诉他们的。
   * **[[:zh:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like sheep without a **shepherd**.
-  * 对于耶稣，这些人就象是没有牧羊人的羊。
+  * 对于耶稣来说，这些人就象是没有牧人的羊。
 ~~DISCUSSION:off~~
