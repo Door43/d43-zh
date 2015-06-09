@@ -1,4 +1,4 @@
-====== kingdom of Israel以色列国 ======
+====== kingdom of Israel 以色列国 L ======
 
 ===== Facts: =====
 
@@ -9,9 +9,10 @@ After King Solomon died, the Israelites split into two kingdoms. The kingdom of 
 在所罗门王死后，以色列人分裂成两个国。以色列国是北部的国，由以色列的十个支派组成。
 
   * All of the kings of the kingdom of Israel were evil. They convinced the people to stop worshiping God at the Temple in Jerusalem, and to serve idols and false gods instead. So God eventually sent the Assyrians to attack them and to take many of them away as captives.
-  * 以色列国的所有的国王都是邪恶的。他们劝阻黎民百姓不要在耶路撒冷的圣殿拜神，并说服他们拜偶像和假神。所以神最终派遣亚述人攻打了他们，并掳走他们中的许多人作为俘虏。
+  * 以色列国所有的国王都是恶的。他们
+说服 百姓不要在耶路撒冷的圣殿敬拜神，反而去服事偶像和假神。所以神最终派遣亚述人攻打他们，并掳走他们中的许多人作为俘虏。
   * The Assyrians brought foreigners to live with the few remaining people of the kingdom of Israel. These foreigners intermarried with the Israelites, and their descendants became the Samaritan people.
-  * 亚述人把外邦人带来，和以色列国的少数留下来的人居住在一起。这些外邦人和以色列人互通婚姻，他们的后代就变成了撒玛利亚人。
+  * 亚述人把外邦人带来，和以色列国的少数留下来的人居住在一起。这些外邦人和以色列人互通婚姻，他们的后裔形成了撒玛利亚人。
 
 [See also: **[[:zh:obs:notes:key-terms:kingdom|kingdom]]**, **[[:zh:obs:notes:key-terms:israel|Israel]]**, **[[:zh:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**, **[[:zh:obs:notes:key-terms:assyria|Assyria]]**, **[[:zh:obs:notes:key-terms:samaria|Samaritan]]**]
 
@@ -22,15 +23,15 @@ After King Solomon died, the Israelites split into two kingdoms. The kingdom of 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their kingdom in the northern part of the land and were called the **kingdom of Israel**.
-  * 背叛罗波安的以色列国的其它十个支派任命一个叫耶罗波安的人为他们的王。他们在该地的北部建立了他们的王国，以色列国。
+  * 背叛罗波安的以色列国的其它十个支派任命一个叫耶罗波安的人为他们的王。他们在该地的北部建立了他们的王国，叫以色列国。
   * **[[:zh:obs:notes:frames:18-10|[18-10]]]** The **kingdoms of Judah and Israel**  became enemies and often fought against each other.
-  * 犹大和以色列两国成为了敌对国，并经常互相争战。
+  * 犹大国和以色列国成为了敌对国，并经常互相争战。
   * **[[:zh:obs:notes:frames:18-11|[18-11]]]** In the new **kingdom of Israel**, all the kings were evil.
-  * 在新的以色列国，所有的王都是邪恶的。
+  * 在新的以色列国，所有的王都是恶的。
   * **[[:zh:obs:notes:frames:20-01|[20-01]]]** The **kingdoms of Israel**  and Judah both sinned against God.
-  * 以色列和犹大两个国都悖逆神而犯罪。
+  * 以色列国和犹大国都犯罪悖逆神。
   * **[[:zh:obs:notes:frames:20-02|[20-02]]]** The **kingdom of Israel**  was destroyed by the Assyrian Empire, a powerful, cruel nation. The Assyrians killed many people in the **kingdom of Israel**, took away everything of value, and burned much of the country.
-  * 以色列国被强大而又残酷的亚述帝国摧毁，亚述人杀了以色列国的很多人，掠夺了所有财宝，并且放火烧了大部分城池。
+  * 以色列国被强大而又残酷的亚述帝国摧毁。亚述人杀了以色列国的很多人，掠夺了所有财宝，并且放火烧了大部分的城池。
   * **[[:zh:obs:notes:frames:20-04|[20-04]]]** Then the Assyrians brought foreigners to live in the land where the **kingdom of Israel**  had been. The foreigners rebuilt the destroyed cities and married the Israelites who were left there. The descendants of the Israelites who married foreigners were called Samaritan.
-  * 于是，亚述人把外邦人带到以色列国曾经的土地上居住。这外邦人重建了被摧毁的城市，并和留下来的以色列人通婚。和以色列人的后裔通婚的后裔被叫做撒玛利亚人。
+  * 于是，亚述人把外邦人带到以色列国原來所在的土地居住。这外邦人重建了被摧毁的城市，并和留下来的以色列人通婚。和外邦人通婚的以色列人的后裔叫做撒玛利亚人。
 ~~DISCUSSION:off~~
