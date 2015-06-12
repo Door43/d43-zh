@@ -24,11 +24,11 @@ A cross is an upright wooden post stuck into the ground, with a horizontal woode
   * **[[:zh:obs:notes:frames:40-01|[40-01]]]** After the soldiers mocked Jesus, they led him away to crucify him. They made him carry the **cross**  on which he would die.
   * **[[:zh:obs:notes:frames:40-01|[40-01]]]** 士兵们在嘲笑过耶稣后，就押着耶稣去把他钉十字架，他们让耶稣背着那个他自己要被釘死在上面的十字架.
   * **[[:zh:obs:notes:frames:40-02|[40-02]]]** The soldiers brought Jesus to a place called "the Skull" and nailed his arms and feet to the **cross**.
-  * 士兵们带耶稣来到了一个叫“髑髅地”的地方，将他 的双手和双脚钉在十字架上。
+  * **[[:zh:obs:notes:frames:40-02|[40-02]]]** 士兵们带耶稣来到了一个叫“髑髅地”的地方，将他 的双手和双脚钉在十字架上。
   * **[[:zh:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd mocked Jesus. They said to him, "If you are the Son of God, come down from the **cross**  and save yourself! Then we will believe you."
-  * 犹太首领们和人群中的一些民众嘲笑耶稣，他们对耶稣说：“如果你是神的儿子，你就从十字架上下来，救自己罷！那样我们就相信你。”
+  * **[[:zh:obs:notes:frames:40-05|[40-05]]]** 犹太首领们和人群中的一些民众嘲笑耶稣，他们对耶稣说：“如果你是神的儿子，你就从十字架上下来，救自己罷！那样我们就相信你。”
   * **[[:zh:obs:notes:frames:49-10|[49-10]]]** When Jesus died on the **cross**, he received your punishment.
-  * 当耶稣被钉死在十字架上，他就为你代受了刑罚。
+  * **[[:zh:obs:notes:frames:49-10|[49-10]]]** 当耶稣被钉死在十字架上，他就为你代受了刑罚。
   * **[[:zh:obs:notes:frames:49-12|[49-12]]]** You must believe that Jesus is the Son of God, that he died on the **cross**  instead of you, and that God raised him to life again.
-  * 你必须相信耶稣是神的儿子，他在十字 架上替你受死，神让他從死裏复活。
+  * **[[:zh:obs:notes:frames:49-12|[49-12]]]** 你必须相信耶稣是神的儿子，他在十字 架上替你受死，神让他從死裏复活。
 ~~DISCUSSION:off~~
