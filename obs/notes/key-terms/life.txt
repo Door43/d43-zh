@@ -2,10 +2,7 @@
 
 ==== (life, live, living, lives, alive) ====
 
-（
-生命，生活，
-活的，生命,
-活着的 ）
+（ 生命，生活， 活的，生命, 活着的 ）
 
 ===== Definition: =====
 
@@ -13,31 +10,20 @@
 
 There are two ways that "life" is used in the Bible–"physical life" and "spiritual life." The types of "life" are similar in some respects, but there are also important differences between them.
 
-在圣经中对"生命"有两种用法， 他们分别是“ 肉身的生命” 和” 属灵的生命"
-。
-这两种“生命”
-在某些方面有相似之处， 但它们之间也有的重要的区别。
+在圣经中对"生命"有两种用法， 他们分别是“ 肉身的生命” 和” 属灵的生命" 。 这两种“生命” 在某些方面有相似之处， 但它们之间也有的重要的区别。
 
 === 1. Physical life ===
 
 肉身的生命
 
   * Physical life is the presence of the spirit in the body. God breathed life into Adam's body, and he became a living being.
-  *
-肉身的生命是人的灵存在他的身体之内。
-神将生气吹到亚当的身体内，他就成了有灵的活人。
+  * 肉身的生命是人的灵存在他的身体之内。 神将生气吹到亚当的身体内，他就成了有灵的活人。
   * A "life" can also refer to an individual person, as in, "several lives were saved".
-  *
-一个“ 生命” 也可以指一个个体的人，如， “ 一些生命被拯救”。
+  * 一个“ 生命” 也可以指一个个体的人，如， “ 一些生命被拯救”。
   * Sometimes the word "life" refers to the experience of living, as in, "made their lives miserable" or to one's lifespan as in, "toward the end of his life."
-  *
-有时候“生命”这个词是指生活的经验，如， “
-使他们的生活成为 悲惨
-”，或对一个人的寿命而言，
-“ 到他生命的尽头。 ”
+  * 有时候“生命”这个词是指生活的经验，如， “ 使他们的生活成为 悲惨 ”，或对一个人的寿命而言， “ 到他生命的尽头。 ”
   * To be "living" may refer to being alive or to be residing somewhere.
-  *
-“活的”可以指是活着的或是住在某个地方。
+  * “活的”可以指是活着的或是住在某个地方。
   * The opposite of "life" is "death."
   * “生命”的反面是“死亡”。
 
@@ -46,14 +32,11 @@ There are two ways that "life" is used in the Bible–"physical life" and "spiri
 属灵的生命
 
   * Spiritual life refers to presence of the person with God.
-  *
-属灵的生命是指人与神同在。
+  * 属灵的生命是指人与神同在。
   * This life is also called "eternal life" to indicate that it does not end.
-  *
-这样的生命也被称为“永生”，以表明它不会结束。
+  * 这样的生命也被称为“永生”，以表明它不会结束。
   * The opposite of spiritual life is spiritual death, which means being separated from God and experiencing eternal punishment.
-  *
-属灵的生命相反的是灵性的死亡， 这意味着与神分开，并要接受永远的惩罚。
+  * 属灵的生命相反的是灵性的死亡， 这意味着与神分开，并要接受永远的惩罚。
 
 [See also: **[[:zh:obs:notes:key-terms:eternal-life|eternal life]]**, **[[:zh:obs:notes:key-terms:death|death]]**]
 
@@ -64,25 +47,16 @@ There are two ways that "life" is used in the Bible–"physical life" and "spiri
 圣经故事中的例子:
 
   * **[[:zh:obs:notes:frames:01-10|[01-10]]]** So God took some dirt, formed it into a man, and breathed **life**  into him.
-  *
-于是神用尘土， 把它作成一个男人， 并把生气吹进他里面。
-  * **[[:zh:obs:notes:frames:03-01|[03-01]]]** After a long time, many people were **living **  in the world.
-  *
-经过很长一段时间， 就有很多人活在世上。
+  * 于是神用尘土， 把它作成一个男人， 并把生气吹进他里面。
+  * **[[:zh:obs:notes:frames:03-01|[03-01]]]** After a long time, many people were **living **  in the world.经过很长一段时间， 就有很多人活在世上。
   * **[[:zh:obs:notes:frames:08-13|[08-13]]]** When Joseph's brothers returned home and told their father, Jacob, that Joseph was still **alive**, he was very happy.
-  * 当约瑟的哥哥們回家，并告诉他们的父亲,
-雅 各， 约瑟还活着，他就很开心 。
+  * 当约瑟的哥哥們回家，并告诉他们的父亲, 雅各，约瑟还活着，他就很开心 。
   * **[[:zh:obs:notes:frames:17-09|[17-09]]]** However, toward the end of his [David's] **life**  he sinned terribly before God.
-  *
-然而，当他[ 大卫] 到生命的尽头时，他在神面前犯了可怕的罪。
+  * 然而，当他[ 大卫] 到生命的尽头时，他在神面前犯了可怕的罪。
   * **[[:zh:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit eternal **life**?"
-  *
-有一天，一位犹太的律法师来到耶稣面前，试探他，说：“老师( 夫子)，我必须做什么才可以承受永生？ ”
+  * 有一天，一位犹太的律法师来到耶稣面前，试探他，说：“老师( 夫子)，我必须做什么才可以承受永生？ ”
   * **[[:zh:obs:notes:frames:35-05|[37-05]]]** Jesus replied, "I am the Resurrection and the **Life**."
-  *
-耶稣回答他说， “我就是复活和生命。 ”
+  * 耶稣回答他说， “我就是复活和生命。 ”
   * **[[:zh:obs:notes:frames:44-05|[44-05]]]**"You are the ones who told the Roman governor to kill Jesus. You killed the author of **life**, but God raised him from the dead."
-  *
-你们叫罗马巡抚把耶稣杀了。你们杀了那生命的主，但神使祂从死里复活了。
-”
+  * 你们叫罗马巡抚把耶稣杀了。你们杀了那生命的主，但神使祂从死里复活了。 ”
 ~~DISCUSSION:off~~
