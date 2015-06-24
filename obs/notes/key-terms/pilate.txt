@@ -1,4 +1,4 @@
-====== Pilate彼拉多 ======
+====== Pilate彼拉多 W ======
 
 ===== Facts: =====
 
@@ -6,14 +6,14 @@
 
 Pilate was the Roman governor who sentenced Jesus to death.
 
-彼拉多是判耶稣死刑的罗马巡抚长官。。
+彼拉多是判耶稣死刑的罗马官员（巡抚）。
 
   * Because Pilate was the governor, he had the authority to put criminals to death.
-  * 因为彼拉多是巡抚长官。他有权威判处囚犯死刑。
+  * 因为彼拉多是<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>罗马官员（</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>巡抚）</font> 。他有权判处罪犯死刑。
   * The Jewish religious leaders wanted Pilate to crucify Jesus, so they lied and said that Jesus was a criminal.
-  * 犹太宗教首领想要彼拉多钉死耶稣，所以他们撒了谎，说耶稣是个罪犯。
+  * 因为犹太宗教首领们想要彼拉多把耶稣钉十字架，所以他们撒谎，说耶稣是个罪犯。
   * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he ordered his soldiers to crucify Jesus.
-  * 彼拉多心里明白，耶稣是无罪的，但是他害怕民众，所以命令他的士兵把耶稣钉在十字架上。
+  * 虽然彼拉多心里明白耶稣是无罪的，但是因为他害怕百姓，所以命令他的士兵把耶稣钉死在十字架上。
 
 [See also: **[[:zh:obs:notes:key-terms:rome|Rome]]**, **[[:zh:obs:notes:key-terms:crucify|crucify]]**, **[[:zh:obs:notes:key-terms:guilt|guilt]]**]
 
@@ -24,15 +24,15 @@ Pilate was the Roman governor who sentenced Jesus to death.
 圣经故事里例证：
 
   * **[[:zh:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to **Pilate**, the Roman governor. They hoped that **Pilate**  would condemn Jesus as guilty and sentenced him to be killed. **Pilate**  asked Jesus, "Are you the King of the Jews?"
-  * 第二天一早，犹太首领把耶稣带到罗马巡抚比拉多跟前。他们希望比拉多会判耶稣有罪，并判他死刑。比拉多问耶稣，“你是犹太人的王吗”？
+  * 第二天一早，犹太首领把耶稣带到罗马巡抚彼拉多跟前。他们希望彼拉多会判耶稣有罪，并判他死刑。彼拉多问耶稣说：“你是犹太人的王吗？”
   * **[[:zh:obs:notes:frames:39-10|[39-10]]]****Pilate**  said, "What is truth?"
-  * 比拉多问，”什么是真理”？
+  * 彼拉多问：“什么是真理？”
   * **[[:zh:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, **Pilate**  went out to the crowd and said, "I find no guilt in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" **Pilate**  replied, "He is not guilty." But they shouted even louder. Then **Pilate**  said a third time, "He is not guilty!"
-  * 在和耶稣说话了之后，比拉多出来，来到众人面前，说，“我 查不出这人有什么罪”。但是犹太首领和众人喊到，“钉他十字架！” 比拉多回答道，“他没有罪啊”。但是他们喊得更响了。于是比拉多第三次说，“他没有罪啊！”
+  * 和耶稣说话之后，彼拉多来到众人面前，说：“我 查不出这人有什么罪。”但是犹太首领和众人喊到，“钉他十字架！” 彼拉多回答：“他没有罪啊。”但是他们喊叫得更响了。于是彼拉多第三次说：“他没有罪啊！”
   * **[[:zh:obs:notes:frames:39-12|[39-12]]]****Pilate**  became afraid that the crowd would begin to riot, so he ordered his soldiers to crucify Jesus.
-  * 比拉多害怕众人开始骚乱，于是他命令他的士兵去钉耶稣十字架。
+  * 因为彼拉多害怕众人开始骚乱，所以他命令他的士兵去钉耶稣十字架。
   * **[[:zh:obs:notes:frames:40-02|[40-02]]]****Pilate**  commanded that a sign be put above Jesus' head that read, "King of the Jews."
-  * 比拉多吩咐，在耶稣的头上放上一个牌子，写着：“犹太人的王。”
+  * 彼拉多吩咐在耶稣的头上放上一个牌子，写着：“犹太人的王”。
   * **[[:zh:obs:notes:frames:41-02|[41-02]]]****Pilate**  said, "Take some soldiers and make the tomb as secure as you can."
-  * 比拉多说，“派一些士兵，把坟墓建得尽可能坚固。”
+  * 彼拉多说：“派一些士兵，尽你们所能的把坟墓把守妥当。”
 ~~DISCUSSION:off~~
