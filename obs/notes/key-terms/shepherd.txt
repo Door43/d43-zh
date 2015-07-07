@@ -1,4 +1,4 @@
-====== shepherd牧人W ======
+====== shepherd 牧人 P ======
 
 ===== Definition: =====
 
@@ -28,16 +28,13 @@ A shepherd is a person who takes care of sheep.
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd**  in the wilderness far away from Egypt.
-  * <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>在远离埃及的旷野之地</font>    摩西成为了一个的牧人。
+  * <font inherit/inherit;;inherit;;inherit>在远离埃及的旷野之地，</font>    摩西成为一个牧人。
   * **[[:zh:obs:notes:frames:17-02|[17-02]]]** David was a **shepherd**  from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep.
-  *
-
-大卫曾是来自伯利恒城的一个牧人。在看管他父亲的羊群时，大卫曾在不同间里杀死了攻击羊群的狮子和熊。
-
+  * 大卫曾是来自伯利恒城的一个牧人。在看管他父亲的羊群时，大卫曾在不同时候杀死了攻击羊群的狮子和熊。
   * **[[:zh:obs:notes:frames:23-06|[23-06]]]** That night, there were some **shepherds**  in a nearby field guarding their flocks.
   * 那天晚上，在附近的野地有一些牧人在看护着羊群。
   * **[[:zh:obs:notes:frames:23-08|[23-08]]]** The **shepherds**  soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them.
-  * 牧人不久到了耶稣在的地方，他们发现他正躺在一个动物食槽里，正如天使告诉他们的。
+  * 牧人不久到了耶稣在的地方，他们发现他正躺在一个餵食槽里，正如天使告诉他们的。
   * **[[:zh:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like sheep without a **shepherd**.
   * 对于耶稣来说，这些人就象是没有牧人的羊。
 ~~DISCUSSION:off~~
