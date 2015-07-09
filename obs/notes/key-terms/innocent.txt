@@ -1,4 +1,4 @@
-====== innocent无辜的/无罪的 L ======
+====== innocent无辜的/无罪的 P ======
 
 ===== Definition: =====
 
@@ -6,7 +6,7 @@
 
 To be innocent means to **not** be guilty of something.
 
-是无辜的，意思指是无罪的。
+无辜的，意思指是无罪的。
 
   * In the case of a crime, a person is innocent of the crime if he has **not**  committed that crime.
   * 在一个刑事案中，如果一个人没有犯那罪，那么他是无辜的。
@@ -30,5 +30,5 @@ The opposite of "innocent" is "guilty."
   * **[[:zh:obs:notes:frames:40-04|[40-04]]]** One of them mocked Jesus, but the other said, "Do you have no fear of God? We are guilty, but this man is **innocent**."
   * 他们中的一个（犯人）讥笑耶稣，但是另一个说道，“你不怕神吗？我们是有罪的，但是这人是无罪的。”
   * **[[:zh:obs:notes:frames:40-08|[40-08]]]** When the soldier guarding Jesus saw everything that happened, he said, "Certainly, this man was **innocent**. He was the Son of God."
-  * 当看守耶稣的士兵看见了所发生的一切时，他说，“毫无疑问，这个人是无罪的。他确实是神的儿子。”
+  * 当看守耶稣的士兵看见了所发生的一切时，他说：“毫无疑问，这个人是无罪的。他确实是神的儿子。”
 ~~DISCUSSION:off~~
