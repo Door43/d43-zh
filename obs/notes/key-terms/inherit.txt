@@ -1,4 +1,4 @@
-====== inherit 继承 P ======
+====== inherit 继承P ======
 
 ==== (to inherit, inheritance) ====
 
