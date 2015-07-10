@@ -1,4 +1,4 @@
-====== Ten Commandments 十诫 W ======
+====== Ten Commandments 十诫 P ======
 
 ===== Facts: =====
 
@@ -6,14 +6,16 @@
 
 God told Moses many commands that He wanted the Israelites to obey. He wrote ten of these commands on two slabs of stone.
 
-神吩咐摩西许多诫命要以色列人来遵守。他把其中的十条诫命写在两块<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>石板上</font> 。
+神吩咐摩西许多诫命要以色列人来遵守。他把其中的十条诫命写在两块<font inherit/inherit;;inherit;;inherit>石板上</font>    。
 
   * These Ten Commandments were special commands to help the Israelites love and worship God and love other people.
   * 这十条诫命是特别的诫命，来帮助以色列人爱神、敬拜神并爱其他人。
   * These commandments were also part of God's covenant with his people. By obeying what God had commanded them to do, the people of Israel would show that they loved God and belonged to him.
-  * 这些诫命也是神和他的百姓所立的约中的一部分。借着遵行神所吩咐他们的诫命，以色列的百姓表明他们是爱神并属于他的。
+  * 这些诫命也是神和他的百姓所立的约的一部分。借着遵行神所吩咐他们的诫命，以色列的百姓表明他们是爱神并属于他的。
 
-[See also: **[[:zh:obs:notes:key-terms:gods-law|God's Law]]**] [参见：神的律法]
+[See also: **[[:zh:obs:notes:key-terms:gods-law|God's Law]]**]
+
+[参见：神的律法]
 
 ===== Examples from the Bible stories: =====
 
@@ -22,7 +24,7 @@ God told Moses many commands that He wanted the Israelites to obey. He wrote ten
   * **[[:zh:obs:notes:frames:13-07|[13-07]]]** Then God wrote these **Ten Commandments**  on two stone tablets and gave them to Moses.
   * 神把十诫写在两块石板上，交给了摩西。
   * **[[:zh:obs:notes:frames:13-13|[13-13]]]** When Moses came down the mountain and saw the idol, he was so angry that he smashed the stones on which God had written the **Ten Commandments**.
-  * 当摩西下山看到了偶像，他非常生气地把神写有十诫的石板摔碎了。
+  * 当摩西下山看到了偶像，他非常生气地把神写了十诫的石板摔碎了。
   * **[[:zh:obs:notes:frames:13-15|[13-15]]]** Moses wrote the **Ten Commandments**  on new stone tablets to replace the ones he had broken.
   * 摩西在新的石板上写下了十诫，来代替他摔碎的那两块石板。
 ~~DISCUSSION:off~~
