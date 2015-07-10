@@ -1,6 +1,8 @@
 ====== truth 真理 W ======
 
-<font inherit/inherit;;inherit;;inherit>(truth, true, truly)</font> （真理，真实的，真实地）
+<font inherit/inherit;;inherit;;inherit>(truth, true, truly)</font>
+
+（真理，真实的，真实地）
 
 ===== Definition: =====
 
@@ -8,16 +10,16 @@
 
 Something that is "true" matches or conforms to how things really are. "True" things really did or really will happen.
 
-“真实的”事物是<font inherit/inherit;;inherit;;#FFFF00>名符其实的</font> 。‘真实的“事情是确实发生了或将要发生的。
+“真实的”事物是<font inherit/inherit;;inherit;;inherit>名符其实的</font>   。‘真实的“事情是确实发生了或将要发生的。
 
   * True things are real, genuine, actual, rightful, legitimate, or factual.
-  * <font inherit/inherit;;inherit;;#FFFF00>真实的事物是真的、真正的、实际的、正确的、合法的或事实性的。</font>
+  * <font inherit/inherit;;inherit;;inherit>真实的事物是真</font>   实<font inherit/inherit;;inherit;;inherit>的、真正的、实际的、正确的、合法的或事实的。</font>
   * The truth is an understanding, belief, fact, or statement that is true.
-  * 真理就是真实的<font inherit/inherit;;inherit;;#FFFF00>道理</font> 、信仰、事实或宣告。
+  * 真理就是一个真实的认识 、信仰、事实或宣告。
 
 "True" is the opposite of "false." "Truth" is the opposite of a lie or deception.
 
-”真实的“的<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;#FFFF00>反义词</font> 是“错误的”。”真理“的<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;#FFFF00>反义词</font> 是谎言或欺骗。
+”真实的“的<font inherit/inherit;;inherit;;inherit>反义词</font>  是“假的”。”真理“的<font inherit/inherit;;inherit;;inherit>反义词</font>  是谎言或欺骗。
 
 ===== Examples from the Bible stories: =====
 
@@ -26,7 +28,7 @@ Something that is "true" matches or conforms to how things really are. "True" th
   * **[[:zh:obs:notes:frames:02-04|[02-04]]]** The snake responded to the woman, "That is not **true**! You will not die."
   * 那蛇回答女人说：”这不是真的！你不会死。”
   * **[[:zh:obs:notes:frames:14-06|[14-06]]]** Immediately Caleb and Joshua, the other two spies, said, "It is **true **  that the people of Canaan are tall and strong, but we can certainly defeat them!"
-  * 迦勒和约书亚，其余的两个探子马上说：“迦南人都很高大强壮是真的，但我们一定能打败他们！”
+  * 迦勒和约书亚，其余的两个探子马上说：“迦南人很高大强壮是真的，但我们一定能打败他们！”
   * **[[:zh:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of Yahweh, the **true **  God.
   * 以色列人开始敬拜迦南人的假神，而不是真神耶和华。
   * **[[:zh:obs:notes:frames:31-08|[31-08]]]** They worshiped Jesus, saying to him, "**Truly**, you are the Son of God."
