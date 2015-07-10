@@ -1,4 +1,4 @@
-====== Tent of Meeting 会幕 W ======
+====== Tent of Meeting 会幕 P ======
 
 ===== Facts: =====
 
@@ -11,22 +11,24 @@ When God gave his laws at Mount Sinai, he told the Israelites to make the Tent o
   * The Tent of Meeting was like a house made of cloth stretched over a wooden framework.
   * 会幕就象一个用布撑在一个木头框架上的房子。
   * God told the people to set up the Tent of Meeting in the middle of a large courtyard surrounded by walls made of cloth and wood.
-  * 神吩咐百姓把会幕搭在一个用布和木头围成的院子当中。
+  * 神吩咐百姓把会幕搭在一个用布和木头围成的大院子当中。
   * God told them to put the altar in front of the Tent of Meeting in the middle of the courtyard. The people could go into the courtyard to give offerings and sacrifices to God. The priests who were on duty would receive what the people brought and then offer it on the altar for a sacrifice as the law required.
   * 神吩咐他们把祭坛安放在院子当中会幕的前面。百姓可以进到院子里去把幡祭和祭物献给神。当值的祭司们会收取百姓带来的东西，然后按律法的规定把它献在祭坛上作祭物。
   * The Tent of Meeting had a thick curtain hanging in the middle of it, which divided it into two rooms. The curtain was used as barrier to keep people from seeing the room on the other side, and to keep people from going into it. The first room was very holy, so only the priests could go into it. The second room was the most holy place, so only the high priest could go into it.
   * 有一块厚厚的幔子挂在会幕的中央，把会幕分成两个房间。这幔子是用来做屏障的，使百姓不能看到或进入另一侧的房间。第一个房间是圣所，所以只有祭司才能进去。第二个房间是至圣所，所以只有大祭司方能进入。
 
-[See also: **[[:zh:obs:notes:key-terms:priest|priest]]**, **[[:zh:obs:notes:key-terms:priest-high|high priest]]**, **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**] 【参见：祭司，大祭司，祭】
+[See also: **[[:zh:obs:notes:key-terms:priest|priest]]**, **[[:zh:obs:notes:key-terms:priest-high|high priest]]**, **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**]
+
+【参见：祭司，大祭司，祭物】
 
 ===== Examples from the Bible stories: =====
 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:13-08|[13-08]]]** God gave the Israelites a detailed description of a tent he wanted them to make. It was called the **Tent of Meeting**, and it had two rooms, separated by a large curtain.
-  * 为着神要以色列人建造的帐幕，神给了他们详细的说明。这帐幕称作“会幕”，它由<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>一块大幔子分成</font> 两个房间。
+  * 对神要以色列人建造的帐幕，神给了他们详细的描述。这帐幕称作“会幕”，它由<font inherit/inherit;;inherit;;inherit>一块大幔子分成</font>    两个房间。
   * **[[:zh:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the **Tent of Meeting**  as a sacrifice to God.
-  * 任何违背了神的律法的人可以带一只动物到会幕前的祭坛，把它献给神作祭物。
+  * 任何违背了神的律法的人可以带一只动物到会幕前的祭坛，把它作祭物献给神。
   * **[[:zh:obs:notes:frames:14-08|[14-08]]]** God was very angry and came to the **Tent of Meeting**.
   * 神震怒并临到会幕。
   * **[[:zh:obs:notes:frames:18-02|[18-02]]]** Instead of at the **Tent of Meeting**, people now worshiped God and offered sacrifices to him at the Temple.
