@@ -1,8 +1,6 @@
-====== John (the apostle) 约翰（使徒）L ======
+====== John (the apostle) 约翰（使徒）P ======
 
-=====   =====
-
-===== Facts: =====
+Facts:
 
 實情：
 
@@ -15,7 +13,7 @@ John was one of Jesus' twelve apostles and one of Jesus' closest friends.
   * After Jesus went back to heaven, John (the apostle) taught people about Jesus.
   * 当耶稣回到天上之后，约翰（使徒）便开始教导世人有关耶稣的事。
   * John also wrote two books and some letters about Jesus that are included in the Bible.
-  * 约翰所写的关于耶稣的两卷经书和一些书信都被放在圣经里。
+  * 约翰所写的关于耶稣的两卷经书和一些书信都被收录在圣经里。
 
 [See also: **[[:zh:obs:notes:key-terms:john-baptist|John (the Baptist)]]**, **[[:zh:obs:notes:key-terms:apostle|apostle]]**]
 
@@ -26,15 +24,15 @@ John was one of Jesus' twelve apostles and one of Jesus' closest friends.
 圣经故事里的例子：
 
   * **[[:zh:obs:notes:frames:36-01|[36-01]]]** One day, Jesus took three of his disciples, Peter, James, and **John**  with him. (The disciple named **John**  was not the same person who baptized Jesus.) They went up on a high mountain by themselves.
-  * 有一天，耶稣带着他的三个门徒，彼得，雅各和约翰，上山去（名字叫约翰的门徒与那个为耶稣施洗的不是同一个人）。 他们独自登上一座高山。
+  * 有一天，耶稣带着他的三个门徒，彼得，雅各和约翰，上山去（名字叫约翰的门徒与那个为耶稣施洗的约翰不是同一个人）。他们独自登上一座高山。
   * **[[:zh:obs:notes:frames:44-01|[44-01]]]** One day, Peter and **John**  were going to the Temple. As they approached the Temple gate, they saw a crippled man who was begging for money.
-  * 有一天，彼得和约翰到圣殿去。 当他们来到圣殿的门口时，他们看见一个瘸子在向人讨钱。
+  * 有一天，彼得和约翰到圣殿去。当他们来到圣殿的门口时，他们看见一个瘸子在向人讨钱。
   * **[[:zh:obs:notes:frames:44-06|[44-06]]]** The leaders of the Temple were very upset by what Peter and **John**  were saying. So they arrested them and put them into prison.
-  * 圣殿里的首领们对彼得和约翰所说的话很生气。 于是他们就逮捕了他们，把他们都关进牢里。
+  * 圣殿里的首领们对彼得和约翰所说的话很生气。于是他们就逮捕了彼得和约翰，把他们都关进牢里。
   * **[[:zh:obs:notes:frames:44-07|[44-07]]]** The next day, the Jewish leaders brought Peter and **John**  to the high priest and the other religious leaders. They asked Peter and **John**, "By what power did you heal this crippled man?"
-  * 第二天，犹太领袖们把彼得和约翰一起带到大祭司和其他的宗教领袖那里。 他们问彼得和约翰说，“你们凭什么能力把这个瘸子医治好？”
+  * 第二天，犹太领袖们把彼得和约翰一起带到大祭司和其他的宗教领袖那里。他们问彼得和约翰说，“你们凭什么能力把这个瘸子医治好？”
   * **[[:zh:obs:notes:frames:44-09|[44-09]]]** The leaders were shocked that Peter and **John**  spoke so boldly because they could see that these men were ordinary men who were uneducated. But then they remembered that these men had been with Jesus. After they threatened Peter and **John**, they let them go.
-  * 这些首领们对彼得和约翰如此有胆量都感到惊奇，因为他们看见这两个人原来都是个没有学问的普通人。 他们就想起这两个人是曾经跟随过耶稣的。 于是他们先把他们恐吓一番之后，才把他们放了。
+  * 这些首领们对彼得和约翰说话如此有胆量都感到惊奇，因为他们看出来这两个人原来都是个没有受过教育的普通人。但后来他们想起这两个人是曾经跟随过耶稣的。于是他们先把彼得和约翰恐吓一番之后才放走。
 
 ~~DISCUSSIO來N:off~~
 
