@@ -10,7 +10,7 @@
 
 To judge is to decide whether something or someone is legally or morally right or wrong. This decision is called a "judgment."
 
-审判就是在法律或道德层面上，决定某事或某人是否对或错。这个决定被称作 “判决”。
+审判就是在法律或道德层面上，决定某事或某人是对或错。这个决定被称作 “判决”。
 
   * When God judges sin, it means he condemns it as evil.
   * 当神审判罪时，这意思是说，神判决这罪是邪恶的。
