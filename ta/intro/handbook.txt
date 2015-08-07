@@ -1,12 +1,13 @@
 ===== 翻译书院手册 =====
 
-  * <font inherit/inherit;;#008000;;inherit>开始</font>      * <font 14px line-height: 19.6000003814697px;/inherit;;rgb(0, 128, 0) font-size: 14px; line-height: 19.6000003814697px;;;inherit>事业起因</font>
+  * 普通列表项目开始
+    * 事业起因</font>
       *  [[:en:ta:intro:how|事业方式]]
-        * [[:en:ta:intro:uw|unfoldingWor<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>d</font> ]]<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>网络</font>
+        * [[:en:ta:intro:uw|unfoldingWord]]网络
         * [[:en:ta:intro:statement-of-faith|信仰宣言]]
         * [[:en:ta:intro:translation-guidelines|翻译指南]]
         * [[:en:ta:intro:license|开放授权]]
-        * <font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>门户语言策略</font>
+        * 门户语言策略
         * [[:en:ta:intro:content|需翻译的资源]]
       *  [[:en:ta:intro:what|事业内容]]
         * [[:en:ta:intro:projects|开放授权内容]]
@@ -22,7 +23,7 @@
   * [[:en:ta:translate:terms|应知条款]]
   * [[:en:ta:translate:process|翻译流程]]
   * [[:en:ta:translate:discover|揭示文本的意义]]
-  * <font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>重述意义</font>
+  * 重述意义
   * [[:en:ta:translate:form|格式的重要性]]
   * [[:en:ta:translate:same|为意义翻译]]
   * [[:en:ta:translate:literal|直译]]
@@ -45,9 +46,9 @@
       * 圣经
 
   *  [[:en:ta:check|检查手册]]
-      * <font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>第</font> [[:en:ta:check:level1|<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>1</font> ]]<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>级</font>
+      * 第 [[:en:ta:check:level1|]]级
       * [[:en:ta:check:level2|第2级]]
-      * [[:en:ta:check:level3|第3]]<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>级</font>
+      * [[:en:ta:check:level3|第3]]级
 
   *  [[:en:ta:tech|技术手册]]
       * 卷1 [[:en:ta:tech:door43|Door43]]
