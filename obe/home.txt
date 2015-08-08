@@ -7,4 +7,4 @@
 
 ==== 两个列表中的全部词汇： ====
 
-{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+{{pagequery>ns:zh:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
