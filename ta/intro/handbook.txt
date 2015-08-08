@@ -8,12 +8,12 @@
         * [[:en:ta:intro:license|开放授权]]
         * <font inherit/inherit;;#008000;;inherit>门户语言策略</font>
         * [[:en:ta:intro:content|需翻译的资源]]
-      *  [[:en:ta:intro:what|事业内容]]
-        * [[:en:ta:intro:projects|开放授权内容]]
-        * [[:en:ta:intro:tools|工具]]
-        * [[:en:ta:intro:helps|帮助]]
-      * [[:en:ta:intro:glossary|词汇]]
-      * [[:en:ta:intro:map|翻译与检查指南]]
+        *  [[:en:ta:intro:what|事业内容]]
+          * [[:en:ta:intro:projects|开放授权内容]]
+          * [[:en:ta:intro:tools|工具]]
+          * [[:en:ta:intro:helps|帮助]]
+        * [[:en:ta:intro:glossary|词汇]]
+        * [[:en:ta:intro:map|翻译与检查指南]]
 
   * [[:en:ta:translate:home|翻译手册]] * 翻译
 
@@ -23,7 +23,7 @@
   * [[:en:ta:translate:process|翻译流程]]
   * [[:en:ta:translate:discover|揭示文本的]]<font inherit/inherit;;#008000;;inherit>含义</font>
   * <font inherit/inherit;;#008000;;inherit>重述含义</font>
-  * <font inherit/inherit;;#008000;;inherit>结构</font> [[:en:ta:translate:form|的重要性]]
+  * <font inherit/inherit;;#008000;;inherit>结构</font>    [[:en:ta:translate:form|的重要性]]
   * [[:en:ta:translate:same|为意义翻译]]
   * [[:en:ta:translate:literal|直译]]
   * [[:en:ta:translate:meaning|意译]]
@@ -45,9 +45,9 @@
       * 圣经
 
   *  [[:en:ta:check|检查手册]]
-      * <font inherit/inherit;;#008000;;inherit>第</font> [[:en:ta:check:level1|<font inherit/inherit;;#008000;;inherit>1</font> ]]<font inherit/inherit;;#008000;;inherit>级</font>
-      * [[:en:ta:check:level2|第2级]]
-      * [[:en:ta:check:level3|<font inherit/inherit;;#008000;;inherit>第3</font> ]]<font inherit/inherit;;#008000;;inherit>级</font>
+      * <font inherit/inherit;;#008000;;inherit>第1级</font>
+      * [[:en:ta:check:level2|<font inherit/inherit;;#008000;;inherit>第2级</font> ]]
+      * <font inherit/inherit;;#008000;;inherit>第</font> ]]<font inherit/inherit;;#008000;;inherit>3级</font>
 
   *  [[:en:ta:tech|技术手册]]
       * 卷1 [[:en:ta:tech:door43|Door43]]
