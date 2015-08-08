@@ -1,14 +1,12 @@
 ===== 翻译书院手册 =====
 
-  * <font inherit/inherit;;#008000;;inherit>开始</font>      * <font 14px line-height: 17.8181819915772px;/inherit;;#008000;;inherit>事业起因</font>
-      * [[:en:ta:intro:how|<font 14px line-height: 17.8181819915772px;/inherit;;#008000;;inherit>事业方式</font> ]]        * [[:en:ta:intro:uw|<font 14px line-height: 17.8181819915772px;/inherit;;#008000;;inherit>unfoldingWord</font> ]]<font inherit/inherit;;#008000;;inherit>网络</font>
-        * [[:en:ta:intro:statement-of-faith|<font inherit/inherit;;#008000;;inherit>信仰宣言</font> ]]
-        * [[:en:ta:intro:translation-guidelines|<font inherit/inherit;;#008000;;inherit>翻译</font> ]]<font inherit/inherit;;#008000;;inherit>规范</font>
-        * [[:en:ta:intro:license|<font inherit/inherit;;#008000;;inherit>开放授权</font> ]]
+  * <font inherit/inherit;;#008000;;inherit>开始</font>    * <font 14px line-height: 17.8181819915772px/inherit;;#008000;;inherit>事业起因</font>      * [[:en:ta:intro:how|<font 14px line-height: 17.8181819915772px/inherit;;#008000;;inherit>事业方式</font>    ]] * [[:en:ta:intro:uw|<font 14px line-height: 17.8181819915772px/inherit;;#008000;;inherit>unfoldingWord</font>    ]]<font inherit/inherit;;#008000;;inherit>网络</font>        * [[:en:ta:intro:statement-of-faith|<font inherit/inherit;;#008000;;inherit>信仰宣言</font>    ]]
+        * [[:en:ta:intro:translation-guidelines|<font inherit/inherit;;#008000;;inherit>翻译</font>    ]]<font inherit/inherit;;#008000;;inherit>规范</font>
+        * <font inherit/inherit;;#008000;;inherit>开放]]式许可协议</font>
         * <font inherit/inherit;;#008000;;inherit>门户语言策略</font>
-        * [[:en:ta:intro:content|<font inherit/inherit;;#008000;;inherit>需翻译的资源</font> ]]
+        * [[:en:ta:intro:content|<font inherit/inherit;;#008000;;inherit>需翻译的资源</font>    ]]
       *  [[:en:ta:intro:what|事业内容]]
-        * [[:en:ta:intro:projects|开放授权内容]]
+        * [[:en:ta:intro:projects|开放]]<font 14px line-height: 17.8181819915772px;/inherit;;rgb(0, 128, 0) font-size: 14px; line-height: 17.8181819915772px;;;inherit>式许可协议</font> [[:en:ta:intro:projects|内容]]
         * [[:en:ta:intro:tools|工具]]
         * [[:en:ta:intro:helps|帮助]]
       * [[:en:ta:intro:glossary|词汇]]
