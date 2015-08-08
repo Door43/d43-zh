@@ -5,16 +5,15 @@ Door43中所有内容均按 [[http://creativecommons.org/licenses/by-sa/4.0/|知
 您可自由：
 
   * 分享 — 在任何媒介或格式中复制和重新发布有关材料
-  * 改编 — 为任何目的（甚至商业目的）在<font 14px line-height: 17.8181819915772px;/inherit;;inherit;;inherit>有关材料基础上</font> 合成、转换和添加。
+  * 改编 — 为任何目的（甚至商业目的）在<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>有关材料基础上合成</font>    、转换和添加。
 
 惟须满足以下条件：
 
-  * 署名 — 你必须如此指明作品归属：“原作品可登录[[http://door43.org|http://door43.org]]<font 14px line-height: 17.8181819915772px;/inherit;;inherit;;inherit>获取。”</font> 衍生作品中的归属声明，不得以任何方式暗示我们支持你或支持你使用有关作品。
-  * 相同方式共享<font 14px line-height: 17.8181819915772px;/inherit;;inherit;;inherit>— 如果你在</font> <font 14px line-height: 17.8181819915772px;/inherit;;inherit;;inherit>有关材料基础上合成、转换和添加，则须按照原作品的许可协议发布你的供稿。</font>
- \\
+  * 署名 — 你必须如此指明作品归属：“原作品可登录[[http://door43.org|http://door43.org]]<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>获取。”</font>    衍生作品中的归属声明，不得以任何方式暗示我们支持你或支持你使用有关作品。
+  * 相同方式共享<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>— 如果你在</font>    <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>有关材料基础上合成、转换和添加，则须按照原作品的许可协议发布你的供稿。</font>
 
 ===== Door43贡献者的署名 =====
 
-在将资源（例如书籍、圣经研究等）导入<font 14px line-height: 17.8181819915772px;/inherit;;inherit;;inherit>Door43时，须通过适用的开放式许可协议指明原作品归属。例如，“打开圣经故事”中的插图乃按开放式许可协议提供，并在该项目</font> [[:en:obs|主页]]上明确予以归属。
+在将资源（例如书籍、圣经研究等）导入<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>Door43时，须通过适用的开放式许可协议指明原作品归属。例如，“打开圣经故事”中的插图乃按开放式许可协议提供，并在该项目</font>    [[:en:obs|主页]]上明确予以归属。
 
-Door43有关项目的贡献人同意，**每个页面修订历史中自动出现的署名，均属相关作品的充分归属** 。即是说，每位将“打开圣经故事”译为不同语言的贡献者，均被列以“<font 14px line-height: 17.8181819915772px;/inherit;;inherit;;inherit>Door43世界宣教会</font> ”或类似署名。相关译文的修订历史将保存每位贡献者的个人供稿。
+Door43有关项目的贡献人同意，**每个页面修订历史中自动出现的署名，均属相关作品的充分归属**  。即是说，每位将“打开圣经故事”译为不同语言的贡献者，均被列以“<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>Door43世界宣教会</font>    ”或类似署名。相关译文的修订历史将保存每位贡献者的个人供稿。
