@@ -1,6 +1,6 @@
 ===== 翻译书院手册 =====
 
-  * <font inherit/inherit;;#008000;;inherit>开始</font>      * <font inherit/inherit;;#008000;;inherit>事业起因</font>
+  * <font inherit/inherit;;#008000;;inherit>开始</font>      * <font 14px line-height: 17.8181819915772px;/inherit;;rgb(0, 128, 0) font-size: 14px; line-height: 17.8181819915772px;;;inherit>事业起因</font>
       *  [[:en:ta:intro:how|事业方式]]
         * [[:en:ta:intro:uw|unfoldingWord]]<font inherit/inherit;;#008000;;inherit>网络</font>
         * [[:en:ta:intro:statement-of-faith|信仰宣言]]
@@ -46,8 +46,8 @@
 
   *  [[:en:ta:check|检查手册]]
       * <font inherit/inherit;;#008000;;inherit>第1级</font>
-      * [[:en:ta:check:level2|<font inherit/inherit;;#008000;;inherit>第2级</font> ]]
-      * <font inherit/inherit;;#008000;;inherit>第</font> ]]<font inherit/inherit;;#008000;;inherit>3级</font>
+      * [[:en:ta:check:level2|<font inherit/inherit;;#008000;;inherit>第2级</font>    ]]
+      * <font inherit/inherit;;#008000;;inherit>第</font>    ]]<font inherit/inherit;;#008000;;inherit>3级</font>
 
   *  [[:en:ta:tech|技术手册]]
       * 卷1 [[:en:ta:tech:door43|Door43]]
