@@ -1,13 +1,12 @@
 ===== 翻译书院手册 =====
 
-  * 普通列表项目开始
-    * 事业起因</font>
+  * <font inherit/inherit;;#008000;;inherit>开始</font>      * <font inherit/inherit;;#008000;;inherit>事业起因</font>
       *  [[:en:ta:intro:how|事业方式]]
-        * [[:en:ta:intro:uw|unfoldingWord]]网络
+        * [[:en:ta:intro:uw|unfoldingWord]]<font inherit/inherit;;#008000;;inherit>网络</font>
         * [[:en:ta:intro:statement-of-faith|信仰宣言]]
-        * [[:en:ta:intro:translation-guidelines|翻译指南]]
+        * [[:en:ta:intro:translation-guidelines|翻译]]<font inherit/inherit;;#008000;;inherit>规范</font>
         * [[:en:ta:intro:license|开放授权]]
-        * 门户语言策略
+        * <font inherit/inherit;;#008000;;inherit>门户语言策略</font>
         * [[:en:ta:intro:content|需翻译的资源]]
       *  [[:en:ta:intro:what|事业内容]]
         * [[:en:ta:intro:projects|开放授权内容]]
@@ -22,17 +21,17 @@
   * [[:en:ta:translate:why|为何翻译圣经]]
   * [[:en:ta:translate:terms|应知条款]]
   * [[:en:ta:translate:process|翻译流程]]
-  * [[:en:ta:translate:discover|揭示文本的意义]]
-  * 重述意义
-  * [[:en:ta:translate:form|格式的重要性]]
+  * [[:en:ta:translate:discover|揭示文本的]]<font inherit/inherit;;#008000;;inherit>含义</font>
+  * <font inherit/inherit;;#008000;;inherit>重述含义</font>
+  * <font inherit/inherit;;#008000;;inherit>结构</font> [[:en:ta:translate:form|的重要性]]
   * [[:en:ta:translate:same|为意义翻译]]
   * [[:en:ta:translate:literal|直译]]
   * [[:en:ta:translate:meaning|意译]]
   *  [[:en:ta:translate:qualities|佳译的特质]]
-      * [[:en:ta:translate:clear|清晰]]
-      * [[:en:ta:translate:accurate|准确]]
-      * [[:en:ta:translate:natural|自然]]
-      * [[:en:ta:translate:equal|对等]]
+      * <font inherit/inherit;;#008000;;inherit>创建清晰的译文</font>
+      * [[:en:ta:translate:accurate|创建准确的译文]]
+      * [[:en:ta:translate:natural|创建自然的译文]]
+      * [[:en:ta:translate:equal|对等]]<font inherit/inherit;;#008000;;inherit>的译文</font>
   *  [[:en:ta:translate:update|如何更新旧版本的“打开圣经故事”]]
       * [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|第1版更新至第3版]]
       * [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|第2版更新至第3版]]
@@ -46,9 +45,9 @@
       * 圣经
 
   *  [[:en:ta:check|检查手册]]
-      * 第 [[:en:ta:check:level1|]]级
+      * <font inherit/inherit;;#008000;;inherit>第</font> [[:en:ta:check:level1|<font inherit/inherit;;#008000;;inherit>1</font> ]]<font inherit/inherit;;#008000;;inherit>级</font>
       * [[:en:ta:check:level2|第2级]]
-      * [[:en:ta:check:level3|第3]]级
+      * [[:en:ta:check:level3|<font inherit/inherit;;#008000;;inherit>第3</font> ]]<font inherit/inherit;;#008000;;inherit>级</font>
 
   *  [[:en:ta:tech|技术手册]]
       * 卷1 [[:en:ta:tech:door43|Door43]]
