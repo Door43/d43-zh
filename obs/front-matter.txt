@@ -1,32 +1,34 @@
-**unfoldingWord | OPEN BIBLE STORIES**
 
-**an unrestricted visual mini-Bible in any language**
+
+**unfoldingWord | 打开圣经故事**
+
+**多语言无限制可视化迷你圣经**
 
 [[http://openbiblestories.com|http://openbiblestories.com]]
 
-Open Bible Stories, v. 3.2
+打开圣经故事，版本3.2.1
 
-Created by Distant Shores Media ([[http://distantshores.org|http://distantshores.org]]) and the Door43 world missions community ([[http://door43.org|http://door43.org]]).
+由Distant Shores Media ([[http://distantshores.org|http://distantshores.org]])和Door43世界宣教会([[http://door43.org|http://door43.org]])联合创建。
 
-**License:**
+**许可协议：**
 
-This work is made available under a Creative Commons Attribution-ShareAlike 4.0 International License ([[http://creativecommons.org/licenses/by-sa/4.0/|http://creativecommons.org/licenses/by-sa/4.0/]]).
+本作品是按知识共享署名-相同方式创建4.0国际许可协议([[http://creativecommons.org/licenses/by-sa/4.0/|http://creativecommons.org/licenses/by-sa/4.0/]])提供。
 
-You are free:
+<font 14px line-height: 17.8181819915772px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 17.8181819915772px;;;inherit>您可自由：</font>
 
-* **Share** — copy and redistribute the material in any medium or format
+* **分享** — <font 14px line-height: 17.8181819915772px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 17.8181819915772px;;;inherit>在任何媒介或格式中复制和重新发布有关材料</font>
 
-* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+* **改编** — <font 14px line-height: 17.8181819915772px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 17.8181819915772px;;;inherit>为任何目的（甚至商业目的）在</font> <font 14px line-height: 17.8181819915772px; background-color: inherit;/inherit;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 17.8181819915772px;;;inherit font-size: 14px; line-height: 17.8181819915772px; background-color: inherit;>有关材料基础上</font> <font 14px line-height: 17.8181819915772px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 17.8181819915772px;;;inherit font-size: 14px; line-height: 17.8181819915772px; background-color: inherit;>合成、转换和添加。</font>
 
-Under the following conditions:
+<font 14px line-height: 17.8181819915772px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 17.8181819915772px;;;inherit font-size: 14px; line-height: 17.8181819915772px; background-color: inherit;>惟须满足以下条件：</font>
 
-* **Attribution** — You must attribute the work as follows: "Original work available at [[http://openbiblestories.com.|Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work. ]]
+* **署名** — <font 14px line-height: 17.8181819915772px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 17.8181819915772px;;;inherit font-size: 14px; line-height: 17.8181819915772px; background-color: inherit;>你必须如此指明作品归属：“原作品可登录</font> [[http://door43.org/|http://door43.org]]<font 14px line-height: 17.8181819915772px; background-color: inherit;/inherit;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 17.8181819915772px;;;inherit font-size: 14px; line-height: 17.8181819915772px; background-color: inherit;>获取。”</font> <font 14px line-height: 17.8181819915772px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 17.8181819915772px;;;inherit font-size: 14px; line-height: 17.8181819915772px; background-color: inherit;>衍生作品中的归属声明，不得以任何方式暗示我们支持你或支持你使用有关作品。</font>
 
-**[[http://openbiblestories.com.|* ShareAlike— If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. ]]**
+<font 14px line-height: 17.8181819915772px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 17.8181819915772px;;;inherit font-size: 14px; line-height: 17.8181819915772px; background-color: inherit;>*</font> <font 14px line-height: 17.8181819915772px;/ ;;rgb(51, 51, 51);;inherit font-size: 14px; line-height: 17.8181819915772px; background-color: inherit;>** 相 **</font> **<font 14px line-height: 17.8181819915772px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; line-height: 17.8181819915772px;;;inherit font-size: 14px; line-height: 17.8181819915772px; background-color: inherit;>同方式共享</font> ** <font 14px line-height: 17.8181819915772px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; line-height: 17.8181819915772px;;;inherit font-size: 14px; line-height: 17.8181819915772px; background-color: inherit;>—</font> <font 14px line-height: 17.8181819915772px;/inherit;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; line-height: 17.8181819915772px;;;inherit font-family: inherit; line-height: 17.8181819915772px; background-color: inherit;>如果你在</font> <font 14px line-height: 17.8181819915772px;/inherit;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; line-height: 17.8181819915772px;;;inherit font-family: inherit; line-height: 17.8181819915772px; background-color: inherit;>有关材料基础上合成、转换和添加，则须按照原作品的许可协议发布你的供稿。</font>
 
-**[[http://openbiblestories.com.|Use of trademarks: unfoldingWordis a trademark of Distant Shores Media and may not be included on any derivative works created from this content. Unaltered content from ]]**[[http://openbiblestories.com|http://openbiblestories.com]] must include the **unfoldingWord** logo when distributed to others. But if you alter the content in any way, you must remove the **unfoldingWord** logo before distributing your work.
+<font 14px line-height: 17.8181819915772px;/inherit;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; line-height: 17.8181819915772px;;;inherit font-family: inherit; line-height: 17.8181819915772px; background-color: inherit;>使用商标：unfoldingWordis是Distant Shores Media的商标，不得出现在根据有关内容创建的任何衍生作品中。来自</font> [[http://openbiblestories.com|http://openbiblestories.com]]中的未变更内容<font 14px line-height: 17.8181819915772px;/inherit;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; line-height: 17.8181819915772px;;;inherit font-family: inherit; line-height: 17.8181819915772px; background-color: inherit;>如分发予他人，必须纳入</font> **unfoldingWord** <font 14px line-height: 17.8181819915772px;/inherit;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; line-height: 17.8181819915772px;;;inherit font-family: inherit; line-height: 17.8181819915772px; background-color: inherit;>标识。如果你以任何方式更改有关内容，则须在作品分发前移除</font> **unfoldingWord** <font 14px line-height: 17.8181819915772px;/inherit;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; line-height: 17.8181819915772px;;;inherit font-family: inherit; line-height: 17.8181819915772px; background-color: inherit;>标识。</font>
 
-Attribution of artwork: All images used in these stories are © Sweet Publishing ([[http://www.sweetpublishing.com|www.sweetpublishing.com]]) and are made available under a Creative Commons Attribution-Share Alike License ([[http://creativecommons.org/licenses/by-sa/3.0|http://creativecommons.org/licenses/by-sa/3.0]]).
+插图归属：有关故事中使用的所有图片均属© Sweet Publishing ([[http://www.sweetpublishing.com|www.sweetpublishing.com]])版权所有，并按<font 14px line-height: 17.8181819915772px;/inherit;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; line-height: 17.8181819915772px;;;inherit font-family: inherit; line-height: 17.8181819915772px; background-color: inherit;>知识共享署名-相同方式创建许可协议</font> ([[http://creativecommons.org/licenses/by-sa/3.0|http://creativecommons.org/licenses/by-sa/3.0]])提供。
 
-To our brothers and sisters in Christ all over the world—the global church. It is our prayer that God would use this visual overview of His Word to bless, strengthen, and encourage you.
+向全世界、全球教会的主内弟兄姐妹致意。我们祈愿上帝使用我们的圣经视觉化概述工具，使你们得蒙祝福、力上加力、奋勇不止。
 
