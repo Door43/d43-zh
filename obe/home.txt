@@ -2,8 +2,8 @@
 
 ==== OBE中的“关键词”和“其他词”: ====
 
-  * [[:en:obe:kt:home|关键词]]
-  * [[:en:obe:other:home|其他词]]
+  * [[:zh:obe:kt:home|关键词]]
+  * [[:zh:obe:other:home|其他词]]
 
 ==== 两个列表中的全部词汇： ====
 
