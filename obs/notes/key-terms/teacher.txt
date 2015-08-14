@@ -1,8 +1,8 @@
-====== teacher 老师 W ======
+====== teacher 老师 P ======
 
 ==== (teacher, Teacher) ====
 
-==== （老师，<font inherit/inherit;;inherit;;#FFD700>那老师</font> ） ====
+==== （老师，<font inherit/inherit;;inherit;;inherit>那老师</font>   ） ====
 
 ===== Definition: =====
 
@@ -13,17 +13,19 @@ A teacher is a person who instructs other people. Teachers help others to obtain
 老师是教导他人的人。老师帮助他人获得并使用知识和技能。
 
   * The word "teacher" is used in a special sense in the Bible for someone who teaches about God, rather than for a school teacher for children.
-  * “老师”，这个词用在圣经中有特别的意思，是指教导关于神的人，并不是在学校教孩子的老师。
+  * “老师”，这个词用在圣经中有特别的意思，是指教导关于神的事情的人，并不是在学校教孩子的老师。
   * The people that learn from a teacher are called "students." People who learn spiritual truth from a teacher are also called "disciples."
   * 向老师学习的人被称作“学生”。向老师学习属灵真理的人也被称作“门徒”。
   * In these stories, the word "teacher" is capitalized as, "Teacher" when it is used as a title for Jesus.
-  * 在这些（圣经）故事中，“老师” 在用作对耶稣的称谓时，要称作 “那老师"。
+  * 在这些（圣经）故事中，“老师” 在用作对耶稣的称谓时，要用大写，意思是指 “那老师"。
   * People called Jesus, "Teacher" as a title of respect because he taught them about God.
-  * 人们尊称耶稣为 “老师”，因为他教导他们<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;#FFD700>神的事情</font> 。
+  * 人们尊称耶稣为 “老师”，因为他教导他们关于<font inherit/inherit;;inherit;;inherit>神的事情</font>  。
   * Some cultures have other words that they use to show respect to those who teach about God, such as, "Sir" or, "Rabbi" or, "Preacher."
   * 某些文化里还有用其他的词来表示对那些教导神事情的人的尊敬，如“先生”，“拉比”或“传道人”。
 
-[See also: **[[:zh:obs:notes:key-terms:disciple|disciple]]**, **[[:zh:obs:notes:key-terms:preach|preach]]**] [参见：门徒，传道]
+[See also: **[[:zh:obs:notes:key-terms:disciple|disciple]]**, **[[:zh:obs:notes:key-terms:preach|preach]]**]
+
+[参见：门徒，传道]
 
 ===== Examples from the Bible stories: =====
 
@@ -32,7 +34,7 @@ A teacher is a person who instructs other people. Teachers help others to obtain
   * **[[:zh:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "**Teacher**, what must I do to inherit eternal life?"
   * 一天，一个犹太律法师来到耶稣面前试探他，说：“老师，我必须要怎样做才能承受永生？”
   * **[[:zh:obs:notes:frames:28-01|[28-01]]]** One day a rich young ruler came up to Jesus and asked him, "Good **Teacher**, what must I do to have eternal life?"
-  * 一天，一位富有且年轻的官来到耶稣面前，问他说：“<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;#FFFF00>善良的</font> 老师，我必须怎样做才能得到永生“？
+  * 一天，一位富有且年轻的官来到耶稣面前，问他说：“<font inherit/inherit;;inherit;;inherit>善良的</font>  老师，我必须怎样做才能得到永生“？
   * **[[:zh:obs:notes:frames:37-02|[37-02]]]** After the two days had passed, Jesus said to his disciples, "Let's go back to Judea." "But **Teacher**," the disciples answered, "Just a short time ago the people there wanted to kill you!"
   * 过了两天，耶稣对他的门徒们说："我们回到犹太地去吧。" “但是老师“，门徒们回答说：”就在不久前，那儿的百姓还想要杀你呢”！
   * **[[:zh:obs:notes:frames:38-14|[38-14]]]** Judas came to Jesus and said, "Greetings, **Teacher**," and kissed him.
