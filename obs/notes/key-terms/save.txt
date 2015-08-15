@@ -1,8 +1,8 @@
-====== save拯救/救赎/解救/搭救/营救 ======
+====== save拯救 W ======
 
 ==== (save, salvation, saved) ====
 
-（拯救/救赎，救恩，被拯救/被救赎）
+（拯救，救恩，被拯救）
 
 ===== Definition: =====
 
@@ -10,14 +10,14 @@
 
 To save someone or something is to rescue that person or thing from something bad.
 
-营救/搭救某人或拯救某事，就是从罪恶的事情中营救/搭救某人或挽救某事。
+拯救某人或某事，就是从坏的事情中把某人或某事救出来。
 
   * In a physical sense, people can be saved from harm, danger, or death.
-  * 在实际意义上，人可以从伤害、危险或死亡中被抢救。
+  * 物理意义上，人可以从伤害、危险或死亡中被拯救。
   * In a spiritual sense, if a person has been "saved," it means that through Jesus' death on the cross, God has forgiven him and rescued him from being punished for his sin.
-  * 在属灵意义上，如果一个人已经“被救赎”，这意思是说，通过耶稣的十字架上的死，神原谅了这人，把他因着他的罪从被惩罚中拯救出来。
+  * 属灵意义上，如果一个人已经“被拯救”，这意思是说，通过耶稣的十字架上的死，神赦免了这个人，把他从罪的惩罚中拯救出来。
   * Only God can save people from being punished for their sin.
-  * 只有神可以因着人的罪，拯救人不受惩罚。
+  * 只有神可以拯救人脱离罪当有的惩罚。
 
 [See also: **[[:zh:obs:notes:key-terms:sin|sin]]**, **[[:zh:obs:notes:key-terms:punish|punish]]**, **[[:zh:obs:notes:key-terms:cross|cross]]**]
 
@@ -30,19 +30,19 @@ To save someone or something is to rescue that person or thing from something ba
   * **[[:zh:obs:notes:frames:09-08|[09-08]]]** Moses tried to **save**  his fellow Israelite.
   * 摩西试图拯救他的同胞以色列人。
   * **[[:zh:obs:notes:frames:11-02|[11-02]]]** God provided a way to **save**  the firstborn son of anyone who believed in him.
-  * 神预备了一个办法，来拯救任何信他的人头生的儿子（长子)。
+  * 神预备了一个办法，来拯救那些他的人头生的儿子（长子)。
   * **[[:zh:obs:notes:frames:12-05|[12-05]]]** Moses told the Israelites, "Stop being afraid! God will fight for you today and **save**  you."
-  * 摩西告诉以色列人，“不要害怕！神今天会为你而战，并拯救你。”
+  * 摩西告诉以色列人：“不要害怕！神今天要为你们而战，并拯救你们。”
   * **[[:zh:obs:notes:frames:12-13|[12-13]]]** The Israelites sang many songs to celebrate their new freedom and to praise God because he **saved**  them from the Egyptian army.
-  * 以色列人唱了很多歌，来庆祝他们的新自由，并赞美神，因为他拯救他们脱离了以色列军队。
+  * 以色列人唱了很多歌，来庆祝他们的新自由，并赞美神，因为他拯救他们脱离了埃及的军队。
   * **[[:zh:obs:notes:frames:16-17|[16-17]]]** This pattern repeated many times: the Israelites would sin, God would punish them, they would repent, and God would send a deliverer to **save**  them.
-  * 这个形式重复了很多次：以色列人会犯罪，神将会惩罚他们，他们也会忏悔，并且神会派遣一个拯救者去拯救他们。
+  * 这个模式重复了很多次：以色列人犯罪，神惩罚他们，他们就忏悔，然后神会派遣一个拯救者去拯救他们。
   * **[[:zh:obs:notes:frames:44-08|[44-08]]]**"You crucified Jesus, but God raised him to life again! You rejected him, but there is no other way to be **saved**  except through the power of Jesus!"
-  * 你钉死了耶稣，但是神使他升天复活！你拒绝了他，但是除了耶稣的大能以外，别无拯救”！
+  * “你们钉死了耶稣，但神使他复活了！你们拒绝了他，但是除了耶稣的大能以外，别无拯救！”
   * **[[:zh:obs:notes:frames:47-11|[47-11]]]**] The jailer trembled as he came to Paul and Silas and asked, "What must I do to be **saved**?" Paul answered, "Believe in Jesus, the Master, and you and your family will be **saved**."
-  * 狱卒战战兢兢地来到保罗和西拉的面前，问到，“我必须怎么做，方能得拯救？”保罗回答，“相信耶稣，相信主，你和你的家人将被拯救”。
+  * 狱卒战战兢兢地来到保罗和西拉的面前，问道：“我必须做什么才能得拯救？”保罗回答：“相信耶稣，就是主，你和你的家人就可以得救。”
   * **[[:zh:obs:notes:frames:49-12|[49-12]]]** Good works cannot **save**  you.
-  * 善行不能救你。/ 没有人因为善行而得救。
+  * 善行不能救你。
   * **[[:zh:obs:notes:frames:49-13|[49-13]]]** God will **save**  everyone who believes in Jesus and receives him as their Master. But he will not **save**  anyone who does not believe in him.
-  * 神将拯救每一个信耶稣并接受他做他的主人的人。但是他不会拯救任何一个不信他的人。
+  * 神将拯救每一个信耶稣并接受他为他们的主人的人。但是他不会拯救那些不信耶稣的人。
 ~~DISCUSSION:off~~
