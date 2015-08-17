@@ -6,14 +6,14 @@
 
 A promise is a vow or commitment to do something.
 
-承诺就是发誓或保证要去做某事。
+承诺/应许就是发誓或保证要去做某事。
 
   * When someone promises to do something, he says that he will definitely do it.
   * 当某人承诺去做某事时，就是他说他肯定会去做。
   * When someone promises that something will happen, he says that it will definitely happen.
   * 当某人承诺某些事会发生时，就是他说那将肯定会发生。
   * Promises are important parts of formal agreements such as covenants.
-  * 承诺是正式协议的重要部分，例如：约（契约）。
+  * 承诺/应许是正式协议的重要部分，例如：约（契约）。
 
 [See also: **[[:zh:obs:notes:key-terms:covenant|covenant]]**]
 
