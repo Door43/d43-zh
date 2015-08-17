@@ -1,4 +1,4 @@
-====== sheep 羊 W ======
+====== sheep 羊 P ======
 
 ===== Definition: =====
 
@@ -11,7 +11,7 @@ A sheep is a medium-sized animal with four legs that has wool all over its body.
   * People eat meat from sheep and use their wool to make clothing and other things.
   * 人类吃羊身上的肉，用它们的毛做衣服和其它东西。
   * Sheep are very trusting, weak and timid. They are easily influenced to wander away. They need a shepherd to lead them in the right direction and to provide them with food, water and shelter.
-  * 羊是非常信的，软弱而胆怯。它们很容易受到惊扰而走失。它们需要一个牧人来带领它们到<font inherit/inherit;;inherit;;inherit>正确的方向</font>    ，并提供它们食物，水和庇护。
+  * 羊是非常信任别人，软弱而胆怯。它们很容易受到惊扰而走失。它们需要一个牧人来带领它们到<font inherit/inherit;;inherit;;inherit>正确的方向</font>    ，并提供它们食物，水和庇护。
   * In the Bible, people are compared to sheep who have God as their shepherd.
   * 在圣经里，人被比做羊，他们有神做他们的牧人。
 
@@ -24,9 +24,9 @@ A sheep is a medium-sized animal with four legs that has wool all over its body.
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:09-12|[09-12]]]** One day while Moses was taking care of his **sheep**, he saw a bush that was on fire.
-  * 一天，正当摩西看管他的羊群时，他看见荆棘丛着火了。
+  * 一天，正当摩西看管他的羊群时，他看见荆棘着火了。
   * **[[:zh:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of Bethlehem. At different times while he was watching his father's **sheep**, David had killed both a lion and a bear that had attacked the **sheep**.
-  * 大卫曾是来自伯利恒城的一个牧人。在看管他父亲的羊群时，大卫曾在不同间里杀死了攻击羊群的狮子和熊。
+  * 大卫曾是来自伯利恒城的一个牧人。在看管他父亲的羊群时，大卫曾在不同时间杀死了攻击羊群的狮子和熊。
   * **[[:zh:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like **sheep**  without a shepherd.
   * 对耶稣来说，这些百姓就象没有牧人的羊。
   * **[[:zh:obs:notes:frames:38-08|[38-08]]]** Jesus said, "All of you will all abandon me tonight. It is written, 'I will strike the shepherd and all the **sheep**  will be scattered.'"
