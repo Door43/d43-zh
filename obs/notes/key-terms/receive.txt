@@ -1,4 +1,4 @@
-====== receive接受/领受 ======
+====== receive接受 W ======
 
 ===== Definition: =====
 
@@ -6,33 +6,33 @@
 
 To receive something normally means to accept something that is given, offered, or presented.
 
-接受某事（某东西），一般是指接受（人们）给与、捐助或捐赠的某些东西。
+接受某事或某物，一般是指接受（人们）给予、提供或赠予的某事或某物。
 
   * To "receive" can also mean to suffer or experience something, as in "he received your punishment."
-  * “接受 ” 也可以指，去忍受或经历某事，如句子“他接受了你的惩罚。”
+  * “接受 ” 也可以指，忍受或经历某事，如“他接受了你的惩罚”。
   * There is also a special sense in which we can "receive" a person. For example, to "receive" guests or visitors means to welcome them and to treat them with honor in order to build a relationship with them.
-  * 也有一个特殊的意思，既我们可以“接受”一个人。例如，“接受”客人或访问者就是指欢迎他们、体面款待他们，以便和他们建立起关系。
+  * 还有一个特殊的意思，我们可以“接受”一个人。例如，“接受”客人或访问者就是指欢迎他们、尊敬他们，以便和他们建立起关系。
   * To "receive the gift of the Holy Spirit" means we welcome the Holy Spirit into our lives, and allow him to work in and through us.
-  * “领受圣灵的礼物”，意思是我们欢迎圣灵进入我们的生命中，并允许他做工在我们当中，并且通过我们做工。
+  * “接受圣灵的礼物”，意思是我们欢迎圣灵进入我们的生命中，并允许他在我们里面工作，并且通过我们做工。
   * To "receive Jesus" means we welcome him into our lives, honor him by acknowledging that he is our Lord and the One who saves us, and enter into a close, personal relationship with him.
-  * “接受耶稣” 是说，我们欢迎耶稣进入我们的生命中，荣耀他，同时承认他是我们的主，是拯救我们的那个主，而且我们要和主进入一个亲密的私人关系中。
+  * “接受耶稣” 是说，我们欢迎耶稣进入我们的生命中，借着承认他是我们的主，是拯救我们的那一位来尊敬他，并且我们要和主进入一个亲密的个人关系中。
 
 [See also: **[[:zh:obs:notes:key-terms:holy-spirit|Holy Spirit]]**, **[[:zh:obs:notes:key-terms:lord|Lord]]**, **[[:zh:obs:notes:key-terms:jesus|Jesus]]**, **[[:zh:obs:notes:key-terms:save|save]]**]
 
-[参见：圣灵，主，耶稣，拯救/救赎]
+[参见：圣灵，主，耶稣，拯救]
 
 ===== Examples from the Bible stories: =====
 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:21-13|[21-13]]]** The prophets also said that the Messiah would be perfect, having no sin. He would die to **receive**  the punishment for other people's sin. His punishment would bring peace between God and people.
-  * 先知们也说，弥赛亚将会是完美的、无罪的。他会因着人（犯下）的罪，用死来领受惩罚。他（领受到）的惩罚将在神和他的子民之间带来平安。
+  * 先知们也说，弥赛亚将会是完美的、无罪的。他会为人的罪，接受死的惩罚。他受到的惩罚将为神和他的子民之间带来平安。
   * **[[:zh:obs:notes:frames:45-05|[45-05]]]** As Stephen was dying, he cried out, "Jesus, **receive**  my spirit."
-  * 在司提反奄奄一息时，他哀嚎到，“耶稣，接受我的灵魂吧。”
+  * 司提反临死时，他大声呼叫：“耶稣，接受我的灵吧。”
   * **[[:zh:obs:notes:frames:49-06|[49-06]]]** He (Jesus) taught that some people will receive him and be saved, but other will not.
-  * 他（耶稣）教导说，一些人将会接受他，并被救赎，但有些人则不会。
+  * 他（耶稣）教导说，一些人将会接受他而蒙拯救，但有些人则不会接受他（因而也不能得拯救）。
   * **[[:zh:obs:notes:frames:49-10|[49-10]]]** When Jesus died on the cross, he **received**  your punishment.
-  * 当耶稣死在十字架上时，他领受了你们（应受到）的惩罚。
+  * 当耶稣死在十字架上时，他接受了你们当受的惩罚。
   * **[[:zh:obs:notes:frames:49-13|[49-13]]]** God will save everyone who believes in Jesus and **receives**  him as their Master.
-  * 神将救赎任何一个信耶稣的人，接受这人作为他们自己的主人。
+  * 神拯救每一个信耶稣，接受他作为自己的主的人。
 ~~DISCUSSION:off~~
