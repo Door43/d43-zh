@@ -1,4 +1,4 @@
-====== Rome罗马 W ======
+====== Rome 罗马 P ======
 
 ==== (Rome, Roman) ====
 
@@ -17,7 +17,7 @@ In the current day, Rome is the capital city of the country of Italy.
   * The Roman Empire ruled over all of the regions around the Mediterranean Sea, including Israel.
   * 罗马帝国统辖了地中海周边的所有地区，包括以色列。
   * The term, "Roman" refers to anything relating to the regions that the government in Rome controlled, including Roman citizens and Roman officials.
-  * ”罗马” 一词，指和罗马所在政府所管制的地区有关的任何一切事物，包括罗马的公民和罗马的官员。
+  * ”罗马” 一词，指和罗马所在政府所管制的地区有关的任何事物，包括罗马的公民和罗马的官员。
   * The Apostle Paul was taken to the city of Rome as a prisoner because he preached the good news about Jesus.
   * 使徒保罗作为囚犯被带到罗马城，因为他传了关于耶稣的福音。
 
@@ -32,9 +32,9 @@ In the current day, Rome is the capital city of the country of Italy.
   * **[[:zh:obs:notes:key-terms:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman**  government told everyone to go for a census to the town where their ancestors had lived.
   * 当马利亚即将分娩的时候，罗马政府命令所有人，到他们的祖先曾经居住的地方做户籍普查。
   * **[[:zh:obs:notes:key-terms:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman**  army.)
-  * 于是，耶稣问那恶魔，“你叫什么名字？”他回答说：“我名叫群，因为我们人数众多。”（群是罗马军队中， <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>一组</font> 几千士兵。）
+  * 于是，耶稣问那恶魔，“你叫什么名字？”他回答说：“我名叫群，因为我们人数众多。”（一个"群"是罗马军队中， <font inherit/inherit;;inherit;;inherit>一组</font>    几千士兵。）
   * **[[:zh:obs:notes:key-terms:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman**  governor, Pilate, hoping to have Jesus killed.
-  * 第二天一早，犹太人的首领带着耶稣去见罗马总督彼拉多，希望能杀掉耶稣。
+  * 第二天一早，犹太人的首领带着耶稣去见罗马巡抚彼拉多，希望能杀掉耶稣。
   * **[[:zh:obs:notes:key-terms:39-12|[39-12]]]** The **Roman**  soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
   * 罗马士兵鞭打耶稣，又给他穿上王袍并且戴上荆棘做的冠冕。然后他们嘲笑他说，“看呐，这是犹太人的王！”
 ~~DISCUSSION:off~~
