@@ -1,4 +1,4 @@
-====== kingdom 王国/国度 L ======
+====== kingdom 王国/国度 P ======
 
 ===== Definition: =====
 
@@ -9,15 +9,13 @@ A kingdom is a group of people ruled by a king.
 王国是被一个王统治着的一群人。
 
   * A kingdom can be of any geographical size; a king might govern a nation or country or only one city.
-  * 一个王国可以是不分任何地理区域大小的；一个国王可以统治一个民族、一个国家、或只是一个城市。
+  * 一个王国可以是任何地理区域大小的；一个国王可以统治一个民族、一个国家、或只是一个城市。
   * "Kingdom" also refers to the ruling or governing power that a king exercises over a group of people.
   * “王国”也指一个国王对一群人执行统治或行政的权力。
   * God's kingdom refers to his rule over everything.
-  * 神的国度是指祂
-统治
-了一切 。
+  * 神的国度是指他统治 了一切 。
   * Satan also temporarily rules over many things. This is "Satan's kingdom" which will be destroyed by God.
-  * 撒旦也暂时统治了很多事情。这就是神将要摧毁的“撒旦的国度”。
+  * 撒旦也暂时统治了很多事物。这就是神将要摧毁的“撒旦的国度”。
 
 [See also: **[[:zh:obs:notes:key-terms:king|king]]**, **[[:zh:obs:notes:key-terms:kingdom-of-god|Kingdom of God]]**]
 
@@ -28,13 +26,13 @@ A kingdom is a group of people ruled by a king.
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:13-02|[13-02]]]** God said to Moses and the people of Israel, "If you will obey me and keep my covenant, you will be my prized possession, a **kingdom**  of priests, and a holy nation."
-  * 神对摩西和以色列人说，“如果你们顺服我，并遵守我的约，你们将是我的珍贵产业、一个祭司的国度、和一个圣洁的国民。”
+  * 神对摩西和以色列人说：“如果你们顺服我，并遵守我的约，你们将是我的珍贵产业、一个祭司的国度、圣洁的国民。”
   * **[[:zh:obs:notes:frames:18-04|[18-04]]]** God was angry with Solomon and, as a punishment for Solomon's unfaithfulness, he promised to divide the nation of Israel in two **kingdoms**  after Solomon's death.
   * 神向所罗门发怒，作为对所罗门不忠心的惩罚，神发誓在所罗门死后，把以色列国分裂成两个王国。
   * **[[:zh:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel rebelled against Rehoboam. Only two tribes remained faithful to him. These two tribes became the **kingdom**  of Judah.
-  * 以色列国的十个支派部落起来反叛了罗波安。只有两个支派仍忠于他。这两个支派成为犹大国。
+  * 以色列国的十个支派起来反叛了罗波安。只有两个支派仍忠于他。这两个支派成为犹大国。
   * **[[:zh:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their **kingdom**  in the northern part of the land and were called the **kingdom**  of Israel.
   * 背叛罗波安的以色列国的其它十个支派，选派了一个名叫耶罗波安的人做他们的王。他们把自己的国建立在了该地的北部，称作以色列国。
   * **[[:zh:obs:notes:frames:21-08|[21-08]]]** A king is someone who rules over a **kingdom**  and judges the people.
-  * 国王就是统治一个国、并审判人民的人。
+  * 国王就是统治一个国并审判百姓的人。
 ~~DISCUSSION:off~~
