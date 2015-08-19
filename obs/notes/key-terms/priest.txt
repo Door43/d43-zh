@@ -1,4 +1,4 @@
-====== priest祭司 W ======
+====== priest 祭司 P ======
 
 ===== Definition: =====
 
@@ -13,13 +13,13 @@ A priest is a person with the special job of intermediary, or standing between, 
   * Priests would pray to God for the people.
   * 祭司为百姓向神祷告。
   * Priests taught the people God's instructions.
-  * 祭司教导百姓<font inherit/inherit;;inherit;;inherit>神的命令</font> 。
+  * 祭司教导百姓<font inherit/inherit;;inherit;;inherit>神的命令</font>    。
   * Priests would bless the people.
   * 祭司为百姓祝福。
 
 "Priest" could be translated as "intermediary," "mediator," "middle-man" or "sacrificer." Besides God's priests, there were also other priests who presented offerings to false gods such as Baal.
 
-“祭司”可被翻译成 “中保”，“媒介”，“中间人”，或 “献祭的人”。除了神的祭司，也有其他的祭司，他们把祭物献给假神，如：巴力。
+“祭司”可被翻译成 "媒介者”，“中保”，“中间人”，或 “献祭的人”。除了神的祭司，也有其他的祭司，他们把祭物献给假神，如：巴力。
 
 [See also: **[[:zh:obs:notes:key-terms:aaron|Aaron]]**, **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**]
 
@@ -32,7 +32,7 @@ A priest is a person with the special job of intermediary, or standing between, 
   * **[[:zh:obs:notes:frames:04-07|[04-07]]]**"Melchizedek, the **priest**  of God Most High"
   * “麦基洗德，至高神的祭司”。
   * **[[:zh:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the Tent of Meeting as a sacrifice to God. A **priest**  would kill the animal and burn it on the altar. The blood of the animal that was sacrificed covered the person's sin and made that person clean in God's sight. God chose Moses' brother, Aaron, and Aaron's descendants to be his **priests**.
-  * 凡是违背了神律法的人可带一只动物到会幕前面的祭坛，作为祭物献给神。祭司会把那动物宰了，并烧在祭坛上。动物的血遮盖了那人的罪，使那人在神的眼中成为洁净。神拣选摩西的哥哥亚伦和亚伦的后代作他的祭司。
+  * 凡是违背了神律法的人可带一只动物到会幕前面的祭坛，作为祭物献给神。祭司会把那动物杀了，并烧在祭坛上。被献的动物的血遮盖了那人的罪，使那人在神的眼中成为洁净。神拣选摩西的哥哥亚伦和亚伦的后代作他的祭司。
   * **[[:zh:obs:notes:frames:19-07|[19-07]]]** So the **priests**  of Baal prepared a sacrifice but did not light the fire.
   * 所以，巴力的祭司们准备了祭物，但没有点火。
   * **[[:zh:obs:notes:frames:21-07|[21-07]]]** An Israelite **priest**  was someone who made sacrifices to God on behalf of the people as a substitute for the punishment of their sins. **Priests**  also prayed to God for the people.
