@@ -1,4 +1,4 @@
-====== prophet先知 W ======
+====== prophet 先知 P ======
 
 ==== (prophet, prophecy, prophesy) ====
 
@@ -21,7 +21,7 @@ A prophet is a person who speaks God's messages to people. He tells them what Go
   * Prophets told people about things that God had said would happen in the future.
   * 先知告诉人们，神曾说过的会在将来发生的事。
   * Prophets also warned people to turn away from their sins and obey God.
-  * 先知也警告人们，要远离罪和顺服神。
+  * 先知也警告人们，要远离他们的罪和顺服神。
   * There were also false prophets who claimed to speak messages from false gods such as Baal.
   * 也有假先知，他们宣称传讲假神（如：巴力）的信息。
 
@@ -38,7 +38,7 @@ A prophet is a person who speaks God's messages to people. He tells them what Go
   * **[[:zh:obs:notes:frames:17-13|[17-13]]]** God was very angry about what David had done, so he sent the **prophet**  Nathan to tell David how evil his sin was.
   * 神非常恼怒大卫所做的，于是神指派先知拿单，去告诉大卫他的罪是何等的恶。
   * **[[:zh:obs:notes:frames:19-01|[19-01]]]** Throughout the history of the Israelites, God sent them **prophets**. The **prophets**  heard messages from God and then told the people God's messages.
-  * 以色列的历史里，神差遣先知给他们。先知们听到了神的信息，然后把神的信息传给百姓。
+  * 以色列的历史里，神差遣先知去他们那里。先知们听到了神的信息，然后把神的信息告诉百姓。
   * **[[:zh:obs:notes:frames:19-06|[19-06]]]** All the people of the entire kingdom of Israel, including the 450 **prophets**  of Baal, came to Mount Carmel.
   * 以色列国的所有人，包括450个巴力的先知，都来到了迦密山。
   * **[[:zh:obs:notes:frames:19-17|[19-17]]]** Most of the time, the people did not obey God. They often mistreated the **prophets**  and sometimes even killed them.
@@ -46,7 +46,7 @@ A prophet is a person who speaks God's messages to people. He tells them what Go
   * **[[:zh:obs:notes:frames:21-09|[21-09]]]** The **prophet**  Isaiah **prophesied**  that the Messiah would be born from a virgin.
   * 先知以赛亚曾预言，弥赛亚将从一个处女而生。
   * **[[:zh:obs:notes:frames:43-05|[43-05]]]**"This fulfills the **prophecy**  made by the **prophet**  Joel in which God said, 'In the last days, I will pour out my Spirit.'"
-  * “这应验先知约珥的预言，神说在末后的日子，我要浇灌我的灵。”
+  * “这应验先知约珥的预言，神说在末后的日子，我要浇灌下我的灵。”
   * **[[:zh:obs:notes:frames:43-07|[43-07]]]**"This fulfills the **prophecy**  which says, 'You will not let your Holy One rot in the grave.'"
   * “这应验了预言说：你必不将你的圣者撇在阴间。”
   * **[[:zh:obs:notes:frames:48-12|[48-12]]]** Moses was a great **prophet**  who proclaimed the word of God. But Jesus is the greatest **prophet**  of all. He is the Word of God.
