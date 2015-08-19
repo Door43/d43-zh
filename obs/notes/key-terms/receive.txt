@@ -1,4 +1,4 @@
-====== receive接受 W ======
+====== receive 接受 P ======
 
 ===== Definition: =====
 
@@ -11,9 +11,9 @@ To receive something normally means to accept something that is given, offered, 
   * To "receive" can also mean to suffer or experience something, as in "he received your punishment."
   * “接受 ” 也可以指，忍受或经历某事，如“他接受了你的惩罚”。
   * There is also a special sense in which we can "receive" a person. For example, to "receive" guests or visitors means to welcome them and to treat them with honor in order to build a relationship with them.
-  * 还有一个特殊的意思，我们可以“接受”一个人。例如，“接受”客人或访问者就是指欢迎他们、尊敬他们，以便和他们建立起关系。
+  * 还有一个特殊的意思，就是我们可以“接受”一个人。例如，“接受”客人或访问者就是指欢迎他们、以尊荣对待他们，以便和他们建立起关系。
   * To "receive the gift of the Holy Spirit" means we welcome the Holy Spirit into our lives, and allow him to work in and through us.
-  * “接受圣灵的礼物”，意思是我们欢迎圣灵进入我们的生命中，并允许他在我们里面工作，并且通过我们做工。
+  * “接受圣灵的恩赐”，意思是我们欢迎圣灵进入我们的生命中，并允许他在我们里面工作，并且通过我们做工。
   * To "receive Jesus" means we welcome him into our lives, honor him by acknowledging that he is our Lord and the One who saves us, and enter into a close, personal relationship with him.
   * “接受耶稣” 是说，我们欢迎耶稣进入我们的生命中，借着承认他是我们的主，是拯救我们的那一位来尊敬他，并且我们要和主进入一个亲密的个人关系中。
 
@@ -26,7 +26,7 @@ To receive something normally means to accept something that is given, offered, 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:21-13|[21-13]]]** The prophets also said that the Messiah would be perfect, having no sin. He would die to **receive**  the punishment for other people's sin. His punishment would bring peace between God and people.
-  * 先知们也说，弥赛亚将会是完美的、无罪的。他会为人的罪，接受死的惩罚。他受到的惩罚将为神和他的子民之间带来平安。
+  * 先知们也说，弥赛亚将会是完美的、无罪的。他会为人的罪，接受死的惩罚。他受到的惩罚将为神和他的子民之间带来和平。
   * **[[:zh:obs:notes:frames:45-05|[45-05]]]** As Stephen was dying, he cried out, "Jesus, **receive**  my spirit."
   * 司提反临死时，他大声呼叫：“耶稣，接受我的灵吧。”
   * **[[:zh:obs:notes:frames:49-06|[49-06]]]** He (Jesus) taught that some people will receive him and be saved, but other will not.
