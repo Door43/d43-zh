@@ -1,4 +1,4 @@
-====== promise承诺/应许 W ======
+====== promise 承诺/应许 P ======
 
 ===== Definition: =====
 
@@ -11,28 +11,28 @@ A promise is a vow or commitment to do something.
   * When someone promises to do something, he says that he will definitely do it.
   * 当某人承诺去做某事时，就是他说他肯定会去做。
   * When someone promises that something will happen, he says that it will definitely happen.
-  * 当某人承诺某些事会发生时，就是他说那将肯定会发生。
+  * 当某人承诺某些事会发生时，就是他说那事肯定会发生。
   * Promises are important parts of formal agreements such as covenants.
   * 承诺/应许是正式协议的重要部分，例如：约（契约）。
 
 [See also: **[[:zh:obs:notes:key-terms:covenant|covenant]]**]
 
-[参见：约
+【参见：约】
 
 ===== Examples from the Bible Stories： =====
 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:03-15|[03-15]]]** God said, "I **promise**  I will never again curse the ground because of the evil things people do, or destroy the world by causing a flood, even though people are sinful from the time they are children."
-  * 神说：“我应许我不再因为人所做的恶事而诅咒地；或兴起洪水来毁灭世界，尽管人从幼时就怀着恶念。”
+  * 神说：“我应许我不再因为人所做的恶事而诅咒地；或兴起洪水来毁灭世界，尽管人从幼时就有罪。”
   * **[[:zh:obs:notes:frames:03-16|[03-16]]]** God then made the first rainbow as a sign of his **promise**. Every time the rainbow appeared in the sky, God would remember what he **promised**  and so would his people.
   * 于是神造了第一道彩虹作为他应许的记号。每次彩虹出现在空中时，神就会想起他所应许的，他的百姓也是如此。
   * **[[:zh:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and **promised**  again that he would have a son and as many descendants as the stars in the sky. Abram believed God's **promise**.
-  * 神和亚伯拉罕说话，并再次应许说亚伯拉罕将有一个儿子，并且他的子孙要如天上的星星一样多。亚伯拉罕相信神的应许。
+  * 神和亚伯兰说话，并再次应许说他将有一个儿子，并且他的子孙要如天上的星星一样多。亚伯兰相信神的应许。
   * **[[:zh:obs:notes:frames:05-04|[05-04]]]**"Your wife, Sarai, will have a son—he will be the son of **promise**."
   * “你的妻子撒莱将生一个儿子——他将是那应许之子。”
   * **[[:zh:obs:notes:frames:08-15|[08-15]]]** The covenant **promises**  that God gave to Abraham were passed on to Isaac, then to Jacob, and then to Jacob's twelve sons and their families.
-  * 神赐给亚伯拉罕的应许传给了以撒，然后传给了雅各，然后传给了雅各的十二个儿子和他们的家人。
+  * 神赐给亚伯拉罕立约的应许传给了以撒，然后传给了雅各，然后传给了雅各的十二个儿子和他们的家人。
   * **[[:zh:obs:notes:frames:17-14|[17-14]]]** Though David had been unfaithful to God, God was still faithful to his **promises**.
   * 尽管大卫对神不忠心，神对他的应许仍然是信实的。
   * **[[:zh:obs:notes:frames:50-01|[50-01]]]** Jesus **promised**  he would return at the end of the world. Though he has not yet come back, he will keep his **promise**.
