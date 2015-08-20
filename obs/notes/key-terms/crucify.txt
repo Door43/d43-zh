@@ -1,4 +1,4 @@
-====== crucify 钉十字架 S ======
+====== crucify 钉十字架 P ======
 
 ===== Definition: =====
 
@@ -13,7 +13,7 @@ To crucify someone is to tie him or hang him to a cross and leave him there to s
   * Crucifixion was a common method that the Roman Empire used to execute the worst criminals or people who had rebelled against the authority of Rome.
   * 罗马帝国常用釘十字架这种刑罚来处决罪大恶极的罪犯，以及那些反叛罗马政权的人。
   * The Roman Empire used professional executioners to crucify people. These executioners made crucifixions as long and as painful as possible.
-  * 罗马帝国用专业刽子手将人钉死在十字架上，这些<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>刽子手</font> 会尽可能使钉十字架过程成为最漫长和最痛苦的经历。
+  * 罗马帝国用专业刽子手将人钉死在十字架上，这些<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>刽子手</font>    会尽可能使钉十字架过程成为最漫长和最痛苦的经历。
   * During the time of Jesus, Rome ruled the Jews and did not allow them to execute a criminal. When the Jewish religious leaders wanted to kill Jesus, they had to ask the Roman governor to order his soldiers to crucify Jesus.
   * 在耶稣时代，罗马帝国统治犹太人，不允许他们处决罪犯。当犹太的宗教首领想要殺害耶稣时，他们不得不要求罗马巡撫派士兵将耶稣钉十字架。
   * The Romans crucified Jesus by nailing him to a cross. He suffered for six hours, and then died.
@@ -28,17 +28,17 @@ To crucify someone is to tie him or hang him to a cross and leave him there to s
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:39-11|[39-11]]]** But the Jewish leaders and the crowd shouted, "**Crucify**  him (Jesus)!"
-  * **[[:zh:obs:notes:frames:39-11|[39-11]]]**但犹太首领和群众大喊：“把他（耶稣）钉十字架!"
+  * **[[:zh:obs:notes:frames:39-11|[39-11]]]** 但犹太首领和群众大喊：“把他（耶稣）钉十字架!"
   * **[[:zh:obs:notes:frames:39-12|[39-12]]]** Pilate became afraid that the crowd would begin to riot, so he ordered his soldiers to **crucify**  Jesus.
   * **[[:zh:obs:notes:frames:39-12|[39-12]]]** 彼拉多恐怕群众暴乱，所以他吩咐他的士兵将耶稣钉十字架。
   * **[[:zh:obs:notes:frames:40-01|[40-01]]]**] After the soldiers mocked Jesus, they led him away to **crucify**  him. They made him carry the cross on which he would die.
-  * **[[:zh:obs:notes:frames:40-01|[40-01]]]** 在士兵们嘲笑过耶稣后，他们就让耶稣背着自己将受死在上面的十字架，押送着耶稣去行刑。
+  * **[[:zh:obs:notes:frames:40-01|[40-01]]]** <font 14px line-height: 11.1999998092651px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 11.1999998092651px;;;inherit>士兵们在嘲笑过耶稣后，就把他带去钉十字架，他们让他背着那个他将要死在上面的十字架。</font>
   * **[[:zh:obs:notes:frames:40-04|[40-04]]]** Jesus was **crucified**  between two robbers.
   * **[[:zh:obs:notes:frames:40-04|[40-04]]]** 耶稣被钉在两个强盗的中间。
   * **[[:zh:obs:notes:frames:43-06|[43-06]]]**"Men of Israel, Jesus was a man who did many mighty signs and wonders by the power of God, as you have seen and already know. But you **crucified**  him!"
-  * “**[[:zh:obs:notes:frames:43-06|[43-06]]]** 以色列的人啊，耶稣藉着神的大能行了许多你们知道且看到的神迹奇事，但是你们还是将他钉死在十字架上!”
+  * “**[[:zh:obs:notes:frames:43-06|[43-06]]]** 以色列人啊，耶稣是一个藉着神的大能行了许多你们知道且看到的神迹奇事的人，但是你们将他钉十字架!”
   * **[[:zh:obs:notes:frames:43-09|[43-09]]]**"You **crucified**  this man, Jesus."
-  * “**[[:zh:obs:notes:frames:43-09|[43-09]]]** 你们将耶稣钉死在十字架上。”
+  * “**[[:zh:obs:notes:frames:43-09|[43-09]]]** 你们将耶稣这个人钉十字架。”
   * **[[:zh:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you healed by the power of Jesus the Messiah. You **crucified**  Jesus, but God raised him to life again!"
-  * **[[:zh:obs:notes:frames:44-08|[44-08]]]** 彼得回答他们说：“耶稣就是弥赛亚用大能医治了这站在你们面前的人，你们在十字架上钉死了耶稣，但神使他复活了！”
+  * **[[:zh:obs:notes:frames:44-08|[44-08]]]** 彼得回答他们说：“耶稣就是弥赛亚用大能医治了这站在你们面前的人，你们把耶稣钉十字架，但神使他复活了！”
 ~~DISCUSSION:off~~
