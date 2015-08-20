@@ -17,9 +17,9 @@ covenant is a formal, binding agreement between two parties that they must fulfi
   * On several occasions, God made a covenant with his people.
   * 神曾经多次和祂的百姓立约。
   * In some of the covenants, God promised to fulfill his part without conditions.
-  * 在一些约中，神无条件地答应<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>履</font> 成他一方的承诺。
+  * 在一些约中，神无条件地答应<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>履</font>    成他一方的承诺。
   * In other covenants, God promised to fulfill his part if the people obeyed him and fulfilled their part of the covenant.
-  * 在另一些约中，神先要人顺从他，并履行他们这一方的承诺后，神才<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>履行</font> 他那一方的承诺。
+  * 在另一些约中，神先要人顺从他，并履行他们这一方的承诺后，神才<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>履行</font>    他那一方的承诺。
 
 [See also: **[[:zh:obs:notes:key-terms:promise|promise]]**, **[[:zh:obs:notes:key-terms:covenant-new|New Covenant]]**]
 
@@ -30,17 +30,17 @@ covenant is a formal, binding agreement between two parties that they must fulfi
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:04-09|[04-09]]]** Then God made a **covenant**  with Abram. A **covenant**  is an agreement between two parties.
-  * 神与亚伯兰立约，立约是双方之间的协议。
+  * **[[:zh:obs:notes:frames:04-09|[04-09]]]** 神与亚伯兰立约，约是双方之间的协议。
   * **[[:zh:obs:notes:frames:05-04|[05-04]]]**"I will make Ishmael a great nation, too, but my **covenant**  will be with Isaac."
-  * 我也将让以实玛力成为一个大國,但我要与以撒立约。
+  * **[[:zh:obs:notes:frames:05-04|[05-04]]]** 我也将让以实玛利成为一个大國，但我的约是要与以撒立的。
   * **[[:zh:obs:notes:frames:06-04|[06-04]]]** After a long time, Abraham died and all of the promises that God had made to him in the **covenant**  were passed on to Isaac.
-  * 过了很久以后，亚伯拉罕过世了，神与他所立约中的全部应许都传给了以撒。
+  * **[[:zh:obs:notes:frames:06-04|[06-04]]]** 过了很久以后，亚伯拉罕过世了，神与他在约中的全部应许都传给了以撒。
   * **[[:zh:obs:notes:frames:07-10|[07-10]]]** The **covenant**  promises God had promised to Abraham and then to Isaac now passed on to Jacob."
-  * 神与亚伯拉罕所立约中的应许，后来传给以撒，现在又传给雅各。
+  * **[[:zh:obs:notes:frames:07-10|[07-10]]]** 神与亚伯拉罕在约中承诺，后来再传给以撒<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>的应许</font> ，现在又传给雅各。
   * **[[:zh:obs:notes:frames:13-02|[13-02]]]** God said to Moses and the people of Israel, "If you will obey my voice and keep my **covenant**, you will be my prized possession, a kingdom of priests, and a holy nation."
-  * 神对摩西和以色列的百姓说：“如果你们聽从我的话，遵行我的约，你们将是我珍贵的财富，成为祭司的国度和圣洁的国民。
+  * **[[:zh:obs:notes:frames:13-02|[13-02]]]** 神对摩西和以色列的百姓说：“如果你们聽从我的话，守我的约，你们将是我珍贵的产业，成为祭司的国度和圣洁的国民。"
   * **[[:zh:obs:notes:frames:13-04|[13-04]]]** Then God gave them the **covenant**  and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other gods."
-  * 神和他们立约并说:“我是耶和華,你们的神，将你们从埃及的奴役中拯救出来，不可敬拜别的神。”
+  * **[[:zh:obs:notes:frames:13-04|[13-04]]] ** 神和他们立约并说：“我是耶和華，你们的神，是将你们从埃及的奴役中拯救出来的，不可敬拜别的神。”
   * **[[:zh:obs:notes:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the that God had made **covenant**  with the Israelites at Sinai。
-  * 约书亚提醒百姓,他們有义务要遵守神和以色列人在西奈山所立的约。
+  * **[[:zh:obs:notes:frames:15-13|[15-13]]]** 于是约书亚提醒百姓，他們有义务要遵守神和以色列人在西奈山所立的约。
 ~~DISCUSSION:off~~
