@@ -17,9 +17,9 @@ covenant is a formal, binding agreement between two parties that they must fulfi
   * On several occasions, God made a covenant with his people.
   * 神曾经多次和祂的百姓立约。
   * In some of the covenants, God promised to fulfill his part without conditions.
-  * 在一些约定中，神无条件地应许他的承诺。
+  * 在一些约中，神无条件地答应<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>履</font> 成他一方的承诺。
   * In other covenants, God promised to fulfill his part if the people obeyed him and fulfilled their part of the covenant.
-  * 在另一些约定中，神要人先遵从他，并履行人与他的在约中的承诺后，神就一定会应许他的承诺。
+  * 在另一些约中，神先要人顺从他，并履行他们这一方的承诺后，神才<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>履行</font> 他那一方的承诺。
 
 [See also: **[[:zh:obs:notes:key-terms:promise|promise]]**, **[[:zh:obs:notes:key-terms:covenant-new|New Covenant]]**]
 
