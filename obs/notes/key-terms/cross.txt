@@ -6,12 +6,12 @@
 
 A cross is an upright wooden post stuck into the ground, with a horizontal wooden beam attached to it near the top.
 
-十字架是把一根直立竖起的木桩插在地里，在靠近木桩的頂端钉上一块横木而形成的十字形。
+十字架是把一根直立竖起的木桩插在地里，在靠近木桩的頂端钉上一块横木而形成的。
 
   * The Roman government would tie or nail criminals onto crosses and leave them there to die.
-  * 罗马统治者将罪犯用钉子钉或绑在十字架上直到他们死亡。
+  * 罗马政府将罪犯用钉子钉或绑在十字架上，让他们死去。
   * Jesus was falsely accused and judged to be guilty of crimes he did not commit. The Romans killed him on a cross.
-  * 耶稣未曾犯罪却被诬告起诉判刑，罗马统治者将他钉死在十字架上。
+  * <font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>耶稣被诬告，并因未曾犯的罪被判刑，</font> 罗马人将他钉死在十字架上。
 
 [See also: **[[:zh:obs:notes:key-terms:crucify|crucify]]**, **[[:zh:obs:notes:key-terms:rome|Rome]]**]
 
