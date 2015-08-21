@@ -4,6 +4,7 @@
 
   * [[:zh:obe:kt:home|关键词]]
   * [[:zh:obe:other:home|其他词]]
+  * Test
 
 ==== 两个列表中的全部词汇： ====
 
