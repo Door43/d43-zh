@@ -9,3 +9,7 @@
 ==== 两个列表中的全部词汇： ====
 
 {{pagequery>ns:zh:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+
+  * [[https://door43.org/en/obe/other/aaron|aaron -Aaron]]
+  * [[https://door43.org/en/obe/other/abandon|abandon -abandon]]
+  * [[https://door43.org/en/obe/other/abel|abel -Abel]]
