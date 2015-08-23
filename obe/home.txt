@@ -10,6 +10,877 @@
 
 {{pagequery>ns:zh:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
 
-  * [[https://door43.org/en/obe/other/aaron|aaron -Aaron]]
-  * [[https://door43.org/en/obe/other/abandon|abandon -abandon]]
-  * [[https://door43.org/en/obe/other/abel|abel -Abel]]
+  * [[https://door43.org/zh/obe/other/aaron|aaron -Aaron]]
+  * [[https://door43.org/zh/obe/other/abandon|abandon -abandon]]
+  * [[https://door43.org/zh/obe/other/abel|abel -Abel]]
+
+Complete list of Important Terms
+
+"Key Terms" and "Other Terms" in OBE:
+
+Key Terms
+Other Terms
+
+All terms from both lists:
+
+860 ∞
+aaron -Aaron
+abandon -abandon
+abel -Abel
+abimelech -Abimelech
+abomination -abomination
+abraham -Abraham, Abram
+absalom -Absalom
+abyss -abyss
+acacia -acacia
+accuse -accuse, accusation, accuser
+acquit -acquit
+adam -Adam
+admonish -admonish
+adoption -adoption
+adultery -adultery, adulterer
+adversary -adversary, enemy
+afflict -afflict, affliction
+age -age
+ahab -Ahab
+ahaz -Ahaz
+ai -Ai
+almighty -Almighty
+alms -alms
+altar -altar
+altarofincense -altar of incense
+ambassador -ambassador
+amen -amen, truly
+ammon -Ammon, Ammonites
+amnon -Amnon
+amorite -Amorite
+amoz -Amoz
+andrew -Andrew
+angel -angel
+angry -angry, anger
+annas -Annas
+anoint -anoint, anointed
+antichrist -antichrist
+antioch -Antioch
+apollos -Apollos
+apostle -apostle, apostleship
+appoint -appoint
+aquila -Aquila
+arabia -Arabia
+aram -Aram, Aramean
+ararat -Ararat
+archer -archer
+ark -ark
+arkofthecovenant -ark of the covenant
+armor -armor
+arrogant -arrogant
+ashdod -Ashdod, Azotus
+asher -Asher
+asherim -Asherah, Asherim
+asia -Asia
+assembly -assembly
+assyria -Assyria, Assyrian, Assyrian Empire
+astray -astray, go astray, led astray
+atonement -atonement, atone
+authority -authority
+avenge -avenge, revenge, vengeance
+awe -awe, awesome
+ax -ax
+baal -Baal
+babel -Babel
+babylon -Babylon, Babylonian
+banquet -banquet
+baptize -baptize, baptism
+barabbas -Barabbas
+barnabas -Barnabas
+barren -barren
+bartholomew -Bartholomew
+bashan -Bashan
+basket -basket
+bathsheba -Bathsheba
+beelzebul -Beelzebul
+beersheba -Beersheba
+beg -beg, beggar
+believe -believe, believe in, belief
+believer -believer
+beloved -beloved
+benjamin -Benjamin
+berea -Berea
+bethany -Bethany
+bethel -Bethel
+bethlehem -Bethlehem
+bethuel -Bethuel
+betray -betray, betrayer
+biblicaldistance -biblical distance
+biblicaldistances -biblical distances (old)
+biblicalmoney -biblical money
+biblicaltime -biblical time
+biblicalvolume -biblical volume
+biblicalweight -biblical weight
+bond -bind, bond
+birthright -birthright
+blameless -blameless
+blasphemy -blasphemy, blaspheme
+bless -bless, blessed, blessing
+blood -blood
+blotout -blot out, wipe out
+boast -boast, boastful
+boaz -Boaz
+body -body
+bold -bold, boldly, boldness
+bookoflife -Book of Life
+bornagain -born again, born of God, new birth
+bow -bow, bow down
+bowweapon -bow and arrow
+bread -bread
+breastplate -breastplate, breastpiece
+bribe -bribe
+bride -bride
+bridegroom -bridegroom
+bronze -bronze
+brother -brother
+burden -burden
+burntoffering -burnt offering, offering by fire
+bury -bury, buried
+caesar -Caesar
+caesarea -Caesarea
+caiaphas -Caiaphas
+cain -Cain
+caleb -Caleb
+call -call, calling
+camel -camel
+cana -Cana
+canaan -Canaan, Canaanite
+capernaum -Capernaum
+captive -captive, captivity
+carmel -Carmel, Mount Carmel
+castout -cast out, drive out
+caughtup -caught up, took away
+cedar -cedar
+centurion -centurion
+chaff -chaff
+chaldeans -Chaldea, Chaldean
+chariot -chariot
+cherubim -cherubim, cherub
+chiefpriests -chief priests
+children -children, child
+elect -chosen one, chosen people, Chosen One, the elect
+christ -Christ, Messiah
+christian -Christian
+church -church, Church
+cilicia -Cilicia
+circumcise -circumcise, circumcision
+citizen -citizen
+cityofdavid -City of David
+clan -clan
+clean -clean, cleanse
+clothed -clothe, clothed
+colossae -Colossae, Colossians
+comfort -comfort
+command -command, to command, commandment
+commander -commander
+commandment -commandment
+compassion -compassion, compassionate
+home -Complete list of Important Terms
+concubine -concubine
+condemn -condemn
+confess -confess
+confidence -confidence, confident
+confirm -confirm, confirmation
+conscience -conscience
+consecrate -consecrate
+contempt -contempt, contemptible
+corinth -Corinth, Corinthians
+cornelius -Cornelius
+cornerstone -cornerstone
+corrupt -corrupt, corruption
+council -council
+counselor -counsel, counselor
+courtyard -courtyard
+covenant -covenant
+cow -cow, calf
+creation -create, creation, Creator
+creature -creature
+crete -Crete, Cretan
+criminal -crime, criminal, fugitive
+cross -cross
+crown -crown
+crucify -crucify
+curse -curse, cursed
+cush -Cush
+cutoff -cut off
+cyprus -Cyprus
+cyrene -Cyrene
+damascus -Damascus
+dan -Dan
+daniel -Daniel
+darkness -darkness
+david -David
+dayofthelord -day of the Lord, day of Yahweh
+deacon -deacon
+death -death, die, dead
+deceive -deceive, deceived, deceiver, deception
+declare -declare, declaration
+decree -decree
+dedicate -dedicate
+defile -defile, be defiled
+deliverer -deliver, deliverer
+demon -demon, evil spirit, unclean spirit
+demonpossessed -demon-possessed
+descendant -descendant
+desert -desert, wilderness
+desolate -desolate, desolation
+destiny -destiny, destine, destined
+devastated-devastation -devastated, devastation
+devour -devour
+discernment -discern, discernment
+disciple -disciple
+discipline -discipline
+dishonor -dishonor
+disobey -disobey, disobedient, disobedience
+divination -divination
+divine -divine
+divorce -divorce
+doctrine -doctrine
+dominion -dominion
+donkey -donkey, mule
+doom -doom
+doorpost -doorpost
+dove -dove, pigeon
+dream -dream
+drinkoffering -drink offering
+drunk -drunk
+dung -dung
+eagle -eagle
+earth -earth
+eden -Eden, garden of Eden
+edom -Edom, Edomite, Idumea, Seir, Teman
+egypt -Egypt, Egyptian
+elam -Elam
+elder -elder
+elijah -Elijah
+elisha -Elisha
+elizabeth -Elizabeth
+encourage -encourage, encouragement
+endure -endure, endurance
+enoch -Enoch
+enslave -enslave, in bondage
+envy -envy, covet
+ephesus -Ephesus
+ephraim -Ephraim
+esau -Esau
+ethiopia -Ethiopia
+eunuch -eunuch
+euphrates -Euphrates
+evangelism -evangelist
+eve -Eve
+eternity -everlasting, eternal, eternity
+evil -evil, wicked, wickedness
+evildoer -evil-doer
+exalt -exalt, exaltation
+exhort -exhort, exhortation
+exile -exile, the Exile
+ezekiel -Ezekiel
+ezra -Ezra
+face -face
+faith -faith
+faithful -faithful, faithfulness
+falsegod -false god, god
+falseprophet -false prophet
+falsewitness -false witness
+family -family
+famine -famine
+fast -fast
+father -father, forefather
+favor -favor, favorable, favoritism
+fear -fear, afraid
+feast -feast
+fellowship -fellowship
+festival -festival
+fig -fig
+filled -filled with the Spirit
+fir -fir
+fire -fire
+firstborn -firstborn
+firstfruit -first fruits
+fisherman -fishermen, fishers
+flesh -flesh
+flock -flock, herd
+flood -flood
+flute -flute, pipe
+foolish -fool, foolish
+footstool -footstool
+foreigner -foreigner, foreign
+foreordain -foreordain, foreknow
+forever -forever
+forgive -forgive, forgiveness
+fornication -fornication, sexual immorality
+forsaken -forsake, forsaken
+foundation -foundation, founded
+fountain -fountain, spring
+frankincense -frankincense
+free -free, freedom, liberty
+friend -friend, companion
+fruit -fruit
+fulfill -fulfill
+gabriel -Gabriel
+gad -Gad
+galatia -Galatia
+galilee -Galilee, Galilean
+gate -gate
+gaza -Gaza
+generation -generation
+gentile -Gentile
+gerar -Gerar
+geshur -Geshur
+gethsemane -Gethsemane
+giant -giant
+gibeon -Gibeon, Gibeonite
+gideon -Gideon
+gift -gift
+gilead -Gilead
+girgashites -Girgashites
+glean -glean, gleaning
+glorify -glorify
+glory -glory, glorious
+gnashteeth -gnash teeth, grind teeth
+goat -goat
+god -God
+godly -godly, godliness
+godthefather -God the Father, Heavenly Father
+gold -gold
+golgotha -Golgotha
+goliath -Goliath
+gomorrah -Gomorrah
+good -good, goodness
+goodnews -good news, gospel
+goshen -Goshen
+gossip -gossip
+governor -governor, govern
+grace -grace, gracious
+grain -grain
+grape -grape
+greece -Greece
+greek -Greek, Grecian, Hellenistic
+grief -grief, grieved
+guilt -guilt, guilty
+habakkuk -Habakkuk
+hades -hades, sheol
+hagar -Hagar
+ham -Ham
+hamor -Hamor
+hand -hand
+hang -hang
+hannah -Hannah
+haran -Haran
+hard -hard, hardness
+harp -harp
+harvest -harvest
+haughty -haughty
+know -have relations with, sleep with
+head -head
+heal -heal, cure
+heart -heart
+heaven -heaven, sky, heavens, heavenly
+hebrew -Hebrew
+hebron -Hebron
+heifer -heifer
+heir -heir
+hell -hell, lake of fire
+herodantipas -Herod Antipas
+herodias -Herodias
+herodthegreat -Herod the Great
+hezekiah -Hezekiah
+highplaces -high places
+highpriest -high priest
+hittite -Hittite
+holy -holy, holiness
+holycity -holy city
+holyofholies -Holy of Holies, Most Holy Place
+holyone -Holy One
+holyspirit -Holy Spirit, Spirit of God, Spirit of the Lord
+honey -honey, honeycomb
+honor -honor
+hooves -hoof, hoofed, hooves
+hope -hope
+horeb -Horeb
+horse -horse
+hour -hour
+house -house
+household -household
+houseofgod -house of God, Yahweh's house
+humble -humble, humility
+hypocrite -hypocrite, hypocrisy
+iconium -Iconium
+idol -idol, idolatrous
+image -image, carved figure
+imageofgod -image of God, image
+imitate -imitate, imitation
+incense -incense
+inchrist -in Christ, in Jesus, in the Lord
+inherit -inherit, inheritance
+iniquity -iniquity
+innocent -innocent
+integrity -integrity
+intercede -intercede, intercession
+isaac -Isaac
+isaiah -Isaiah
+ishmael -Ishmael
+israel -Israel, Israelites, nation of Israel
+issachar -Issachar
+jacob -Jacob, Israel
+jamesbrotherofjesus -James (brother of Jesus)
+jamessonofalphaeus -James (son of Alphaeus)
+jamessonofzebedee -James (son of Zebedee)
+japheth -Japheth
+jealous -jealous, jealousy
+jebusites -Jebusites
+jehoiachin -Jehoiachin
+jehoshaphat -Jehoshephat
+jephthah -Jephthah
+jeremiah -Jeremiah
+jericho -Jericho
+jeroboam -Jeroboam
+jerusalem -Jerusalem
+jesse -Jesse
+jesus -Jesus, Jesus Christ, Christ Jesus
+jethro -Jethro
+jew -Jew, Jewish
+jewishleaders -Jewish leaders, religious leaders
+job -Job
+joel -Joel
+johntheapostle -John (the apostle)
+johnthebaptist -John (the Baptist)
+johnmark -John Mark
+jonah -Jonah
+joppa -Joppa
+jordanriver -Jordan River
+josephnt -Joseph (NT)
+josephot -Joseph (OT)
+joshua -Joshua
+josiah -Josiah
+jotham -Jotham
+joy -joy, joyful
+judah -Judah
+judaism -Judaism, Jewish religion
+judasiscariot -Judas Iscariot
+judea -Judea
+judgeposition -judge
+judge -judge, judgment
+judgmentday -judgment day
+justice -just, justice, justly
+justify -justify, justification
+kadesh -Kadesh
+kin -kin, kinsman
+kind -kind
+king -king
+kingdom -kingdom
+kingdomofgod -kingdom of God, kingdom of heaven
+kingdomofisrael -kingdom of Israel
+kingdomofjudah -kingdom of Judah, Judah
+kingofthejews -King of the Jews
+kiss -kiss
+know -know, knowledge, make known
+laban -Laban
+labor -labor, laborer
+laborpains -labor pains, in labor
+lamb -lamb, Lamb of God
+lamech -Lamech
+lament -lament, lamentation
+lamp -lamp
+lampstand -lampstand
+lastday -last day, last days, latter days
+lawofmoses -Law, Law of Moses, God's Law
+law -law, principle
+lawful -lawful
+lawless -lawless, lawlessness
+lazarus -Lazarus
+leah -Leah
+learnedmen -learned men, astrologers
+lebanon -Lebanon
+leprosy -leprosy, leper
+letter -letter, epistle
+levite -Levite, Levi
+life -life, live, living, alive
+light -light
+like -like, likeness
+lion -lion
+livestock -livestock
+lordgod -Lord
+lordssupper -Lord's Supper
+lord -lord, master, sir
+lot -Lot
+lots -lots, casting lots
+love -love
+lowly -lowly, lowliness
+luke -Luke
+lust -lust
+lute -lute, lyre
+lystra -Lystra
+macedonia -Macedonia
+magic -magic, magician
+magistrate -magistrate, magistrates
+majesty -majesty
+malachi -Malachi
+manager -manager, steward
+manasseh -Manasseh
+manna -manna
+martha -Martha
+amazed -marvel, wonder, be amazed, be astonished
+mary -Mary
+marysisterofmartha -Mary (Sister of Martha)
+marymagdalene -Mary Magdalene
+matthew -Matthew, Levi
+mealoffering -meal offering
+mede -Medes, Media
+mediator -mediator
+meditate -meditate
+meek -meek
+melchizedek -Melchizedek
+member -member
+memorialoffering -memorial, memorial offering
+mercy -mercy, merciful
+meshech -Meshech
+mesopotamia -Mesopotamia
+messenger -messenger
+midian -Midian, Midianites
+mighty -mighty
+mind -mind
+minister -minister, ministry
+miracle -miracle, wonder, sign
+moab -Moab, Moabite, Moabitess
+mock -mock, ridicule
+molech -Molech, Moloch
+moses -Moses
+mosthigh -Most High
+mountofolives -Mount of Olives
+myrrh -myrrh
+mystery -mystery
+naaman -Naaman
+nahor -Nahor
+nahum -Nahum
+name -name
+naphtali -Naphtali
+nathan -Nathan
+nation -nation
+nazareth -Nazareth, Nazarene
+nebuchadnezzar -Nebuchadnezzar
+negev -Negev
+nehemiah -Nehemiah
+neighbor -neighbor
+newcovenant -New Covenant
+newmoon -new moon
+nileriver -Nile River
+nineveh -Nineveh, Ninevite
+noah -Noah
+oak -oak
+oath -oath, swear
+obadiah -Obadiah
+home -OBE Key Terms
+home -OBE Other Terms
+obey -obey, obedient, obedience
+ktobs -OBS Key Terms List
+offspring -offspring
+oil -oil
+olive -olive
+oppress -oppress, oppression
+ordain -ordain
+overseer -overseer
+ox -ox, oxen
+paddanaram -Paddan Aram
+palm -palm
+parable -parable
+paran -Paran
+pardon -pardon
+partial -partial, partiality
+passover -Passover
+pastor -pastor
+patient -patient, patience
+patriarchs -patriarchs
+paul -Paul, Saul
+peace -peace, peaceful
+pentecost -Pentecost, Festival of Weeks
+peoplegroup -people group, people
+peopleofgod -people of God
+perfect -perfect
+perish -perish, perishing, perishable
+perizzite -Perizzite
+persecute -persecute, persecution
+perseverance -persevere, perseverance
+persia -Persia
+peter -Peter, Simon Peter, Cephas
+pharaoh -Pharaoh
+pharisee -Pharisee
+philiptheapostle -Philip, the apostle
+philip -Philip, the evangelist
+philippi -Philippi
+philistia -Philistia
+philistines -Philistines
+phonecia -Phoenicia
+pig -pig, hog
+pilate -Pilate
+pillar -pillar
+pit -pit
+plague -plague
+pledge -pledge
+possess -possess, possession
+potiphar -Potiphar
+power -power
+praise -praise
+pray -pray, prayer
+preach -preach
+priest -priest
+prince -prince
+priscilla -Priscilla
+prison -prison, prisoner
+proclaim -proclaim, proclamation
+profane -profane
+profit -profit, profitable
+promise -promise
+promisedland -Promised Land
+prophet -prophet, prophecy, prophesy, seer
+propitiation -propitiation
+prostitute -prostitute, harlot, whore
+proud -proud, pride, prideful
+proverb -proverb
+psalm -psalm
+puffed-up -puffed up
+punish -punish, punishment
+purify -pure, purify, purification
+qualify -qualify, qualified
+queen -queen
+quench -quench
+rabbah -Rabbah
+rabbi -Rabbi
+race -race
+rachel -Rachel
+rahab -Rahab
+raise -raise, rise, risen
+ramah -Ramah
+ransom -ransom
+reap -reap, reaper
+rebekah -Rebekah
+rebel -rebel, rebellious
+rebuke -rebuke
+receive -receive
+reconcile -reconcile, reconciliation
+redeem -redeem, redemption
+redsea -Red Sea
+refuge -refuge
+rehoboam -Rehoboam
+reign -reign
+reject -reject, push away
+rejoice -rejoice
+remnant -remnant
+renown -renown
+repent -repent, repentance
+report -report
+reproach -reproach
+rest -rest
+restore -restore, restoration
+resurrection -resurrection
+reuben -Reuben
+reveal -reveal, revelation
+reverence -reverence
+reward -reward
+righteous -righteous, righteousness
+righthand -right hand
+robe -robe
+rod -rod
+rome -Rome, Roman
+royal -royal
+ruin -ruin, ruins
+ruler -ruler
+run -run, running
+ruth -Ruth
+sabbath -Sabbath
+sackcloth -sackcloth and ashes
+sacred -sacred
+sacrifice -sacrifice, offering
+sadducee -Sadducee
+saint -saints
+salvation -salvation
+samaria -Samaria, Samaritan
+samson -Samson
+samuel -Samuel
+sanctify -sanctify, sanctification
+sanctuary -sanctuary
+sandal -sandal
+sarah -Sarah, Sarai
+satan -Satan, devil, evil one
+saul -Saul (OT)
+save -save
+savior -Savior
+scribe -scribe, expert in the Jewish law
+scroll -scroll
+seal -seal
+seaofgalilee -Sea of Galilee
+seed -seed
+seize -seize
+selah -selah
+selfcontrol -self-control
+send -send, send out
+serpent -serpent, snake
+servant -servant, slave, slavery
+serve -serve
+setapart -set apart
+seth -Seth
+shadow -shadow
+shame -shame, shameful, ashamed
+sharon -Sharon, Plain of Sharon
+shechem -Shechem
+sheep -sheep, ram
+shem -Shem
+shepherd -shepherd
+shiloh -Shiloh
+shinar -Shinar
+sidon -Sidon
+siege -siege, besiege
+sign -sign (proof, reminder)
+silas -Silas, Silvanus
+silver -silver
+simeon -Simeon
+sin -sin, sinful, sinner, sinning
+sinai -Sinai, Mount Sinai
+sinoffering -sin offering
+sister -sister
+skull -skull
+slander -slander, slanderer
+slaughter -slaughter
+slain -slay, slain,
+sleep -sleep, asleep, fall asleep
+sodom -Sodom
+solomon -Solomon
+son -son
+sonofgod -Son of God, the Son
+sonofman -Son of Man
+sonsofgod -sons of God
+sorcery -sorcery
+sorrow -sorrow
+soul -soul
+sow -sow, sower
+spear -spear
+spirit -spirit, spiritual
+splendor -splendor
+staff -staff
+statute -statute, statutes
+stephen -Stephen
+stiffnecked -stiff-necked
+stone -stone, stoning
+strife -strife
+strongdrink -strong drink
+stronghold -stronghold
+stumble -stumble
+stumblingblock -stumbling block, stone of stumbling
+subject -subject, to be subject to
+submit -submit
+suffer -suffer, suffering
+brimstone -sulfur
+sword -sword
+synagogue -synagogue
+syria -Syria
+tabernacle -tabernacle
+tamar -Tamar
+tarshish -Tarshish
+tarsus -Tarsus
+tax -tax, taxes
+taxcollector -tax collector
+teacher -teacher, Teacher
+temple -temple
+tempt -tempt, temptation
+tencommandments -Ten Commandments
+tent -tent
+tenth -tenth, tithe
+tentofmeeting -Tent of Meeting
+terah -Terah
+terror -terror
+test -test
+testimony -testimony, testify
+tetrarch -tetrarch
+thessalonica -Thessalonica, Thessalonians
+thetwelve -the twelve, the eleven
+thomas -Thomas
+thresh -thresh, threshing floor
+threshold -threshold
+throne -throne
+timothy -Timothy
+titus -Titus
+tomb -tomb, grave, burial place
+tongue -tongue
+tradition -tradition
+trance -trance
+transgression -transgress, transgression
+trespass -trespass
+trial -trial
+tribe -tribe
+tribulation -tribulation
+tribute -tribute
+troas -Troas
+true -true, truth
+trumpet -trumpet, horn
+trust -trust, trustworthy, trustworthiness
+tubal -Tubal
+tunic -tunic
+turn -turn, turn away
+12tribesofisrael -twelve tribes of Israel
+tychicus -Tychicus
+tyre -Tyre
+unbeliever -unbeliever, unbelief
+uncircumcised -uncircumcised, uncircumcision
+unclean -unclean
+unfaithful -unfaithful
+ungodly -ungodly, godless, ungodliness, godlessness
+unholy -unholy
+unlawful -unlawful
+unleavenedbread -unleavened bread
+unprofitable -unprofitable
+unjust -unrighteous, unrighteousness
+ur -Ur
+uriah -Uriah
+uzziah -Uzziah, Amaziah
+vain -vain
+veil -veil
+vine -vine
+vineyard -vineyard
+virgin -virgin
+vision -vision
+voice -voice
+vow -vow
+walk -walk
+waste -waste, wasteland
+watch -watch
+watchtower -watchtower
+water -water, waters
+well -well
+wheat -wheat
+willofgod -will of God
+wine -wine
+winepress -winepress
+winnow -winnow, sift
+wise -wise, wisdom
+witness -witness, eyewitness
+woe -woe
+wolf -wolf
+womb -womb
+word -word
+wordofgod -word of God, word of Yahweh, word of the Lord, scripture
+wordoftruth -word of truth
+works -works, deeds, work
+world -world, worldly
+worship -worship
+worthy -worthy, worth, unworthy
+wrath -wrath
+written -written
+wrong -wrong, mistreat, hurt
+yahweh -Yahweh
+yahwehofhosts -Yahweh of Hosts, God of Hosts
+yeast -yeast, leaven
+yoke -yoke
+zacchaeus -Zacchaeus
+zealous -zeal, zealous
+zebedee -Zebedee
+zebulun -Zebulun
+zechariahnt -Zechariah (NT)
+zephaniah -Zephaniah
+zion -Zion, Mount Zion
+zoar -Zoar
