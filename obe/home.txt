@@ -10,7 +10,4 @@
 
 {{pagequery>ns:zh:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
 
-  * [[https://door43.org/zh/obe/other/aaron|aaron -Aaron]]
-  * [[https://door43.org/zh/obe/other/abandon|abandon -abandon]]
-  * [[https://door43.org/zh/obe/other/abel|abel -Abel]]
 
