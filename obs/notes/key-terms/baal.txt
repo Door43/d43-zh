@@ -1,4 +1,4 @@
-====== Baal 巴力 ======
+====== Baal 巴力 P ======
 
 ===== Facts: =====
 
@@ -9,7 +9,7 @@ Baal was the name of a false god that was worshiped by several people groups in 
 巴力是一个假神的名字，是迦南地的几个民族里所拜的神。
 
   * The name "Baal" means "lord." The worship of Baal was therefore a direct challenge to the authority of Yahweh, who alone is the true Lord.
-  * “巴力”这个名字的意思是“主”。所以，敬拜巴力就是直接挑战那位独一真神耶和华<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>的权柄</font> 。
+  * “巴力”这个名字的意思是“主”。所以，敬拜巴力就是直接挑战那位独一真神耶和华<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>的权柄</font>    。
   * The Israelites sinned by also worshiping Baal.
   * 以色列人也犯了敬拜巴力的罪。
   * There were 450 prophets of Baal in the northern kingdom of Israel during the reign of King Ahab. The prophet Elijah set up a test for the prophets of Baal and proved that their god does not exist. As a result, the people killed the prophets of Baal and worshiped only Yahweh for a period of time.
@@ -17,20 +17,20 @@ Baal was the name of a false god that was worshiped by several people groups in 
 
 [See also: **[[:zh:obs:notes:key-terms:elijah|Elijah]]**, **[[:zh:obs:notes:key-terms:yahweh|Yahweh]]**, **[[:zh:obs:notes:key-terms:ahab|Ahab]]**]
 
-[参见；以利亚，（雅威）耶和华，亚哈]
+[参见；以利亚，耶和华，亚哈]
 
 ===== Examples from the Bible stories: =====
 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:19-02|[19-02]]]** Ahab was an evil man who encouraged people to worship a false god named **Baal**.
-  * **[[:zh:obs:notes:frames:19-02|[19-02]]]** 亚哈是个邪恶的人，他怂恿人们敬拜一个叫巴力的假神。
+  * **[[:zh:obs:notes:frames:19-02|[19-02]]]** 亚哈是个邪恶的人，他鼓励人们敬拜一个叫巴力的假神。
   * **[[:zh:obs:notes:frames:19-06|[19-06]]]** All the people of the entire kingdom of Israel, including the 450 prophets of **Baal**, came to Mount Carmel. Elijah said to the people, "How long will you keep changing your mind? If Yahweh is God, serve him! If **Baal**  is God, serve him!"
-  * **[[:zh:obs:notes:frames:19-06|[19-06]]]** 整个以色列国所有的人，包括巴力的450个先知，都来到迦密山上。以利亚对人们说，“你们改变心意要持续多久呢？如果雅威是神，侍奉他”！如果巴力是神，侍奉他“！
+  * **[[:zh:obs:notes:frames:19-06|[19-06]]]** 整个以色列国所有的人，包括巴力的450个先知，都来到迦密山上。以利亚对人们说，“你们改变心意要持续多久呢？如果耶和华是神，侍奉他”！如果巴力是神，侍奉他“！
   * **[[:zh:obs:notes:frames:19-07|[19-07]]]** Then Elijah said to the prophets of **Baal**, "Kill a bull and prepare it as a sacrifice, but do not light the fire.
-  * **[[:zh:obs:notes:frames:19-07|[19-07]]]** 以利亚对巴力的先知们说，”杀一头公牛，准备用来祭祀，但不要点火”。
+  * **[[:zh:obs:notes:frames:19-07|[19-07]]]**然后以利亚对巴力的先知们说，”杀一头公牛，准备用作祭牲，但不要点火”。
   * **[[:zh:obs:notes:frames:19-08|[19-08]]]** Then the prophets of **Baal**  prayed to **Baal**, "Hear us, O **Baal**!"
-  * **[[:zh:obs:notes:frames:19-08|[19-08]]]** 于是，巴力的先知向巴力祷告，“听我们说，哦，巴力！”
+  * **[[:zh:obs:notes:frames:19-08|[19-08]]]** <font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>然后</font> 巴力的先知向巴力祷告，“<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>哦，巴力</font> ，听我们说！”
   * **[[:zh:obs:notes:frames:19-12|[19-12]]]** So the people captured the prophets of **Baal**. Then Elijah took them away from there and killed them.
-  * **[[:zh:obs:notes:frames:19-12|[19-12]]]** 所以人们俘获了巴力的先知们。然后，以利亚把他们带离了那里，杀了他们。
+  * **[[:zh:obs:notes:frames:19-12|[19-12]]]** <font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>于是</font> 人们拿住了巴力的先知们。然后，以利亚把他们带离了那里，杀了他们。
 ~~DISCUSSION:off~~
