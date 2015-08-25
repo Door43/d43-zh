@@ -24,13 +24,13 @@
   * To believe in someone is to trust that that person is reliable. In other words, it is to trust that the person is who he says he is, that he always speaks the truth, and that he will do what he has promised to do.
   * 信奉某人。就是相信那人是可信赖的。换句话说，就是相信那人确实是跟他所自称的一样；相信他永远说真话；相信他将做他已承诺要做的事。
   * To believe in an idea or principle is to be sure that that idea or principle is the right way to act or live. For example, a person might believe in honesty, and therefore always tell the truth.
-  * 信奉一种理念或信念，就是肯定那个理念或信念是正确的为人处事的方式。例如，如果一个人信奉（为人）诚实，那么他就会一直讲真话。
+  * 信奉一种理念或原则，就是肯定那个理念或<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>原则</font> 是正确的为人处事的方式。例如，如果一个人信奉诚实，那么他就会一直讲真话。
   * When a person truly believes in something, the person will act in such a way that shows that belief.
-  * 当一个人真正地信服某种东西时，这个人就会以显示那种信念/信仰的方式去为人处事。
+  * 当一个人真正地信奉某种东西时，这个人为人处事的方式就会把那种信念表现出来。
 
 [See also: **[[:zh:obs:notes:key-terms:faith|faith]]**, **[[:zh:obs:notes:key-terms:believer|believer]]**]
 
-[参见：信仰，信徒/信仰者]
+[参见：信仰，信徒]
 
 ===== Examples from the Bible stories =====
 
