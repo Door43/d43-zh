@@ -2,36 +2,26 @@
 
 ===== Definition: =====
 
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>定義 :</font>
+
 The term "disobey" means to not obey what someone in authority has commanded or instructed. A person who does this is being "disobedient."
 
+「不服從」的意義是不服從在位有權力的人的吩咐或指揮。有這種行為的人是有「不服從」的表現。
+
   * A person who does something he was told not to do is disobeying.
+  * 一個人做了一些曾被吩咐不可做的事，就是不服從。
   * To disobey also means to refuse to do something that was commanded.
+  * 拒絕去執行命令也是不服從
   * The term "disobedient" is also used to describe the character of someone who habitually disobeys or rebels. It means that they are sinful or wicked.
+  * <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>「不服從」一詞，也用作形容那些習慣性不服從或反叛的人的性格。這表示他們是罪惡的或邪惡的。</font>
   * A "disobedient people" could be translated by "people who keep on disobeying,"
+  * <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>一個「不服從的人」可被翻譯成「持續不服從的人」</font>
   * To "disobey" is the opposite of to "obey."
+  * <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>「不服從」是「順服」的相反詞。</font>
 
-===== Definition: =====
+===== <font 14px font-weight: normal; line-height: 1.4;/inherit;;inherit;;inherit>[See also:</font> **[[:zh:obs:notes:key-terms:evil|evil]]** <font 14px font-weight: normal; line-height: 1.4;/inherit;;inherit;;inherit>,</font> **[[:zh:obs:notes:key-terms:sin|sin]]** <font 14px font-weight: normal; line-height: 1.4;/inherit;;inherit;;inherit>,</font> **[[:zh:obs:notes:key-terms:obey|obey]]** <font 14px font-weight: normal; line-height: 1.4;/inherit;;inherit;;inherit>]</font>  =====
 
-定義 :
-
-There are several ways to disobey someone.
-
-不服從人有幾種方 面
-
-  * It is possible to disobey by refusing or failing to do something that was commanded.
-  * 一種可能的不服從就是拒絕或沒有做 吩咐 他應做的事情
-  * We can also disobey by doing something that was prohibited.
-  * 我們也可以 是不服從, 就是去做 一些被禁止, 不應做的 事
-  * And we can disobey by doing something differently than we were instructed.
-  * 當我們 做一些 不符合我們所接受的指示的事情，我們 也是不服從
-
-To "disobey" is the opposite of to "obey."
-
-“ 不服從 ” 的反義就是“ 服從”。
-
-[See also: **[[:zh:obs:notes:key-terms:evil]]**, **[[:zh:obs:notes:key-terms:sin]]**, **[[:zh:obs:notes:key-terms:obey]]**]
-
-另請參見 ： 邪惡， 罪惡 ， 服從
+另請參見 ：邪惡，罪/罪行，順服
 
 ===== Bible References: =====
 
@@ -49,5 +39,4 @@ To "disobey" is the opposite of to "obey."
   * 因為 以色列人 不斷 的違背( 不服從)神， 神就懲罰 他們 ， 並允許 他們的敵人 打敗他們。
   * **[[:zh:obs:notes:frames:35-12|[35-12]]]**"The older son said to his father, 'All these years I have worked faithfully for you! I never **disobeyed**  you, and still you did not give me one small goat so I could celebrate with my friends.'"
   * “ 大兒子 對他的父親說 ， ” 這些年來我 為您 忠 心的工作！ 我從來 沒有不服從 你， 但是你 沒有給 我一 隻小 山羊 ， 使我可以 和我的朋友 一同慶祝 。 '“
-
 ~~DISCUSSION~~
