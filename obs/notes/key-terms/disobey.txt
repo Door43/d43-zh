@@ -2,7 +2,7 @@
 
 ===== Definition: =====
 
-<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>定義 :</font>
+<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>定義 :</font>
 
 The term "disobey" means to not obey what someone in authority has commanded or instructed. A person who does this is being "disobedient."
 
@@ -13,13 +13,13 @@ The term "disobey" means to not obey what someone in authority has commanded or 
   * To disobey also means to refuse to do something that was commanded.
   * 拒絕去執行命令也是不服從
   * The term "disobedient" is also used to describe the character of someone who habitually disobeys or rebels. It means that they are sinful or wicked.
-  * <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>「不服從」一詞，也用作形容那些習慣性不服從或反叛的人的性格。這表示他們是罪惡的或邪惡的。</font>
+  * <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>「不服從」一詞，也用作形容那些習慣性不服從或反叛的人的性格。這表示他們是罪惡的或邪惡的。</font>
   * A "disobedient people" could be translated by "people who keep on disobeying,"
-  * <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>一個「不服從的人」可被翻譯成「持續不服從的人」</font>
+  * <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>一個「不服從的人」可被翻譯成「持續不服從的人」</font>
   * To "disobey" is the opposite of to "obey."
-  * <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>「不服從」是「順服」的相反詞。</font>
+  * <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>「不服從」是「順服」的相反詞。</font>
 
-===== <font 14px font-weight: normal; line-height: 1.4;/inherit;;inherit;;inherit>[See also:</font> **[[:zh:obs:notes:key-terms:evil|evil]]** <font 14px font-weight: normal; line-height: 1.4;/inherit;;inherit;;inherit>,</font> **[[:zh:obs:notes:key-terms:sin|sin]]** <font 14px font-weight: normal; line-height: 1.4;/inherit;;inherit;;inherit>,</font> **[[:zh:obs:notes:key-terms:obey|obey]]** <font 14px font-weight: normal; line-height: 1.4;/inherit;;inherit;;inherit>]</font>  =====
+[See also: **[[:zh-tw:obs:notes:key-terms:evil|evil]]**, **[[:zh-tw:obs:notes:key-terms:sin|sin]]**, **[[:zh-tw:obs:notes:key-terms:obey|obey]]**]
 
 另請參見 ：邪惡，罪/罪行，順服
 
