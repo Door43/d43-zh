@@ -1,4 +1,4 @@
-====== demon-possessed 惡魔 附身 ======
+====== demon-possessed 惡魔附身 P ======
 
 ===== Definition: =====
 
@@ -6,14 +6,14 @@
 
 A person who is demon-possessed has a demon or evil spirit that controls what he does and thinks.
 
-一個 被鬼 附身 的人, 就是有一個惡魔 或 邪靈 控制 他 的行為和他的思想。
+一個被惡摩附身的人，就是有一個惡魔或邪靈控制他的行為和他的思想。
 
   * Often a demon-possessed person will hurt himself or other people because the demon forces him to do that.
-  * 通常，一個 惡魔 附身 的人 會傷害 自己或 其他人，因為惡魔 強迫他 這樣做。
+  * 通常一個惡魔附身的人會傷害自己或別人，因為惡魔強迫他這樣做。
   * Jesus healed demon-possessed people by forcing the demons to come out of them.
-  * 耶穌醫治 惡魔附身的人 , 是運用權柄強迫 惡魔 從他們出來
+  * 耶穌醫治惡魔附身的人，是強迫惡魔從他們裡面出來。
   * This could also be translated as, "demon-controlled" or, "controlled by a demon" or, "having a demon."
-  * 這也可以 翻譯為 “ 惡魔 控制的” ，或者 “ 被 惡魔 控制的 ”，或者 “ 有 個惡魔 在身上。 ”
+  * 這也可以翻譯為「惡魔控制的」，或「被惡魔控制的」，或「有惡魔在身上」。
 
 [See also: **[[:zh:obs:notes:key-terms:demon|demon]]**]
 
@@ -21,16 +21,16 @@ A person who is demon-possessed has a demon or evil spirit that controls what he
 
 ===== Examples from the Bible stories: =====
 
-聖經故事 中的例子
+聖經故事中的例子
 
   * **[[:zh:obs:notes:frames:26-09|[26-09]]]** Many people who had **demons in them**  were brought to Jesus.
-  * 很多 被魔鬼 附身的人被帶到了耶穌 面前。
+  * **[[:zh:obs:notes:frames:26-09|[26-09]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> <font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>很多被鬼附的人被帶到了耶穌面前</font> 。
   * **[[:zh:obs:notes:frames:32-02|[32-02]]]** When they reached the other side of the lake, a **demon-possessed**  man came running up to Jesus.
-  * 當他們到達 湖的另 一邊 ， 一個惡魔 附身 的人 跑 到耶穌 那裏
+  * **[[:zh:obs:notes:frames:32-02|[32-02]]]** <font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit></font> 當他們到達湖的另一邊，一個惡魔附身的人跑到耶穌那裏。
   * **[[:zh:obs:notes:frames:32-06|[32-06]]]** The man **with the demon**  cried out in a loud voice, "What do you want with me, Jesus, Son of the Most High God? Please do not torture me!"
-  * 這被魔鬼 附身的男子 大聲 呼叫， “ 耶穌 我和你有什麼關係， 至高 神的兒子 ？ 請不要 折磨我 ！ ”
+  * **[[:zh:obs:notes:frames:32-06|[32-06]]]** <font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit></font> 那被惡魔附身的男子大聲呼叫：「耶穌，<font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>至高神的兒子，</font> 你要我作什麼？請不要折磨我！」
   * **[[:zh:obs:notes:frames:32-09|[32-09]]]** The people from the town came and saw the man who used to **have the demons**.
-  * 從鎮 上來的人 ，看見 這曾經 被惡魔 附過的人
+  * **[[:zh:obs:notes:frames:32-09|[32-09]]]** <font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit></font> 鎮上的人來了，並看見這曾經被惡魔附身的人。
   * **[[:zh:obs:notes:frames:47-03|[47-03]]]** Every day as they (Paul and Silas) walked there, a slave girl **possessed by a demon**  followed them.
-  * 每一天 當他們 （ 保羅和西拉 ） 走到那裡 ， 一個 被 惡魔 附身 的女僕跟在他們後面 。
+  * **[[:zh:obs:notes:frames:47-03|[47-03]]]** <font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit></font> 每一天當他們（保羅和西拉）走到那裡，一個被惡魔附身的女僕都跟在他們後面。
 ~~DISCUSSION:off~~
