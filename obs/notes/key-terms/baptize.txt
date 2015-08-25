@@ -1,8 +1,8 @@
-====== baptize 施洗 ======
+====== baptize 施洗 P ======
 
 ==== (to baptize, baptism) ====
 
-[施洗，（动词），施洗/洗礼（名词）]
+(施洗，洗礼)
 
 ===== Definition: =====
 
@@ -10,16 +10,16 @@
 
 To baptize someone is to ritually wash that person with water. This act is called, "baptism."
 
-施洗某人，就是在仪式上用水洗浴那人。这个行为被叫做”施洗”。
+为某人<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>施洗</font> ，就是<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>用水洗濯那人的一个</font> 仪式。这个行动称作”洗礼”。
 
   * Baptism is a way for a person to demonstrate that they repent of their former life, and associate themselves with a certain religious group, teacher, or way of life.
-  * 施洗是一个人，是表明他忏悔了原来（旧）的生命的一种方式，并把他自己和某种宗教族群，某个倡导者，或某种生活方式联系在一起。。
+  * 洗礼是<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>表明</font> 一个人忏悔了旧有的生活的一种方式，并把他们自己和某种宗教族群，某个教师，或某种生活方式联系在一起。。
   * John (the Baptist) baptized people as a sign of repentance from their sins.
-  * 约翰（施洗者）给人行的施洗，是人从罪中悔改的一个标志。
+  * 约翰（施洗者）给人施洗，是从罪中悔改的一个标志。
   * Christian baptism is a representation of our hearts being cleansed from sin by faith in Jesus Christ, and of our entrance into the Church.
-  * 基督徒的施洗，表明我们的心籍着信服耶稣基督，从罪中被洁净，并表明我们进入了教会。
+  * 基督徒的施礼，表明我们藉着信服耶稣基督，罪恶的<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>心就</font> 被洁净，并表明我们归入了教会。
   * Christians vary in the way they do baptism. Some pour the water on the person, and others put the person completely under the water.
-  * 基督徒用不同的方式受洗。有些是把水浇到人身上，而另一些是把人完全浸到水里。
+  * 基督徒用不同的方式举行洗礼。有些是把水浇到人身上，而另一些是把人完全浸到水里。
 
 [See also: **[[:zh:obs:notes:key-terms:john-the-baptist|John (the Baptist)]]**, **[[:zh:obs:notes:key-terms:repentance|repentance]]**]
 
@@ -30,21 +30,21 @@ To baptize someone is to ritually wash that person with water. This act is calle
 圣经故事例证：
 
   * **[[:zh:obs:notes:key-terms:24-03|[24-03]]]** When people heard John's message, many of them repented from their sins, and John **baptized**  them. Many religious leaders also came to be **baptized**  by John, but they did not repent or confess their sins.
-  * **[[:zh:obs:notes:key-terms:24-03|[24-03]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 当人们听到约翰（所传）的福音时，他们中的很多人忏悔了自己的罪，并由约翰给他们施洗。尽管很多宗教首领们也来找约翰受洗了，但是他们并没有悔改或承认他们的罪。
-  * **[[:zh:obs:notes:key-terms:24-03|[24-03]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> The next day, Jesus came to be **baptized**  by John.
-  * **[[:zh:obs:notes:key-terms:24-03|[24-03]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 第二天，耶稣来了，约翰为他施洗。
+  * **[[:zh:obs:notes:key-terms:24-03|[24-03]]]** 当人们听到约翰的信息时，很多人忏悔了自己的罪，约翰就为他们施洗。很多宗教首领们也来受约翰的施洗，但是他们并没有<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>忏悔</font> 或承认他们的罪。
+  * **[[:zh:obs:notes:key-terms:24-03|[24-03]]]** The next day, Jesus came to be **baptized**  by John.
+  * **[[:zh:obs:notes:key-terms:24-03|[24-03]]]** 第二天，耶稣来受了约翰的施洗。
   * **[[:zh:obs:notes:key-terms:24-07|[24-07]]]** John said to Jesus, "I am not worthy to **baptize**  you. You should **baptize**  me instead."
-  * **[[:zh:obs:notes:key-terms:24-07|[24-07]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 约翰对耶稣说，”我不配给你施洗。相反你应该给我施洗。“
+  * **[[:zh:obs:notes:key-terms:24-07|[24-07]]]** 约翰对耶稣说，”我不配为你施洗。反而你应该为我施洗。“
   * **[[:zh:obs:notes:key-terms:42-10|[42-10]]]** So go, make disciples of all people groups by **baptizing**  them in the name of the Father, the Son, and the Holy Spirit and by teaching them to obey everything I have commanded you."
-  * **[[:zh:obs:notes:key-terms:42-10|[42-10]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> “所以，去使万国的人成为信徒，以圣父、圣子和圣灵的名义给他们施洗，并教导他们服从我命令你的一切”。
+  * **[[:zh:obs:notes:key-terms:42-10|[42-10]]]** “所以，去使所有民族的人成为门徒，奉父、子和圣灵的名给他们施洗，并教导他们遵守我吩咐你们的一切”。
   * **[[:zh:obs:notes:key-terms:43-11|[43-11]]]** Peter answered them, "Every one of you should repent and be **baptized**  in the name of Jesus Christ so that God will forgive your sins."
-  * **[[:zh:obs:notes:key-terms:43-11|[43-11]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 彼得回答他们：”你们当中的每一个人应该悔改并以耶稣基督的名义受洗，这样神会饶恕你们的罪“。
+  * **[[:zh:obs:notes:key-terms:43-11|[43-11]]]** 彼得回答他们：”你们当中的每一个人应该忏悔并奉耶稣基督的名受洗，这样神会赦免你们的罪“。
   * **[[:zh:obs:notes:key-terms:43-12|[43-12]]]** About 3,000 people believed what Peter said and became disciples of Jesus. They were **baptized**  and became part of the church at Jerusalem.
-  * **[[:zh:obs:notes:key-terms:43-12|[43-12]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 大约3000人相信了彼得所说的，并成为了耶稣的信徒。”他们受了洗，并成为耶路撒冷教会的一部分。
+  * **[[:zh:obs:notes:key-terms:43-12|[43-12]]]** 大约3000人相信了彼得所说的，并成为了耶稣的门徒。他们受了洗，并成为耶路撒冷教会的一部分。
   * **[[:zh:obs:notes:key-terms:45-11|[45-11]]]** As Philip and the Ethiopian traveled, they came to some water. The Ethiopian said, "Look! There is some water! May I be **baptized**?"
-  * **[[:zh:obs:notes:key-terms:45-11|[45-11]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 在腓力和埃塞俄比亚人赶路时，来到了水边。埃塞俄比亚人说，“看呐！这里有水！我可以受洗吗？”
+  * **[[:zh:obs:notes:key-terms:45-11|[45-11]]]** 在腓力和埃提阿伯人赶路时，来到了水边。埃提阿伯人说，“看哪！这里有水！我可以受洗吗？”
   * **[[:zh:obs:notes:key-terms:46-05|[46-05]]]** Saul immediately was able to see again, and Ananias **baptized**  him.
-  * **[[:zh:obs:notes:key-terms:46-05|[46-05]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 扫罗立刻又能看见了，亚拿尼亚施洗了他。
+  * **[[:zh:obs:notes:key-terms:46-05|[46-05]]]** 扫罗立刻又能看见了，亚拿尼亚为他施洗了。
   * **[[:zh:obs:notes:key-terms:49-14|[49-14]]]** Jesus invites you to believe in him and be **baptized**.
-  * **[[:zh:obs:notes:key-terms:49-14|[49-14]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 耶稣请你们信从他，并接受洗礼。
+  * **[[:zh:obs:notes:key-terms:49-14|[49-14]]]** 耶稣邀请你们相信他，并且受洗。
 ~~DISCUSSION:off~~
