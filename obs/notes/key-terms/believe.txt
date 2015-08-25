@@ -1,8 +1,8 @@
-====== believe 相信/信任 ======
+====== believe 相信 P ======
 
 === (believe, believe in) ===
 
-（相信/信任，信奉/信服）
+（相信，信奉）
 
 ===== Definition: =====
 
@@ -10,7 +10,7 @@
 
 "Believe" can have two related but different senses:
 
-“相信/信任”有两个相关却又不同的意思。
+“相信”有两个相关却又不同的意思。
 
 === 1. Believe 相信 ===
 
@@ -24,26 +24,26 @@
   * To believe in someone is to trust that that person is reliable. In other words, it is to trust that the person is who he says he is, that he always speaks the truth, and that he will do what he has promised to do.
   * 信奉某人。就是相信那人是可信赖的。换句话说，就是相信那人确实是跟他所自称的一样；相信他永远说真话；相信他将做他已承诺要做的事。
   * To believe in an idea or principle is to be sure that that idea or principle is the right way to act or live. For example, a person might believe in honesty, and therefore always tell the truth.
-  * 信奉一种理念或原则，就是肯定那个理念或<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>原则</font> 是正确的为人处事的方式。例如，如果一个人信奉诚实，那么他就会一直讲真话。
+  * 信奉一种理念或原则，就是肯定那个理念或<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>原则</font>    是正确的为人处事的方式。例如，如果一个人信奉诚实，那么他就会一直讲真话。
   * When a person truly believes in something, the person will act in such a way that shows that belief.
   * 当一个人真正地信奉某种东西时，这个人为人处事的方式就会把那种信念表现出来。
 
 [See also: **[[:zh:obs:notes:key-terms:faith|faith]]**, **[[:zh:obs:notes:key-terms:believer|believer]]**]
 
-[参见：信仰，信徒]
+[参见：信心，信徒]
 
 ===== Examples from the Bible stories =====
 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:03-04|[03-04]]]** Noah warned the people about the coming flood and told them to turn to God, but they did not **believe**  him.
-  * **[[:zh:obs:notes:frames:03-04|[03-04]]]** 诺亚警告人们，洪水将近，告诉他们去归向神，但是他们却不相信他。
+  * **[[:zh:obs:notes:frames:03-04|[03-04]]]** 挪亚警告人们，洪水将近，告诉他们去转向神，但是他们却不相信他。
   * **[[:zh:obs:notes:frames:04-08|[04-08]]]** Abram **believed**  God's promise. God declared that Abram was righteous because he **believed**  God's promise.
-  * **[[:zh:obs:notes:frames:04-08|[04-08]]]** 亚伯拉罕相信神的应许。神宣布，亚伯拉罕是公义的，因为他相信神的应许。
+  * **[[:zh:obs:notes:frames:04-08|[04-08]]]** 亚伯兰相信神的应许。神宣告亚伯兰是义的，因为他相信神的应许。
   * **[[:zh:obs:notes:frames:11-02|[11-02]]]** God provided a way to save the firstborn of anyone who **believed in**  him.
-  * **[[:zh:obs:notes:frames:11-02|[11-02]]]** 神预备了一个办法，来拯救每个相信神的头生子（有长子名分的人）。
+  * **[[:zh:obs:notes:frames:11-02|[11-02]]]** 神提供了一个办法，来拯救每个相信神的人的头生子。
   * **[[:zh:obs:notes:frames:11-06|[11-06]]]** But the Egyptians did not **believe**  God or obey his commands.
   * **[[:zh:obs:notes:frames:11-06|[11-06]]]** 可是埃及人既不相信神，也不服从他的命令。
   * **[[:zh:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the Resurrection and the Life. Whoever **believes in**  me will live, even though he dies. Everyone who **believes in**  me will never die. Do you **believe**  this?"
-  * **[[:zh:obs:notes:frames:37-05|[37-05]]]** 耶稣回答说，“我就是复活和生命，无论谁信我都将得着生命，即使他死了。每个信我的人都将不会死。你相信这个吗？”
+  * **[[:zh:obs:notes:frames:37-05|[37-05]]]** 耶稣回答说：“我就是复活和生命，凡信我的，虽然他死了，将会活著。每个相信我的人都将永远不死。你相信这个吗？”
 ~~DISCUSSION:off~~
