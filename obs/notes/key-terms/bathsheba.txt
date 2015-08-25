@@ -1,4 +1,4 @@
-====== Bathsheba 拔示巴 ======
+====== Bathsheba 拔示巴 P ======
 
 ===== Facts: =====
 
@@ -6,16 +6,16 @@
 
 Bathsheba was the wife of Uriah, a soldier in King David's army. She became the wife of David, and the mother of Solomon.
 
-拔示巴是大卫王军队中一个叫乌利亚的士兵的妻子。她后来成为大卫的妻子，所罗门的母亲。
+拔示巴是大卫王军队中一个士兵，名字叫乌利亚的妻子。她后来成为大卫的妻子，所罗门的母亲。
 
   * David committed adultery with Bathsheba while she was married to Uriah.
-  * 大卫和拔示巴行了奸淫，而拔士巴那时还是乌利亚的妻子（和乌利亚还在婚姻中）。
+  * <font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>当拔示巴还是乌利亚的妻子时，</font> 大卫与拔示巴犯了奸淫。
   * When Bathsheba became pregnant with David's child, David caused Uriah to be killed in battle. David then married Bathsheba.
-  * 当拔示巴怀了大卫的孩子时，大卫派乌利亚出征，使其战死。然后大卫娶了拔示巴。
+  * 当拔示巴怀了大卫的孩子时，大卫设计使乌利亚战死。然后大卫娶了拔示巴。
   * God punished David for his sin by causing the child to die several days after he was born.
-  * 神使这孩子出生几天后就夭折了，来惩罚大卫的罪行。
+  * 神<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>惩罚大卫的罪行，</font> 使孩子出生几天后就死了。
   * Later, Bathsheba gave birth to another son, Solomon, who became king after David.
-  * 后来，拔示巴生了另外一个孩子所罗门，他成为大卫之后的王。
+  * 后来，拔示巴<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>另外</font> 生了一个孩子所罗门，他接续大卫作王。
 
 [See also: **[[:zh:obs:notes:key-terms:uriah|Uriah]]**, **[[:zh:obs:notes:key-terms:david|David]]**, **[[:zh:obs:notes:key-terms:solomon|Solomon]]**]
 
@@ -26,13 +26,13 @@ Bathsheba was the wife of Uriah, a soldier in King David's army. She became the 
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:17-10|[17-10]]]** One day, when all of David's soldiers were away from home fighting battles, he got up from an afternoon nap and saw a beautiful woman bathing. Her name was **Bathsheba**.
-  * **[[:zh:obs:notes:frames:17-10|[17-10]]]** 有一天，就在大卫的所有士兵离家征战时，他从午睡中醒来，看见一个漂亮的女人正在沐浴。她的名字叫拔士巴。
+  * **[[:zh:obs:notes:frames:17-10|[17-10]]]** 有一天，就在大卫的所有士兵离家征战时，他从午睡中醒来，看见一个漂亮的女人正在沐浴。她的名字叫拔示巴。
   * **[[:zh:obs:notes:frames:17-11|[17-11]]]** A short time later **Bathsheba**  sent a message to David saying that she was pregnant.
-  * **[[:zh:obs:notes:frames:17-11|[17-11]]]** 一段时间后，拔士巴捎信给大卫说她怀孕了。
+  * **[[:zh:obs:notes:frames:17-11|[17-11]]]** 不久，拔示巴传信给大卫说她怀孕了。
   * **[[:zh:obs:notes:frames:17-12|[17-12]]]****Bathsheba's**  husband, a man named Uriah, was one of David's best soldiers.
-  * **[[:zh:obs:notes:frames:17-12|[17-12]]]** 拔士巴的丈夫，一个叫乌利亚的男人，是大卫的最好的士兵之一。
+  * **[[:zh:obs:notes:frames:17-12|[17-12]]]** 拔示巴的丈夫乌利亚，是大卫的精兵之一。
   * **[[:zh:obs:notes:frames:17-13|[17-13]]]** After Uriah was killed, David married **Bathsheba**.
-  * **[[:zh:obs:notes:frames:17-13|[17-13]]]** 在乌利亚战死后，大卫迎娶了拔士巴。
+  * **[[:zh:obs:notes:frames:17-13|[17-13]]]** 在乌利亚被杀后，大卫娶了拔示巴。
   * **[[:zh:obs:notes:frames:17-14|[17-14]]]** Later, David and **Bathsheba**  had another son, and they named him Solomon.
-  * **[[:zh:obs:notes:frames:17-14|[17-14]]]** 后来，大卫和拔士巴有了另一个儿子，他们给他取名叫所罗门。
+  * **[[:zh:obs:notes:frames:17-14|[17-14]]]** 后来，大卫和拔示巴生了另一个儿子，他们给他取名叫所罗门。
 ~~DISCUSSION:off~~
