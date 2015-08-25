@@ -1,4 +1,4 @@
-====== disciple 門徒 ======
+====== disciple 門徒 P ======
 
 ===== Definition: =====
 
@@ -6,18 +6,18 @@
 
 A disciple is a student who follows and learns from a teacher.
 
-門徒 就是 一個學生, 他跟隨老師 也向老師學習。
+門徒就是一個學生，他跟隨老師也向老師學習。
 
   * The people who listened to the teaching of Jesus and obeyed it were called disciples of Jesus.
-  * 一個人聽了 耶穌的教導 並且服從 ， 他就被稱為 耶穌 的門徒。
+  * 一個聽了耶穌的教導並且遵從的人，被稱為耶穌的門徒。
   * Hundreds of disciples followed Jesus at different times during his ministry on earth.
-  * 耶穌 在地上 服事時,在不同的時間 有數百名門徒跟隨耶穌
+  * 耶穌在地上服事時，在不同的時間有數百名門徒跟隨他。
   * The twelve apostles were chosen from among the disciples of Jesus. They continued to be called "disciples," as well as "apostles."
-  * 十二使徒 是被 從 耶穌的門徒 之 中選出來的。 他們繼續 被稱為“ 門徒 ”和 “ 使徒 ”。
+  * 十二使徒是從耶穌的門徒中選出來的。他們繼續被稱為“ 門徒 ”和 “ 使徒 ”。
   * Just before Jesus went up to heaven, he commanded his disciples to teach others so that they could become his disciples, too.
-  * 就在 耶穌 升天 之前， 他 命令他的 門徒去教 導別人 ，使他們 也都能夠 成為他的 門徒。
+  * 在耶穌快要升天之前，他命令他的門徒去教導別人，使他們也都能夠成為他的門徒。
   * Anyone, even in modern times, who follows the way and teachings of Jesus in obedience and faith is also a disciple of Jesus.
-  * 任何人，即使是在 現在， 誰 在順服和信心 裏跟隨耶穌的 道路和教導 的, 也都被稱為耶穌的門徒。
+  * 任何人，即使是在現在，誰在順服和信心裏跟隨耶穌的道路和教導的, 也都是耶穌的門徒。
 
 [See also: **[[:zh:obs:notes:key-terms:apostle|apostle]]**, **[[:zh:obs:notes:key-terms:believer|believer]]**, **[[:zh:obs:notes:key-terms:jesus|Jesus]]**]
 
@@ -25,15 +25,14 @@ A disciple is a student who follows and learns from a teacher.
 
 ===== Examples from the Bible stories: =====
 
-聖經故事 中的例子
+聖經故事中的例子
 
   * **[[:zh:obs:notes:frames:30-08|[30-08]]]** He (Jesus) gave the pieces to his **disciples**  to give to the people. The **disciples**  kept passing out the food, and it never ran out!
-  * 他 （ 耶穌） 把擘開的食物給他的 門徒去給 其他的人。 門徒們不斷的 把食物 傳遞出 去，食物永遠不會 用盡！
-  * **[[:zh:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his **disciples**  that he wanted to
-  * celebrate this Passover with them in Jerusalem, and that he would be killed there.
-  * 大約 在耶穌首次公開 傳道和教 導的三年 後 ， 耶穌告訴 他的 門徒，他想與他們 在耶路撒冷 慶祝 逾越節 ， 並且他將 在那裡 被殺害。
+  * **[[:zh:obs:notes:frames:30-08|[30-08]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 他（耶穌）把零碎給他的門徒去分給其他的人。門徒們不斷的把食物傳遞出去，食物永遠不會用盡！
+  * **[[:zh:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his **disciples**  that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
+  * **[[:zh:obs:notes:frames:38-01|[38-01]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 約在耶穌首次公開傳道和教導的三年後，耶穌告訴他的門徒，他想與他們在耶路撒冷慶祝逾越節，並且他將在那裡被殺害。
   * **[[:zh:obs:notes:frames:38-11|[38-11]]]** Then Jesus went with his **disciples**  to a place called Gethsemane. Jesus told his **disciples**  to pray that they would not enter into temptation.
-  * 於是 耶穌 與他的 門徒到一個叫 客西馬尼 的地方。 耶穌 告訴他的 門徒們 要禱告 ， 這樣他們 就不會 進入 誘惑 。
+  * **[[:zh:obs:notes:frames:38-11|[38-11]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 於是耶穌與他的門徒去到一個叫客西馬尼的地方。 耶穌告訴他的門徒們要禱告，免得進入誘惑。
   * **[[:zh:obs:notes:frames:42-10|[42-10]]]** Jesus said to his **disciples**, "All authority in heaven and on earth has been given to me. So go, make **disciples**  of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you."
-  * 耶穌 對 他的門徒說 ：“天上 地下所有的 權柄都 賜給我了。 所以 你們要去使萬民作我的門徒, 奉父，子 ， 聖靈 的名 替他們施洗，一切我 所吩咐你們的 都要教導他們 遵守。 “
+  * **[[:zh:obs:notes:frames:42-10|[42-10]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 耶穌對他的門徒說 ：“天上地下所有的權柄都賜給我了。所以你們要去使萬民作我的門徒，奉父、子、聖靈的名替他們施洗，一切我所吩咐你們的都要教導他們遵守。“
 ~~DISCUSSION:off~~
