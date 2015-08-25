@@ -1,4 +1,4 @@
-====== deliverer 拯救者 ======
+====== deliverer 拯救者 P ======
 
 ===== Definition: =====
 
@@ -9,16 +9,18 @@ A deliverer is someone who rescues people or sets people free.
   * The word "deliverer" can also be translated as, "rescuer."
   * 「拯救者」也可以翻譯成「解救者」。
   * The deliverers in Israel were leaders who rescued the Israelite people from their enemies by leading them in battle against their enemies.
-  * 在以色列中，拯救者就是那些<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>帶領以色列民與敵人爭戰，並且</font> 將他們從敵人手中解救出來的領袖們。
+  * 在以色列中，拯救者就是那些<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>帶領以色列民與敵人爭戰，並且</font>    將他們從敵人手中解救出來的領袖們。
   * In many cases, the deliverer functioned as a military leader.
   * 在許多的情況下，拯救者的功用就是作軍事上的領導者。
 
 ===== Examples from the Bible stories: =====
 
+<font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>圣经故事中的例子：</font>
+
   * **[[:zh:obs:notes:frames:16-03|[16-03]]]** Then God provided a **deliverer**  who rescued them from their enemies and brought peace to the land.
-  * 神 賜給他們一個 拯救 者,他救出 他們 脫離敵人 的手， 並 帶來了 那地的和平
+  * **[[:zh:obs:notes:frames:16-03|[16-03]]]** <font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>於是</font> 神提供他們一個拯救者，從<font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>敵人的手把他們</font> 救出來，並把和平帶到那地。
   * **[[:zh:obs:notes:frames:16-16|[16-16]]]** They (Israel) finally asked God for help again, and God sent them another **deliverer**.
-  * 他們 （ 以色列） 終於 再一次的求神幫助， 神就賜他們另一個 拯救者
+  * **[[:zh:obs:notes:frames:16-16|[16-16]]]** <font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit></font> 他們（以色列）終於再次的求神幫助，神就派給他們另一位拯救者。
   * **[[:zh:obs:notes:frames:16-17|[16-17]]]** Over many years, God sent many **deliverers**  who saved the Israelites from their enemies.
-  * 許多年來， 神差遣好些拯救者救 以色列人 脫離他們敵人的手
+  * **[[:zh:obs:notes:frames:16-17|[16-17]]]** <font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit></font> 許多年來，神差遣好些拯救者解救以色列人，脫離<font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>他們</font> 敵人的手。
 ~~DISCUSSION:off~~
