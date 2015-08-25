@@ -1,8 +1,8 @@
-====== dream 夢 ======
+====== dream 夢 P ======
 
 ==== (to dream, dream) ====
 
-(作夢,夢)
+(作夢、夢)
 
 ===== Definition: =====
 
@@ -10,25 +10,25 @@
 
 Dreams are things that people see, hear, and experience in their minds while they are sleeping.
 
-夢 就是當人們 在 睡覺 的時候，在他們的頭腦 裏所看見,所聽到和 所經歷 的事。
+夢就是當人們在睡覺的時候，在他們的心思裏所看見、所聽到和所經歷的事。
 
   * Most of the time, the things that people experience in dreams are not really happening, although while the person is dreaming, it seems that they are.
-  * 大多數時候 ， 人 在夢中 的經 歷好像是真實的, 但是事實上事情並沒有真正 的發生 。
+  * 大多數時候，<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>雖然</font> 人在夢中所經歷的事好像是真實的，但事實上事情並沒有真正的發生。
   * Sometimes God causes people to dream about something so they can learn from it. Sometimes God may speak directly to people in their dreams.
-  * 有時候， 神使人們 在夢 中見到一些事物，使他們能夠 從中吸取教訓 。 有時候， 神可以 直接 的 在 人的夢 中向人說話。
+  * 有時候， 神使人們在夢中見到一些事物，使他們能夠從中吸取教訓。有時候，神可以直接在人的夢中向人說話。
 
 ===== Examples from the Bible stories: =====
 
-聖經故事 中的例子
+聖經故事中的例子
 
   * **[[:zh:obs:notes:frames:08-02|[08-02]]]** Joseph's brothers hated him because their father loved him most and because Joseph had **dreamed**  that he would be their ruler.
-  * 約瑟的哥哥們 恨 他，因為 他們的父親 最愛他 ， 同時因為 約瑟 夢見自己 將會是他們的 統治者。
+  * **[[:zh:obs:notes:frames:08-02|[08-02]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 約瑟的哥哥們恨他，因為他們的父親最愛他，同時因為約瑟夢見自己將會是他們的統治者。
   * **[[:zh:obs:notes:frames:08-06|[08-06]]]** One night, the Pharaoh, which is what the Egyptians called their kings, had two **dreams**  that disturbed him greatly. None of his advisors could tell him the meaning of the **dreams**.
-  * 一天晚上 ， 法老王， 這就是 埃及人 稱 作他們的 王 的， 作了兩個夢, 這夢使他大大的不安。 但是沒有 他的 任何一個謀士可以告訴他 夢的意 思。
+  * **[[:zh:obs:notes:frames:08-06|[08-06]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 一天晚上，法老，就是埃及人對他們的王的稱呼，作了兩個夢，這些夢使他大大的不安。沒有任何一個<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>他的</font> 謀士，可以告訴他夢的意思。
   * **[[:zh:obs:notes:frames:08-07|[08-07]]]** God had given Joseph the ability to interpret **dreams**, so Pharaoh had Joseph brought to him from the prison. Joseph interpreted the **dreams**  for him and said, "God is going to send seven years of plentiful harvests followed by seven years of famine."
-  * 神給了 約瑟 解夢 的能力，所以 法老王 把約瑟 從監獄 裏提出來,帶到他面前。 約瑟 就替法老解 夢， 他說 ， “ 神會 降下七年 豐富的 收成 , 之後 會有七個荒年 。 ”
+  * **[[:zh:obs:notes:frames:08-07|[08-07]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 神給了約瑟解夢的能力，所以法老把約瑟從監獄裏帶到他面前。約瑟替法老解夢，他說：“神會降下七年豐富的收成，接著會有七個荒年。”
   * **[[:zh:obs:notes:frames:16-11|[16-11]]]** So that night, Gideon went down to the camp and heard a Midianite soldier telling his friend about something he had **dreamed**. The man's friend said, "This **dream**  means that Gideon's army will defeat the Midianite army!"
-  * 於是當晚 ， 基甸 就下到 營地 ，並聽 見了 一個米甸 士兵 告訴 他的朋友 有關 他曾夢 見的事。 這人的 朋友說：“ 這個夢 意味著 基甸 的軍隊 將擊敗 米甸 的軍隊 ！ ”
+  * **[[:zh:obs:notes:frames:16-11|[16-11]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 於是當晚，基甸就下到營地，並聽見了一個米甸士兵告訴他的朋友關於他曾夢見的事。這人的朋友說：“這個夢的意思是基甸的軍隊將擊敗米甸的軍隊！”
   * **[[:zh:obs:notes:frames:23-01|[23-01]]]** He (Joseph) did not want to shame her (Mary), so he planned to quietly divorce her. Before he could do that, an angel came and spoke to him in a **dream**.
-  * 他 （ 約瑟夫 ） 不想 羞辱她 （ 瑪利亞 ） ， 於是他 打算 暗暗地 把她 休了。 在他 要做這 事之前 ， 一個天使 前來， 在他 的 夢 中向他說話。
+  * **[[:zh:obs:notes:frames:23-01|[23-01]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 他（約瑟）不想羞辱她（瑪利亞），於是他打算暗暗地把她休了。在他要做這事之前，一個天使前來，在夢中向他說話。
 ~~DISCUSSION:off~~
