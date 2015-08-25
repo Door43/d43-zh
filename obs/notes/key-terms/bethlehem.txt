@@ -1,4 +1,4 @@
-====== Bethlehem伯利恒 ======
+====== Bethlehem 伯利恒 P ======
 
 ===== Facts: =====
 
@@ -6,7 +6,7 @@
 
 Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It still exists to the present day.
 
-伯利恒是以色列地的一个小城，靠近耶路撒冷城。它至今仍然存在。
+伯利恒是以色列地的一个小城，靠近耶路撒冷。它至今仍然存在。
 
   * King David was born in Bethlehem; for this reason it has been called the "city of David."
   * 大卫王出生在伯利恒；为着这个原因，该城也被称为“大卫之城”。
@@ -24,11 +24,11 @@ Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of **Bethlehem**.
-  * **[[:zh:obs:notes:frames:17-02|[17-02]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 大卫曾是个从伯利恒城来的牧人。
+  * **[[:zh:obs:notes:frames:17-02|[17-02]]]** 大卫是伯利恒城的一个牧人。
   * **[[:zh:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a virgin. The prophet Micah said that he would be born in the town of **Bethlehem**.
-  * **[[:zh:obs:notes:frames:21-09|[21-09]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 先知以赛亚预言道，弥赛亚将由一个处女而生。先知弥迦说，弥赛亚将出生在伯利恒。
+  * **[[:zh:obs:notes:frames:21-09|[21-09]]]** 先知以赛亚预言道，弥赛亚将由一个童女而生。先知弥迦说，他将出生在伯利恒。
   * **[[:zh:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in Nazareth to **Bethlehem**  because their ancestor was David whose hometown was **Bethlehem**.
-  * **[[:zh:obs:notes:frames:23-04|[23-04]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 约瑟和马利亚只好从他们居住的拿撒勒长途赶路到了伯利恒，因为他们的先祖是大卫，其家乡就是伯利恒。
-  * **[[:zh:obs:notes:frames:23-06|[23-06]]] **"The Messiah, the Master, has been born in **Bethlehem**!"
-  * **[[:zh:obs:notes:frames:23-06|[23-06]]] **“弥赛亚，主，已降生在了伯利恒”！
+  * **[[:zh:obs:notes:frames:23-04|[23-04]]]** 约瑟和马利亚必须从他们居住的拿撒勒长途赶路到了伯利恒，因为他们先祖大卫的家乡就是伯利恒。
+  * **[[:zh:obs:notes:frames:23-06|[23-06]]]**"The Messiah, the Master, has been born in **Bethlehem**!"
+  * **[[:zh:obs:notes:frames:23-06|[23-06]]]**“弥赛亚，主，已降生在伯利恒<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>了</font> ”！
 ~~DISCUSSION:off~~
