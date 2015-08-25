@@ -37,13 +37,13 @@
 圣经故事例证：
 
   * **[[:zh:obs:notes:frames:03-04|[03-04]]]** Noah warned the people about the coming flood and told them to turn to God, but they did not **believe**  him.
-  * 诺亚警告人们，洪水将近，告诉他们去归向神，但是他们却不相信他。
+  * **[[:zh:obs:notes:frames:03-04|[03-04]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 诺亚警告人们，洪水将近，告诉他们去归向神，但是他们却不相信他。
   * **[[:zh:obs:notes:frames:04-08|[04-08]]]** Abram **believed**  God's promise. God declared that Abram was righteous because he **believed**  God's promise.
-  * 亚伯拉罕相信神的应许。神宣布，亚伯拉罕是公义的，因为他相信神的应许。
+  * **[[:zh:obs:notes:frames:04-08|[04-08]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 亚伯拉罕相信神的应许。神宣布，亚伯拉罕是公义的，因为他相信神的应许。
   * **[[:zh:obs:notes:frames:11-02|[11-02]]]** God provided a way to save the firstborn of anyone who **believed in**  him.
-  * 神预备了一个办法，来拯救每个相信神的头生子（有长子名分的人）。
+  * **[[:zh:obs:notes:frames:11-02|[11-02]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 神预备了一个办法，来拯救每个相信神的头生子（有长子名分的人）。
   * **[[:zh:obs:notes:frames:11-06|[11-06]]]** But the Egyptians did not **believe**  God or obey his commands.
-  * 可是埃及人既不相信神，也不服从他的命令。
+  * **[[:zh:obs:notes:frames:11-06|[11-06]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 可是埃及人既不相信神，也不服从他的命令。
   * **[[:zh:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the Resurrection and the Life. Whoever **believes in**  me will live, even though he dies. Everyone who **believes in**  me will never die. Do you **believe**  this?"
-  * 耶稣回答说，“我就是复活和生命，无论谁信我都将得着生命，即使他死了。每个信我的人都将不会死。你相信这个吗？”
+  * **[[:zh:obs:notes:frames:37-05|[37-05]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 耶稣回答说，“我就是复活和生命，无论谁信我都将得着生命，即使他死了。每个信我的人都将不会死。你相信这个吗？”
 ~~DISCUSSION:off~~
