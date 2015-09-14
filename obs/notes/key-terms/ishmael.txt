@@ -1,15 +1,15 @@
-====== Ishmael 以实玛利P ======
+====== Ishmael 以实玛利 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Ishmael was the son of Abraham and Sarah's servant, Hagar.
 
 以实玛利是亚伯拉罕和撒拉的使女夏甲的儿子。
 
   * Ishmael was not the son through whom God would fulfill his promise to Abraham.
-  * 以实玛利不是神向亚伯拉罕成就祂的应许的那个儿子。
+  * 以实玛利不是神向亚伯拉罕成就他的应许的那个儿子。
   * Ishmael means, "God hears."
   * 以实玛利的意思是，“神听到”。
 
@@ -19,10 +19,10 @@ Ishmael was the son of Abraham and Sarah's servant, Hagar.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:05-02|[05-02]]]** So Abram married Hagar. Hagar had a baby boy, and Abram named him **Ishmael**.
   * 于是，亚伯兰娶了夏甲。夏甲生了一个男婴，亚伯兰给他取名叫以实玛利。
   * **[[:zh:obs:notes:frames:05-04|[05-04]]]**"I will make **Ishmael**  a great nation, too, but my covenant will be with Isaac."
-  * “我也将使以实玛利成为一个大族，但是我的约将是<font inherit/inherit;;inherit;;#FFD700>传于</font> 以撒。”
+  * “我也将使以实玛利成为一个大族，但是我的约将是<font inherit/inherit;;inherit;;inherit>传于</font>   以撒。”
 ~~DISCUSSION:off~~
