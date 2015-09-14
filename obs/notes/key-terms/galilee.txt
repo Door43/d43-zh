@@ -1,8 +1,8 @@
-====== Galilee 加利利 P ======
+====== Galilee 加利利 F ======
 
 ===== Facts: =====
 
-<font inherit/inherit;;inherit;;inherit>事实</font>
+<font inherit/inherit;;inherit;;inherit>事实:</font>
 
 Galilee is the most northern part of Israel, farther north than Samaria.
 
@@ -15,11 +15,11 @@ Galilee is the most northern part of Israel, farther north than Samaria.
 
 [See also: **[[:zh:obs:notes:key-terms:samaria|Samaria]]**, **[[:zh:obs:notes:key-terms:nazareth|Nazareth]]**]
 
-【同时看：撒玛利亚，拿撒勒​】
+【参见：撒玛利亚，拿撒勒​】
 
 ===== Examples from the Bible stories: =====
 
-一些圣经故事的例子
+圣经故事中的例子
 
   * **[[:zh:obs:notes:frames:21-10|[21-10]]]** The prophet Isaiah said the Messiah would live in **Galilee**, comfort broken-hearted people, and proclaim freedom to captives and release to prisoners.
   * 先知以赛亚说弥赛亚将生活在加利利，使心碎的得安慰，并宣告被虏的得自由，被囚的得释放 。
