@@ -1,4 +1,4 @@
-====== heaven 天堂/天空 P ======
+====== heaven 天堂/天空 F ======
 
 ==== (heaven, sky, heavenly) ====
 
@@ -21,7 +21,7 @@ The word "heaven" can refer to two different things in the Bible:
 
 ===== Examples from the Bible stories： =====
 
-圣经故事例证：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:04-02|[04-02]]]** They even began building a tall tower to reach **heaven.**
   * 他们甚至开始建造一座高塔，塔顶通天。
