@@ -1,4 +1,4 @@
-====== fast 禁食 P ======
+====== fast 禁食 F ======
 
 ===== Definition: =====
 
@@ -17,7 +17,7 @@ To fast is to stop eating food, or certain foods and drinks, for a period of tim
 
 [See also: **[[:zh:obs:notes:key-terms:jewish-leaders|Jewish leaders]]**]
 
-另请参见 ： 犹太领袖
+[参见 ： 犹太领袖]
 
 ===== Examples from the Bible stories: =====
 
@@ -28,6 +28,5 @@ To fast is to stop eating food, or certain foods and drinks, for a period of tim
   * **[[:zh:obs:notes:frames:34-08|[34-08]]]**"'For example, I **fast**  two times every week and I give you ten percent of all the money and goods that I receive.'"
   * “例如说我每周禁食两次，所得的财物我都奉献十分之一给你。”
   * **[[:zh:obs:notes:frames:46-10|[46-10]]]** One day, while the Christians at Antioch were **fasting**  and praying, the Holy Spirit said to them, "Set apart for me Barnabas and Saul to do the work I have called them to do."
-  * 有一天，安提阿的基督徒禁食祷告时，圣灵对他们说， “
-要为我分派巴拿巴和扫罗，去做我召他们所做的工。”
+  * 有一天，安提阿的基督徒禁食祷告时，圣灵对他们说， “要为我分派巴拿巴和扫罗，去做我召他们所做的工。”
 ~~DISCUSSION:off~~
