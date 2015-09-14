@@ -1,4 +1,4 @@
-====== guilt 有罪 P ======
+====== guilt 有罪 F ======
 
 ==== (guilt, guilty) ====
 
@@ -6,7 +6,7 @@
 
 ===== Definition: =====
 
-定義：
+定义：
 
 Guilt is the fact of having sinned or committed a crime.
 
@@ -25,11 +25,11 @@ The opposite of "guilty" is "innocent."
 
 [See also: **[[:zh:obs:notes:key-terms:innocent|innocent]]**, **[[:zh:obs:notes:key-terms:sin|sin]]**, **[[:zh:obs:notes:key-terms:punish|punish]]**]
 
-【同时看： 无辜的 ， 罪恶 ， 惩罚 】
+【参见： 无辜的 ， 罪恶 ， 惩罚 】
 
 ===== Examples from the Bible stories: =====
 
-一些圣经故事里的例子：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:39-02|[39-02]]]** They brought many witnesses who lied about him (Jesus). However, their statements did not agree with each other, so the Jewish leaders could not prove he was **guilty**  of anything.
   * 他们带来了许多证人，作假见证告他（ 耶稣） 。 但他们的证词彼此不合，所以犹太领袖无法证明他是有任何的罪。
