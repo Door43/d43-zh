@@ -1,15 +1,15 @@
-====== Isaac 以撒 P ======
+====== Isaac 以撒 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Isaac was the son that God promised to give Abraham and Sarah even though they were very old.
 
 以撒是神应许赐给亚伯拉罕和撒拉的儿子，尽管那时他们都已年老。
 
   * God promised that the covenant that he had made with Abraham would extend to Isaac and to all of Isaac's descendants forever.
-  * 神应许，他和亚伯拉罕立的约将延伸到以撒和<font inherit/inherit;;inherit;;#FFD700>以撒的所有的后裔</font> 直到永永远远。
+  * 神应许，他和亚伯拉罕立的约将延伸到以撒和<font inherit/inherit;;inherit;;inherit>以撒的所有的后裔</font>   直到永永远远。
   * God tested Abraham's faith by telling him to sacrifice Isaac.
   * 神告诉亚伯拉罕把以撒献为祭，来试验亚伯拉罕的信心。
   * Isaac's son Jacob had twelve sons. Their descendants later became the twelve tribes of the nation of Israel.
@@ -23,7 +23,7 @@ Isaac was the son that God promised to give Abraham and Sarah even though they w
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:05-04|[05-04]]]**"Your wife, Sarai, will have a son—he will be the son of promise. Name him **Isaac**."
   * “你的妻子撒莱，将生一个儿子—— 他将是神应许的儿子。给他取名以撒。”
@@ -36,5 +36,5 @@ Isaac was the son that God promised to give Abraham and Sarah even though they w
   * **[[:zh:obs:notes:frames:06-05|[06-05]]]****Isaac**  prayed for Rebekah, and God allowed her to get pregnant with twins.
   * 以撒为利百加祈求，神应允了，使她怀了一对双胞胎。
   * **[[:zh:obs:notes:frames:07-10|[07-10]]]** Then **Isaac**  died, and Jacob and Esau buried him. The covenant promises God had promised to Abraham and then to **Isaac**  now passed on to Jacob.
-  * 后来，以撒去世了，雅各和以扫埋葬了他。神应许给亚伯拉罕的约后来传给以撒，<font inherit/inherit;;inherit;;#FFD700>现在又传给了雅各</font> 。
+  * 后来，以撒去世了，雅各和以扫埋葬了他。神应许给亚伯拉罕的约后来传给以撒，<font inherit/inherit;;inherit;;inherit>现在又传给了雅各</font>   。
 ~~DISCUSSION:off~~
