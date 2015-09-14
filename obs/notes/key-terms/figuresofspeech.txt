@@ -1,4 +1,4 @@
-====== Figure of Speech 比拟或比喻 P ======
+====== Figure of Speech 比拟或比喻 F ======
 
 ===== Definition =====
 
@@ -9,7 +9,9 @@
 
 ===== Examples from the stories =====
 
-圣经故事中的例子：\\
+圣经故事中的例子：
+
+\\
 * "their eyes were opened" [02-06] means that they realized something they hadn't known before. It is <font 13px/arial;;rgb(0, 0, 0);;rgb(255, 255, 255)>an example of  ** metaphor  ** : Their understanding is spoken in terms of seeing. It is also an example of</font>    **metonymy:** People can only see things when their eyes are open.
 
 “他们的眼睛被打开了”[02-06]意思是他们明白了一些从前不明白的事情。这是一个暗喻的例子：用“看见”来描述他们的明白。同时这也是一个换喻的例子：人只有当眼睛是打开时才能看见东西。
