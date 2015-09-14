@@ -1,4 +1,4 @@
-====== good 善 P ======
+====== good 善 F ======
 
 ===== Definition: =====
 
@@ -25,11 +25,11 @@ The word "good" has different meanings depending on the context. Some languages 
 
 [See also: **[[:zh:obs:notes:key-terms:holy|holy]]**, **[[:zh:obs:notes:key-terms:righteous|righteous]]**, **[[:zh:obs:notes:key-terms:evil|evil]]**]
 
-【同时看： 圣洁 ， 公义 ， 邪恶 】
+【参见： 圣洁 ， 公义 ， 邪恶 】
 
 ===== Examples from the Bible stories: =====
 
-一些圣经故事里的例子：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:01-04|[01-04]]]** God saw that what he had created was **good**.
   * 神看他所造的是好的。
