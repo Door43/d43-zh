@@ -1,4 +1,4 @@
-====== Gibeon 基遍 P ======
+====== Gibeon 基遍 F ======
 
 ==== (Gibeon, Gibeonite) ====
 
@@ -20,6 +20,8 @@ Gibeon was a city and a region in the land of Canaan where the Gibeonites lived.
   * 以色列人与基遍人立约，并没有毁灭他们。
 
 ===== Examples from the Bible stories: =====
+
+圣经故事中的例子:
 
   * **[[:zh:obs:notes:frames:15-06|[15-06]]]** But one of the Canaanite people groups, called the **Gibeonites**, lied to Joshua and said they were from a place far from Canaan.
   * 但迦南人中的基遍人，对约书亚谎称说， 他们是从离迦南很远的地方来的 。
