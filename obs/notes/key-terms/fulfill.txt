@@ -1,8 +1,8 @@
-====== fulfill 应验 P ======
+====== fulfill 应验 F ======
 
 ===== Definitions: =====
 
-定义
+定义:
 
 To "fulfill" something is to complete or accomplish what was predicted, required, or expected.
 
@@ -21,7 +21,7 @@ To "fulfill" something is to complete or accomplish what was predicted, required
 
 [See also: **[[:zh:obs:notes:key-terms:prophet|prophecy]]**, **[[:zh:obs:notes:key-terms:messiah|Messiah]]**]
 
-另请参见：预言，弥赛亚
+[参见：预言，弥赛亚]
 
 ===== Examples from the Bible stories: =====
 
