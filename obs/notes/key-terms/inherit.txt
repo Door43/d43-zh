@@ -1,8 +1,8 @@
-====== inherit 继承P ======
+====== inherit 继承 F ======
 
 ==== (to inherit, inheritance) ====
 
-[继承（动词）产业（名词）]
+[继承（动词），产业（名词）]
 
 ===== Definition: =====
 
@@ -15,7 +15,7 @@ When someone inherits something, he or she receives something valuable from some
   * **Inheritance from Family**  - After the death of a relative, sometimes family members receive money or property (items or land) that that relative owned before they died.
   * 从家族继承 - 在一个亲属去世后，家族的成员们有时就接受那亲属死前所拥有的钱财或地产（物品或土地）。
   * **Inheritance from God**  - God has promised to give certain things to his people. To the descendants of Abraham, he promised land. To those who trust in Jesus, he promised an inheritance of eternal (or everlasting) life with him in heaven.
-  * 从神承受 - 神已应许把某些东西给他的子民。对于亚伯拉罕的后裔，神应许了土地。对于信耶稣的人，祂应许他们得一个永远的（或永恒的）生命，和祂同在天国里。
+  * 从神承受 - 神已应许把某些东西给他的子民。对于亚伯拉罕的后裔，神应许了土地。对于信耶稣的人，他应许他们得一个永远的（或永恒的）生命，和他同在天国里。
 
 [See also: **[[:zh:obs:notes:key-terms:promised-land|Promised Land]]**]
 
@@ -23,7 +23,7 @@ When someone inherits something, he or she receives something valuable from some
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:04-06|[04-06]]]** When Abram arrived in Canaan God said, "Look all around you. I will give to you and your descendants all the land that you can see as an **inheritance**."
   * 当亚伯兰来到迦南时，神说，“看看你四周。凡你能看到的土地，我将赐给你和你的后裔作为产业。”
