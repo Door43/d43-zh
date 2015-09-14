@@ -1,4 +1,4 @@
-====== Gideon 基甸 P ======
+====== Gideon 基甸 F ======
 
 ===== Facts: =====
 
@@ -15,7 +15,7 @@ Gideon was an Israelite man whom God raised up to deliver Israel from their enem
 
 ===== Examples from the Bible stories: =====
 
-一些圣经故事的例子 :
+圣经故事中的例子 :
 
   * **[[:zh:obs:notes:frames:16-05|[16-05]]]** The angel of Yahweh came to **Gideon**  and said, "God is with you, mighty warrior. Go and save Israel from the Midianites."
   * 耶和华的使者对他说“神与你同在，大能的勇士。去拯救以色列人脱离米甸人。”
