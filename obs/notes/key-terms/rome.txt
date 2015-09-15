@@ -1,4 +1,4 @@
-====== Rome 罗马 P ======
+====== Rome 罗马 F ======
 
 ==== (Rome, Roman) ====
 
@@ -6,7 +6,7 @@
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 In the current day, Rome is the capital city of the country of Italy.
 
@@ -27,7 +27,7 @@ In the current day, Rome is the capital city of the country of Italy.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例证：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:key-terms:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman**  government told everyone to go for a census to the town where their ancestors had lived.
   * 当马利亚即将分娩的时候，罗马政府命令所有人，到他们的祖先曾经居住的地方做户籍普查。
