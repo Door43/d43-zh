@@ -1,4 +1,4 @@
-====== save 拯救 P ======
+====== save 拯救 F ======
 
 ==== (save, salvation, saved) ====
 
@@ -25,7 +25,7 @@ To save someone or something is to rescue that person or thing from something ba
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:09-08|[09-08]]]** Moses tried to **save**  his fellow Israelite.
   * 摩西试图拯救他的同胞以色列人。
