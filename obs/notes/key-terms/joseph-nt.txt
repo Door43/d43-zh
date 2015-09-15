@@ -1,8 +1,8 @@
-====== Joseph(NT) 约瑟（新约）P ======
+====== Joseph(NT) 约瑟（新约）F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Joseph was Jesus' earthly father and raised him as his son.
 
@@ -25,12 +25,12 @@ Joseph was Jesus' earthly father and raised him as his son.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:22-04|[22-04]]]** She (Mary) was a virgin and was engaged to be married to a man named **Joseph**.
   * 她（马利亚）是个处女，她和一个名叫约瑟的男人订了婚，并准备结婚。
   * **[[:zh:obs:notes:frames:23-01|[23-01]]]****Joseph**, the man Mary was engaged to, was a righteous man. When he heard that Mary was pregnant, he knew it was not his baby. He did not want to shame her, so he planned to quietly divorce her.
-  * <font inherit/inherit;;inherit;;inherit>约瑟，</font> 和马利亚订婚的那个男人是个义人。当他听到马利亚怀孕了，他知道那不是他的孩子。他不想羞辱马利亚，于是计划悄悄地把她休了。
+  * <font inherit/inherit;;inherit;;inherit>约瑟，</font>    和马利亚订婚的那个男人是个义人。当他听到马利亚怀孕了，他知道那不是他的孩子。他不想羞辱马利亚，于是计划悄悄地把她休了。
   * **[[:zh:obs:notes:frames:23-02|[23-02]]]** The angel said, "**Joseph**, do not be afraid to take Mary as your wife. The baby in her body is from the Holy Spirit. She will give birth to a son. Name him Jesus (which means, 'Yahweh saves'), because he will save the people from their sins."
   * 天使说，“约瑟，不要害怕去娶马利亚做你的妻子。她所怀的孩子是从圣灵来的。她将生一个儿子，给这孩子取名耶稣（意思是，”耶和华拯救“），因为他要将百姓从罪恶里救出来。”
   * **[[:zh:obs:notes:frames:23-03|[23-03]]]** So **Joseph**  married Mary and took her home as his wife, but he did not sleep with her until she had given birth.
