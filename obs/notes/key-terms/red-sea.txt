@@ -1,8 +1,8 @@
-====== Red Sea 红海 P ======
+====== Red Sea 红海 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 The Red Sea is a body of water that separates northern Africa from the Arabian Peninsula.
 
@@ -21,7 +21,7 @@ The Red Sea is a body of water that separates northern Africa from the Arabian P
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:12-04|[12-04]]]** When the Israelites saw the Egyptian army coming, they realized they were trapped between Pharaoh's army and the **Red Sea**.
   * 当以色列人看到埃及军队来了，他们发现他们陷在法老的军队和红海当中。
