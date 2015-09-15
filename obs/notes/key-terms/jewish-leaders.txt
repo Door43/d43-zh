@@ -1,4 +1,4 @@
-====== Jewish Leader 犹太领袖 P ======
+====== Jewish Leader 犹太领袖 F ======
 
 (Jewish leaders, religious leaders)
 
@@ -10,7 +10,7 @@
 
 The Jewish leaders were religious leaders, such as priests and experts in God's laws.
 
-犹太领袖就是宗教领袖，例如那些<font inherit/inherit;;inherit;;#FFD700>在神的律法下</font> 的祭司和律法师。
+犹太领袖就是宗教领袖，例如那些<font inherit/inherit;;inherit;;inherit>在神的律法下</font>   的祭司和律法师。
 
   * Many of the religious leaders did not believe that Jesus was the Messiah and Son of God. They were jealous of Jesus and did not want other people to believe in him either.
   * 有许多宗教领袖并不相信耶稣是弥赛亚，是神的儿子。他们不但忌妒耶稣还要其他的人也不要相信他。
@@ -27,7 +27,7 @@ The Jewish leaders were religious leaders, such as priests and experts in God's 
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例子 ：
+圣经故事中的例子 ：
 
   * **[[:zh:obs:notes:frames:24-03|[24-03]]]** Many **religious leaders**  also came to be baptized by John, but they did not repent or confess their sins.
   * 【24－03】许多宗教领袖也来受约翰的洗，可是他们却没有悔改或承认自己的罪。
