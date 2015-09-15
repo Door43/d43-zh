@@ -1,4 +1,4 @@
-====== righteous义的 P ======
+====== righteous义的 F ======
 
 ===== Definition: =====
 
@@ -25,7 +25,7 @@ The word "righteous" means morally good and without fault. A righteous person do
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:03-02|[03-02]]]** But Noah found favor with God. He was a **righteous**  man, living among wicked people.
   * 但挪亚蒙了神的恩惠。他是一个生活在许多恶人当中的义人。
