@@ -1,4 +1,4 @@
-====== repent 悔改 P ======
+====== repent 悔改 F ======
 
 ==== (repent, repentance) ====
 
@@ -23,7 +23,7 @@ To repent is to regret or be sorrowful for something and to decide to stop doing
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:16-02|[16-02]]]** After many years of disobeying God and being oppressed by their enemies, the Israelites **repented**  and asked God to rescue them.
   * 在经过许多年的背逆神和受他们的仇故压制后，以色列人悔改，并祈求神来拯救他们。
