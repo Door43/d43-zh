@@ -1,4 +1,4 @@
-====== joy 喜乐/欢喜 P ======
+====== joy 喜乐/欢喜 F ======
 
 ===== Definition: =====
 
@@ -15,9 +15,9 @@ Joy is a feeling of deep satisfaction and delight.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+圣经故事中的例子：
 
-  * **[[:zh:obs:notes:key-terms:33-07|[33-07]]]**"The rocky ground is a person who hears God's word and accepts it with **joy**."
+  * **[[:zh:obs:notes:key-terms:33-07|<font inherit/inherit;;#FF0000;;inherit>[33-07]</font> ]]**"The rocky ground is a person who hears God's word and accepts it with **joy**."
   * 石头地就是那听了神的话，就欢喜领受的人。
   * **[[:zh:obs:notes:key-terms:34-04|[34-04]]]**"The kingdom of God is also like hidden treasure that someone hid in a field.. Another man found the treasure and then buried it again. He was so filled with **joy**, that he went and sold everything he had and used the money to buy that field."
   * 神的国好像是人藏在地里的宝贝。….另一个人发现了这个宝贝，于是又把它埋了起来。他欢欢喜喜去变卖了他所有的一切，然后用那些钱去买那块地。
