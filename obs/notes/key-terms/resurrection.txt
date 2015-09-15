@@ -1,4 +1,4 @@
-====== resurrection 复活 P ======
+====== resurrection 复活 F ======
 
 ===== Definition: =====
 
@@ -23,7 +23,7 @@ Resurrection is the act of becoming alive again after having died.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:key-terms:21-14|[21-14]]]** Through the Messiah's death and **resurrection**, God would accomplish his plan to save sinners and start the New Covenant.
   * 通过弥赛亚的死和复活，神要完成他救赎罪人的计划，并开始新约。
