@@ -1,8 +1,8 @@
-====== Jordan River 约旦河 P ======
+====== Jordan River 约旦河 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 The Jordan River is a river that flows from north to south, and forms the eastern boundary of the land that was called Canaan.
 
@@ -21,7 +21,7 @@ The Jordan River is a river that flows from north to south, and forms the easter
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:15-02|[15-02]]]** The Israelites had to cross the **Jordan River**  to enter into the Promised Land.
   * 以色列人必须过约旦河，才能进入到应许之地。
