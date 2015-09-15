@@ -1,8 +1,8 @@
-====== Joseph(OT) 约瑟（旧约）P ======
+====== Joseph(OT) 约瑟（旧约）F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Joseph was the eleventh son of Jacob and the first son of his mother Rachel.
 
@@ -13,7 +13,7 @@ Joseph was the eleventh son of Jacob and the first son of his mother Rachel.
   * Joseph went through difficult times, including being a slave and a prisoner in Egypt, yet he remained faithful to God.
   * 约瑟经历了很多苦难，包括在埃及做奴隶和囚犯，但他仍坚信神。
   * God brought him to the second highest place of power in Egypt and used him to save Egypt, and his father's family, from starving.
-  * 神使他坐在埃及<font inherit/inherit;;inherit;;inherit>权力</font> 第二高的地位，并使用他把埃及和他父亲家里的人从饥荒中拯救出来。
+  * 神使他坐在埃及<font inherit/inherit;;inherit;;inherit>权力</font>    第二高的地位，并使用他把埃及和他父亲家里的人从饥荒中拯救出来。
 
 [See also: **[[:zh:obs:notes:key-terms:jacob|Jacob]]**, **[[:zh:obs:notes:key-terms:egypt|Egypt]]**]
 
@@ -21,7 +21,7 @@ Joseph was the eleventh son of Jacob and the first son of his mother Rachel.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:08-02|[08-02]]]****Joseph's**  brothers hated him because their father loved him most and because Joseph had dreamed that he would be their ruler.
   * 约瑟的兄弟们恨他，因为他们的父亲最爱他，还因为约瑟梦到他将是他兄弟们的统治者。
