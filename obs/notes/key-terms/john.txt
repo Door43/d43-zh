@@ -1,8 +1,8 @@
-====== John (the apostle) 约翰（使徒）P ======
+====== John (the apostle) 约翰（使徒）F ======
 
 Facts:
 
-實情：
+事实：
 
 John was one of Jesus' twelve apostles and one of Jesus' closest friends.
 
@@ -21,7 +21,7 @@ John was one of Jesus' twelve apostles and one of Jesus' closest friends.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例子：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:36-01|[36-01]]]** One day, Jesus took three of his disciples, Peter, James, and **John**  with him. (The disciple named **John**  was not the same person who baptized Jesus.) They went up on a high mountain by themselves.
   * 有一天，耶稣带着他的三个门徒，彼得，雅各和约翰，上山去（名字叫约翰的门徒与那个为耶稣施洗的约翰不是同一个人）。他们独自登上一座高山。
