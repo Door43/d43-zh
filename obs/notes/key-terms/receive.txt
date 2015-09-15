@@ -1,4 +1,4 @@
-====== receive 接受 P ======
+====== receive 接受 F ======
 
 ===== Definition: =====
 
@@ -23,7 +23,7 @@ To receive something normally means to accept something that is given, offered, 
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:21-13|[21-13]]]** The prophets also said that the Messiah would be perfect, having no sin. He would die to **receive**  the punishment for other people's sin. His punishment would bring peace between God and people.
   * 先知们也说，弥赛亚将会是完美的、无罪的。他会为人的罪，接受死的惩罚。他受到的惩罚将为神和他的子民之间带来和平。
