@@ -1,4 +1,4 @@
-====== Yahweh 耶和华 P ======
+====== Yahweh 耶和华F ======
 
 ==== (Yahweh, I AM) ====
 
@@ -6,18 +6,18 @@
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 This is God's name that he told to Moses at the burning bush. He said that this was his name forever.
 
 在燃烧的荆棘边，神告诉摩西：这是神自己的名字。他说这是他永远的名字。
 
   * God's name means "he is" or "he who is."
-  * 神的名字的意思是”<font inherit/inherit;;inherit;;inherit>自有者“或”自有永有者</font>   “。
+  * 神的名字的意思是”<font inherit/inherit;;inherit;;inherit>自有者“或”自有永有者</font>    “。
   * It stresses that he is eternal and self-existent–he did need anyone to create him or give him life.
   * 这个名字强调，他是自有永有的——他不需要任何人来创造他或给予他生命。
   * When God refers to himself, he also says "I am."
-  * 当神指的是祂自己时，祂也说“<font inherit/inherit;;inherit;;inherit>自有者</font>   ”。
+  * 当神指的是他自己时，他也说“<font inherit/inherit;;inherit;;inherit>自有者</font>    ”。
 
 [See also: **[[:zh:obs:notes:key-terms:god|God]]**]
 
@@ -25,7 +25,7 @@ This is God's name that he told to Moses at the burning bush. He said that this 
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:09-14|[09-14]]]** God said, "I AM WHO I AM. Tell them, 'I AM has sent me to you.' Also tell them, 'I am **Yahweh**, the God of your ancestors Abraham, Isaac, and Jacob. This is my name forever.'"
   * 神说，“我是自有永有者。要告诉他们，”那个自有者派我到你们这里来“。还要告诉他们，“我是耶和华，你们的先祖亚伯拉罕、以撒和雅各的神。这是我永远的名字”。
