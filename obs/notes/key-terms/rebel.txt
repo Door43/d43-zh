@@ -1,4 +1,4 @@
-====== rebel 反叛/悖逆 P ======
+====== rebel 反叛/悖逆 F ======
 
 ==== (to rebel, rebellious) ====
 
@@ -21,7 +21,7 @@ To rebel is to refuse to submit to someone's authority. That is, to refuse to ob
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:14-14|[14-14]]]** After the Israelites had wandered in the wilderness for forty years, all of them who had **rebelled**  against God were dead.
   * 以色列人在旷野漂流40年之后，他们中所有悖逆神的人都死了。
