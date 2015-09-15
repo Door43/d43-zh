@@ -1,4 +1,4 @@
-====== judge 审判 P ======
+====== judge 审判 F ======
 
 ==== (to judge, judgment) ====
 
@@ -25,7 +25,7 @@ To judge is to decide whether something or someone is legally or morally right o
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:19-16|[19-16]]]** The prophets warned the people that if they did not stop doing evil and start obeying God, then God would **judge**  them as guilty, and he would punish them.
   * 先知们警告百姓，如果他们还不停止作恶，并开始顺服神，那么神将判定他们有罪，而且将会惩罚他们。
