@@ -1,8 +1,8 @@
-====== John (the Baptist) 约翰（施洗者）P ======
+====== John (the Baptist) 约翰（施洗者）F ======
 
 ===== Facts: =====
 
-实情 ：
+事实 ：
 
 John was the son of Zechariah and Elizabeth. Since "John" was a common name, he is often called "John the Baptist" to distinguish him from the other people named John, such as the Apostle John.
 
@@ -25,7 +25,7 @@ John was the son of Zechariah and Elizabeth. Since "John" was a common name, he 
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的例子：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:22-02|[22-02]]]** The angel said to Zechariah, "Your wife will have a son. You will name him **John**. He will be filled with the Holy Spirit, and will prepare the people for Messiah!"
   * 天使对撒迦利亚说：“你的妻子会生一个儿子。你要给他起名叫约翰，他将被圣灵充满，并要准备人来接受弥赛亚 。
