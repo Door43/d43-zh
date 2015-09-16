@@ -1,8 +1,8 @@
-====== curse 诅咒 F ======
+====== curse 咒诅 F ======
 
 ==== (curse, cursed) ====
 
-（诅咒，被诅咒）
+（咒诅，被咒诅）
 
 ===== Definition: =====
 
@@ -10,16 +10,16 @@
 
 To "curse" is to exercise spiritual authority to cause negative things to happen to the person or thing that is being "cursed."
 
-"诅咒"是行使属灵上的权柄降祸于"被诅咒"的人或事.
+"咒诅"是行使属灵上的权柄降祸于"被咒诅"的人或事.
 
   * A "curse" is a declaration that harm will happen to someone or something.
-  * "诅咒"是声明伤害将發生於某人或某事。
+  * "咒诅"是声明伤害将發生於某人或某事。
   * To "curse" someone or something causes bad things to happen to that person or thing.
-  * 去"诅咒"某人或某事会导致有坏的事发生在這人或這事上。
+  * 去"咒诅"某人或某事会导致有坏的事发生在這人或這事上。
 
 To "curse" is the opposite of to "bless."
 
-"诅咒"的反义词是"祝福"
+"咒诅"的反义词是"祝福"
 
 [See also: **[[:zh:obs:notes:key-terms:bless|bless]]**]
 
@@ -27,16 +27,16 @@ To "curse" is the opposite of to "bless."
 
 ===== Examples from the Bible stories: =====
 
-<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
+<font 14px line-height: 19.6px/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:02-09|[02-09]]]** God said to the snake, "You are **cursed**!"
-  * [02-09]神对蛇说：“你是被诅咒的！”
+  * [02-09]神对蛇说：“你是被咒诅的！”
   * **[[:zh:obs:notes:frames:02-11|[02-11]]]**"Now the ground is **cursed**, and you will need to work hard to grow food."
-  * [02-11]现在這地受了诅咒，你必须辛苦工作才能种出粮食。“
+  * [02-11]现在這地受了咒诅，你必须辛苦工作才能种出粮食。“
   * **[[:zh:obs:notes:frames:04-04|[04-04]]]**"I will bless those who bless you and **curse**  those who **curse**  you."
-  * [04-04]“我将赐福那些祝福你的人，也将诅咒那些诅咒你的人。”
+  * [04-04]“我将赐福那些祝福你的人，也将咒诅那些咒诅你的人。”
   * **[[:zh:obs:notes:frames:39-07|[39-07]]]** Then Peter vowed, saying, "May God **curse**  me if I know this man!"
-  * [39-07]然后彼得发誓说：“如果我认识这个人，就让神诅咒我！”
+  * [39-07]然后彼得发誓说：“如果我认识这个人，就让神咒诅我！”
   * **[[:zh:obs:notes:frames:50-16|[50-16]]]** Because Adam and Eve disobeyed God and brought sin into this world, God **cursed**  it and decided to destroy it.
-  * [50-16]因为亚当和夏娃悖逆了神，将罪恶带進了这世界，神就诅咒这个世界，并决定毁灭它。
+  * [50-16]因为亚当和夏娃悖逆了神，将罪恶带進了这世界，神就咒诅这个世界，并决定毁灭它。
 ~~DISCUSSION:off~~
