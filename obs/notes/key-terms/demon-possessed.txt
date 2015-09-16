@@ -1,4 +1,4 @@
-====== demon-possessed 惡魔附身 P ======
+====== demon-possessed 惡魔附身 F ======
 
 ===== Definition: =====
 
@@ -17,14 +17,14 @@ A person who is demon-possessed has a demon or evil spirit that controls what he
 
 [See also: **[[:zh:obs:notes:key-terms:demon|demon]]**]
 
-另請參見 ： 惡魔
+[參見 ： 惡魔]
 
 ===== Examples from the Bible stories: =====
 
-聖經故事中的例子
+聖經故事中的例子：
 
   * **[[:zh:obs:notes:frames:26-09|[26-09]]]** Many people who had **demons in them**  were brought to Jesus.
-  * **[[:zh:obs:notes:frames:26-09|[26-09]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> <font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>很多被鬼附的人被帶到了耶穌面前</font> 。
+  * **[[:zh:obs:notes:frames:26-09|[26-09]]]** <font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>很多被鬼附的人被帶到了耶穌面前</font> 。
   * **[[:zh:obs:notes:frames:32-02|[32-02]]]** When they reached the other side of the lake, a **demon-possessed**  man came running up to Jesus.
   * **[[:zh:obs:notes:frames:32-02|[32-02]]]** <font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit></font> 當他們到達湖的另一邊，一個惡魔附身的人跑到耶穌那裏。
   * **[[:zh:obs:notes:frames:32-06|[32-06]]]** The man **with the demon**  cried out in a loud voice, "What do you want with me, Jesus, Son of the Most High God? Please do not torture me!"
