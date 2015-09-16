@@ -1,4 +1,4 @@
-====== curse 诅咒 P ======
+====== curse 诅咒 F ======
 
 ==== (curse, cursed) ====
 
@@ -27,7 +27,7 @@ To "curse" is the opposite of to "bless."
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:02-09|[02-09]]]** God said to the snake, "You are **cursed**!"
   * [02-09]神对蛇说：“你是被诅咒的！”
