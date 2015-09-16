@@ -1,4 +1,4 @@
-====== sheep 羊 P ======
+====== sheep 羊 F ======
 
 ===== Definition: =====
 
@@ -21,7 +21,7 @@ A sheep is a medium-sized animal with four legs that has wool all over its body.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:09-12|[09-12]]]** One day while Moses was taking care of his **sheep**, he saw a bush that was on fire.
   * 一天，正当摩西看管他的羊群时，他看见荆棘着火了。
@@ -30,5 +30,5 @@ A sheep is a medium-sized animal with four legs that has wool all over its body.
   * **[[:zh:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like **sheep**  without a shepherd.
   * 对耶稣来说，这些百姓就象没有牧人的羊。
   * **[[:zh:obs:notes:frames:38-08|[38-08]]]** Jesus said, "All of you will all abandon me tonight. It is written, 'I will strike the shepherd and all the **sheep**  will be scattered.'"
-  * 耶稣说，“你们所有人今晚都将背弃我。圣经上记着说：”我要击打牧人，羊群就分散。”
+  * 耶稣说，“你们所有人今晚都将背弃我。圣经上记着说：'我要击打牧人，羊群就分散。'”
 ~~DISCUSSION:off~~
