@@ -1,8 +1,8 @@
-====== Christian 基督徒 P ======
+====== Christian 基督徒 F ======
 
 ===== Definition: =====
 
-定义
+定义：
 
 After Jesus went back to heaven, people started calling his followers "Christians" because they were followers of Christ, which is another word for "Messiah."
 
@@ -23,7 +23,7 @@ After Jesus went back to heaven, people started calling his followers "Christian
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:46-09|[46-09]]]** It was at Antioch that believers in Jesus were first called "**Christians**."
   * [46-09]在安提阿，相信耶稣的人第一次被称为“基督徒”。
