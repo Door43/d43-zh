@@ -1,4 +1,4 @@
-====== Assyria 亚述 P ======
+====== Assyria 亚述 F ======
 
 ==== (Assyria, Assyrian, Assyrian Empire) ====
 
@@ -6,7 +6,7 @@
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Assyria was a powerful empire during much of the time that the Israelites were living in the land of Canaan.
 
@@ -27,7 +27,7 @@ Assyria was a powerful empire during much of the time that the Israelites were l
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:20-02|[20-02]]]**] So God punished both kingdoms by allowing their enemies to destroy them. The kingdom of Israel was destroyed by the **Assyrian Empire**, a powerful, cruel nation. The **Assyrians**  killed many people in the kingdom of Israel, took away everything of value, and burned much of the country.
   * [20-02]于是，神为了<font 14px line-height: 13.0666666030884px/inherit;;inherit;;inherit>惩罚这两个国，就</font>    容许他们的敌人来摧毁他们。以色列国是被强大而残忍的亚述帝国摧毁。亚述人杀了以色列国的很多人，夺走一切有价值的东西，烧毁了<font 14px line-height: 13.0666666030884px/inherit;;inherit;;inherit>大部分的</font>    国土。
