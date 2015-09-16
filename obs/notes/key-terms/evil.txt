@@ -1,6 +1,8 @@
-====== evil 邪恶 P ======
+====== evil 邪恶 F ======
 
-==== (evil, wicked, bad) （邪恶的，罪恶的，堕落的/腐败的） ====
+==== (evil, wicked, bad) ====
+
+==== （邪恶的，罪恶的，堕落的/腐败的） ====
 
 ===== Definition: =====
 
@@ -27,7 +29,7 @@ Evil is any action, thought or character that is opposed to God's holy character
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:02-04|[02-04]]]**"God just knows that as soon as you eat it, you will be like God and will understand good and **evil**  like he does."
   * 神知道，一旦你吃了（善恶树上的）果子，你就会像他一样能分辨善与恶。
