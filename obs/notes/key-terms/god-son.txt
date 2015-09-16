@@ -1,4 +1,4 @@
-====== Son of God 神的儿子  ======
+====== Son of God 神的儿子F ======
 
 ==== (Son of God, the Son) ====
 
@@ -27,7 +27,7 @@ The Son of God is Jesus, who was sent by God to save and rule the world.
 
 ===== Examples from the Bible stories: =====
 
-<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
+<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>圣经故事中的例子</font>    <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:22-05|[22-05]]]** The angel explained, "The Holy Spirit will come to you, and the power of God will overshadow you. So the baby will be holy, the **Son of God**."
   * 天使解释说：“圣灵将降临在你身上，神的大能将荫蔽你。因此所生的婴孩必称为圣，为神的儿子。”
