@@ -1,4 +1,4 @@
-====== blood 血 P ======
+====== blood 血 F ======
 
 ===== Definition: =====
 
@@ -6,20 +6,20 @@
 
 Blood is the red liquid in our bodies that can flow out when we are injured.
 
-血是在人受伤时，<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>会</font> 从我们身体里流出来的红色液体。
+血是在人受伤时，<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>会</font>    从我们身体里流出来的红色液体。
 
   * People and animals need the blood in their bodies in order to live. So blood is often a symbol of life.
   * 人和动物的身体中需要有血液，才能活着。所以血液通常是一个生命的记号。
   * But blood can also be a symbol of death since if too much blood comes out (because of being injured or sick), that person or animal will die.
   * 但是血也可以是死亡的记号，因为如果流出的血太多了（因为受伤或病了），人或动物将会死亡。
   * When people made sacrifices to God, they killed an animal and poured its blood on the altar. God told them to kill the animal in their place so they would not have to be killed as punishment for their sins.
-  * 在人们向神献祭时，他们会宰杀一只动物，把它的血浇在祭坛上。神告诉他们要把那动物<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>杀了</font> ，成为他们的代替，这样他们就不会因受罪的惩罚而被杀。
+  * 在人们向神献祭时，他们会宰杀一只动物，把它的血浇在祭坛上。神告诉他们要把那动物<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>杀了</font>    ，成为他们的代替，这样他们就不会因受罪的惩罚而被杀。
   * Jesus died as the perfect sacrifice. His blood symbolically covers our sins and cleanses us from them.
-  * 耶稣死了，成为完美的祭牲。他的血象征性地<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>遮盖了</font> 我们的罪，并使我们从罪中得洁净。
+  * 耶稣死了，成为完美的祭牲。他的血象征性地<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>遮盖了</font>    我们的罪，并使我们从罪中得洁净。
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:08-03|[08-03]]]** Before Joseph's brothers returned home, they tore Joseph's robe and dipped it in goat's **blood**.
   * **[[:zh:obs:notes:frames:08-03|[08-03]]]** 在约瑟的哥哥们回到家之前，他们撕碎了约瑟的袍子，把它蘸上了山羊的血。
@@ -30,7 +30,7 @@ Blood is the red liquid in our bodies that can flow out when we are injured.
   * **[[:zh:obs:notes:frames:13-09|[13-09]]]** The **blood**  of the animal that was sacrificed covered the person's sin and made that person clean in God's sight.
   * **[[:zh:obs:notes:frames:13-09|[13-09]]]** 被献祭的动物的血遮盖了人的罪，使人在神的眼里洁净了。
   * **[[:zh:obs:notes:frames:38-05|[38-05]]]** Then Jesus took a cup and said, "Drink this. It is my **blood**  of the New Covenant that is poured out for the forgiveness of sins.
-  * **[[:zh:obs:notes:frames:38-05|[38-05]]]** 于是，耶稣拿了一个杯，说，“喝这个。这是我<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>立新约</font> 的血，为了赦罪而流出来”。
+  * **[[:zh:obs:notes:frames:38-05|[38-05]]]** 于是，耶稣拿了一个杯，说，“喝这个。这是我<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>立新约</font>    的血，为了赦罪而流出来”。
   * **[[:zh:obs:notes:frames:48-10|[48-10]]]** When anyone believes in Jesus, the **blood**  of Jesus takes away that person's sin, and God's punishment passes over him.
   * **[[:zh:obs:notes:frames:48-10|[48-10]]]** 当任何一个人相信耶稣时，耶稣的血就除去了那人的罪，并且神的惩罚就越过了他。
 ~~DISCUSSION:off~~
