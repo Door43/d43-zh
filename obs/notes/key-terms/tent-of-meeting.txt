@@ -1,8 +1,8 @@
-====== Tent of Meeting 会幕 P ======
+====== Tent of Meeting 会幕 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 When God gave his laws at Mount Sinai, he told the Israelites to make the Tent of Meeting. This was the holy place where he would meet with them. As they wandered through the wilderness, they would take it with them and set it up whenever God told them to do so.
 
@@ -23,7 +23,7 @@ When God gave his laws at Mount Sinai, he told the Israelites to make the Tent o
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:13-08|[13-08]]]** God gave the Israelites a detailed description of a tent he wanted them to make. It was called the **Tent of Meeting**, and it had two rooms, separated by a large curtain.
   * 对神要以色列人建造的帐幕，神给了他们详细的描述。这帐幕称作“会幕”，它由<font inherit/inherit;;inherit;;inherit>一块大幔子分成</font>    两个房间。
