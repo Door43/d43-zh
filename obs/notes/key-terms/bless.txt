@@ -1,4 +1,4 @@
-====== bless 祝福 P ======
+====== bless 祝福 F ======
 
 ==== (bless, blessed, blessing) ====
 
@@ -29,7 +29,7 @@ The opposite of "bless" is "curse."
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证:
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:01-07|[01-07]]]** God saw that it was good and he **blessed**  them.
   * **[[:zh:obs:notes:frames:01-07|[01-07]]]** 神看见这是好的并祝福他们。
@@ -40,7 +40,7 @@ The opposite of "bless" is "curse."
   * **[[:zh:obs:notes:frames:04-04|[04-04]]]**"I will make your name great. I will **bless**  those who **bless**  you and curse those who curse you. All families on earth will be **blessed**  because of you."
   * **[[:zh:obs:notes:frames:04-04|[04-04]]]**“我将使你的名为大。我将祝福那些祝福你的人，诅咒那些诅咒你的人。地上的所有家庭都将因为你而被祝福。‘
   * **[[:zh:obs:notes:frames:04-07|[04-07]]]** Melchizedek **blessed**  Abram and said, "May God Most High who owns heaven and earth **bless**  Abram."
-  * **[[:zh:obs:notes:frames:04-07|[04-07]]]** 麦基洗德<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>祝福</font> 亚伯兰，并说，”愿拥有天地的至高的神祝福亚伯兰。“
+  * **[[:zh:obs:notes:frames:04-07|[04-07]]]** 麦基洗德<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>祝福</font>    亚伯兰，并说，”愿拥有天地的至高的神祝福亚伯兰。“
   * **[[:zh:obs:notes:frames:07-03|[07-03]]]** Isaac wanted to give his **blessing**  to Esau.
   * **[[:zh:obs:notes:frames:07-03|[07-03]]]** 以撒想要祝福以扫。
   * **[[:zh:obs:notes:frames:08-05|[08-05]]]** Even in prison, Joseph remained faithful to God, and God **blessed**  him.
