@@ -1,4 +1,4 @@
-====== shepherd 牧人 P ======
+====== shepherd 牧人 F ======
 
 ===== Definition: =====
 
@@ -25,7 +25,7 @@ A shepherd is a person who takes care of sheep.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd**  in the wilderness far away from Egypt.
   * <font inherit/inherit;;inherit;;inherit>在远离埃及的旷野之地，</font>    摩西成为一个牧人。
