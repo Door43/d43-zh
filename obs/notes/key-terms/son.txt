@@ -1,4 +1,4 @@
-====== son 儿子 P ======
+====== son 儿子 F ======
 
 ===== Definition: =====
 
@@ -19,7 +19,7 @@ A son is someone's direct male offspring. This is a relationship term and does n
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and promised again that he would have a **son**  and as many descendants as the stars in the sky.
   * 神对亚伯拉罕说话，再次应许他说，他将会有一个儿子，并且他的后裔要象天上的星一样多。
