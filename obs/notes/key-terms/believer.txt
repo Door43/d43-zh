@@ -1,8 +1,8 @@
-====== believer 信徒 P ======
+====== believer 信徒 F ======
 
 ===== Definitions & Facts: =====
 
-定义 & 事实依据；
+定义 & 事实：
 
 A "believer" is a person who trusts completely in a person or an idea.
 
@@ -13,7 +13,7 @@ A "believer" is a person who trusts completely in a person or an idea.
   * The term "Christian" eventually came to be the main title for believers because it indicates that they believe in Christ.
   * “基督徒”一词，最终成为信徒的主要称谓，是因为这称谓表示他们相信基督。
   * Other common ways to translate "believer" are, "follower of Jesus" or, "disciple."
-  * “信徒”的<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>其它</font> 常用<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>翻译</font> 有，“耶稣的跟随者”，或“门徒”。
+  * “信徒”的<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>其它</font>    常用<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>翻译</font>    有，“耶稣的跟随者”，或“门徒”。
 
 [See also: **[[:zh:obs:notes:key-terms:believe|believe]]**, **[[:zh:obs:notes:key-terms:christian|Christian]]**, **[[:zh:obs:notes:key-terms:disciple|disciple]]**]
 
@@ -21,20 +21,20 @@ A "believer" is a person who trusts completely in a person or an idea.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:43-01|[43-01]]]** After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had commanded them to do. The **believers**  there constantly gathered together to pray.
   * **[[:zh:obs:notes:frames:43-01|[43-01]]]** 在耶稣回到天上以后，门徒们按照耶稣所吩咐他们的，留在耶路撒冷。信徒们常聚集在一起祷告。
   * **[[:zh:obs:notes:frames:43-03|[43-03]]]** While the **believers**  were all together, suddenly the house where they were was filled with a sound like a strong wind. Then something that looked like flames of fire appeared over the heads of all the **believers**.
-  * **[[:zh:obs:notes:frames:43-03|[43-03]]]** 正当信徒们全都聚到一起时，突然他们所在的房屋被一个<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>像强风一样的声音</font> 所充满。于是，有看似火焰的东西出现在所有信徒的头上。
+  * **[[:zh:obs:notes:frames:43-03|[43-03]]]** 正当信徒们全都聚到一起时，突然他们所在的房屋被一个<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>像强风一样的声音</font>    所充满。于是，有看似火焰的东西出现在所有信徒的头上。
   * **[[:zh:obs:notes:frames:43-13|[43-13]]]** Every day, more people became **believers**.
   * **[[:zh:obs:notes:frames:43-13|[43-13]]]** 每一天，有更多的人成为了信徒。
   * **[[:zh:obs:notes:frames:46-06|[45-06]]]** That day many people in Jerusalem started persecuting the followers of Jesus, so the **believers**  fled to other places. But in spite of this, they preached about Jesus everywhere they went.
-  * **[[:zh:obs:notes:frames:46-06|[45-06]]]** 那天，<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>很多</font> 在耶路撒冷的人开始迫害耶稣的跟随者，于是信徒们便逃到了其他的地方。但是尽管如此，他们无论到哪里都传讲耶稣。
+  * **[[:zh:obs:notes:frames:46-06|[45-06]]]** 那天，<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>很多</font>    在耶路撒冷的人开始迫害耶稣的跟随者，于是信徒们便逃到了其他的地方。但是尽管如此，他们无论到哪里都传讲耶稣。
   * **[[:zh:obs:notes:frames:46-01|[46-01]]]** Saul was the young man who guarded the robes of the men who killed Stephen. He did not believe in Jesus, so he persecuted the **believers**.
-  * **[[:zh:obs:notes:frames:46-01|[46-01]]]** 扫罗就是那个曾为那些杀害司提反的人看管袍子<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>的年轻人</font> 。他从前不相信耶稣，所以他迫害信徒。
+  * **[[:zh:obs:notes:frames:46-01|[46-01]]]** 扫罗就是那个曾为那些杀害司提反的人看管袍子<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>的年轻人</font>    。他从前不相信耶稣，所以他迫害信徒。
   * **[[:zh:obs:notes:frames:46-09|[46-09]]]** Some **believers**  who fled from the persecution in Jerusalem went far away to the city of Antioch and preached about Jesus…It was at Antioch that **believers**  in Jesus were first called "Christians."
-  * **[[:zh:obs:notes:frames:46-09|[46-09]]]** 从耶路撒冷的迫害中逃出来的一些信徒，去了很远的安提阿城，在那里传讲耶稣….耶稣的信徒们第一次被称为“基督徒”，<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>就是在安提阿</font> 。
+  * **[[:zh:obs:notes:frames:46-09|[46-09]]]** 从耶路撒冷的迫害中逃出来的一些信徒，去了很远的安提阿城，在那里传讲耶稣….耶稣的信徒们第一次被称为“基督徒”，<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>就是在安提阿</font>    。
   * **[[:zh:obs:notes:frames:47-14|[47-14]]]** They also wrote many letters to encourage and teach the **believers**  in the churches.
   * **[[:zh:obs:notes:frames:47-14|[47-14]]]** 他们也写了很多信，来鼓励和教导各处教会里的信徒们。
 ~~DISCUSSION:off~~
