@@ -1,4 +1,4 @@
-====== believe 相信 P ======
+====== believe 相信 F ======
 
 === (believe, believe in) ===
 
@@ -34,7 +34,7 @@
 
 ===== Examples from the Bible stories =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:03-04|[03-04]]]** Noah warned the people about the coming flood and told them to turn to God, but they did not **believe**  him.
   * **[[:zh:obs:notes:frames:03-04|[03-04]]]** 挪亚警告人们，洪水将近，告诉他们去转向神，但是他们却不相信他。
