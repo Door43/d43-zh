@@ -1,8 +1,8 @@
-====== Bethlehem 伯利恒 P ======
+====== Bethlehem 伯利恒 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It still exists to the present day.
 
@@ -21,7 +21,7 @@ Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of **Bethlehem**.
   * **[[:zh:obs:notes:frames:17-02|[17-02]]]** 大卫是伯利恒城的一个牧人。
@@ -30,5 +30,5 @@ Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It
   * **[[:zh:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in Nazareth to **Bethlehem**  because their ancestor was David whose hometown was **Bethlehem**.
   * **[[:zh:obs:notes:frames:23-04|[23-04]]]** 约瑟和马利亚必须从他们居住的拿撒勒长途赶路到了伯利恒，因为他们先祖大卫的家乡就是伯利恒。
   * **[[:zh:obs:notes:frames:23-06|[23-06]]]**"The Messiah, the Master, has been born in **Bethlehem**!"
-  * **[[:zh:obs:notes:frames:23-06|[23-06]]]**“弥赛亚，主，已降生在伯利恒<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>了</font> ”！
+  * **[[:zh:obs:notes:frames:23-06|[23-06]]]**“弥赛亚，主，已降生在伯利恒<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>了</font>    ”！
 ~~DISCUSSION:off~~
