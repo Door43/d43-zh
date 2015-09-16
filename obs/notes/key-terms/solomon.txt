@@ -1,8 +1,8 @@
-====== Solomon 所罗门 P ======
+====== Solomon 所罗门 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Solomon was the son of King David; his mother was Bathsheba.
 
@@ -23,7 +23,7 @@ Solomon was the son of King David; his mother was Bathsheba.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:17-14|[17-14]]]** Later, David and Bathsheba had another son, and they named him **Solomon**.
   * 后来，大卫和拔示巴又生了一个儿子，他们给他取名叫所罗门。
