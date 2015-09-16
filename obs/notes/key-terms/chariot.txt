@@ -1,4 +1,4 @@
-====== chariot 战车 P ======
+====== chariot 战车 F ======
 
 ===== Definition: =====
 
@@ -15,7 +15,7 @@ In ancient times, chariots were lightweight carts with two wheels that were pull
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:12-10|[12-10]]]** So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their **chariots**  to get stuck.
   * [12-10]<font 14px line-height: 13.0666666030884px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px;;;inherit>因此，他们随以色列人也下了红海，走在那条路上。但是神使埃及人产生混乱，</font> <font 14px line-height: 13.0666666030884px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px;;;inherit>使他们的战车不能前进。</font>
