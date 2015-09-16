@@ -1,4 +1,4 @@
-====== apostles 使徒 P ======
+====== apostles 使徒 F ======
 
 ===== Definition: =====
 
@@ -29,7 +29,7 @@ The apostles were men sent by Jesus to preach about God.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:26-10|[26-10]]]** Then Jesus chose twelve men who were called his **apostles**. The **apostles**  traveled with Jesus and learned from him.
   * [26-10]于是耶稣拣选了十二个人，称他们为他的使徒。这些使徒跟随耶稣走遍各地，并跟他学习。
