@@ -1,4 +1,4 @@
-====== spirit 灵 P ======
+====== spirit 灵 F ======
 
 ==== (spirit, spiritual) ====
 
@@ -35,10 +35,10 @@ The opposite of "spiritual" is "physical."
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:13-03|[13-03]]]** Three days later, after the people had prepared themselves **spiritually**, God came down on top of Mount Sinai with thunder, lightning, smoke, and a loud trumpet blast.
-  * 三天后，在人们在灵里准备好了自己后，带着电闪雷鸣，烟火和响亮的号角声，神降临到西奈山山顶，。
+  * 三天后，在人们在灵里准备好了自己后，带着电闪雷鸣，烟火和响亮的号角声，神降临到西乃山山顶。
   * **[[:zh:obs:notes:frames:40-07|[40-07]]]** Then Jesus cried out, "It is finished! Father, I give my **spirit**  into your hands." Then he bowed his head and gave up his **spirit**.
   * 于是耶稣大声喊到，“成了！天父，我把我的灵交到你的手上。”于是他低下了他的头，交出了他的灵魂。
   * **[[:zh:obs:notes:frames:45-05|[45-05]]]** As Stephen was dying, he cried out, "Jesus, receive my **spirit**."
