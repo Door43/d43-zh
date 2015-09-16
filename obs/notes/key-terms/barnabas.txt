@@ -1,12 +1,12 @@
-====== Barnabas 巴拿巴 P ======
+====== Barnabas 巴拿巴 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Barnabas was one of the early Christians who lived during the time of the apostles.
 
-巴拿巴是早期<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>的一位</font> 基督徒，曾生活在使徒时代。
+巴拿巴是早期<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>的一位</font>    基督徒，曾生活在使徒时代。
 
   * When Saul (Paul) became a Christian, Barnabas encouraged the other believers to accept him as a fellow believer.
   * 当扫罗（保罗）成为基督徒后，巴拿巴鼓励其他的信徒，接受他同作信徒。
@@ -19,12 +19,12 @@ Barnabas was one of the early Christians who lived during the time of the apostl
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:46-08|[46-08]]]** Then a believer named **Barnabas**  took Saul to the apostles and told them how Saul had preached boldly in Damascus.
   * **[[:zh:obs:notes:frames:46-08|[46-08]]]** 然后，一个名叫巴拿巴的信徒把扫罗带到众使徒中，告诉他们扫罗是怎样在大马士革大胆传道的。
   * **[[:zh:obs:notes:frames:46-09|[46-09]]]****Barnabas**  and Saul went there to teach these new believers more about Jesus and to strengthen the church.
   * **[[:zh:obs:notes:frames:46-09|[46-09]]]** 巴拿巴和扫罗去到那里，教导这些新的信徒更多关于耶稣的事，并坚固教会。
   * **[[:zh:obs:notes:frames:46-10|[46-10]]]** One day, while the Christians at Antioch were fasting and praying, the Holy Spirit said to them, "Set apart for me **Barnabas**  and Saul to do the work I have called them to do." So the church in Antioch prayed for **Barnabas**  and Saul and placed their hands on them.
-  * **[[:zh:obs:notes:frames:46-10|[46-10]]]** 有一天，正当在安提阿的基督徒们正在禁食和祷告时，圣灵对他们说，“把巴拿巴和扫罗分别出来给我，去做我吩咐他们要做的事。” 于是，在安提阿的教会<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>为他们祷告</font> ，并为他们按手。
+  * **[[:zh:obs:notes:frames:46-10|[46-10]]]** 有一天，正当在安提阿的基督徒们正在禁食和祷告时，圣灵对他们说，“把巴拿巴和扫罗分别出来给我，去做我吩咐他们要做的事。” 于是，在安提阿的教会<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>为他们祷告</font>    ，并为他们按手。
 ~~DISCUSSION:off~~
