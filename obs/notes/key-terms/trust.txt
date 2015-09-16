@@ -1,4 +1,4 @@
-====== trust 信靠 P ======
+====== trust 信靠 F ======
 
 ==== (trust, to trust) ====
 
@@ -25,7 +25,7 @@ To trust someone or something is to believe that they are reliable, honest, true
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they **trusted**  in God and believed that Moses was a prophet of God.
   * 当 以色列人看见埃及人死了，他们就信靠神并相信摩西是神的先知。
