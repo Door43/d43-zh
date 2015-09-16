@@ -1,4 +1,4 @@
-====== Babylon 巴比伦 P ======
+====== Babylon 巴比伦 F ======
 
 ==== (Babylon, Babylonian) ====
 
@@ -6,7 +6,7 @@
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 The ancient city of Babylon was located along the Euphrates River. Babylon was the capital of the Babylonian Empire which was located in the region of what is now the country of Iraq.
 
@@ -25,10 +25,10 @@ The ancient city of Babylon was located along the Euphrates River. Babylon was t
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证；
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:20-06|[20-06]]]** About 100 years after the Assyrians destroyed the kingdom of Israel, God sent Nebuchadnezzar, king of the **Babylonians**, to attack the kingdom of Judah. **Babylon**  was a powerful empire.
-  * **[[:zh:obs:notes:frames:20-06|[20-06]]]** 大约在亚述人摧毁了以色列国100年后，神差遣<font 14px line-height: 11.1999998092651px;/inherit;;inherit;;inherit>巴比伦王</font> 尼布甲尼撒，去攻打犹大国。巴比伦是一个强大的帝国。
+  * **[[:zh:obs:notes:frames:20-06|[20-06]]]** 大约在亚述人摧毁了以色列国100年后，神差遣<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>巴比伦王</font>    尼布甲尼撒，去攻打犹大国。巴比伦是一个强大的帝国。
   * **[[:zh:obs:notes:frames:20-07|[20-07]]]** But after a few years, the king of Judah rebelled against **Babylon**. So, the **Babylonians**  came back and attacked the kingdom of Judah. They captured the city of Jerusalem, destroyed the Temple, and took away all the treasures of the city and the Temple.
   * **[[:zh:obs:notes:frames:20-07|[20-07]]]** 但是几年以后，犹大国的王反抗巴比伦。于是，巴比伦人回来攻打犹大国。他们夺取了耶路撒冷城，毁坏了圣殿，并掠走了城里和圣殿里所有的财宝。
   * **[[:zh:obs:notes:frames:20-09|[20-09]]]** Nebuchadnezzar and his army took almost all of the people of the kingdom of Judah to **Babylon**, leaving only the poorest people behind to plant the fields.
