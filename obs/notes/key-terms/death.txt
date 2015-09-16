@@ -1,10 +1,12 @@
-====== death 死亡 P ======
+====== death 死亡 F ======
 
 ==== (death, die, dying, dead) ====
 
 死亡、死、將死、死的
 
 ===== Definition: =====
+
+定义：
 
 The term "death" is used in two different ways in the Bible. It sometimes refers to when the physical body of a person ceases to live. It is also used for the spiritual separation of sinners from a holy God.
 
@@ -30,34 +32,34 @@ The term "death" is used in two different ways in the Bible. It sometimes refers
   * Adam died spiritually when he disobeyed God. He became ashamed and tried to hide from God.
   * 亞當背逆神的時侯他在靈性上就死了，他變得羞恥，想要躲避神。
   * Every descendant of Adam is a sinner, and is spiritually dead. God makes us spiritually alive again when we have faith in Jesus Christ.
-  * 每一個亞當的後代都是罪人，<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>在靈性上</font> 都是死的。當我們相信耶穌基督的時侯，神就使我們<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>在靈性上</font> 活過來。
+  * 每一個亞當的後代都是罪人，<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>在靈性上</font>    都是死的。當我們相信耶穌基督的時侯，神就使我們<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>在靈性上</font>    活過來。
 
 "Death" is the opposite of "life". In the Bible, physical life and death are often compared to spiritual life and death.
 
-「死亡」與「生命」是相對的。<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>聖經裏常用</font> 肉身的生與死來與靈性上的生與死作比較。
+「死亡」與「生命」是相對的。<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>聖經裏常用</font>    肉身的生與死來與靈性上的生與死作比較。
 
 [See also: **[[:zh:obs:notes:key-terms:life|life]]**]
 
-同時請看 : 生命
+[参见 : 生命]
 
 ===== Examples from the Bible stories: =====
 
-從聖經故事中的一些例子
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:01-11|[01-11]]]** God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**.
-  * **[[:zh:obs:notes:frames:01-11|[01-11]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 神告訴亞當，除了分別善惡樹以外，他可以在園裡吃任何樹上的果子。如果他吃了這顆樹上的果子，他就會死。
-  * **[[:zh:obs:notes:frames:02-11|[02-11]]] **"Then you will **die**, and your body will return to dirt."
-  * **[[:zh:obs:notes:frames:02-11|[02-11]]] ** 那麼你就會死，你的身體會歸於塵土。
+  * **[[:zh:obs:notes:frames:01-11|[01-11]]]** 神告訴亞當，除了分別善惡樹以外，他可以在園裡吃任何樹上的果子。如果他吃了這顆樹上的果子，他就會死。
+  * **[[:zh:obs:notes:frames:02-11|[02-11]]]**"Then you will **die**, and your body will return to dirt."
+  * **[[:zh:obs:notes:frames:02-11|[02-11]]]** 那麼你就會死，你的身體會歸於塵土。
   * **[[:zh:obs:notes:frames:07-10|[07-10]]]** Then Isaac **died**, and Jacob and Esau buried him.
-  * **[[:zh:obs:notes:frames:07-10|[07-10]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>然後</font> 以撒死了，雅各和以掃把他埋葬了。
-  * **[[:zh:obs:notes:frames:37-05|[37-05]]] **"Jesus replied, "I am the Resurrection and the Life. Whoever believes in me will live, even though he **dies**. Everyone who believes in me will never **die**."
-  * **[[:zh:obs:notes:frames:37-05|[37-05]]] ** 耶穌回答說：“我是復活，我是生命。信我的人即使死了，他也會活。每一個信我的人就永遠<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>不會</font> 死。
+  * **[[:zh:obs:notes:frames:07-10|[07-10]]]** <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>然後</font>    以撒死了，雅各和以掃把他埋葬了。
+  * **[[:zh:obs:notes:frames:37-05|[37-05]]]**"Jesus replied, "I am the Resurrection and the Life. Whoever believes in me will live, even though he **dies**. Everyone who believes in me will never **die**."
+  * **[[:zh:obs:notes:frames:37-05|[37-05]]]** 耶穌回答說：“我是復活，我是生命。信我的人即使死了，他也會活。每一個信我的人就永遠<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>不會</font>    死。
   * **[[:zh:obs:notes:frames:40-08|[40-08]]]** Through his **death**, Jesus opened a way for people to come to God.
-  * **[[:zh:obs:notes:frames:40-08|[40-08]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 藉著他的死，耶穌開了一條<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>讓人來到神那裡</font> 的路。
-  * **[[:zh:obs:notes:frames:43-07|[43-07]]] **"Although Jesus **died**, God raised him from the dead."
-  * **[[:zh:obs:notes:frames:43-07|[43-07]]] ** 雖然耶穌死了， 神使他從死裡復活。
+  * **[[:zh:obs:notes:frames:40-08|[40-08]]]** 藉著他的死，耶穌開了一條<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>讓人來到神那裡</font>    的路。
+  * **[[:zh:obs:notes:frames:43-07|[43-07]]]**"Although Jesus **died**, God raised him from the dead."
+  * **[[:zh:obs:notes:frames:43-07|[43-07]]]** 雖然耶穌死了， 神使他從死裡復活。
   * **[[:zh:obs:notes:frames:48-02|[48-02]]]** Because they sinned, everyone on earth gets sick and everyone **dies**.
-  * **[[:zh:obs:notes:frames:48-02|[48-02]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 因為他們犯了罪，每一個地上的人都會生病，並且每個人都會死。
+  * **[[:zh:obs:notes:frames:48-02|[48-02]]]** 因為他們犯了罪，每一個地上的人都會生病，並且每個人都會死。
   * **[[:zh:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more suffering, sadness, crying, evil, pain, or **death**.
-  * **[[:zh:obs:notes:frames:50-17|[50-17]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 他（耶穌）將擦去每一滴眼淚，再也不會有痛苦，悲傷，哭泣 ，邪惡，疼痛 ，或死亡。
+  * **[[:zh:obs:notes:frames:50-17|[50-17]]]** 他（耶穌）將擦去每一滴眼淚，再也不會有痛苦，悲傷，哭泣 ，邪惡，疼痛 ，或死亡。
 ~~DISCUSSION:off~~
