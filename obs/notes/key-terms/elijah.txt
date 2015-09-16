@@ -1,10 +1,8 @@
-====== Elijah 以利亚 P ======
+====== Elijah 以利亚 F ======
 
-======   ======
+Facts:
 
-===== Facts: =====
-
-事实依据：
+事实：
 
 Elijah was one of the most important prophets of Yahweh. Elijah prophesied when Ahab was the king of the northern kingdom of Israel
 
@@ -24,11 +22,11 @@ Elijah was one of the most important prophets of Yahweh. Elijah prophesied when 
 
 [See also: **[[:zh:obs:notes:key-terms:prophet|prophet]]**, **[[:zh:obs:notes:key-terms:miracle|miracle]]**, **[[:zh:obs:notes:key-terms:ahab|Ahab]]**, **[[:zh:obs:notes:key-terms:baal|Baal]]**, **[[:zh:obs:notes:key-terms:yahweh|Yahweh]]**]
 
-[参考：先知，神迹，亚哈，巴力，雅威]
+[参见：先知，神迹，亚哈，巴力，雅威]
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:19-02|[19-02]]]****Elijah**  was a prophet when Ahab was king over the kingdom of Israel.
   * [19-02] 以利亚在亚哈是以色列国的王时，就是一个先知了。
