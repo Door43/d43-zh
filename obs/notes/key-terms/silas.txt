@@ -1,8 +1,8 @@
-====== Silas 西拉 P ======
+====== Silas 西拉 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Silas was a leader among the believers in Jerusalem.
 
@@ -21,7 +21,7 @@ Silas was a leader among the believers in Jerusalem.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend **Silas**  went to the town of Philippi to proclaim the good news about Jesus.
   * 一天，保罗和他的朋友西拉去了腓立比城，去传关于耶稣的福音。
