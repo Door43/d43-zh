@@ -1,4 +1,4 @@
-====== covenant 约 P ======
+====== covenant 约 F ======
 
 ===== Definition: =====
 
@@ -15,7 +15,7 @@ covenant is a formal, binding agreement between two parties that they must fulfi
   * Examples of covenants include marriage covenants, business agreements, and treaties between countries。
   * 约的例子如婚约，商业协议，国与国之间的条约。
   * On several occasions, God made a covenant with his people.
-  * 神曾经多次和祂的百姓立约。
+  * 神曾经多次和他的百姓立约。
   * In some of the covenants, God promised to fulfill his part without conditions.
   * 在一些约中，神无条件地答应<font 14px line-height: 11.1999998092651px/inherit;;inherit;;inherit>履</font>    成他一方的承诺。
   * In other covenants, God promised to fulfill his part if the people obeyed him and fulfilled their part of the covenant.
@@ -27,7 +27,7 @@ covenant is a formal, binding agreement between two parties that they must fulfi
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:04-09|[04-09]]]** Then God made a **covenant**  with Abram. A **covenant**  is an agreement between two parties.
   * **[[:zh:obs:notes:frames:04-09|[04-09]]]** 神与亚伯兰立约，约是双方之间的协议。
