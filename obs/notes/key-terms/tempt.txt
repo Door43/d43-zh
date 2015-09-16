@@ -1,4 +1,4 @@
-====== tempt 试探 P ======
+====== tempt 试探 F ======
 
 ==== (to tempt, temptation) ====
 
@@ -25,7 +25,7 @@ To tempt someone is to try to get that person to do something wrong.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted**  him to sin.
   * 于是撒旦来到耶稣跟前，试探他要使他犯罪。
