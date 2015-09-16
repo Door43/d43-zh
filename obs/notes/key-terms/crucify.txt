@@ -1,4 +1,4 @@
-====== crucify 钉十字架 P ======
+====== crucify 钉十字架 F ======
 
 ===== Definition: =====
 
@@ -25,7 +25,7 @@ To crucify someone is to tie him or hang him to a cross and leave him there to s
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:39-11|[39-11]]]** But the Jewish leaders and the crowd shouted, "**Crucify**  him (Jesus)!"
   * **[[:zh:obs:notes:frames:39-11|[39-11]]]** 但犹太首领和群众大喊：“把他（耶稣）钉十字架!"
