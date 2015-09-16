@@ -1,8 +1,8 @@
-====== David 大卫 P ======
+====== David 大卫 F ======
 
 ===== Facts: =====
 
-<font inherit/inherit;;inherit;;inherit>事实依据:</font>
+<font inherit/inherit;;inherit;;inherit>事实:</font>
 
 David was the second king of Israel and he served God faithfully.
 
@@ -23,24 +23,24 @@ David was the second king of Israel and he served God faithfully.
 
 [See also: **[[:zh:obs:notes:key-terms:saul|Saul]]**, **[[:zh:obs:notes:key-terms:solomon|Solomon]]**, **[[:zh:obs:notes:key-terms:messiah|Messiah]]**]
 
-请看 :扫罗 ， 所罗门 ， 弥赛亚
+[参见 :扫罗 ， 所罗门 ， 弥赛亚]
 
 ===== Examples from the Bible stories: =====
 
-从圣经故事中的一些例子
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:17-02|[17-02]]]** God chose a young Israelite named **David**  to be king after Saul. **David**  was a shepherd from the town of Bethlehem. … **David**  was a humble and righteous man who trusted and obeyed God.
-  * **[[:zh:obs:notes:frames:17-02|[17-02]]] ** 神拣选了一个年轻的以色列人名叫大卫接续扫罗为王。大卫是伯利恒城的一个牧羊人。… 大卫是一个谦虚，正直的人，他信靠和顺服神。
+  * **[[:zh:obs:notes:frames:17-02|[17-02]]]** 神拣选了一个年轻的以色列人名叫大卫接续扫罗为王。大卫是伯利恒城的一个牧羊人。… 大卫是一个谦虚，正直的人，他信靠和顺服神。
   * **[[:zh:obs:notes:frames:17-03|[17-03]]]****David**  was also a great soldier and leader. When **David**  was still a young man, he fought against a giant named Goliath.
-  * **[[:zh:obs:notes:frames:17-03|[17-03]]] ** 大卫也是一个伟大的战士和领袖。当大卫还是个年轻人，他对抗一个叫歌利亚的巨人。
+  * **[[:zh:obs:notes:frames:17-03|[17-03]]]** 大卫也是一个伟大的战士和领袖。当大卫还是个年轻人，他对抗一个叫歌利亚的巨人。
   * **[[:zh:obs:notes:frames:17-04|[17-04]]]** Saul became jealous of the people's love for **David**. Saul tried many times to kill him, so **David**  hid from Saul.
-  * **[[:zh:obs:notes:frames:17-04|[17-04]]] ** 扫罗嫉妒人们对大卫的爱 。扫罗多次尝试要杀死他，所以大卫就躲避他。
+  * **[[:zh:obs:notes:frames:17-04|[17-04]]]** 扫罗嫉妒人们对大卫的爱 。扫罗多次尝试要杀死他，所以大卫就躲避他。
   * **[[:zh:obs:notes:frames:17-05|[17-05]]]** God blessed **David**  and made him successful. **David**  fought many battles and God helped him defeat Israel's enemies.
-  * **[[:zh:obs:notes:frames:17-05|[17-05]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 神就赐福给大卫，使他成功。大卫身经百战，神帮助他战胜以色列的敌人。
-  * **[[:zh:obs:notes:frames:17-06|[17-06]]] ****David**  wanted to build a temple where all the Israelites could worship God and offer him sacrifices.
-  * **[[:zh:obs:notes:frames:17-06|[17-06]]] ** 大卫想要建造一个殿，成为所有的 以色列人敬拜和献祭给神的地方。
-  * **[[:zh:obs:notes:frames:17-09|[17-09]]] ****David**  ruled with justice and faithfulness for many years, and God blessed him. However, toward the end of his life he sinned terribly agai<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>nst Go</font> d.
-  * **[[:zh:obs:notes:frames:17-09|[17-09]]] ** 大卫以公义和信实统治以色列多年，神也祝福他。然而，当他生命快到尽头的时侯，他犯了严重<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>的罪</font> 得罪神。
+  * **[[:zh:obs:notes:frames:17-05|[17-05]]]** 神就赐福给大卫，使他成功。大卫身经百战，神帮助他战胜以色列的敌人。
+  * **[[:zh:obs:notes:frames:17-06|[17-06]]]****David**  wanted to build a temple where all the Israelites could worship God and offer him sacrifices.
+  * **[[:zh:obs:notes:frames:17-06|[17-06]]]** 大卫想要建造一个殿，成为所有的 以色列人敬拜和献祭给神的地方。
+  * **[[:zh:obs:notes:frames:17-09|[17-09]]]****David**  ruled with justice and faithfulness for many years, and God blessed him. However, toward the end of his life he sinned terribly agai<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>nst Go</font>    d.
+  * **[[:zh:obs:notes:frames:17-09|[17-09]]]** 大卫以公义和信实统治以色列多年，神也祝福他。然而，当他生命快到尽头的时侯，他犯了严重<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>的罪</font>    得罪神。
   * **[[:zh:obs:notes:frames:17-13|[17-13]]]** God was very angry about what **David**  had done, so he sent the prophet Nathan to tell **David**  how evil his sin was. **David**  repented of his sin and God forgave him. For the rest of his life, **David**  followed and obeyed God, even in difficult times.
-  * **[[:zh:obs:notes:frames:17-13|[17-13]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 神对大卫所做的事非常生气，所以他派先知拿单告诉大卫他的罪是多麽邪恶。大卫悔改他的罪，神就赦免了他。对於他的馀生，即使在困难时期，大卫仍然跟随和顺服神。
+  * **[[:zh:obs:notes:frames:17-13|[17-13]]]** 神对大卫所做的事非常生气，所以他派先知拿单告诉大卫他的罪是多麽邪恶。大卫悔改他的罪，神就赦免了他。对於他的馀生，即使在困难时期，大卫仍然跟随和顺服神。
 ~~DISCUSSION:off~~
