@@ -1,4 +1,4 @@
-====== angel 天使 P  ======
+====== angel 天使 F ======
 
 ===== Definition: =====
 
@@ -25,11 +25,11 @@ The opposite of "angel" is a "demon."
 
 [See also: **[[:zh:obs:notes:key-terms:demon|demon]]**]
 
-[参考：恶魔]
+[参见：恶魔]
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:key-terms:02-12|[02-12]]]** God placed large, powerful **angels**  at the entrance to the garden to keep anyone from eating the fruit of the tree of life.
   * [02-12]神安排高大强壮的天使们，把守着园子的入口，防止任何人吃生命树上的果子。
