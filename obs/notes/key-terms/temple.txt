@@ -1,8 +1,8 @@
-====== Temple 圣殿 P ======
+====== Temple 圣殿 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 The Temple was a building where the Israelites offered sacrifices to God.
 
@@ -23,7 +23,7 @@ The Temple was a building where the Israelites offered sacrifices to God.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:key-terms:17-06|[17-06]]]** David wanted to build a **temple**  where all the Israelites could worship God and offer him sacrifices.
   * 大卫想要建造一座圣殿，在那里所有的以色列人都可以敬拜神，并献祭给他。
