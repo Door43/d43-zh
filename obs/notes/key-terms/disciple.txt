@@ -1,4 +1,4 @@
-====== disciple 門徒 P ======
+====== disciple 門徒 F ======
 
 ===== Definition: =====
 
@@ -21,18 +21,18 @@ A disciple is a student who follows and learns from a teacher.
 
 [See also: **[[:zh:obs:notes:key-terms:apostle|apostle]]**, **[[:zh:obs:notes:key-terms:believer|believer]]**, **[[:zh:obs:notes:key-terms:jesus|Jesus]]**]
 
-另請參見： 使徒 ， 信徒 ， 耶穌
+[參見： 使徒 ， 信徒 ， 耶穌]
 
 ===== Examples from the Bible stories: =====
 
-聖經故事中的例子
+聖經故事中的例子：
 
   * **[[:zh:obs:notes:frames:30-08|[30-08]]]** He (Jesus) gave the pieces to his **disciples**  to give to the people. The **disciples**  kept passing out the food, and it never ran out!
-  * **[[:zh:obs:notes:frames:30-08|[30-08]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 他（耶穌）把零碎給他的門徒去分給其他的人。門徒們不斷的把食物傳遞出去，食物永遠不會用盡！
+  * **[[:zh:obs:notes:frames:30-08|[30-08]]]** 他（耶穌）把零碎給他的門徒去分給其他的人。門徒們不斷的把食物傳遞出去，食物永遠不會用盡！
   * **[[:zh:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his **disciples**  that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
-  * **[[:zh:obs:notes:frames:38-01|[38-01]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 約在耶穌首次公開傳道和教導的三年後，耶穌告訴他的門徒，他想與他們在耶路撒冷慶祝逾越節，並且他將在那裡被殺害。
+  * **[[:zh:obs:notes:frames:38-01|[38-01]]]** 約在耶穌首次公開傳道和教導的三年後，耶穌告訴他的門徒，他想與他們在耶路撒冷慶祝逾越節，並且他將在那裡被殺害。
   * **[[:zh:obs:notes:frames:38-11|[38-11]]]** Then Jesus went with his **disciples**  to a place called Gethsemane. Jesus told his **disciples**  to pray that they would not enter into temptation.
-  * **[[:zh:obs:notes:frames:38-11|[38-11]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 於是耶穌與他的門徒去到一個叫客西馬尼的地方。 耶穌告訴他的門徒們要禱告，免得進入誘惑。
+  * **[[:zh:obs:notes:frames:38-11|[38-11]]]** 於是耶穌與他的門徒去到一個叫客西馬尼的地方。 耶穌告訴他的門徒們要禱告，免得進入誘惑。
   * **[[:zh:obs:notes:frames:42-10|[42-10]]]** Jesus said to his **disciples**, "All authority in heaven and on earth has been given to me. So go, make **disciples**  of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you."
-  * **[[:zh:obs:notes:frames:42-10|[42-10]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 耶穌對他的門徒說 ：“天上地下所有的權柄都賜給我了。所以你們要去使萬民作我的門徒，奉父、子、聖靈的名替他們施洗，一切我所吩咐你們的都要教導他們遵守。“
+  * **[[:zh:obs:notes:frames:42-10|[42-10]]]** 耶穌對他的門徒說 ：“天上地下所有的權柄都賜給我了。所以你們要去使萬民作我的門徒，奉父、子、聖靈的名替他們施洗，一切我所吩咐你們的都要教導他們遵守。“
 ~~DISCUSSION:off~~
