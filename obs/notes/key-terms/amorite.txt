@@ -1,8 +1,8 @@
-====== Amorite 亚摩利人 P ======
+====== Amorite 亚摩利人 F ======
 
 ===== Facts: =====
 
-事实（考古）依据：
+事实：
 
 The Amorites were a group of people living in Canaan in the time of Joshua.
 
@@ -15,7 +15,7 @@ The Amorites were a group of people living in Canaan in the time of Joshua.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:key-terms:15-07|[15-07]]]** Sometime later, the kings of another people group in Canaan, the **Amorites**, heard that the Gibeonites had made a peace treaty with the Israelites, so they combined their armies into one large army and attacked Gibeon.
   * [15-07]一段时间以后，在迦南的另一部落的众王，就是亚摩利人，听说基遍人和以色列人订立了一条和解条约，于是众王把他们的军队合并成一支庞大的军队，攻打基遍。
