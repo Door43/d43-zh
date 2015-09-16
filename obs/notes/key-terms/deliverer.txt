@@ -1,6 +1,8 @@
-====== deliverer 拯救者 P ======
+====== deliverer 拯救者 F ======
 
 ===== Definition: =====
+
+定义：
 
 A deliverer is someone who rescues people or sets people free.
 
@@ -15,7 +17,7 @@ A deliverer is someone who rescues people or sets people free.
 
 ===== Examples from the Bible stories: =====
 
-<font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>圣经故事中的例子：</font>
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:16-03|[16-03]]]** Then God provided a **deliverer**  who rescued them from their enemies and brought peace to the land.
   * **[[:zh:obs:notes:frames:16-03|[16-03]]]** <font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>於是</font> 神提供他們一個拯救者，從<font 14px line-height: 19.6000003814697px;/ ;;rgb(51, 51, 51) font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>敵人的手把他們</font> 救出來，並把和平帶到那地。
