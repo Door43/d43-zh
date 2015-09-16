@@ -1,4 +1,4 @@
-====== Sinai 西乃 P ======
+====== Sinai 西乃 F ======
 
 ==== (Sinai, Mount Sinai) ====
 
@@ -6,7 +6,7 @@
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Sinai is the name of a mountain that was probably located in the southern part of what is now called the Sinai Peninsula.
 
@@ -25,7 +25,7 @@ Sinai is the name of a mountain that was probably located in the southern part o
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:13-01|[13-01]]]** After God led the Israelites through the Red Sea, he led them through the wilderness to a mountain called **Sinai**.
   * 神带领以色列人过红海后，他带他们经过旷<font inherit/inherit;;inherit;;inherit>野</font>    到了<font inherit/inherit;;inherit;;inherit>一座名</font>    西乃的山。
