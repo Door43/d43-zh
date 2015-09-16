@@ -1,4 +1,4 @@
-====== Canaan 迦南 P ======
+====== Canaan 迦南 F ======
 
 ==== (Canaan, Promised Land) ====
 
@@ -6,7 +6,7 @@
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 This was the name of the land in the Middle East from the valley of the Jordan River to the Mediterranean Sea.
 
@@ -23,7 +23,7 @@ This was the name of the land in the Middle East from the valley of the Jordan R
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里例证：
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:04-05|[04-05]]]** He (Abram) took his wife, Sarai, together with all his servants and everything he owned and went to the land God showed him, the land of **Canaan**.
   * [04-05]他（亚伯兰）带着他的妻子撒莱，和所有他的仆人以及一切他所拥有的，一起去了神指示他的地方，就是迦南地。
