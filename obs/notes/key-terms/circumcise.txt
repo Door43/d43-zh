@@ -1,8 +1,8 @@
-====== circumcise 行割礼 P ======
+====== circumcise 行割礼 F ======
 
 ===== Definition: =====
 
-定义
+定义：
 
 To circumcise someone is to cut off the foreskin of that man or male child.
 
@@ -15,7 +15,7 @@ To circumcise someone is to cut off the foreskin of that man or male child.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证:
+<font 14px line-height: 19.6px;/inherit;;inherit;;inherit>圣经故事中的例子：</font>
 
   * **[[:zh:obs:notes:frames:05-03|[05-03]]]**"You must **circumcise**  every male in your family."
   * **[[:zh:obs:notes:frames:05-03|[05-03]]]『** 你必须为家中每一个男性行割礼。』
