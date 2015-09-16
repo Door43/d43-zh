@@ -1,4 +1,4 @@
-====== tax collector 税吏 P ======
+====== tax collector 税吏 F ======
 
 ===== Definition: =====
 
@@ -21,7 +21,7 @@ The job of tax collectors was to receive the money that people owed the governme
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:34-06|[34-06]]]** He said, "Two men went to the Temple to pray. One of them was a **tax collector**, and the other was a religious leader."
   * 他说，“有两个人到圣殿去祷告。其中的一个是税吏，而另一个是宗教首领。”
@@ -30,7 +30,7 @@ The job of tax collectors was to receive the money that people owed the governme
   * **[[:zh:obs:notes:frames:34-09|[34-09]]]**"But the **tax collector**  stood far away from the religious ruler, did not even look up to heaven. Instead, he pounded on his chest and prayed, 'God, please be merciful to me because I am a sinner.“
   * “但是那税吏离宗教首领远远地站着，他甚至都不敢举目望天。相反，他捶着胸，祷告说：”神啊，请怜悯我，因为我是个罪人。“
   * **[[:zh:obs:notes:frames:34-10|[34-10]]]** Then Jesus said, "I tell you the truth, God heard the **tax collector's**  prayer and declared him to be righteous."
-  * 于是耶稣说，”我实在地告诉你，神听到了这个税吏的祷告，要宣告他是义的。“
+  * 于是耶稣说，“我实在地告诉你，神听到了这个税吏的祷告，要宣告他是义的。”
   * **[[:zh:obs:notes:frames:35-01|[35-01]]]** One day, Jesus was teaching many **tax collectors**  and other sinners who had gathered to hear him.
   * 一天，耶稣正在教训很多聚集来听他讲道的税吏和其他的罪人。
 ~~DISCUSSION:off~~
