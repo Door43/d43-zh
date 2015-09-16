@@ -1,4 +1,4 @@
-====== disobey 違抗 P ======
+====== disobey 違抗 F ======
 
 ===== Definition: =====
 
@@ -21,7 +21,7 @@ The term "disobey" means to not obey what someone in authority has commanded or 
 
 [See also: **[[:zh-tw:obs:notes:key-terms:evil|evil]]**, **[[:zh-tw:obs:notes:key-terms:sin|sin]]**, **[[:zh-tw:obs:notes:key-terms:obey|obey]]**]
 
-另請參見 ：邪惡，罪/罪行，順服
+[參見 ：邪惡，罪/罪行，順服]
 
 ===== Bible References: =====
 
@@ -34,11 +34,11 @@ The term "disobey" means to not obey what someone in authority has commanded or 
 聖經故事中的例子：
 
   * **[[:zh:obs:notes:frames:02-11|[02-11]]]** God said to the man, "You listened to your wife and **disobeyed**  me."
-  * **[[:zh:obs:notes:frames:02-11|[02-11]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 神對那人說：“你聽了你妻子的話，並且違抗我。 "
+  * **[[:zh:obs:notes:frames:02-11|[02-11]]]** 神對那人說：“你聽了你妻子的話，並且違抗我。 "
   * **[[:zh:obs:notes:frames:13-07|[13-07]]]** If the people obeyed these laws, God promised that he would bless and protect them. If they **disobeyed**  them, God would punish them.
-  * **[[:zh:obs:notes:frames:13-07|[13-07]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 如果人們聽從律法，神應許他會祝福並保護他們。如果他們違抗律法，神就會懲罰他們。
+  * **[[:zh:obs:notes:frames:13-07|[13-07]]]** 如果人們聽從律法，神應許他會祝福並保護他們。如果他們違抗律法，神就會懲罰他們。
   * **[[:zh:obs:notes:frames:16-02|[16-02]]]** Because the Israelites kept **disobeying**  God, he punished them by allowing their enemies to defeat them.
-  * **[[:zh:obs:notes:frames:16-02|[16-02]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 因為以色列人不斷的違抗神，神就懲罰他們，允許他們的敵人打敗他們。
-  * **[[:zh:obs:notes:frames:35-12|[35-12]]] **"The older son said to his father, 'All these years I have worked faithfully for you! I never **disobeyed**  you, and still you did not give me one small goat so I could celebrate with my friends.'"
-  * **[[:zh:obs:notes:frames:35-12|[35-12]]] **“ 大兒子對他的父親說：”這些年來我為您忠心的工作！我從來沒有違抗你，但是你仍然沒有給我一隻小山羊，使我可以和我的朋友一同慶祝。'“
+  * **[[:zh:obs:notes:frames:16-02|[16-02]]]** 因為以色列人不斷的違抗神，神就懲罰他們，允許他們的敵人打敗他們。
+  * **[[:zh:obs:notes:frames:35-12|[35-12]]]**"The older son said to his father, 'All these years I have worked faithfully for you! I never **disobeyed**  you, and still you did not give me one small goat so I could celebrate with my friends.'"
+  * **[[:zh:obs:notes:frames:35-12|[35-12]]]**“ 大兒子對他的父親說：”這些年來我為您忠心的工作！我從來沒有違抗你，但是你仍然沒有給我一隻小山羊，使我可以和我的朋友一同慶祝。'“
 ~~DISCUSSION~~
