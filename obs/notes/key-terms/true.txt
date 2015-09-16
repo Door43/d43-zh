@@ -1,4 +1,4 @@
-====== truth 真理 P ======
+====== truth 真理 F ======
 
 <font inherit/inherit;;inherit;;inherit>(truth, true, truly)</font>
 
@@ -23,10 +23,10 @@ Something that is "true" matches or conforms to how things really are. "True" th
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:02-04|[02-04]]]** The snake responded to the woman, "That is not **true**! You will not die."
-  * 那蛇回答女人说：”这不是真的！你不会死。”
+  * 那蛇回答女人说：“这不是真的！你不会死。”
   * **[[:zh:obs:notes:frames:14-06|[14-06]]]** Immediately Caleb and Joshua, the other two spies, said, "It is **true **  that the people of Canaan are tall and strong, but we can certainly defeat them!"
   * 迦勒和约书亚，其余的两个探子马上说：“迦南人很高大强壮是真的，但我们一定能打败他们！”
   * **[[:zh:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of Yahweh, the **true **  God.
