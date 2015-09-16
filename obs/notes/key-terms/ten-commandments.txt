@@ -1,8 +1,8 @@
-====== Ten Commandments 十诫 P ======
+====== Ten Commandments 十诫 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 God told Moses many commands that He wanted the Israelites to obey. He wrote ten of these commands on two slabs of stone.
 
@@ -19,7 +19,7 @@ God told Moses many commands that He wanted the Israelites to obey. He wrote ten
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:13-07|[13-07]]]** Then God wrote these **Ten Commandments**  on two stone tablets and gave them to Moses.
   * 神把十诫写在两块石板上，交给了摩西。
