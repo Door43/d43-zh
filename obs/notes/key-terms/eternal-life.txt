@@ -1,6 +1,8 @@
-====== eternal life 永生 P ======
+====== eternal life 永生 F ======
 
-===== Definition: 定义： =====
+===== Definition: =====
+
+===== 定义： =====
 
 "Eternal" refers to something that never ends. "Eternal life" is used in the Bible to refer to living forever with God.
 
@@ -13,11 +15,13 @@
   * Sometimes this is translated as, "everlasting life" or, "living forever."
   * 有时这又被翻译成，“永恒的生命” 或 “永远活着”。
 
-[See also: **[[:zh:obs:notes:key-terms:life|life]]**, **[[:zh:obs:notes:key-terms:save|save]]**, **[[:zh:obs:notes:key-terms:sin|sin]]**, **[[:zh:obs:notes:key-terms:death|death]]**] [参见：生命，拯救/救赎，罪，死亡]
+[See also: **[[:zh:obs:notes:key-terms:life|life]]**, **[[:zh:obs:notes:key-terms:save|save]]**, **[[:zh:obs:notes:key-terms:sin|sin]]**, **[[:zh:obs:notes:key-terms:death|death]]**]
+
+[参见：生命，拯救/救赎，罪，死亡]
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证；
+圣经故事中的例子：
 
   * **[[:zh:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit **eternal life**?"
   * 一天，一个犹太的律法师来到耶稣面前试探他，说：“老师，我必须怎样做才能得到永生呢？”
