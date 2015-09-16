@@ -1,4 +1,4 @@
-====== descendant 後裔 P ======
+====== descendant 後裔 F ======
 
 ===== Definition: =====
 
@@ -17,20 +17,20 @@ A descendant is someone who is a direct blood relative of someone else further b
 
 ===== Examples from the Bible stories: =====
 
-聖經故事中的例子
+聖經故事中的例子：
 
   * **[[:zh:obs:notes:frames:02-09|[02-09]]] **"The woman's **descendant**  will crush your head, and you will wound his heel."
-  * **[[:zh:obs:notes:frames:02-09|[02-09]]] **“女人的後裔要傷你的頭，你要傷他的腳跟。”
-  * **[[:zh:obs:notes:frames:04-09|[04-09]]] **"I give the land of Canaan to your **descendants**."
-  * **[[:zh:obs:notes:frames:04-09|[04-09]]] **“我要把迦南地賜給你的後裔。”
-  * **[[:zh:obs:notes:frames:05-10|[05-10]]] **"Your **descendants**  will be more than the stars in the sky."
-  * **[[:zh:obs:notes:frames:05-10|[05-10]]] **“ 你的後裔將比天上的星還多。”
-  * **[[:zh:obs:notes:frames:17-07|[17-07]]] **"Someone from your family will always rule as king over Israel, and the Messiah will be one of your **descendants**!"
-  * **[[:zh:obs:notes:frames:17-07|[17-07]]] **“ 從你的家中將不斷有人作王統治以色列，<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>彌賽亞將是</font> 你的後裔之一！”
+  * **[[:zh:obs:notes:frames:02-09|[02-09]]]**“女人的後裔要傷你的頭，你要傷他的腳跟。”
+  * **[[:zh:obs:notes:frames:04-09|[04-09]]]**"I give the land of Canaan to your **descendants**."
+  * **[[:zh:obs:notes:frames:04-09|[04-09]]]**“我要把迦南地賜給你的後裔。”
+  * **[[:zh:obs:notes:frames:05-10|[05-10]]]**"Your **descendants**  will be more than the stars in the sky."
+  * **[[:zh:obs:notes:frames:05-10|[05-10]]]**“ 你的後裔將比天上的星還多。”
+  * **[[:zh:obs:notes:frames:17-07|[17-07]]]**"Someone from your family will always rule as king over Israel, and the Messiah will be one of your **descendants**!"
+  * **[[:zh:obs:notes:frames:17-07|[17-07]]]**“ 從你的家中將不斷有人作王統治以色列，<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>彌賽亞將是</font>    你的後裔之一！”
   * **[[:zh:obs:notes:frames:18-13|[18-13]]]** The kings of Judah were **descendants**  of David.
-  * **[[:zh:obs:notes:frames:18-13|[18-13]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 猶大的君王們都是大衛的後裔。
+  * **[[:zh:obs:notes:frames:18-13|[18-13]]]** 猶大的君王們都是大衛的後裔。
   * **[[:zh:obs:notes:frames:21-04|[21-04]]]** God promised King David that the Messiah would be one of David's own **descendants**.
-  * **[[:zh:obs:notes:frames:21-04|[21-04]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 神應許大衛王，彌賽亞將是大衛自己的後裔之一。
+  * **[[:zh:obs:notes:frames:21-04|[21-04]]]** 神應許大衛王，彌賽亞將是大衛自己的後裔之一。
   * **[[:zh:obs:notes:frames:48-13|[48-13]]]** God promised David that the Messiah would be one of his **descendants**. Jesus, the Messiah, was that special **descendant**  of David.
-  * **[[:zh:obs:notes:frames:48-13|[48-13]]]** <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> 神應許大衛，彌賽亞將是他的後裔之一。耶穌，那彌賽亞，就是大衛的這一位特殊的後裔。
+  * **[[:zh:obs:notes:frames:48-13|[48-13]]]** 神應許大衛，彌賽亞將是他的後裔之一。耶穌，那彌賽亞，就是大衛的這一位特殊的後裔。
 ~~DISCUSSION:off~~
