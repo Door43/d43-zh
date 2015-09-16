@@ -1,4 +1,4 @@
-====== suffer 受苦 P ======
+====== suffer 受苦 F ======
 
 ==== (to suffer, suffering) ====
 
@@ -21,10 +21,10 @@ To suffer is to experience something very unpleasant, such as illness, pain, or 
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>圣经故事中的例子</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>：</font>
 
   * **[[:zh:obs:notes:frames:09-13|[09-13]]]** God said, "I have seen the **suffering**  of my people."
-  * 神说，“我已经看见了我百姓的苦难”。
+  * 神说，“我已经看见了我百姓的苦难。”
   * **[[:zh:obs:notes:frames:38-12|[38-12]]]** Jesus prayed three times, "My Father, if it is possible, please let me not have to drink this cup of **suffering**."
   * 耶稣祈求了三次，“我的父啊，如果可能，请让我不要喝这苦杯。”
   * **[[:zh:obs:notes:frames:42-03|[42-03]]]** He (Jesus) reminded them that the prophets said the Messiah would **suffer**  and be killed, but would rise again on the third day.
