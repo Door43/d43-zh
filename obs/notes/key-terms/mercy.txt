@@ -1,4 +1,4 @@
-====== mercy 怜悯/怜恤/慈爱 P ======
+====== mercy 怜悯/怜恤/慈爱 F ======
 
 ==== (mercy, merciful) ====
 
@@ -23,7 +23,7 @@ Mercy is coming to the aid of those in need, especially when they are in a lowly
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:key-terms:19-16|[19-16]]]** They (the prophets) all told the people to stop worshiping idols and to start showing justice and **mercy**  to others.
   * 他们 （先知们）全都告诉人们不要拜偶像了，要对他人显出公义和慈爱。
