@@ -1,4 +1,4 @@
-====== king 王 P ======
+====== king 王 F ======
 
 ===== Definition: =====
 
@@ -21,7 +21,7 @@ A king is the ruler of an independent city, state, or country.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:08-06|[08-06]]]** One night, the Pharaoh, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
   * 一天晚上，法老（即埃及人对他们的王的称谓）做了两个梦，使他大大不安。
