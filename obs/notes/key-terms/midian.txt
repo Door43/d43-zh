@@ -1,4 +1,4 @@
-====== Midian 米甸 P ======
+====== Midian 米甸 F ======
 
 ==== (Midian, Midianites) ====
 
@@ -6,7 +6,7 @@
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Midian was a people group located in the northern Arabian Desert to the south of the land of Canaan. The people of that group were called "Midianites."
 
@@ -23,7 +23,7 @@ Midian was a people group located in the northern Arabian Desert to the south of
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:16-03|[16-03]]]** But then the people forgot about God and started worshiping idols again. So God allowed the **Midianites**, a nearby enemy people group, to defeat them.
   * 但是后来百姓忘记了神，开始又去拜偶像。于是，神允许米甸人，就是附近的一个敌对部落，去打败他们（以色列人）。
