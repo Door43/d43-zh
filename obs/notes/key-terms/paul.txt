@@ -1,4 +1,4 @@
-====== Paul 保罗 P ======
+====== Paul 保罗 F ======
 
 ==== (Paul, Saul) ====
 
@@ -6,14 +6,14 @@
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Paul was a leader of the early church who was sent by Jesus to take the good news to many other people groups.
 
 保罗是耶稣差遣去向很多其它族群传福音的早期教会的一个领袖。
 
   * Paul was a Jew who was born in the Roman city of Tarsus, and was therefore also a Roman citizen.
-  * 保罗是个犹太人，出生在<font inherit/inherit;;inherit;;#FFD700>罗马帝国</font> 的一个名叫大数的城市，因此，他也是一个罗马公民。
+  * 保罗是个犹太人，出生在<font inherit/inherit;;inherit;;#FFD700>罗马帝国</font>    的一个名叫大数的城市，因此，他也是一个罗马公民。
   * Paul was originally called by his Jewish name, Saul.
   * 保罗原先的犹太名字叫扫罗。
   * Saul became a Jewish religious leader and arrested Jews who became Christians because he did not believe in Jesus.
@@ -23,7 +23,7 @@ Paul was a leader of the early church who was sent by Jesus to take the good new
   * At first, Saul taught Jews about Jesus.
   * 起初，扫罗教导犹太人关于耶稣的事。
   * Later, God sent Saul to teach other people groups about Jesus in many Roman cities. Then he started using the Roman name, Paul.
-  * 后来，神差遣扫罗到<font inherit/inherit;;inherit;;#FFFF00>罗马帝国的</font> 很多城市，向其他的族群传讲耶稣。于是，他开始用他的罗马名字：保罗。
+  * 后来，神差遣扫罗到<font inherit/inherit;;inherit;;#FFFF00>罗马帝国的</font>    很多城市，向其他的族群传讲耶稣。于是，他开始用他的罗马名字：保罗。
   * Paul also wrote letters to encourage and teach Christians in various cities. Some of his letters are in the Bible.
   * 保罗也写信来鼓励和教导各地的基督徒。他的一些信被收录在圣经里。
 
@@ -33,7 +33,7 @@ Paul was a leader of the early church who was sent by Jesus to take the good new
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:45-06|[45-06]]]** A young man named **Saul**  agreed with the people who killed Stephen and guarded their robes while they threw stones at him.
   * 一个叫扫罗的年轻人赞同杀害司提反的那些人，并在他们向司提反扔石头时，看守着他们的袍子。
