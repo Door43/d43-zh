@@ -1,4 +1,4 @@
-====== preach 传道 P ======
+====== preach 传道 F ======
 
 ===== Definition: =====
 
@@ -21,7 +21,7 @@ To speak to a group of people, teaching them about God and urging them to obey h
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:24-02|[24-02]]]** He (John) **preached**  to them, saying, "Repent, for the Kingdom of God is near!"
   * 他（约翰）向他们传道，说，“神的国近了，你们应当悔改。”
