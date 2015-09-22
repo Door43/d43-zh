@@ -1,4 +1,4 @@
-====== punish 惩罚 P ======
+====== punish 惩罚 F ======
 
 ==== (to punish, punishment) ====
 
@@ -21,7 +21,7 @@ To punish someone is to cause that person to suffer a negative consequence for d
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:13-07|[13-07]]]** God also gave many other laws and rules to follow. If the people obeyed these laws, God promised that he would bless and protect them. If they disobeyed them, God would **punish**  them.
   * 神还给了很多其它要遵行的律法和规条。如果百姓遵行了这些律法，神应许说，他将会赐福并保护他们。如果百姓违背了这些律法，他就要惩罚他们。
