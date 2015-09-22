@@ -2,7 +2,7 @@
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Mary was the mother of Jesus and the wife of Joseph.
 
@@ -21,7 +21,7 @@ Mary was the mother of Jesus and the wife of Joseph.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:22-04|[22-04]]]** When Elizabeth was six months pregnant, the same angel appeared to Elizabeth's relative, whose name was **Mary**. She was a virgin and was engaged to be married to a man named Joseph. The angel said, "You will become pregnant and give birth to a son. You are to name him Jesus and he will be the Messiah."
   * 当伊利沙伯怀孕六个月时，同一位天使向伊利沙伯的的一位亲戚显现，这亲戚名叫马利亚。她是个处女，已经和一个名叫约瑟的男人订了婚。天使说：“你要怀孕生子。你要给这孩子取名叫耶稣，他将是那位弥赛亚。”
@@ -32,7 +32,7 @@ Mary was the mother of Jesus and the wife of Joseph.
   * **[[:zh:obs:notes:frames:23-02|[23-02]]]** The angel said, "Joseph, do not be afraid to take **Mary**  as your wife. The baby in her body is from the Holy Spirit."
   * 天使说：“约瑟，不要怕，娶马利亚为你的妻。她身体里的孩子是从圣灵来的。”
   * **[[:zh:obs:notes:frames:23-04|[23-04]]]** Joseph and **Mary**  had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem.
-  * 约瑟和马利亚从他们居住的拿撒勒，长途跋涉来到了伯利恒，因为<font inherit/inherit;;inherit;;inherit>伯利恒是</font> 他们的祖先大卫的家乡。
+  * 约瑟和马利亚从他们居住的拿撒勒，长途跋涉来到了伯利恒，因为<font inherit/inherit;;inherit;;inherit>伯利恒是</font>    他们的祖先大卫的家乡。
   * **[[:zh:obs:notes:frames:49-01|[49-01]]]** An angel told a virgin named **Mary**  that she would give birth to God's Son. So while she was still a virgin, she gave birth to a son and named him Jesus.
   * 一位天使告诉一个名叫马利亚的处女，她将生下神的儿子。所以在她还是个处女时，生了一个儿子，取名耶稣。
 ~~DISCUSSION:off~~
