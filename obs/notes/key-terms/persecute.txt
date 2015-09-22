@@ -1,4 +1,4 @@
-====== persecute 逼迫/ 迫害 P ======
+====== persecute 逼迫/ 迫害 F ======
 
 ==== (to persecute, persecution) ====
 
@@ -27,7 +27,7 @@ To persecute someone is to repeatedly attack him or to treat him cruelly.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:33-07|[33-07]]]**"The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or **persecution**, he falls away."
   * “那石头地就像是人听了神的道，高兴地领受了。但是当他遇到了患难或逼迫，他就跌倒了。”
