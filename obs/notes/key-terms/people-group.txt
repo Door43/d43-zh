@@ -1,4 +1,4 @@
-====== people group 族群 P ======
+====== people group 族群 F ======
 
 ==== (people group, nation, a people) ====
 
@@ -21,7 +21,7 @@ A people group is a group of people who have a common ancestry, culture, or lang
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里的一些例子：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:14-02|[14-02]]]** God had promised Abraham, Isaac, and Jacob that he would give the Promised Land to their descendants, but now there were many **people groups**  living there.
   * 神曾应许亚伯拉罕，以撒和雅各：神会把应许之地赐给他们的后裔，但是现在有许多族群住在那里。
