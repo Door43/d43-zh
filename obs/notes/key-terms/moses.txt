@@ -1,8 +1,8 @@
-====== Moses 摩西 P ======
+====== Moses 摩西 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Moses was a prophet and leader of the Israelite people for over 40 years.
 
@@ -11,7 +11,7 @@ Moses was a prophet and leader of the Israelite people for over 40 years.
   * God chose Moses to free the Israelites from slavery in Egypt and lead them to the Promised Land.
   * 神拣选了摩西把以色列人从埃及的奴役中拯救出来，并带领他们到应许之地。
   * God gave Moses the stone tablets with his commandments for the Israelite people.
-  * 神把<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>石板给了摩西，上面写</font> 着神给以色列人的诫命。
+  * 神把<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>石板给了摩西，上面写</font>    着神给以色列人的诫命。
   * Near the end of his life, Moses disobeyed God so he didn't get to live in the Promised Land of Canaan.
   * 在摩西晚年，他没有顺服神，所以他不能住在迦南就是应许之地。
 
@@ -21,7 +21,7 @@ Moses was a prophet and leader of the Israelite people for over 40 years.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:09-12|[09-12]]]** One day while **Moses**  was taking care of his sheep, he saw a bush that was on fire.
   * 有一天，正当摩西在牧养着他的羊群时，他看见荆棘被火烧着。
