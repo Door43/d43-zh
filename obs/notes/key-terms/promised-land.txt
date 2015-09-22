@@ -1,4 +1,4 @@
-====== Promised Land 应许之地 P ======
+====== Promised Land 应许之地 F ======
 
 ==== (Promised Land, Canaan) ====
 
@@ -6,7 +6,7 @@
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 This was the land that God had promised to give to Abraham and his descendants.
 
@@ -25,7 +25,7 @@ This was the land that God had promised to give to Abraham and his descendants.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:12-01|[12-01]]]** They (Israelites) were no longer slaves, and they were going to the **Promised Land**!
   * 他们（以色列人）不再是奴隶了，并且他们将前往应许之地！
