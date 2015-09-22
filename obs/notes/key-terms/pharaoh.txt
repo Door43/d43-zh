@@ -1,8 +1,8 @@
-====== Pharaoh 法老 P ======
+====== Pharaoh 法老 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 In ancient times, the kings who ruled over the country of Egypt were called pharaohs.
 
@@ -21,7 +21,7 @@ In ancient times, the kings who ruled over the country of Egypt were called phar
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:08-06|[08-06]]]** One night, the **Pharaoh**, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
   * 一天晚上，埃及人称作法老的埃及国王做了两个梦，使他很困扰。
