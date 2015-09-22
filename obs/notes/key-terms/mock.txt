@@ -1,4 +1,4 @@
-====== mock 戏弄/讥诮/嘲笑 P ======
+====== mock 戏弄/讥诮/嘲笑 F ======
 
 ===== Definition: =====
 
@@ -17,7 +17,7 @@ To deride or make fun of someone, especially in a cruel way.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:21-12|[21-12]]]** Isaiah prophesied that people would spit on, **mock**, and beat the Messiah.
   * 以赛亚曾预言，人们将会吐口水、戏弄并殴打弥赛亚。
