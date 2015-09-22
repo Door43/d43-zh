@@ -1,4 +1,4 @@
-====== kingdom 王国/国度 P ======
+====== kingdom 王国/国度 F ======
 
 ===== Definition: =====
 
@@ -23,7 +23,7 @@ A kingdom is a group of people ruled by a king.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:13-02|[13-02]]]** God said to Moses and the people of Israel, "If you will obey me and keep my covenant, you will be my prized possession, a **kingdom**  of priests, and a holy nation."
   * 神对摩西和以色列人说：“如果你们顺服我，并遵守我的约，你们将是我的珍贵产业、一个祭司的国度、圣洁的国民。”
