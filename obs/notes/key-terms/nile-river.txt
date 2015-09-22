@@ -1,8 +1,8 @@
-====== Nile River 尼罗河 P ======
+====== Nile River 尼罗河 F ======
 
 ===== Facts: =====
 
-事迹：
+事實：
 
 The Nile is a very big river in northeastern Africa.
 
@@ -17,7 +17,7 @@ The Nile is a very big river in northeastern Africa.
 
 [Also see: **[[:zh:obs:notes:key-terms:egypt|Egypt]]**]
 
-另请参见：埃及
+参见：埃及
 
 ===== Examples from the Bible stories: =====
 
