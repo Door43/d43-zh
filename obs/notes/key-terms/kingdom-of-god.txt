@@ -1,4 +1,4 @@
-====== kingdom of God 神的国 P ======
+====== kingdom of God 神的国 F ======
 
 ===== Definition: =====
 
@@ -27,7 +27,7 @@ The kingdom of God refers to God's rule and authority over his people. It can al
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:24-02|[24-02]]]** He (John) preached to them, saying, "Repent, for the **kingdom of God**  is near!"
   * 他（约翰）向他们传道，说：“悔改吧，因为神的国近了！”
