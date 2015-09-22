@@ -1,8 +1,8 @@
-====== Nebuchadnezzar 尼布甲尼撒 P ======
+====== Nebuchadnezzar 尼布甲尼撒 F ======
 
 ===== Facts: =====
 
-事迹：
+事實：
 
 Nebuchadnezzar was a king of the Babylonian Empire. This was a powerful empire during the time of the kingdom of Israel and the kingdom of Judah.
 
@@ -15,7 +15,7 @@ Nebuchadnezzar was a king of the Babylonian Empire. This was a powerful empire d
 
 [See also: **[[:zh:obs:notes:key-terms:babylon|Babylon]]**, **[[:zh:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**]
 
-另请参见：巴比伦，犹大国
+参见：巴比伦，犹大国
 
 ===== Examples from the Bible stories: =====
 
