@@ -1,4 +1,4 @@
-====== peace 和平/平安 P ======
+====== peace 和平/平安 F ======
 
 ==== (peace, peaceful) ====
 
@@ -23,7 +23,7 @@ Peace is the absence of any conflict, fear, or intimidation.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:15-06|[15-06]]]** God had commanded the Israelites not to make a **peace**  treaty with any of the people groups in Canaan.
   * 神曾吩咐以色列人，不要和迦南的任何部落族群签订和平条约。
