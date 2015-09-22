@@ -1,4 +1,4 @@
-====== lamb 羔羊 P ======
+====== lamb 羔羊 F ======
 
 ==== (lamb, Lamb of God) ====
 
@@ -19,11 +19,11 @@ In the Bible, a lamb is a young sheep or goat. A sheep is a four-legged animal w
 
 [See also: **[[:zh:obs:notes:key-terms:sheep|sheep]]**, **[[:zh:obs:notes:key-terms:shepherd|shepherd]]**]
 
-另请参见：绵羊，牧羊人
+参见：绵羊，牧羊人
 
 ===== Examples from the Bible stories: =====
 
-从圣经故事中的一些例子
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子:</font>
 
   * **[[:zh:obs:notes:frames:05-07|[05-07]]]** As Abraham and Isaac walked to the place of the sacrifice Isaac asked, "Father, we have wood for the sacrifice, but where is the **lamb**?"
   * 当亚伯拉罕和以撒走到献祭的地方，以撒问：“父亲，我们有献燔祭的柴，但是燔祭的羊羔在那里呢？”
