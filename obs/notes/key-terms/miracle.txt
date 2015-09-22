@@ -1,4 +1,4 @@
-====== miracle 神迹 P ======
+====== miracle 神迹 F ======
 
 ==== (miracle, wonder, sign) ====
 
@@ -27,7 +27,7 @@ Miracles are things that could never happen unless God caused them. For example,
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:16-08|[16-08]]]** Gideon asked God for two **signs**  so he could be sure that God would use him to save Israel.
   * 基甸向神祈求两个神迹，这样他能确定，神差遣他去拯救以色列。
