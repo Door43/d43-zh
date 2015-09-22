@@ -1,4 +1,4 @@
-====== King of the Jews 犹太人的王 P ======
+====== King of the Jews 犹太人的王 F ======
 
 ===== Definition: =====
 
@@ -17,7 +17,7 @@
   * The title, "King of the Jews" was written on a piece of wood and placed at the top of Jesus' cross when he was crucified.
   * 在耶稣被钉在十字架上时，“犹太人的王” 这一头衔被写在一块木牌上，并放在他的十字架的顶端。
   * Jesus will return to earth and rule over everyone, including the Jews, as the king of the kingdom of God.
-  * 耶稣将以神国的王回到地上，统治<font inherit/inherit;;inherit;;inherit>包括犹太人在内的</font> 所有的人。
+  * 耶稣将以神国的王回到地上，统治<font inherit/inherit;;inherit;;inherit>包括犹太人在内的</font>    所有的人。
 
 [See also: **[[:zh:obs:notes:key-terms:king|king]]**, **[[:zh:obs:notes:key-terms:jew|Jew]]**, **[[:zh:obs:notes:key-terms:kingdom|kingdom]]**, **[[:zh:obs:notes:key-terms:kingdom-of-god|kingdom of God]]**]
 
@@ -25,7 +25,7 @@
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:23-09|[23-09]]]** Some time later, wise men from countries far to the east saw an unusual star in the sky. They realized it meant a new **king of the Jews**  was born.
   * 一段时间以后，从遥远的东方国来的博士们看见了天空中一颗非同寻常的星星。他们知道那意味着一位新的犹太人的王诞生了。
