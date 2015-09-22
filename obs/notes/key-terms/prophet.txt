@@ -1,4 +1,4 @@
-====== prophet 先知 P ======
+====== prophet 先知 F ======
 
 ==== (prophet, prophecy, prophesy) ====
 
@@ -31,7 +31,7 @@ A prophet is a person who speaks God's messages to people. He tells them what Go
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a **prophet**  of God.
   * 当以色列人看见埃及人死了，他们才相信神并相信摩西是神的先知。
