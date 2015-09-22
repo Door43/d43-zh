@@ -1,8 +1,8 @@
-====== Peter 彼得 P ======
+====== Peter 彼得 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Peter was one of Jesus' disciples, and then became one of his twelve apostles.
 
@@ -25,7 +25,7 @@ Peter was one of Jesus' disciples, and then became one of his twelve apostles.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:28-09|[28-09]]]****Peter**  said to Jesus, "We have left everything and followed you. What will be our reward?"
   * 彼得对耶稣说：“我们已经放弃了一切来跟随你。我们将得的奖赏是什么呢？”
