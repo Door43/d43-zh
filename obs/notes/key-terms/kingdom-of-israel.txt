@@ -1,8 +1,8 @@
-====== kingdom of Israel 以色列国 P ======
+====== kingdom of Israel 以色列国 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 After King Solomon died, the Israelites split into two kingdoms. The kingdom of Israel was the northern kingdom, composed of ten of the tribes of Israel.
 
@@ -19,10 +19,10 @@ After King Solomon died, the Israelites split into two kingdoms. The kingdom of 
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their kingdom in the northern part of the land and were called the **kingdom of Israel**.
-  * <font inherit/inherit;;inherit;;inherit>以色列国家的其它十个支派</font> 背叛罗波安。他们任命一个叫耶罗波安的人为王。他们在该地的北部建立了他们的王国，叫以色列国。
+  * <font inherit/inherit;;inherit;;inherit>以色列国家的其它十个支派</font>    背叛罗波安。他们任命一个叫耶罗波安的人为王。他们在该地的北部建立了他们的王国，叫以色列国。
   * **[[:zh:obs:notes:frames:18-10|[18-10]]]** The **kingdoms of Judah and Israel**  became enemies and often fought against each other.
   * 犹大国和以色列国成为了敌对国，并经常互相争战。
   * **[[:zh:obs:notes:frames:18-11|[18-11]]]** In the new **kingdom of Israel**, all the kings were evil.
