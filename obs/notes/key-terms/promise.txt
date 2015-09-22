@@ -1,4 +1,4 @@
-====== promise 承诺/应许 P ======
+====== promise 承诺/应许 F ======
 
 ===== Definition: =====
 
@@ -21,7 +21,7 @@ A promise is a vow or commitment to do something.
 
 ===== Examples from the Bible Stories： =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:03-15|[03-15]]]** God said, "I **promise**  I will never again curse the ground because of the evil things people do, or destroy the world by causing a flood, even though people are sinful from the time they are children."
   * 神说：“我应许我不再因为人所做的恶事而诅咒地；或兴起洪水来毁灭世界，尽管人从幼时就有罪。”
