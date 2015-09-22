@@ -1,4 +1,4 @@
-====== power 能力 P ======
+====== power 能力 F ======
 
 ===== Definition: =====
 
@@ -25,7 +25,7 @@ The word "power" can refer to the ability to do things or make things happen, ph
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:22-05|[22-05]]]** The angel explained, "The Holy Spirit will come to you, and the **power**  of God will overshadow you. So the baby will be holy, the Son of God."
   * 天使解释说：“圣灵要降临到你身上，神的能力将荫庇你。所以这婴孩将是圣洁的，是神的儿子。”
