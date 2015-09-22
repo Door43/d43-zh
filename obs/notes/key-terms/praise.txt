@@ -1,4 +1,4 @@
-====== praise 赞美 P ======
+====== praise 赞美 F ======
 
 ==== (praise, to praise) ====
 
@@ -29,7 +29,7 @@ To praise someone is to express admiration and honor for that person.
 
 ===== Examples from the Bible stories: =====
 
-圣经故事里例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:12-13|[12-13]]]** The Israelites sang many songs to celebrate their new freedom and to **praise**  God because he saved them from the Egyptian army.
   * 以色列人唱了很多歌来庆祝他们的新自由，并且赞美神，因为他从埃及人的军队中把他们拯救了出来。
