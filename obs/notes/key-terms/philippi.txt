@@ -1,8 +1,8 @@
-====== Philippi 腓立比 P ======
+====== Philippi 腓立比 F ======
 
 ===== Facts: =====
 
-事实依据：
+事实：
 
 Philippi was a city located in the northern part of ancient Greece.
 
@@ -17,11 +17,11 @@ Philippi was a city located in the northern part of ancient Greece.
 
 [See also: **[[:zh:obs:notes:key-terms:paul|Paul]]**, **[[:zh:obs:notes:key-terms:silas|Silas]]**, **[[:zh:obs:notes:key-terms:christian|Christian]]**]
 
-另请参照：保罗，西拉，基督徒
+参見：保罗，西拉，基督徒
 
 ===== Examples from the Bible stories: =====
 
-圣经故事例证：
+<font 14px line-height font-weight: 19.6px;;  color: inherit;  background-color: inherit /inherit;;inherit;;inherit  background-color: inherit >圣经故事中的例子</font> ：
 
   * **[[:zh:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend Silas went to the town of **Philippi**  to proclaim the good news about Jesus.
   * 有一天，保罗和他的朋友西拉去了腓立比城，传讲耶稣的福音。
