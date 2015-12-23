@@ -7,7 +7,6 @@
 
 
 ==== 两个列表中的全部词汇： ====
-
-{{pagequery>ns:zh:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+<nspages zh:obe -r -title -exclude:home -textPages="">
 
 
