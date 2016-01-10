@@ -1,21 +1,21 @@
 Translation for the unfoldingWord mobile app interface
 
-Select a language: Select a Language
+Select a language: 选择一种语言
 
-Chapters: Chapters
+Chapters: 章
 
-Languages: Languages
+Languages: 语言
 
-Next chapter: Next Chapter
+Next chapter: 下一章
 
-OK: OK
+OK: 确定
 
-Cancel: Cancel
+Cancel: 取消
 
-Save locally: Save Locally
+Save locally: 保存在本机
 
-Save this string: Save this language locally for offline use.
+Save this string: 将该语言保存在本机供离线使用。
 
-Remove locally: Remove Locally
+Remove locally: 从本机删除
 
-Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
+Remove this string: 从离线存储中删除该语言。以后你将需要连接互联网才能阅读。
