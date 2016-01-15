@@ -1,10 +1,11 @@
 ===== 翻译书院手册 =====
 
-  * 开始
+  * 从这里开始
       * 我们为何开办翻译书院
-      * [[:en:ta:intro:how|我们如何开办翻译书院 ]]        * [[:en:ta:intro:uw|unfoldingWord ]]网络
+      *  [[:en:ta:intro:how|我们如何开办翻译书院]]
+        * [[:en:ta:intro:uw|unfoldingWord ]]网络
         * [[:en:ta:intro:statement-of-faith|信仰宣言 ]]
-        * [[:en:ta:intro:translation-guidelines|翻译 ]]规 范
+        * [[:en:ta:intro:translation-guidelines|翻译]]规范
         * [[:en:ta:intro:license|开放授权 ]]
         * 门户语言策略
         * [[:en:ta:intro:content|需翻译的资源 ]]
@@ -14,33 +15,39 @@
         * [[:en:ta:intro:helps|帮助 ]]
       * [[:en:ta:intro:glossary|词汇 ]]
       * [[:en:ta:intro:map|翻译与检查指南 ]]
-  *  [[:en:ta:translate:home|翻译手册 ]]* 翻译 * [[:en:ta:translate:what|什么是翻译 ]]
-      * [[:en:ta:translate:why|为何翻译圣经 ]]
+  * [[:en:ta:translate:home|翻译手册 ]]* 翻译
+      * [[:en:ta:translate:what|什么是翻译]]
+      * 我们[[:en:ta:translate:why|为何翻译圣经 ]]
       * [[:en:ta:translate:terms|应知条款 ]]
       * [[:en:ta:translate:process|翻译流程 ]]
-      * [[:en:ta:translate:discover|揭示文本的 ]]含义
+      * [[:en:ta:translate:discover|揭示文本的]]含义
       * 重述含义
-      * 结构 [[:en:ta:translate:form|的重要性 ]]
-      * [[:en:ta:translate:same|为意义翻译 ]]
+      * 结构[[:en:ta:translate:form|的重要性 ]]
+      * 有目的的[[:en:ta:translate:same|翻译 ]]
       * [[:en:ta:translate:literal|直译 ]]
       * [[:en:ta:translate:meaning|意译 ]]
-      * [[:en:ta:translate:qualities|佳译的特质 ]] * 创建清晰的译文
+      *  [[:en:ta:translate:qualities|佳译的特质]]
+        * 创建清晰的译文
         * [[:en:ta:translate:accurate|创建准确的译文 ]]
         * [[:en:ta:translate:natural|创建自然的译文 ]]
-        * [[:en:ta:translate:equal|对等 ]]的译文
-  *  [[:en:ta:translate:update|如何更新旧版本的“打开圣经故事” ]] * [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|第1版更新至第3版 ]]
+        * [[:en:ta:translate:equal|对等]]的译文
+  *  [[:en:ta:translate:update|如何更新旧版本的“打开圣经故事” ]]
+      * [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|第1版更新至第3版]]
       * [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|第2版更新至第3版 ]]
       * [[https://door43.org/en/obs/change-log|第3版更新 ]]
-  * 如何翻译Door43中的源文本 * 打开圣经故事 *  [[:en:ta:translate:stories|翻译“打开圣经故事” ]]
+  * 如何翻译Door43中的源文本
+      * 打开圣经故事        * [[:en:ta:translate:stories|翻译“打开圣经故事”]]
       * 圣经
-  * 如何翻译“翻译工作室”中的源文本 * 打开圣经故事
+  * 如何翻译“翻译工作室”中的源文本
+      * 打开圣经故事
       * 圣经
 
-  * [[:en:ta:check|检查手册 ]] * 第1级
-
+  *  [[:en:ta:check|检查手册]]
+      * 第1级
       * 第2级
       * 第3级
-  *  [[:en:ta:tech|技术手册 ]] * 卷1 [[:en:ta:tech:door43|Door43 ]]
+  *  [[:en:ta:tech|技术手册]]
+      * 卷1 [[:en:ta:tech:door43|Door43]]
       * 卷1 [[:en:ta:tech:ts|翻译工作室 ]]
       * 卷1 [[:en:ta:tech:tk|翻译键盘 ]]
       * 卷1 [[:en:ta:tech:uw|unfoldingWord应用程序 ]]
