@@ -2,7 +2,8 @@
 
   * 从这里开始
       * 我们为何开办翻译书院
-      * [[:en:ta:intro:how|我们如何开办翻译书院 ]]        * [[:en:ta:intro:uw|unfoldingWord ]]网络
+      *  [[:en:ta:intro:how|我们如何开办翻译书院]]
+        * [[:en:ta:intro:uw|unfoldingWord ]]网络
         * [[:en:ta:intro:statement-of-faith|信仰宣言 ]]
         * [[:en:ta:intro:translation-guidelines|翻译]]规范
         * [[:en:ta:intro:license|开放授权 ]]
@@ -35,7 +36,8 @@
       * [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|第2版更新至第3版 ]]
       * [[https://door43.org/en/obs/change-log|第3版更新 ]]
   * 如何翻译Door43中的源文本
-      * 打开圣经故事 * [[:en:ta:translate:stories|翻译“打开圣经故事”]]
+      * 打开圣经故事
+        * [[:en:ta:translate:stories|翻译“打开圣经故事”]]
       * 圣经
   * 如何翻译“翻译工作室”中的源文本
       * 打开圣经故事
