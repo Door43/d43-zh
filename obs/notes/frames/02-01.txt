@@ -10,9 +10,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:adam|Adam]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:sin|sin]]**
+  * **[[:zh:obe:other:Adam]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:sin]]**
 
 
 ==== Translation Notes: ====
