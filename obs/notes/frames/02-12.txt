@@ -10,13 +10,13 @@ Then **God** said, “Now that the human beings have become **like us by knowing
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:good|good]]**
-  * **[[:zh:obs:notes:key-terms:evil|evil]]**
-  * **[[:zh:obs:notes:key-terms:life|life]]**
-  * **[[:zh:obs:notes:key-terms:adam|Adam]]**
-  * **[[:zh:obs:notes:key-terms:eve|Eve]]**
-  * **[[:zh:obs:notes:key-terms:angel|angels]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:good]]**
+  * **[[:zh:obe:kt:evil]]**
+  * **[[:zh:obe:kt:life]]**
+  * **[[:zh:obe:other:Adam]]**
+  * **[[:zh:obe:other:Eve]]**
+  * **[[:zh:obe:kt:angel]]**
 
 
 ===== Translation Notes: =====
