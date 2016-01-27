@@ -10,10 +10,10 @@ Nearby **Abraham** saw **a ram** that was stuck in a bush. **God had provided th
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**
-  * **[[:zh:obs:notes:key-terms:isaac|Isaac]]**
+  * **[[:zh:obe:other:Abraham]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:sacrifice]]**
+  * **[[:zh:obe:other:Isaac]]**
 
 
 ===== Translation Notes: =====
