@@ -10,9 +10,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:noah|Noah]]**
-  * **[[:zh:obs:notes:key-terms:sacrifice|sacrifices]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Noah]]**
+  * **[[:zh:obe:other:sacrifice]]**
 
 
 ===== Translation Notes: =====
