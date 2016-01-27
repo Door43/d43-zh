@@ -10,11 +10,11 @@ As **Abraham** and **Isaac walked to the place of sacrifice**, Isaac asked, “F
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:zh:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**
-  * **[[:zh:obs:notes:key-terms:lamb|lamb]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obe:other:Abraham]]**
+  * **[[:zh:obe:other:Isaac]]**
+  * **[[:zh:obe:other:sacrifice]]**
+  * **[[:zh:obe:kt:lamb]]**
+  * **[[:zh:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
