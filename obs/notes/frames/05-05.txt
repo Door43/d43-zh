@@ -10,12 +10,12 @@ That day **Abraham circumcised all the males in his household**. About a year la
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:zh:obs:notes:key-terms:circumcise|circumcised]]**
-  * **[[:zh:obs:notes:key-terms:sarah|Sarah]]**
-  * **[[:zh:obs:notes:key-terms:son|son]]**
-  * **[[:zh:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obe:other:Abraham]]**
+  * **[[:zh:obe:kt:circumcise]]**
+  * **[[:zh:obe:other:Sarah]]**
+  * **[[:zh:obe:kt:son]]**
+  * **[[:zh:obe:other:Isaac]]**
+  * **[[:zh:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
