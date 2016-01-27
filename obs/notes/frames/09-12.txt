@@ -10,10 +10,10 @@ NOT TRANSLATED
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:moses|Moses]]**
-  * **[[:zh:obs:notes:key-terms:sheep|sheep]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:holy|holy]]**
+  * **[[:zh:obe:other:Moses]]**
+  * **[[:zh:obe:other:sheep]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:holy]]**
 
 
 ==== Translation Notes: ====
