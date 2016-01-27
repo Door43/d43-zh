@@ -10,9 +10,9 @@ So **God took some dirt**, **formed it** into **a man**, and **breathed life** i
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:life|life]]**
-  * **[[:zh:obs:notes:key-terms:adam|Adam]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:life]]**
+  * **[[:zh:obe:other:Adam]]**
 
 
 ==== Translation Notes: ====
