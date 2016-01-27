@@ -10,10 +10,10 @@ The **Egyptians** forced the **Israelites** to build many buildings and even who
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:bless|blessed]]**
+  * **[[:zh:obe:other:Egypt]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:bless]]**
 
 
 ==== Translation Notes: ====
