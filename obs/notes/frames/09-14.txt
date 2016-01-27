@@ -10,12 +10,12 @@ NOT TRANSLATED
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:moses|Moses]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:zh:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:zh:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:zh:obs:notes:key-terms:jacob|Jacob]]**
+  * **[[:zh:obe:other:Moses]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:Yahweh]]**
+  * **[[:zh:obe:other:Abraham]]**
+  * **[[:zh:obe:other:Isaac]]**
+  * **[[:zh:obe:other:Jacob]]**
 
 
 ==== Translation Notes: ====
