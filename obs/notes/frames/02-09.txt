@@ -9,9 +9,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:curse|cursed]]**
-  * **[[:zh:obs:notes:key-terms:descendant|descendant]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:curse]]**
+  * **[[:zh:obe:other:descendant]]**
 
 
 ===== Translation Notes: =====
