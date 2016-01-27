@@ -10,10 +10,10 @@ After a very long journey to the land where **Abraham's** relatives lived, **God
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:abraham|Abraham's]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:servant|servant]]**
-  * **[[:zh:obs:notes:key-terms:rebekah|Rebekah]]**
+  * **[[:zh:obe:other:Abraham]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:servant]]**
+  * **[[:zh:obe:other:Rebekah]]**
 
 
 ===== Translation Notes: =====
