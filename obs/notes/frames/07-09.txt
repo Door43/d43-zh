@@ -11,9 +11,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:zh:obs:notes:key-terms:esau|Esau]]**
-  * **[[:zh:obs:notes:key-terms:servant|servants]]**
+  * **[[:zh:obe:other:Jacob]]**
+  * **[[:zh:obe:other:Esau]]**
+  * **[[:zh:obe:other:servant]]**
 
 
 ===== Translation Notes: =====
