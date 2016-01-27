@@ -10,9 +10,9 @@ When **the seventh day** came, **God** had **finished his work**. So **God reste
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:bless|blessed]]**
-  * **[[:zh:obs:notes:key-terms:holy|holy]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:bless]]**
+  * **[[:zh:obe:kt:holy]]**
 
 
 ==== Translation Notes: ====
