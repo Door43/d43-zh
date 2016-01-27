@@ -11,13 +11,13 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:zh:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:zh:obs:notes:key-terms:moses|Moses]]**
-  * **[[:zh:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:zh:obs:notes:key-terms:sin|sinned]]**
-  * **[[:zh:obs:notes:key-terms:pray|prayed]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Egypt]]**
+  * **[[:zh:obe:other:Pharaoh]]**
+  * **[[:zh:obe:other:Moses]]**
+  * **[[:zh:obe:other:Aaron]]**
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:other:pray]]**
 
 
 ==== Translation Notes: ====
