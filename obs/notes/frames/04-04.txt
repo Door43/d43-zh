@@ -10,10 +10,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:zh:obs:notes:key-terms:bless|bless]]**
-  * **[[:zh:obs:notes:key-terms:curse|curse]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Abraham]]**
+  * **[[:zh:obe:kt:bless]]**
+  * **[[:zh:obe:kt:curse]]**
 
 
 ===== Translation Notes: =====
