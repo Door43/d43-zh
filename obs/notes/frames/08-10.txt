@@ -10,9 +10,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:zh:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:zh:obs:notes:key-terms:jacob|Jacob]]**
+  * **[[:zh:obe:other:Egypt]]**
+  * **[[:zh:obe:other:Canaan]]**
+  * **[[:zh:obe:other:Jacob]]**
 
 
 ==== Translation Notes: ====
