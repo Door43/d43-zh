@@ -10,12 +10,12 @@ Then **God** made a **covenant** with **Abram**. A covenant is an agreement betw
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:zh:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:zh:obs:notes:key-terms:son|son]]**
-  * **[[:zh:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:zh:obs:notes:key-terms:descendant|descendants]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:covenant]]**
+  * **[[:zh:obe:other:Abraham]]**
+  * **[[:zh:obe:kt:son]]**
+  * **[[:zh:obe:other:Canaan]]**
+  * **[[:zh:obe:other:descendant]]**
 
 
 ===== Translation Notes: =====
