@@ -11,11 +11,11 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:zh:obs:notes:key-terms:believe|believe]]**
-  * **[[:zh:obs:notes:key-terms:obey|obey]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Pharaoh]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:kt:believe]]**
+  * **[[:zh:obe:other:obey]]**
 
 
 ==== Translation Notes: ====
