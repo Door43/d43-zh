@@ -11,16 +11,15 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:sarah|Sarai]]**
-  * **[[:zh:obs:notes:key-terms:son|son]]**
-  * **[[:zh:obs:notes:key-terms:promise|promise]]**
-  * **[[:zh:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:zh:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:zh:obs:notes:key-terms:ishmael|Ishmael]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:abraham|Abram's]]**
-  * **[[:zh:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:zh:obs:notes:key-terms:sarah|Sarah]]**
+  * **[[:zh:obe:other:Sarah]]**
+  * **[[:zh:obe:kt:son]]**
+  * **[[:zh:obe:kt:promise]]**
+  * **[[:zh:obe:other:Isaac]]**
+  * **[[:zh:obe:kt:covenant]]**
+  * **[[:zh:obe:other:Ishmael]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Abraham]]**
+  * **[[:zh:obe:other:Sarah]]**
 
 
 ===== Translation Notes: =====
