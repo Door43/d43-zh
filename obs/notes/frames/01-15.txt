@@ -10,9 +10,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:bless|blessed]]**
-  * **[[:zh:obs:notes:key-terms:good|good]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:bless]]**
+  * **[[:zh:obe:kt:good]]**
 
 
 ==== Translation Notes: ====
