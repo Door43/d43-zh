@@ -11,11 +11,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:promise|promise]]**
-  * **[[:zh:obs:notes:key-terms:curse|curse]]**
-  * **[[:zh:obs:notes:key-terms:evil|evil]]**
-  * **[[:zh:obs:notes:key-terms:sin|sinful]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:promise]]**
+  * **[[:zh:obe:kt:curse]]**
+  * **[[:zh:obe:kt:evil]]**
+  * **[[:zh:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
