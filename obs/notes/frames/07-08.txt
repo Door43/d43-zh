@@ -11,9 +11,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:zh:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:zh:obs:notes:key-terms:servant|servants]]**
+  * **[[:zh:obe:other:Canaan]]**
+  * **[[:zh:obe:other:Jacob]]**
+  * **[[:zh:obe:other:servant]]**
 
 
 ===== Translation Notes: =====
