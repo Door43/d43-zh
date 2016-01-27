@@ -10,11 +10,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:zh:obs:notes:key-terms:bless|blessing]]**
-  * **[[:zh:obs:notes:key-terms:esau|Esau]]**
-  * **[[:zh:obs:notes:key-terms:rebekah|Rebekah]]**
-  * **[[:zh:obs:notes:key-terms:jacob|Jacob]]**
+  * **[[:zh:obe:other:Isaac]]**
+  * **[[:zh:obe:kt:bless]]**
+  * **[[:zh:obe:other:Esau]]**
+  * **[[:zh:obe:other:Rebekah]]**
+  * **[[:zh:obe:other:Jacob]]**
 
 
 ===== Translation Notes: =====
