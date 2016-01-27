@@ -10,8 +10,8 @@ Then **God said**, “**Let there be** light!” And there was **light**. God sa
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:good|good]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:good]]**
 
 
 ==== Translation Notes: ====
