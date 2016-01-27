@@ -9,12 +9,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:disobey|disobeyed]]**
-  * **[[:zh:obs:notes:key-terms:curse|cursed]]**
-  * **[[:zh:obs:notes:key-terms:death|die]]**
-  * **[[:zh:obs:notes:key-terms:eve|Eve]]**
-  * **[[:zh:obs:notes:key-terms:adam|Adam]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:disobey]]**
+  * **[[:zh:obe:kt:curse]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:other:Eve]]**
+  * **[[:zh:obe:other:Adam]]**
 
 
 ==== Translation Notes: ====
