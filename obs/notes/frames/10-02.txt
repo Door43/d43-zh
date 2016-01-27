@@ -10,10 +10,10 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:zh:obs:notes:key-terms:god-false|gods]]**
+  * **[[:zh:obe:other:Pharaoh]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Egypt]]**
+  * **[[:zh:obe:kt:falsegod]]**
 
 
 ==== Translation Notes: ====
