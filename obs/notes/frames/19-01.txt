@@ -11,9 +11,9 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:prophet|prophets]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:prophet]]**
 
 
 ==== Translation Notes: ====
