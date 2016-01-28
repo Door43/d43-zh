@@ -10,12 +10,12 @@ Then **God provided a deliverer** who rescued them from their enemies and **brou
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:deliverer|deliverer]]**
-  * **[[:zh:obs:notes:key-terms:peace|peace]]**
-  * **[[:zh:obs:notes:key-terms:worship|worshiping]]**
-  * **[[:zh:obs:notes:key-terms:idol|idols]]**
-  * **[[:zh:obs:notes:key-terms:midian|Midianites]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:deliverer]]**
+  * **[[:zh:obe:other:peace]]**
+  * **[[:zh:obe:kt:worship]]**
+  * **[[:zh:obe:other:idol]]**
+  * **[[:zh:obe:other:Midian]]**
 
 
 ==== Translation Notes: ====
