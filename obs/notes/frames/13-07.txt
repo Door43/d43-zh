@@ -11,15 +11,15 @@ Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave 
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:ten-commandments|Ten Commandments]]**
-  * **[[:zh:obs:notes:key-terms:moses|Moses]]**
-  * **[[:zh:obs:notes:key-terms:gods-law|laws]]**
-  * **[[:zh:obs:notes:key-terms:obey|obeyed]]**
-  * **[[:zh:obs:notes:key-terms:promise|promised]]**
-  * **[[:zh:obs:notes:key-terms:bless|bless]]**
-  * **[[:zh:obs:notes:key-terms:disobey|disobeyed]]**
-  * **[[:zh:obs:notes:key-terms:punish|punish]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:TenCommandments]]**
+  * **[[:zh:obe:other:Moses]]**
+  * **[[:zh:obe:kt:lawofMoses]]**
+  * **[[:zh:obe:other:obey]]**
+  * **[[:zh:obe:kt:promise]]**
+  * **[[:zh:obe:kt:bless]]**
+  * **[[:zh:obe:other:disobey]]**
+  * **[[:zh:obe:other:punish]]**
 
 
 ==== Translation Notes: ====
