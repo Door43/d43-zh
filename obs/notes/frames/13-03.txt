@@ -10,9 +10,9 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:sinai|Mount Sinai]]**
-  * **[[:zh:obs:notes:key-terms:moses|Moses]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Sinai]]**
+  * **[[:zh:obe:other:Moses]]**
 
 
 ==== Translation Notes: ====
