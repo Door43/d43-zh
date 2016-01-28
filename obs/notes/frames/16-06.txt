@@ -10,11 +10,11 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:gideon|Gideon's]]**
-  * **[[:zh:obs:notes:key-terms:altar|altar]]**
-  * **[[:zh:obs:notes:key-terms:idol|idol]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:sacrifice|sacrifice]]**
+  * **[[:zh:obe:other:Gideon]]**
+  * **[[:zh:obe:other:altar]]**
+  * **[[:zh:obe:other:idol]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:sacrifice]]**
 
 
 ==== Translation Notes: ====
