@@ -11,15 +11,15 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:zh:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:zh:obs:notes:key-terms:ahab|Ahab]]**
-  * **[[:zh:obs:notes:key-terms:king|king]]**
-  * **[[:zh:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:zh:obs:notes:key-terms:evil|evil]]**
-  * **[[:zh:obs:notes:key-terms:worship|worship]]**
-  * **[[:zh:obs:notes:key-terms:god-false|god]]**
-  * **[[:zh:obs:notes:key-terms:baal|Baal]]**
+  * **[[:zh:obe:other:Elijah]]**
+  * **[[:zh:obe:kt:prophet]]**
+  * **[[:zh:obe:other:Ahab]]**
+  * **[[:zh:obe:other:king]]**
+  * **[[:zh:obe:other:KingdomofIsrael]]**
+  * **[[:zh:obe:kt:evil]]**
+  * **[[:zh:obe:kt:worship]]**
+  * **[[:zh:obe:kt:falsegod]]**
+  * **[[:zh:obe:other:Baal]]**
 
 
 ==== Translation Notes: ====
