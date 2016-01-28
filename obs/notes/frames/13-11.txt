@@ -10,11 +10,11 @@ For many days, **Moses** was on top of **Mount Sinai** talking with **God**. **T
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:moses|Moses]]**
-  * **[[:zh:obs:notes:key-terms:sinai|Mount Sinai]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:zh:obs:notes:key-terms:idol|idol]]**
+  * **[[:zh:obe:other:Moses]]**
+  * **[[:zh:obe:other:Sinai]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Aaron]]**
+  * **[[:zh:obe:other:idol]]**
 
 
 ==== Translation Notes: ====
