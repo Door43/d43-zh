@@ -10,11 +10,11 @@ The people all agreed to **obey** the laws that **God** had **given them**, to *
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:obey|obey]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:worship|worship]]**
-  * **[[:zh:obs:notes:key-terms:promise|promised]]**
-  * **[[:zh:obs:notes:key-terms:sin|sinned]]**
+  * **[[:zh:obe:other:obey]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:worship]]**
+  * **[[:zh:obe:kt:promise]]**
+  * **[[:zh:obe:kt:sin]]**
 
 
 ==== Translation Notes: ====
