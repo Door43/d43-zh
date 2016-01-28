@@ -11,11 +11,11 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:moses|Moses]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:save|save]]**
-  * **[[:zh:obs:notes:key-terms:red-sea|Red Sea]]**
+  * **[[:zh:obe:other:Moses]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:save]]**
+  * **[[:zh:obe:other:RedSea]]**
 
 
 ==== Translation Notes: ====
