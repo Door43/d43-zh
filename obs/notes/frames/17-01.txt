@@ -10,11 +10,11 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:saul|Saul]]**
-  * **[[:zh:obs:notes:key-terms:king|king]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israel]]**
-  * **[[:zh:obs:notes:key-terms:obey|obey]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obe:other:Saul]]**
+  * **[[:zh:obe:other:king]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:other:obey]]**
+  * **[[:zh:obe:kt:God]]**
 
 
 ==== Translation Notes: ====
