@@ -10,11 +10,11 @@ Then the walls around **Jericho** fell down! The **Israelites** destroyed everyt
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:jericho|Jericho]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:rahab|Rahab]]**
-  * **[[:zh:obs:notes:key-terms:canaan|Canaan]]**
+  * **[[:zh:obe:other:Jericho]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Rahab]]**
+  * **[[:zh:obe:other:Canaan]]**
 
 
 ==== Translation Notes: ====
