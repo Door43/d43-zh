@@ -10,9 +10,9 @@ Then **Moses beat the idol into powder**, threw the powder into some water and m
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:moses|Moses]]**
-  * **[[:zh:obs:notes:key-terms:idol|idol]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obe:other:Moses]]**
+  * **[[:zh:obe:other:idol]]**
+  * **[[:zh:obe:kt:God]]**
 
 
 ==== Translation Notes: ====
