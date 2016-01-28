@@ -10,18 +10,17 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:zh:obs:notes:key-terms:david|David]]**
-  * **[[:zh:obs:notes:key-terms:king|king]]**
-  * **[[:zh:obs:notes:key-terms:saul|Saul]]**
-  * **[[:zh:obs:notes:key-terms:shepherd|shepherd]]**
-  * **[[:zh:obs:notes:key-terms:bethlehem|Bethlehem]]**
-  * **[[:zh:obs:notes:key-terms:sheep|sheep]]**
-  * **[[:zh:obs:notes:key-terms:humble|humble]]**
-  * **[[:zh:obs:notes:key-terms:righteous|righteous]]**
-  * **[[:zh:obs:notes:key-terms:trust|trusted]]**
-  * **[[:zh:obs:notes:key-terms:obey|obeyed]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:other:David]]**
+  * **[[:zh:obe:other:king]]**
+  * **[[:zh:obe:other:Saul]]**
+  * **[[:zh:obe:other:shepherd]]**
+  * **[[:zh:obe:other:sheep]]**
+  * **[[:zh:obe:other:humble]]**
+  * **[[:zh:obe:kt:righteous]]**
+  * **[[:zh:obe:kt:trust]]**
+  * **[[:zh:obe:other:obey]]**
 
 
 ==== Translation Notes: ====
