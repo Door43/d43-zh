@@ -11,11 +11,11 @@ Then **Elijah** said to **King Ahab**, “Return immediately to the city, becaus
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:zh:obs:notes:key-terms:king|King]]**
-  * **[[:zh:obs:notes:key-terms:ahab|Ahab]]**
-  * **[[:zh:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obe:other:Elijah]]**
+  * **[[:zh:obe:other:King]]**
+  * **[[:zh:obe:other:Ahab]]**
+  * **[[:zh:obe:kt:Yahweh]]**
+  * **[[:zh:obe:kt:God]]**
 
 
 ==== Translation Notes: ====
