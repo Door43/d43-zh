@@ -10,11 +10,11 @@ In the new **kingdom** of **Israel**, all the **kings** were **evil**. Many of t
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:kingdom|kingdom]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israel]]**
-  * **[[:zh:obs:notes:key-terms:king|kings]]**
-  * **[[:zh:obs:notes:key-terms:evil|evil]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:zh:obe:other:kingdom]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:other:king]]**
+  * **[[:zh:obe:kt:evil]]**
+  * **[[:zh:obe:other:Israel]]**
 
 
 ==== Translation Notes: ====
