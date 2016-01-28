@@ -10,9 +10,9 @@ The **kingdoms** of **Judah** and **Israel** became enemies and often fought aga
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:kingdom|kingdoms]]**
-  * **[[:zh:obs:notes:key-terms:kingdom-of-judah|Judah]]**
-  * **[[:zh:obs:notes:key-terms:kingdom-of-israel|Israel]]**
+  * **[[:zh:obe:other:kingdom]]**
+  * **[[:zh:obe:other:KingdomofJudah]]**
+  * **[[:zh:obe:other:kingdomofIsrael]]**
 
 
 ==== Translation Notes: ====
