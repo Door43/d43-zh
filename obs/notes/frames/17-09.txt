@@ -10,12 +10,12 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:david|David]]**
-  * **[[:zh:obs:notes:key-terms:justice|justice]]**
-  * **[[:zh:obs:notes:key-terms:faithful|faithfulness]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:bless|blessed]]**
-  * **[[:zh:obs:notes:key-terms:sin|sinned]]**
+  * **[[:zh:obe:other:David]]**
+  * **[[:zh:obe:kt:justice]]**
+  * **[[:zh:obe:kt:faithful]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:bless]]**
+  * **[[:zh:obe:kt:sin]]**
 
 
 ==== Translation Notes: ====
