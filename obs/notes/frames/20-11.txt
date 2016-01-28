@@ -10,10 +10,10 @@ About **seventy years later**, **Cyrus**, the **king** of the **Persians**, defe
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:king|king]]**
-  * **[[:zh:obs:notes:key-terms:babylon|Babylon]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:zh:obs:notes:key-terms:jew|Jews]]**
+  * **[[:zh:obe:other:king]]**
+  * **[[:zh:obe:other:Babylon]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:other:Jew]]**
 
 
 ==== Translation Notes: ====
