@@ -10,8 +10,8 @@ Then, all of **Gideon's** soldiers broke their pots at the same moment, suddenly
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:gideon|Gideon's]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obe:other:Gideon]]**
+  * **[[:zh:obe:kt:God]]**
 
 
 ==== Translation Notes: ====
