@@ -10,7 +10,7 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
+  * **[[:zh:obe:kt:God]]**
 
 
 ==== Translation Notes: ====
