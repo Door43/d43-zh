@@ -10,16 +10,16 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:zh:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:zh:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:zh:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:zh:obs:notes:key-terms:canaan|Canaanite]]**
-  * **[[:zh:obs:notes:key-terms:jericho|Jericho]]**
-  * **[[:zh:obs:notes:key-terms:rahab|Rahab]]**
-  * **[[:zh:obs:notes:key-terms:believe|believed]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:promise|promised]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:other:Canaan]]**
+  * **[[:zh:obe:kt:PromisedLand]]**
+  * **[[:zh:obe:other:Joshua]]**
+  * **[[:zh:obe:other:Canaan]]**
+  * **[[:zh:obe:other:Jericho]]**
+  * **[[:zh:obe:other:Rahab]]**
+  * **[[:zh:obe:kt:believe]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:promise]]**
 
 
 ==== Translation Notes: ====
