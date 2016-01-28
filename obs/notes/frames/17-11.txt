@@ -11,8 +11,8 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:david|David]]**
-  * **[[:zh:obs:notes:key-terms:bathsheba|Bathsheba]]**
+  * **[[:zh:obe:other:David]]**
+  * **[[:zh:obe:other:Bathsheba]]**
 
 
 ==== Translation Notes: ====
