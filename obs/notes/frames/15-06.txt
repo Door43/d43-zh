@@ -10,12 +10,12 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:zh:obs:notes:key-terms:peace|peace]]**
-  * **[[:zh:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:zh:obs:notes:key-terms:gibeon|Gibeonites]]**
-  * **[[:zh:obs:notes:key-terms:joshua|Joshua]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:other:peace]]**
+  * **[[:zh:obe:other:Canaan]]**
+  * **[[:zh:obe:other:Gibeon]]**
+  * **[[:zh:obe:other:Joshua]]**
 
 
 ==== Translation Notes: ====
