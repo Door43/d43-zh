@@ -12,11 +12,11 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:nebuchadnezzar|Nebuchadnezzar]]**
-  * **[[:zh:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**
-  * **[[:zh:obs:notes:key-terms:babylon|Babylon]]**
-  * **[[:zh:obs:notes:key-terms:god|God's]]**
-  * **[[:zh:obs:notes:key-terms:promised-land|Promised Land]]**
+  * **[[:zh:obe:other:Nebuchadnezzar]]**
+  * **[[:zh:obe:other:KingdomofJudah]]**
+  * **[[:zh:obe:other:Babylon]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:PromisedLand]]**
 
 
 ==== Translation Notes: ====
