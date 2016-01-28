@@ -10,14 +10,14 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:moses|Moses]]**
-  * **[[:zh:obs:notes:key-terms:pray|prayed]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:forgive|forgive]]**
-  * **[[:zh:obs:notes:key-terms:ten-commandments|Ten Commandments]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:zh:obs:notes:key-terms:sinai|Mount Sinai]]**
-  * **[[:zh:obs:notes:key-terms:promised-land|Promised Land]]**
+  * **[[:zh:obe:other:Moses]]**
+  * **[[:zh:obe:other:pray]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:forgive]]**
+  * **[[:zh:obe:other:TenCommandments]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:other:Sinai]]**
+  * **[[:zh:obe:kt:PromisedLand]]**
 
 
 ==== Translation Notes: ====
