@@ -10,8 +10,8 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:king|king]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:king]]**
 
 
 ==== Translation Notes: ====
