@@ -10,10 +10,10 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:zh:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]]**
-  * **[[:zh:obs:notes:key-terms:priest-high|high priest]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:other:TentofMeeting]]**
+  * **[[:zh:obe:kt:highpriest]]**
 
 
 ==== Translation Notes: ====
