@@ -11,9 +11,9 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:zh:obs:notes:key-terms:ahab|Ahab]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Elijah]]**
+  * **[[:zh:obe:other:Ahab]]**
 
 
 ==== Translation Notes: ====
