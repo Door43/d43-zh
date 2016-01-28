@@ -10,9 +10,9 @@ Then **God** moved the cloud up and out of the way so that the **Egyptians** cou
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:zh:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Egypt]]**
+  * **[[:zh:obe:other:Israel]]**
 
 
 ==== Translation Notes: ====
