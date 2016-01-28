@@ -11,12 +11,12 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:zh:obs:notes:key-terms:caleb|Caleb]]**
-  * **[[:zh:obs:notes:key-terms:promised-land|Promised Land]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:TentofMeeting]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Joshua]]**
+  * **[[:zh:obe:other:Caleb]]**
+  * **[[:zh:obe:kt:PromisedLand]]**
 
 
 ==== Translation Notes: ====
