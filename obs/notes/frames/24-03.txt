@@ -8,11 +8,11 @@ When people heard **John's** message, many of them **repented from their sins**,
 
 ==== Important Terms: ====
 
-  * **[[:zh:obs:notes:key-terms/john-baptist|John's]]**
-  * **[[:zh:obs:notes:key-terms/repent|repented]]**
-  * **[[:zh:obs:notes:key-terms/sin|sins]]**
-  * **[[:zh:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:zh:obs:notes:key-terms/jewish-leaders|religious leaders]]**
+  * **[[:zh:obe:other:JohntheBaptist]]**
+  * **[[:zh:obe:kt:repent]]**
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:kt:baptize]]**
+  * **[[:zh:obe:other:Jewishleaders]]**
 
 
 ===== Translation Notes: =====
