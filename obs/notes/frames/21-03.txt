@@ -12,11 +12,11 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:promise|promised]]**
-  * **[[:zh:obs:notes:key-terms:moses|Moses]]**
-  * **[[:zh:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:zh:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:promise]]**
+  * **[[:zh:obe:other:Moses]]**
+  * **[[:zh:obe:kt:prophet]]**
+  * **[[:zh:obe:kt:christ]]**
 
 
 ==== Translation Notes: ====
