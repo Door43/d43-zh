@@ -9,10 +9,10 @@
 
 ==== Important Terms: ====
 
-  * **[[:zh:obs:notes:key-terms/wise|wise]]**
-  * **[[:zh:obs:notes:key-terms/king-of-jews|king of the Jews]]**
-  * **[[:zh:obs:notes:key-terms/bethlehem|Bethlehem]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:zh:obe:kt:wise]]**
+  * **[[:zh:obe:kt:KingoftheJews]]**
+  * **[[:zh:obe:other:Bethlehem]]**
+  * **[[:zh:obe:kt:Jesus]]**
 
 
 ===== Translation Notes: =====
