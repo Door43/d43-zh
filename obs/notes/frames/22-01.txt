@@ -8,11 +8,11 @@ In the past, **God** had spoken to **his people** through his **angels** and **p
 
 ==== Important Terms: ====
 
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/angel|angels]]**
-  * **[[:zh:obs:notes:key-terms/prophet|prophets]]**
-  * **[[:zh:obs:notes:key-terms/priest|priest]]**
-  * **[[:zh:obs:notes:key-terms/zechariah-nt|Zechariah]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:angel]]**
+  * **[[:zh:obe:kt:prophet]]**
+  * **[[:zh:obe:kt:priest]]**
+  * **[[:zh:obe:other:Zechariahnt]]**
 
 
 ===== Translation Notes: =====
