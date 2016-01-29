@@ -11,13 +11,13 @@
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God's]]**
-  * **[[:zh:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:zh:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:zh:obs:notes:key-terms:isaiah|Isaiah]]**
-  * **[[:zh:obs:notes:key-terms:prophet|prophesied]]**
-  * **[[:zh:obs:notes:key-terms:virgin|virgin]]**
-  * **[[:zh:obs:notes:key-terms:bethlehem|Bethlehem]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:prophet]]**
+  * **[[:zh:obe:kt:Christ]]**
+  * **[[:zh:obe:other:Isaiah]]**
+  * **[[:zh:obe:kt:prophet]]**
+  * **[[:zh:obe:other:virgin]]**
+  * **[[:zh:obe:other:Bethlehem]]**
 
 
 ==== Translation Notes: ====
