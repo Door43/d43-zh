@@ -8,15 +8,15 @@ The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife*
 
 ==== Important Terms: ====
 
-  * **[[:zh:obs:notes:key-terms/angel|angel]]**
-  * **[[:zh:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:zh:obs:notes:key-terms/mary|Mary]]**
-  * **[[:zh:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:zh:obs:notes:key-terms/son|son]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/yahweh|Yahweh]]**
-  * **[[:zh:obs:notes:key-terms/save|saves]]**
-  * **[[:zh:obs:notes:key-terms/sin|sins]]**
+  * **[[:zh:obe:kt:angel]]**
+  * **[[:zh:obe:other:Josephnt]]**
+  * **[[:zh:obe:other:Mary]]**
+  * **[[:zh:obe:kt:HolySpirit]]**
+  * **[[:zh:obe:kt:son]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Yahweh]]**
+  * **[[:zh:obe:kt:save]]**
+  * **[[:zh:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
