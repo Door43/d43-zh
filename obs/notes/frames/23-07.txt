@@ -9,11 +9,11 @@
 
 ==== Important Terms: ====
 
-  * **[[:zh:obs:notes:key-terms/angel|angels]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/glory|Glory]]**
-  * **[[:zh:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:zh:obs:notes:key-terms/peace|peace]]**
+  * **[[:zh:obe:kt:angel]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:glory]]**
+  * **[[:zh:obe:kt:heaven]]**
+  * **[[:zh:obe:other:peace]]**
 
 
 ===== Translation Notes: =====
