@@ -10,10 +10,10 @@ The **angel** responded to Zechariah, “I was sent by **God** to bring you this
 
 ==== Important Terms: ====
 
-  * **[[:zh:obs:notes:key-terms/angel|angel]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/believe|believe]]**
-  * **[[:zh:obs:notes:key-terms/zechariah-nt|Zechariah]]**
+  * **[[:zh:obe:kt:angel]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:believe]]**
+  * **[[:zh:obe:other:Zechariahnt]]**
 
 
 ===== Translation Notes: =====
