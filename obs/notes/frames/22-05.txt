@@ -9,15 +9,15 @@
 
 ==== Important Terms: ====
 
-  * **[[:zh:obs:notes:key-terms/mary|Mary]]**
-  * **[[:zh:obs:notes:key-terms/virgin|virgin]]**
-  * **[[:zh:obs:notes:key-terms/angel|angel]]**
-  * **[[:zh:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:zh:obs:notes:key-terms/power|power]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/holy|holy]]**
-  * **[[:zh:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:zh:obs:notes:key-terms/believe|believed]]**
+  * **[[:zh:obe:other:Mary]]**
+  * **[[:zh:obe:other:virgin]]**
+  * **[[:zh:obe:kt:angel]]**
+  * **[[:zh:obe:kt:HolySpirit]]**
+  * **[[:zh:obe:kt:power]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:holy]]**
+  * **[[:zh:obe:kt:SonofGod]]**
+  * **[[:zh:obe:kt:believe]]**
 
 
 ===== Translation Notes: =====
