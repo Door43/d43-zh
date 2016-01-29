@@ -8,8 +8,8 @@ NOT TRANSLATED
 
 ==== Important Terms: ====
 
-  * **[[:zh:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:zh:obs:notes:key-terms/mary|Mary]]**
+  * **[[:zh:obe:other:Josephnt]]**
+  * **[[:zh:obe:other:Mary]]**
 
 
 ===== Translation Notes: =====
