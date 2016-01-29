@@ -11,15 +11,15 @@ The **prophets** foretold that the **Messiah** would **die** and that **God** wo
 ==== Important Terms: ====
 
 
-  * **[[:zh:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:zh:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:zh:obs:notes:key-terms:death|die]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:raise|raise]]**
-  * **[[:zh:obs:notes:key-terms:resurrection|resurrection]]**
-  * **[[:zh:obs:notes:key-terms:save|save]]**
-  * **[[:zh:obs:notes:key-terms:sin|sinners]]**
-  * **[[:zh:obs:notes:key-terms:covenant-new|New Covenant]]**
+  * **[[:zh:obe:kt:prophet]]**
+  * **[[:zh:obe:kt:Christ]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:raise]]**
+  * **[[:zh:obe:kt:resurrection]]**
+  * **[[:zh:obe:kt:save]]**
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:kt:newcovenant]]**
 
 
 ==== Translation Notes: ====
