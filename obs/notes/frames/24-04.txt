@@ -8,11 +8,11 @@
 
 ==== Important Terms: ====
 
-  * **[[:zh:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:zh:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:zh:obs:notes:key-terms/repent|Repent]]**
-  * **[[:zh:obs:notes:key-terms/fulfill|fulfilled]]**
-  * **[[:zh:obs:notes:key-terms/prophet|prophets]]**
+  * **[[:zh:obe:other:JohntheBaptist]]**
+  * **[[:zh:obe:other:Jewishleaders]]**
+  * **[[:zh:obe:kt:Repent]]**
+  * **[[:zh:obe:kt:fulfill]]**
+  * **[[:zh:obe:kt:prophet]]**
 
 
 ===== Translation Notes: =====
