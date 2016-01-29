@@ -9,12 +9,12 @@
 
 ==== Important Terms: ====
 
-  * **[[:zh:obs:notes:key-terms/mary|Mary]]**
-  * **[[:zh:obs:notes:key-terms/rome|Roman]]**
-  * **[[:zh:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:zh:obs:notes:key-terms/nazareth|Nazareth]]**
-  * **[[:zh:obs:notes:key-terms/bethlehem|Bethlehem]]**
-  * **[[:zh:obs:notes:key-terms/david|David]]**
+  * **[[:zh:obe:other:Mary]]**
+  * **[[:zh:obe:other:Rome]]**
+  * **[[:zh:obe:other:Josephnt]]**
+  * **[[:zh:obe:other:Nazareth]]**
+  * **[[:zh:obe:other:Bethlehem]]**
+  * **[[:zh:obe:other:David]]**
 
 
 ===== Translation Notes: =====
