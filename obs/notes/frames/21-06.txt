@@ -11,11 +11,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms:god|God's]]**
-  * **[[:zh:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:zh:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:zh:obs:notes:key-terms:priest|priest]]**
-  * **[[:zh:obs:notes:key-terms:king|king]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:prophet]]**
+  * **[[:zh:obe:kt:Christ]]**
+  * **[[:zh:obe:kt:priest]]**
+  * **[[:zh:obe:other:king]]**
 
 
 ==== Translation Notes: ====
