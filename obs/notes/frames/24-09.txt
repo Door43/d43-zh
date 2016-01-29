@@ -9,14 +9,14 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:zh:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:zh:obs:notes:key-terms/baptize|baptize]]**
-  * **[[:zh:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:zh:obs:notes:key-terms/god-father|God the Father]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/god-son|Son]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:JohntheBaptist]]**
+  * **[[:zh:obe:kt:HolySpirit]]**
+  * **[[:zh:obe:kt:baptize]]**
+  * **[[:zh:obe:kt:Sonofgod]]**
+  * **[[:zh:obe:kt:GodtheFather]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:SonofGod]]**
 
 
 ===== Translation Notes: =====
