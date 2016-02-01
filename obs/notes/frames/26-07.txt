@@ -8,9 +8,9 @@ The people of **Nazareth** dragged **Jesus** out of the **place of worship** and
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/nazareth|Nazareth]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/worship|worship]]**
+  * **[[:zh:obe:other:Nazareth]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:worship]]**
 
 
 ===== Translation Notes: =====
