@@ -9,8 +9,8 @@
 ===== Important Terms: =====
 
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/jerusalem|Jerusalem]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:other:Jerusalem]]**
 
 
 ===== Translation Notes: =====
