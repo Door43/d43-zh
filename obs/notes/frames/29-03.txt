@@ -9,9 +9,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/servant|servant]]**
-  * **[[:zh:obs:notes:key-terms/king|king]]**
-  * **[[:zh:obs:notes:key-terms/servant|slaves]]**
+  * **[[:zh:obe:other:servant]]**
+  * **[[:zh:obe:other:king]]**
+  * **[[:zh:obe:other:servant]]**
 
 
 ===== Translation Notes: =====
