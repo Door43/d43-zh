@@ -8,15 +8,15 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/peter|Peter]]**
-  * **[[:zh:obs:notes:key-terms/servant|servant]]**
-  * **[[:zh:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:zh:obs:notes:key-terms/god-father|Father]]**
-  * **[[:zh:obs:notes:key-terms/angel|angels]]**
-  * **[[:zh:obs:notes:key-terms/obey|obey]]**
-  * **[[:zh:obs:notes:key-terms/heal|healed]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:other:Peter]]**
+  * **[[:zh:obe:other:servant]]**
+  * **[[:zh:obe:kt:highpriest]]**
+  * **[[:zh:obe:kt:GodtheFather]]**
+  * **[[:zh:obe:kt:angel]]**
+  * **[[:zh:obe:other:obey]]**
+  * **[[:zh:obe:other:heal]]**
+  * **[[:zh:obe:kt:disciple]]**
 
 
 ===== Translation Notes: =====
