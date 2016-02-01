@@ -8,9 +8,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/tax-collector|tax collectors]]**
-  * **[[:zh:obs:notes:key-terms/sin|sinners]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:other:taxcollector]]**
+  * **[[:zh:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
