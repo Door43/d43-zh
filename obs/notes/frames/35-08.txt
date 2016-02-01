@@ -8,9 +8,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/son|son]]**
-  * **[[:zh:obs:notes:key-terms/sin|sinned]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
+  * **[[:zh:obe:kt:son]]**
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
