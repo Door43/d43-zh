@@ -8,10 +8,10 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/peter|Peter]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/death|die]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:zh:obe:other:Peter]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:kt:disciple]]**
 
 
 ===== Translation Notes: =====
