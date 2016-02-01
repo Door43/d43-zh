@@ -8,9 +8,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jew|Jews]]**
-  * **[[:zh:obs:notes:key-terms/priest|priests]]**
-  * **[[:zh:obs:notes:key-terms/temple|Temple]]**
+  * **[[:zh:obe:other:Jew]]**
+  * **[[:zh:obe:kt:priest]]**
+  * **[[:zh:obe:kt:Temple]]**
 
 
 ===== Translation Notes: =====
