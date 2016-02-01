@@ -8,8 +8,8 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:KingdomofGod]]**
 
 
 ===== Translation Notes: =====
