@@ -9,12 +9,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/prophet|prophet]]**
-  * **[[:zh:obs:notes:key-terms/israel|Israel]]**
-  * **[[:zh:obs:notes:key-terms/heal|heal]]**
-  * **[[:zh:obs:notes:key-terms/naaman|Naaman]]**
-  * **[[:zh:obs:notes:key-terms/jew|Jews]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:prophet]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:other:heal]]**
+  * **[[:zh:obe:other:Naaman]]**
+  * **[[:zh:obe:other:Jew]]**
 
 
 ===== Translation Notes: =====
