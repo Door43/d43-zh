@@ -8,10 +8,10 @@ Then **Jesus** said to the **disciples**, “One of you will **betray** me.” T
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/betray|betray]]**
-  * **[[:zh:obs:notes:key-terms/judas|Judas]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:kt:betray]]**
+  * **[[:zh:obe:other:JudasIscariot]]**
 
 
 ===== Translation Notes: =====
