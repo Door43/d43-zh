@@ -9,7 +9,7 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/servant|servant]]**
+  * **[[:zh:obe:other:servant]]**
 
 
 ===== Translation Notes: =====
