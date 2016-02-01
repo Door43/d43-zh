@@ -8,9 +8,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jew|Jewish]]**
-  * **[[:zh:obs:notes:key-terms/priest|priest]]**
-  * **[[:zh:obs:notes:key-terms/jewish-leaders|religious leader]]**
+  * **[[:zh:obe:other:Jew]]**
+  * **[[:zh:obe:kt:priest]]**
+  * **[[:zh:obe:other:Jewishleaders]]**
 
 
 ===== Translation Notes: =====
