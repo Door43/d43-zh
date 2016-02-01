@@ -9,13 +9,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/good|Good]]**
-  * **[[:zh:obs:notes:key-terms/teacher|teacher]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:good]]**
+  * **[[:zh:obe:kt:teacher]]**
   * **[[:zh:obs:notes:key-terms/eternal-life|eternal life]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/obey|obey]]**
-  * **[[:zh:obs:notes:key-terms/gods-law|God's laws]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:obey]]**
+  * **[[:zh:obe:kt:LawofMoses]]**
 
 
 ===== Translation Notes: =====
