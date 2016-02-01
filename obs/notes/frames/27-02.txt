@@ -11,12 +11,12 @@ The **law expert** replied that **God's law** says, “**Love the Lord your God 
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/gods-law|God's law]]**
-  * **[[:zh:obs:notes:key-terms/love|Love]]**
-  * **[[:zh:obs:notes:key-terms/lord|Lord]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/life|live]]**
+  * **[[:zh:obe:kt:lawofmoses]]**
+  * **[[:zh:obe:kt:Love]]**
+  * **[[:zh:obe:kt:Lord]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
