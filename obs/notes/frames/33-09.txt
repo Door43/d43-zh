@@ -8,9 +8,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/good|good]]**
-  * **[[:zh:obs:notes:key-terms/word-of-god|word of God]]**
-  * **[[:zh:obs:notes:key-terms/believe|believes]]**
+  * **[[:zh:obe:kt:good]]**
+  * **[[:zh:obe:kt:WordofGod]]**
+  * **[[:zh:obe:kt:believe]]**
 
 
 ===== Translation Notes: =====
