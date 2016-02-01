@@ -10,10 +10,10 @@ Then **Jesus** sat down. Everybody watched him closely. They knew the passage of
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/word-of-god|scripture]]**
-  * **[[:zh:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:zh:obs:notes:key-terms/joseph-nt|Joseph]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Wordofgod]]**
+  * **[[:zh:obe:kt:Christ]]**
+  * **[[:zh:obe:other:Josephnt]]**
 
 
 ===== Translation Notes: =====
