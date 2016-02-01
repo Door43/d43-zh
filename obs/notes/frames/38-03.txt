@@ -9,12 +9,12 @@ The **Jewish leaders**, led by the **high priest**, paid **Judas thirty silver c
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:zh:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:zh:obs:notes:key-terms/judas|Judas]]**
-  * **[[:zh:obs:notes:key-terms/betray|betray]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/prophet|prophets]]**
+  * **[[:zh:obe:other:Jewishleaders]]**
+  * **[[:zh:obe:kt:highpriest]]**
+  * **[[:zh:obe:other:JudasIscariot]]**
+  * **[[:zh:obe:kt:betray]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:prophet]]**
 
 
 ===== Translation Notes: =====
