@@ -8,11 +8,11 @@ One day, **Jesus** took three of his **disciples**, **Peter**, **James**, and **
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/peter|Peter]]**
-  * **[[:zh:obs:notes:key-terms/john|John]]**
-  * **[[:zh:obs:notes:key-terms/baptize|baptized]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:other:Peter]]**
+  * **[[:zh:obe:other:JohntheBaptist]]**
+  * **[[:zh:obe:kt:baptize]]**
 
 
 ===== Translation Notes: =====
