@@ -9,9 +9,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/adultery|adultery]]**
-  * **[[:zh:obs:notes:key-terms/love|love]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:adultery]]**
+  * **[[:zh:obe:kt:love]]**
 
 
 ===== Translation Notes: =====
