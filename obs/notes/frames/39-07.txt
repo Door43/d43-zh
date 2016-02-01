@@ -8,10 +8,10 @@ Then **Peter vowed**, saying, “**May God curse me if I know this man**!” Imm
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/peter|Peter]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/curse|curse]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:zh:obe:other:Peter]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:curse]]**
+  * **[[:zh:obe:kt:Jesus]]**
 
 
 ===== Translation Notes: =====
