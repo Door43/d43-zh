@@ -8,8 +8,8 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
-  * **[[:zh:obs:notes:key-terms/joy|joy]]**
+  * **[[:zh:obe:kt:KingdomofGod]]**
+  * **[[:zh:obe:kt:joy]]**
 
 
 ===== Translation Notes: =====
