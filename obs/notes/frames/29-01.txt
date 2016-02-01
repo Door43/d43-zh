@@ -8,11 +8,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/peter|Peter]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/lord|Master]]**
-  * **[[:zh:obs:notes:key-terms/forgive|forgive]]**
-  * **[[:zh:obs:notes:key-terms/sin|sins]]**
+  * **[[:zh:obe:other:Peter]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Lord]]**
+  * **[[:zh:obe:kt:forgive]]**
+  * **[[:zh:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
