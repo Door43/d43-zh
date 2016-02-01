@@ -8,12 +8,12 @@ Then **Moses** and the prophet **Elijah appeared**. These men had lived on the e
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/moses|Moses]]**
-  * **[[:zh:obs:notes:key-terms/[prophet|prophet]]**
-  * **[[:zh:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/death|death]]**
-  * **[[:zh:obs:notes:key-terms/jerusalem|Jerusalem]]**
+  * **[[:zh:obe:other:Moses]]**
+  * **[[:zh:obe:kt:prophet]]**
+  * **[[:zh:obe:other:Elijah]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:other:Jerusalem]]**
 
 
 ===== Translation Notes: =====
