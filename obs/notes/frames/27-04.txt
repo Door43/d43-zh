@@ -9,10 +9,10 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/jew|Jewish]]**
-  * **[[:zh:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:zh:obs:notes:key-terms/jericho|Jericho]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:other:Jew]]**
+  * **[[:zh:obe:other:Jerusalem]]**
+  * **[[:zh:obe:other:Jericho]]**
 
 
 ===== Translation Notes: =====
