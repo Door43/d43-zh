@@ -8,13 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/tax-collector|tax collector]]**
-  * **[[:zh:obs:notes:key-terms/jewish-leaders|religious leader]]**
-  * **[[:zh:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:zh:obs:notes:key-terms/pray|prayed]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/mercy|merciful]]**
-  * **[[:zh:obs:notes:key-terms/sin|sinner]]**
+  * **[[:zh:obe:other:taxcollector]]**
+  * **[[:zh:obe:other:Jewishleaders]]**
+  * **[[:zh:obe:kt:heaven]]**
+  * **[[:zh:obe:other:pray]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:mercy]]**
+  * **[[:zh:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
