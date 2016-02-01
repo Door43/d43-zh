@@ -8,8 +8,8 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/son|sons]]**
-  * **[[:zh:obs:notes:key-terms/inherit|inheritance]]**
+  * **[[:zh:obe:kt:son]]**
+  * **[[:zh:obe:kt:inherit]]**
 
 
 ===== Translation Notes: =====
