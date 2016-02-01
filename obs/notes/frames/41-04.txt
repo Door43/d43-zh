@@ -8,10 +8,10 @@ Suddenly, there was a **great earthquake**. An **angel that shone as bright as l
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/angel|angel]]**
-  * **[[:zh:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:zh:obs:notes:key-terms/tomb|tomb]]**
-  * **[[:zh:obs:notes:key-terms/death|dead]]**
+  * **[[:zh:obe:kt:angel]]**
+  * **[[:zh:obe:kt:heaven]]**
+  * **[[:zh:obe:other:tomb]]**
+  * **[[:zh:obe:kt:death]]**
 
 
 ===== Translation Notes: =====
