@@ -10,12 +10,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/satan|Satan]]**
-  * **[[:zh:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:zh:obs:notes:key-terms/worship|Worship]]**
-  * **[[:zh:obs:notes:key-terms/lord|Lord]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Satan]]**
+  * **[[:zh:obe:kt:wordofGod]]**
+  * **[[:zh:obe:kt:Worship]]**
+  * **[[:zh:obe:kt:Lord]]**
+  * **[[:zh:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
