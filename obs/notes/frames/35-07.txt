@@ -8,7 +8,7 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/son|son]]**
+  * **[[:zh:obe:kt:son]]**
 
 
 ===== Translation Notes: =====
