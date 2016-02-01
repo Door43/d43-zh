@@ -8,10 +8,10 @@ Then **Jesus** went with his **disciples** to **a place called Gethsemane**. Jes
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/pray|pray]]**
-  * **[[:zh:obs:notes:key-terms/tempt|temptation]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:other:pray]]**
+  * **[[:zh:obe:kt:tempt]]**
 
 
 ===== Translation Notes: =====
