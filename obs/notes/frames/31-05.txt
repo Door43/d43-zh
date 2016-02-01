@@ -9,9 +9,9 @@ Then **Peter** said to **Jesus**, “**Master****Bold Text**, **if it is you**, 
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/peter|Peter]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/lord|Master]]**
+  * **[[:zh:obe:other:Peter]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Lord]]**
 
 
 ===== Translation Notes: =====
