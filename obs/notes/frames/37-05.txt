@@ -8,15 +8,14 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/resurrection|Resurrection]]**
-  * **[[:zh:obs:notes:key-terms/life|Life]]**
-  * **[[:zh:obs:notes:key-terms/believe|believes]]**
-  * **[[:zh:obs:notes:key-terms/death|dies]]**
-  * **[[:zh:obs:notes:key-terms/lord|Master]]**
-  * **[[:zh:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:zh:obs:notes:key-terms/god-son|Son of God]]**
-
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Resurrection]]**
+  * **[[:zh:obe:kt:life]]**
+  * **[[:zh:obe:kt:believe]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:kt:Lord]]**
+  * **[[:zh:obe:kt:Christ]]**
+  * **[[:zh:obe:kt:Sonofgod]]**
 
 ===== Translation Notes: =====
 
