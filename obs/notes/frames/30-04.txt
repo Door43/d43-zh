@@ -9,8 +9,8 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:kt:Jesus]]**
 
 
 ===== Translation Notes: =====
