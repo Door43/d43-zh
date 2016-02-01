@@ -11,12 +11,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/peter|Peter]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/worship|worshiped]]**
-  * **[[:zh:obs:notes:key-terms/true|Truly]]**
-  * **[[:zh:obs:notes:key-terms/god-son|Son of God]]**
+  * **[[:zh:obe:other:Peter]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:kt:worship]]**
+  * **[[:zh:obe:kt:true]]**
+  * **[[:zh:obe:kt:SonofGod]]**
 
 
 ===== Translation Notes: =====
