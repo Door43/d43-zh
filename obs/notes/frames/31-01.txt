@@ -8,9 +8,9 @@ Then **Jesus** told the **disciples** to get into the boat and sail to the other
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/pray|pray]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:other:pray]]**
 
 
 ===== Translation Notes: =====
