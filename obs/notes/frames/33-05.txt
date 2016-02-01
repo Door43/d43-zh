@@ -8,7 +8,7 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/good|good]]**
+  * **[[:zh:obe:kt:good]]**
 
 
 ===== Translation Notes: =====
