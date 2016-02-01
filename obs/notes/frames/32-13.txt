@@ -8,8 +8,8 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/heal|heal]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:other:heal]]**
 
 
 ===== Translation Notes: =====
