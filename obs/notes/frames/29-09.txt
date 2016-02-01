@@ -9,9 +9,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]] said**
-  * **[[:zh:obs:notes:key-terms/god-father|heavenly Father]]**
-  * **[[:zh:obs:notes:key-terms/forgive|forgive]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:GodtheFather]]**
+  * **[[:zh:obe:kt:forgive]]**
 
 
 ===== Translation Notes: =====
