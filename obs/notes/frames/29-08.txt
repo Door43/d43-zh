@@ -9,11 +9,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/king|king]]**
-  * **[[:zh:obs:notes:key-terms/servant|servant]]**
-  * **[[:zh:obs:notes:key-terms/forgive|forgave]]**
-  * **[[:zh:obs:notes:key-terms/beg|begged]]**
-  * **[[:zh:obs:notes:key-terms/evil|wicked]]**
+  * **[[:zh:obe:other:king]]**
+  * **[[:zh:obe:other:servant]]**
+  * **[[:zh:obe:kt:forgive]]**
+  * **[[:zh:obe:other:beg]]**
+  * **[[:zh:obe:kt:evil]]**
 
 
 ===== Translation Notes: =====
