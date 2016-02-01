@@ -8,15 +8,15 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/pray|prayed]]**
-  * **[[:zh:obs:notes:key-terms/god-father|My Father]]**
-  * **[[:zh:obs:notes:key-terms/suffer|suffering]]**
-  * **[[:zh:obs:notes:key-terms/sin|sins]]**
-  * **[[:zh:obs:notes:key-terms/forgive|forgiven]]**
-  * **[[:vi:key-terms/blood|blood]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/angel|angel]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:other:pray]]**
+  * **[[:zh:obe:kt:GodtheFather]]**
+  * **[[:zh:obe:kt:suffer]]**
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:kt:forgive]]**
+  * **[[:zh:obe:kt:blood]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:angel]]**
 
 
 ===== Translation Notes: =====
