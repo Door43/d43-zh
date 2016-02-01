@@ -8,9 +8,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/faithful|faithfully]]**
-  * **[[:zh:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:zh:obs:notes:key-terms/sin|sinful]]**
+  * **[[:zh:obe:kt:faithful]]**
+  * **[[:zh:obe:other:disobey]]**
+  * **[[:zh:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
