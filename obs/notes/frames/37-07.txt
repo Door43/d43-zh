@@ -8,9 +8,9 @@ The **tomb** was a cave with a stone rolled in front of its opening. When **Jesu
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/tomb|tomb]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/death|dead]]**
+  * **[[:zh:obe:other:tomb]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:death]]**
 
 
 ===== Translation Notes: =====
