@@ -8,16 +8,16 @@ Every year, the **Jews** celebrated the **Passover**. This was a celebration of 
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jew|Jews]]**
-  * **[[:zh:obs:notes:key-terms/passover|Passover]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/save|saved]]**
-  * **[[:zh:obs:notes:key-terms/servant|slavery]]**
-  * **[[:zh:obs:notes:key-terms/egypt|Egypt]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/preach|preaching]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/jerusalem|Jerusalem]]**
+  * **[[:zh:obe:other:Jew]]**
+  * **[[:zh:obe:kt:Passover]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:save]]**
+  * **[[:zh:obe:other:servant]]**
+  * **[[:zh:obe:other:Egypt]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:other:preach]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:other:Jerusalem]]**
 
 
 ===== Translation Notes: =====
