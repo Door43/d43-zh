@@ -10,11 +10,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/teacher|Teacher]]**
-  * **[[:zh:obs:notes:key-terms/inherit|inherit]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Teacher]]**
+  * **[[:zh:obe:kt:inherit]]**
   * **[[:zh:obs:notes:key-terms/eternal-life|eternal life]]**
-  * **[[:zh:obs:notes:key-terms/gods-law|God's law]]**
+  * **[[:zh:obe:kt:lawofMoses]]**
 
 
 ===== Translation Notes: =====
