@@ -8,12 +8,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/lord|Master]]**
-  * **[[:zh:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:zh:obs:notes:key-terms/death|dead]]**
-  * **[[:zh:obs:notes:key-terms/believe|believe]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:kt:Lord]]**
+  * **[[:zh:obe:other:Lazarus]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:kt:believe]]**
 
 
 ===== Translation Notes: =====
