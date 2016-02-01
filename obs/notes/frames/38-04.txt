@@ -8,11 +8,11 @@ In Jerusalem, **Jesus celebrated** the **Passover** with his **disciples**. Duri
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/passover|Passover]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/sacrifice|sacrificed]]**
+  * **[[:zh:obe:other:Jerusalem]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Passover]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:other:sacrifice]]**
 
 
 ===== Translation Notes: =====
