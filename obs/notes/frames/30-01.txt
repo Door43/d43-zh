@@ -10,9 +10,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/apostle|apostles]]**
-  * **[[:zh:obs:notes:key-terms/preach|preach]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:apostle]]**
+  * **[[:zh:obe:other:preach]]**
 
 
 ===== Translation Notes: =====
