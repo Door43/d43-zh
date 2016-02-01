@@ -8,11 +8,11 @@ Then **Jesus** looked up to **heaven** and said, “**Father**, thank you for **
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:zh:obs:notes:key-terms/god-father|Father]]**
-  * **[[:zh:obs:notes:key-terms/believe|believe]]**
-  * **[[:zh:obs:notes:key-terms/lazarus|Lazarus]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:heaven]]**
+  * **[[:zh:obe:kt:GodtheFather]]**
+  * **[[:zh:obe:kt:believe]]**
+  * **[[:zh:obe:other:Lazarus]]**
 
 
 ===== Translation Notes: =====
