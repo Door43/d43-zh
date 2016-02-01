@@ -9,11 +9,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jewish-leaders|religious leader]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/sin|sinner]]**
-  * **[[:zh:obs:notes:key-terms/adultery|adulterers]]**
-  * **[[:zh:obs:notes:key-terms/tax-collector|tax collector]]**
+  * **[[:zh:obe:other:jewishleaders]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:kt:adultery]]**
+  * **[[:zh:obe:other:taxcollector]]**
 
 
 ===== Translation Notes: =====
