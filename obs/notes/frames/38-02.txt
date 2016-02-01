@@ -9,14 +9,14 @@ One of **Jesus' disciples** was a man named **Judas**. Judas was **in charge of 
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/judas|Judas]]**
-  * **[[:zh:obs:notes:key-terms/apostle|apostles']]**
-  * **[[:zh:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:zh:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:zh:obs:notes:key-terms/betray|betray]]**
-  * **[[:zh:obs:notes:key-terms/messiah|Messiah]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:other:JudasIscariot]]**
+  * **[[:zh:obe:kt:apostle]]**
+  * **[[:zh:obe:other:Jerusalem]]**
+  * **[[:zh:obe:other:Jewishleaders]]**
+  * **[[:zh:obe:kt:betray]]**
+  * **[[:zh:obe:kt:Christ]]**
 
 
 ===== Translation Notes: =====
