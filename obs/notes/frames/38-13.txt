@@ -8,10 +8,10 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/pray|prayer]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/betray|betrayer]]**
+  * **[[:zh:obe:other:pray]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:kt:betray]]**
 
 
 ===== Translation Notes: =====
