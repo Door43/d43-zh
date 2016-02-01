@@ -8,9 +8,8 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/pray|pray]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:other:pray]]**
 
 
 ===== Translation Notes: =====
