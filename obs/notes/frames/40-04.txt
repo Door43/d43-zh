@@ -8,13 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:zh:obs:notes:key-terms/mock|mocked]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/guilt|guilty]]**
-  * **[[:zh:obs:notes:key-terms/innocent|innocent]]**
-  * **[[:zh:obs:notes:key-terms/kingdom-of-god|kingdom]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:crucify]]**
+  * **[[:zh:obe:other:mock]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:guilt]]**
+  * **[[:zh:obe:kt:innocent]]**
+  * **[[:zh:obe:kt:KingdomofGod]]**
 
 
 ===== Translation Notes: =====
