@@ -8,10 +8,10 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/god|God's]]**
-  * **[[:zh:obs:notes:key-terms/glory|glory]]**
-  * **[[:zh:obs:notes:key-terms/believe|believe]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:glory]]**
+  * **[[:zh:obe:kt:believe]]**
 
 
 ===== Translation Notes: =====
