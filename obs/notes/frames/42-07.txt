@@ -8,13 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:zh:obs:notes:key-terms/fulfill|fulfilled]]**
-  * **[[:zh:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:zh:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:zh:obs:notes:key-terms/death|die]]**
-  * **[[:zh:obs:notes:key-terms/raise|rise]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:WordofGod]]**
+  * **[[:zh:obe:kt:fulfill]]**
+  * **[[:zh:obe:kt:Christ]]**
+  * **[[:zh:obe:kt:suffer]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:kt:raise]]**
 
 
 ===== Translation Notes: =====
