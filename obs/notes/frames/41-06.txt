@@ -8,12 +8,12 @@ Then the **angel** told the women, “Go and tell the **disciples**, '**Jesus** 
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/angel|angel]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/raise|risen]]**
-  * **[[:zh:obs:notes:key-terms/death|dead]]**
-  * **[[:zh:obs:notes:key-terms/galilee|Galilee]]**
+  * **[[:zh:obe:kt:angel]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:raise]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:other:Galilee]]**
 
 
 ===== Translation Notes: =====
