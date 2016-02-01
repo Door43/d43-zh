@@ -8,15 +8,15 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/word-of-god|scriptures]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/repent|repent]]**
-  * **[[:zh:obs:notes:key-terms/receive|receive]]**
-  * **[[:zh:obs:notes:key-terms/forgive|forgiveness]]**
-  * **[[:zh:obs:notes:key-terms/sin|sins]]**
-  * **[[:zh:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:zh:obs:notes:key-terms/people-group|people groups]]**
-  * **[[:zh:obs:notes:key-terms/witness|witnesses]]**
+  * **[[:zh:obe:kt:WordofGod]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:kt:repent]]**
+  * **[[:zh:obe:kt:receive]]**
+  * **[[:zh:obe:kt:forgive]]**
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:other:Jerusalem]]**
+  * **[[:zh:obe:other:peoplegroup]]**
+  * **[[:zh:obe:kt:witness]]**
 
 
 ===== Translation Notes: =====
