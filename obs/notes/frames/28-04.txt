@@ -9,8 +9,8 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/heaven|heaven]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:heaven]]**
 
 
 ===== Translation Notes: =====
