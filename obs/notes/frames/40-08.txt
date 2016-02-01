@@ -8,11 +8,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/death|death]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/innocent|innocent]]**
-  * **[[:zh:obs:notes:key-terms/god-son|Son of God]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:innocent]]**
+  * **[[:zh:obe:kt:SonofGod]]**
 
 
 ===== Translation Notes: =====
