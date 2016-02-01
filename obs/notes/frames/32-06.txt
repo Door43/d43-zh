@@ -8,10 +8,10 @@ The **man with the demon cried out** in a loud voice, “**What do you want with
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/demon-possessed|man with the demon]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/god-son|Son]]**
-  * **[[:zh:obs:notes:key-terms/god|Most High God]]**
+  * **[[:zh:obe:kt:demonpossessed]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Sonofgod]]**
+  * **[[:zh:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
