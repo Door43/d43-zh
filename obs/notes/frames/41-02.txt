@@ -8,8 +8,8 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:zh:obs:notes:key-terms/tomb|tomb]]**
+  * **[[:zh:obe:other:Pilate]]**
+  * **[[:zh:obe:other:tomb]]**
 
 
 ===== Translation Notes: =====
