@@ -8,18 +8,18 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/rome|Roman]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/life|life]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/raise|raised]]**
-  * **[[:zh:obs:notes:key-terms/death|dead]]**
-  * **[[:zh:obs:notes:key-terms/fulfill|fulfill]]**
-  * **[[:zh:obs:notes:key-terms/prophet|prophecies]]**
-  * **[[:zh:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:zh:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:zh:obs:notes:key-terms/repent|repent]]**
-  * **[[:zh:obs:notes:key-terms/sin|sins]]**
+  * **[[:zh:obe:other:Rome]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:life]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:raise]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:kt:fulfill]]**
+  * **[[:zh:obe:kt:prophet]]**
+  * **[[:zh:obe:kt:Christ]]**
+  * **[[:zh:obe:kt:suffer]]**
+  * **[[:zh:obe:kt:repent]]**
+  * **[[:zh:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
