@@ -8,10 +8,10 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/evil|evil]]**
-  * **[[:zh:obs:notes:key-terms/satan|devil]]**
-  * **[[:zh:obs:notes:key-terms/god|God's]]**
-  * **[[:zh:obs:notes:key-terms/angel|angels]]**
+  * **[[:zh:obe:kt:evil]]**
+  * **[[:zh:obe:kt:satan]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:angel]]**
 
 
 ===== Translation Notes: =====
