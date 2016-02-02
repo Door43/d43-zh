@@ -12,7 +12,7 @@
   * **[[:zh:obe:kt:Jesus]]**
   * **[[:zh:obe:kt:good]]**
   * **[[:zh:obe:kt:teacher]]**
-  * **[[:zh:obs:notes:key-terms/eternal-life|eternal life]]**
+  * **[[:zh:obe:kt:eternity]]**
   * **[[:zh:obe:kt:God]]**
   * **[[:zh:obe:other:obey]]**
   * **[[:zh:obe:kt:LawofMoses]]**
