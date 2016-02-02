@@ -8,16 +8,16 @@ If you are a friend of **God** and a **servant** of **Jesus** the **Master**, yo
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obs:notes:key-terms:god|God 上帝， 神]]**
-  * **[[:zh:obs:notes:key-terms:servant|servant ]]** 仆人
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus ]]** 耶稣
-  * **[[:zh:obs:notes:key-terms:lord|Master ]]** 主人
-  * **[[:zh:obs:notes:key-terms:obey|obey ]]** 遵守， 遵循
-  * **[[:zh:obs:notes:key-terms:christian|Christian ]]** 基督徒
-  * **[[:zh:obs:notes:key-terms:tempt|tempted 被]]** 诱惑
-  * **[[:zh:obs:notes:key-terms:sin|sin ]]** 犯罪
-  * **[[:zh:obs:notes:key-terms:faithful|faithful ]]** 信实的
-  * **[[:zh:obs:notes:key-terms:forgive|forgive ]]** 赦免， 饶恕
+  * **[[:zh:obe:kt:God]]** 上帝， 神
+  * **[[:zh:obe:other:servant]]** 仆人
+  * **[[:zh:obe:kt:Jesus]]** 耶稣
+  * **[[:zh:obe:kt:Lord]]** 主人
+  * **[[:zh:obe:other:obey]]** 遵守， 遵循
+  * **[[:zh:obe:kt:Christian]]** 基督徒
+  * **[[:zh:obe:kt:tempt]]** 诱惑
+  * **[[:zh:obe:kt:sin]]** 犯罪
+  * **[[:zh:obe:kt:faithful]]** 信实的
+  * **[[:zh:obe:kt:forgive]]** 赦免， 饶恕
 ===== Translation Notes: =====
 
 翻译注解：
