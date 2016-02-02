@@ -8,13 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/paul|Saul]]**
-  * **[[:zh:obs:notes:key-terms/believe|believe]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/persecute|persecuted]]**
-  * **[[:zh:obs:notes:key-terms/believer|believers]]**
-  * **[[:zh:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:zh:obs:notes:key-terms/priest-high|high priest]]**
+  * **[[:zh:obe:other:Paul]]**
+  * **[[:zh:obe:kt:believe]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:other:persecute]]**
+  * **[[:zh:obe:kt:believer]]**
+  * **[[:zh:obe:other:Jerusalem]]**
+  * **[[:zh:obe:kt:highpriest]]**
 
 
 ===== Translation Notes: =====
