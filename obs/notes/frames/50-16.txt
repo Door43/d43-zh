@@ -8,13 +8,13 @@ Because **Adam** and **Eve disobeyed God** and **brought sin into** this world, 
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/adam|Adam]]**
-  * **[[:zh:obs:notes:key-terms/eve|Eve]]**
-  * **[[:zh:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/sin|sin]]**
-  * **[[:zh:obs:notes:key-terms/curse|cursed]]**
-  * **[[:zh:obs:notes:key-terms/heaven|heaven]]**
+  * **[[:zh:obe:other:Adam]]**
+  * **[[:zh:obe:other:Eve]]**
+  * **[[:zh:obe:other:disobey]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:kt:curse]]**
+  * **[[:zh:obe:kt:heaven]]**
 
 
 ===== Translation Notes: =====
