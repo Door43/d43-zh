@@ -8,17 +8,17 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/fast|fasting]]**
-  * **[[:zh:obs:notes:key-terms/pray|praying]]**
-  * **[[:zh:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:zh:obs:notes:key-terms/church|church]]**
-  * **[[:zh:obs:notes:key-terms/pray|prayed]]**
-  * **[[:zh:obs:notes:key-terms/barnabas|Barnabas]]**
-  * **[[:zh:obs:notes:key-terms/paul|Saul]]**
-  * **[[:zh:obs:notes:key-terms/preach|preach]]**
-  * **[[:zh:obs:notes:key-terms/good-news|good news]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/believe|believed]]**
+  * **[[:zh:obe:other:fast]]**
+  * **[[:zh:obe:other:pray]]**
+  * **[[:zh:obe:kt:HolySpirit]]**
+  * **[[:zh:obe:kt:church]]**
+  * **[[:zh:obe:other:pray]]**
+  * **[[:zh:obe:other:Barnabas]]**
+  * **[[:zh:obe:other:Paul]]**
+  * **[[:zh:obe:other:preach]]**
+  * **[[:zh:obe:kt:goodnews]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:believe]]**
 
 
 ===== Translation Notes: =====
