@@ -8,13 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus ]]** 耶稣
-  * **[[:zh:obs:notes:key-terms:sin|sinned ]]** 犯罪
-  * **[[:zh:obs:notes:key-terms:punish|punished ]]** 被惩罚
-  * **[[:zh:obs:notes:key-terms:death|die 死，死亡]]**
-  * **[[:zh:obs:notes:key-terms:sacrifice|sacrifice ]]** 祭物
-  * **[[:zh:obs:notes:key-terms:god|God 上帝，神]]**
-  * **forgive 饶恕**
+  * **[[:zh:obe:kt:Jesus]]** 耶稣
+  * **[[:zh:obe:kt:sin]]** 犯罪
+  * **[[:zh:obe:other:punish]]** 被惩罚
+  * **[[:zh:obe:kt:death]]** 死，死亡
+  * **[[:zh:obe:other:sacrifice]]** 祭物
+  * **[[:zh:obe:kt:God]]** 上帝，神
+  * **[[:zh:obe:kt:forgive]]** 饶恕
 ===== Translation Notes: =====
 
 翻译注解：
