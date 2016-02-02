@@ -8,10 +8,10 @@ An angel told a **virgin** named **Mary** that she would give birth to **God's S
 
 ===== Important Terms: 重要术语 =====
 
-  * **[[:zh:obs:notes:key-terms:virgin|virgin 处女]]**
-  * **[[:zh:obs:notes:key-terms:mary|Mary 玛利亚]]**
-  * **God's Son 神的儿子**
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus 耶稣]]**
+  * **[[:zh:obe:other:virgin]]**
+  * **[[:zh:obe:other:Mary]]**
+  * **[[:zh:obe:kt:SonofGod]]**
+  * **[[:zh:obe:kt:Jesus]]**
 ===== Translation Notes: 翻译注解： =====
 
   * //(There are no notes for this frame.) （本章节没有注解）//
