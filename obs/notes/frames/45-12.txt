@@ -8,9 +8,9 @@ NOT TRANSLATED
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:zh:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:zh:obe:kt:baptize]]**
+  * **[[:zh:obe:kt:HolySpirit]]**
+  * **[[:zh:obe:kt:Jesus]]**
 
 
 ===== Translation Notes: =====
