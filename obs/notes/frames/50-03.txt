@@ -1,6 +1,6 @@
 ===== The Fields Are Ripe [50-03] =====
 
-<font 16px/inherit;;inherit;;inherit>地要成熟</font>
+地要成熟
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?nolink&}}
 
@@ -12,17 +12,17 @@ Many **people groups** still have not heard about **Jesus**. Before he returned 
 
 重要用语（词语）：
 
-  * **[[:zh:obs:notes:key-terms:people-group|people groups]]**
+  * **[[:zh:obe:other:peoplegroup]]**
   * **族群/部落**
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obe:kt:Jesus]]**
   * **耶稣**
-  * **[[:zh:obs:notes:key-terms:heaven|heaven]]**
+  * **[[:zh:obe:kt:heaven]]**
   * **天国/天堂**
-  * **[[:zh:obs:notes:key-terms:christian|Christians]]**
+  * **[[:zh:obe:kt:Christian]]**
   * **基督徒**
-  * **[[:zh:obs:notes:key-terms:good-news|good news]]**
+  * **[[:zh:obe:kt:goodnews]]**
   * **福音/好消息**
-  * **[[:zh:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:zh:obe:kt:disciple]]**
   * **信徒/门徒**
 ===== Translation Notes： =====
 
