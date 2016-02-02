@@ -10,15 +10,15 @@ For almost 2,000 years, more and more people around the world have been hearing 
 
 重要用语（词语）：
 
-  * **[[:zh:obs:notes:key-terms:good-news|good news]]**
+  * **[[:zh:obe:kt:goodnews]]**
   * **好消息/福音**
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obe:kt:Jesus]]**
   * **耶稣**
-  * **[[:zh:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:zh:obe:kt:Christ]]**
   * 弥赛亚
-  * **[[:zh:obs:notes:key-terms:church|Church]]**
+  * **[[:zh:obe:kt:church]]**
   * **教会**
-  * **[[:zh:obs:notes:key-terms:promise|promised]]**
+  * **[[:zh:obe:kt:promise]]**
   * **应许的**
 ===== Translation Notes: =====
 
