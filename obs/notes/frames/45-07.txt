@@ -11,18 +11,18 @@ A **disciple** of **Jesus**' named Philip was one of the **believers** who fled 
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/disciple|disciple]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:zh:obs:notes:key-terms/believer|believers]]**
-  * **[[:zh:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:zh:obs:notes:key-terms/persecute|persecution]]**
-  * **[[:zh:obs:notes:key-terms/samaria|Samaria]]**
-  * **[[:zh:obs:notes:key-terms/preach|preached]]**
-  * **[[:zh:obs:notes:key-terms/save|saved]]**
-  * **[[:zh:obs:notes:key-terms/angel|angel]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/chariot|chariot]]**
-  * **[[:zh:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:believer]]**
+  * **[[:zh:obe:other:Jerusalem]]**
+  * **[[:zh:obe:other:persecute]]**
+  * **[[:zh:obe:other:Samaria]]**
+  * **[[:zh:obe:other:preach]]**
+  * **[[:zh:obe:kt:save]]**
+  * **[[:zh:obe:kt:angel]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:chariot]]**
+  * **[[:zh:obe:kt:HolySpirit]]**
 
 
 ===== Translation Notes: =====
