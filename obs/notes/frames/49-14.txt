@@ -8,16 +8,16 @@
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus ]]** 耶稣
-  * **[[:zh:obs:notes:key-terms:believe|believe]]** 信，相信
-  * **[[:zh:obs:notes:key-terms:baptize|baptized ]]** 受洗
-  * **[[:zh:obs:notes:key-terms:messiah|Messiah]]** 弥赛亚
-  * **[[:zh:obs:notes:key-terms:god-son|Son of God ]]** 神的儿子
-  * **[[:zh:obs:notes:key-terms:sin|sinner ]]** 罪人
-  * **[[:zh:obs:notes:key-terms:god|God 上帝， 神]]**
-  * **[[:zh:obs:notes:key-terms:punish|punish ]]** 惩罚
-  * **[[:zh:obs:notes:key-terms:death|died ]]** 死
-  * **[[:zh:obs:notes:key-terms:cross|cross ]]** 十字架
+  * **[[:zh:obe:kt:Jesus]]** 耶稣
+  * **[[:zh:obe:kt:believe]]** 信，相信
+  * **[[:zh:obe:kt:baptize]]** 受洗
+  * **[[:zh:obe:kt:Christ]]** 弥赛亚
+  * **[[:zh:obe:kt:SonofGod]]** 神的儿子
+  * **[[:zh:obe:kt:sin]]** 罪人
+  * **[[:zh:obe:kt:God]]** 上帝， 神
+  * **[[:zh:obe:other:punish]]** 惩罚
+  * **[[:zh:obe:kt:death]]** 死
+  * **[[:zh:obe:kt:cross]]** 十字架
 ===== Translation Notes: 翻译注解 =====
 
   * **believe in him**  - This can also be translated as, "trust in him" or, "trust in him to save you" or, "entrust your whole life to him."
