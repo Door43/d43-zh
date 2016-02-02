@@ -1,6 +1,6 @@
 ===== The Weeds [50-06] =====
 
-<font 16px/inherit;;inherit;;inherit>** 草籽  **</font>
+** 草籽  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink&}}
 
@@ -12,11 +12,11 @@
 
 重要用语（词语）：
 
-  * **[[:zh:obs:notes:key-terms:servant|servants]]**
+  * **[[:zh:obe:other:servant]]**
   * **仆人**
-  * **[[:zh:obs:notes:key-terms:lord|Master]]**
+  * **[[:zh:obe:kt:Lord]]**
   * **主人**
-  * **[[:zh:obs:notes:key-terms:good|good]]**
+  * **[[:zh:obe:kt:good]]**
   * **好的/优良的**
 ===== Translation Notes: =====
 
