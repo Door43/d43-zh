@@ -5,12 +5,12 @@
 When **God created the world**, everything was **perfect**. **There was no sin**. **Adam** and **Eve** loved each other, and they loved God. **There was no sickness or death**. This was the way God wanted the world to be.
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/sin|sin]]**
-  * **[[:zh:obs:notes:key-terms/adam|Adam]]**
-  * **[[:zh:obs:notes:key-terms/eve|Eve]]**
-  * **[[:zh:obs:notes:key-terms/love|loved]]**
-  * **[[:zh:obs:notes:key-terms/death|death]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:other:Adam]]**
+  * **[[:zh:obe:other:Eve]]**
+  * **[[:zh:obe:kt:love]]**
+  * **[[:zh:obe:kt:death]]**
 
 
 ===== Translation Notes: =====
