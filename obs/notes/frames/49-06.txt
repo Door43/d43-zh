@@ -8,12 +8,12 @@
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus ]] ** 耶稣
-  * **[[:zh:obs:notes:key-terms:receive|receive ]]** 接受， 受到
-  * **[[:zh:obs:notes:key-terms:save|saved ]]** 被拯救
-  * **[[:zh:obs:notes:key-terms:good-news|good news 好消息， 福音]]**
-  * **[[:zh:obs:notes:key-terms:word-of-god|God's word 神的话]]**
-  * **his kingdom 他的国**
+  * **[[:zh:obe:kt:Jesus]]** 耶稣
+  * **[[:zh:obe:kt:receive]]** 接受， 受到
+  * **[[:zh:obe:kt:save]]** 被拯救
+  * **[[:zh:obe:kt:goodnews]]** 好消息， 福音
+  * **[[:zh:obe:kt:WordofGod]]** 神的话
+  * **[[:zh:obe:other:Kingdom]]** 他的国**
 ===== Translation Notes: =====
 
 翻译注解：
