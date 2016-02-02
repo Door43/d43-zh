@@ -8,13 +8,13 @@
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus ]]** 耶稣
-  * **[[:zh:obs:notes:key-terms:miracle|miracles 奇迹]]**
-  * **[[:zh:obs:notes:key-terms:god|God 上帝，神]]**
-  * **[[:zh:obs:notes:key-terms:heal|healed]] 医治， ****治愈**
-  * **[[:zh:obs:notes:key-terms:demon|demons 鬼]]**
-  * **[[:zh:obs:notes:key-terms:raise|raised 举起，升起]]。**
-  * **dead 死，死亡**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:miracle]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:heal]]**
+  * **[[:zh:obe:kt:demon]]**
+  * **[[:zh:obe:kt:raise]]**
+  * **[[:zh:obe:kt:death]]**
 ===== Translation Notes: 翻译注解： =====
 
   * **drove out demons**  - That is, "made demons come out of people."
