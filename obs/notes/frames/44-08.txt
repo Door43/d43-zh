@@ -8,16 +8,16 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/peter|Peter]]**
-  * **[[:zh:obs:notes:key-terms/heal|healed]]**
-  * **[[:zh:obs:notes:key-terms/power|power]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:zh:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/raise|raised]]**
-  * **[[:zh:obs:notes:key-terms/life|life]]**
-  * **[[:zh:obs:notes:key-terms/save|saved]]**
+  * **[[:zh:obe:other:Peter]]**
+  * **[[:zh:obe:other:heal]]**
+  * **[[:zh:obe:kt:power]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Christ]]**
+  * **[[:zh:obe:kt:crucify]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:raise]]**
+  * **[[:zh:obe:kt:life]]**
+  * **[[:zh:obe:kt:save]]**
 
 
 ===== Translation Notes: =====
