@@ -8,9 +8,9 @@
 
 ===== Important Term 重要的术语 =====
 
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus ]]** 耶稣
-  * **[[:zh:obs:notes:key-terms:god-son|Son of God ]]** 神的儿子
-  * **[[:zh:obs:notes:key-terms:love|love 爱]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Sonofgod]]**
+  * **[[:zh:obe:kt:love]]**
 ===== Translation Notes: =====
 
 翻译注解：
