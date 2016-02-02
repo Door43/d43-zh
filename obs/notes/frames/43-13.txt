@@ -8,12 +8,12 @@ The **disciples** continually listened to the teaching of the **apostles**, spen
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/apostle|apostles]]**
-  * **[[:zh:obs:notes:key-terms/pray|prayed]]**
-  * **[[:zh:obs:notes:key-terms/praise|praising]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/believer|believers]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:kt:apostle]]**
+  * **[[:zh:obe:other:pray]]**
+  * **[[:zh:obe:other:praise]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:believer]]**
 
 
 ===== Translation Notes: =====
