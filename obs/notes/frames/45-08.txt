@@ -8,10 +8,10 @@ NOT TRANSLATED
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/chariot|chariot]]**
-  * **[[:zh:obs:notes:key-terms/isaiah|prophet Isaiah]]**
-  * **[[:zh:obs:notes:key-terms/lamb|lamb]]**
-  * **[[:zh:obs:notes:key-terms/life|life]]**
+  * **[[:zh:obe:other:chariot]]**
+  * **[[:zh:obe:other:Isaiah]]**
+  * **[[:zh:obe:kt:lamb]]**
+  * **[[:zh:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
