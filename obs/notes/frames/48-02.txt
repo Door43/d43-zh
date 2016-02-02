@@ -8,12 +8,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms:satan|Satan]]**
-  * **[[:zh:obs:notes:key-terms:eve|Eve]]**
-  * **[[:zh:obs:notes:key-terms:adam|Adam]]**
-  * **[[:zh:obs:notes:key-terms:sin|sinned]]**
-  * **[[:zh:obs:notes:key-terms:god|God]]**
-  * **[[:zh:obs:notes:key-terms:death|dies]]**
+  * **[[:zh:obe:kt:Satan]]**
+  * **[[:zh:obe:other:Eve]]**
+  * **[[:zh:obe:other:Adam]]**
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:death]]**
 ===== Translation Notes: =====
 
 翻译注解“
