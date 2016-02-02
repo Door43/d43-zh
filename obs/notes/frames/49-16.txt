@@ -8,11 +8,11 @@ If you are a **Christian**, **God** has **forgiven** your **sins** because of wh
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obs:notes:frames:christian|Christian ]]** 基督徒
-  * **[[:zh:obs:notes:frames:god|God 上帝， 神]]**
-  * **[[:zh:obs:notes:frames:forgiven|forgiven ]]** 赦免，饶恕
-  * **[[:zh:obs:notes:frames:sins|sins]]** 罪
-  * **[[:zh:obs:notes:frames:jesus|Jesus ]]** 耶稣
+  * **[[:zh:obe:kt:Christian]]** 基督徒
+  * **[[:zh:obe:kt:God]]** 上帝， 神
+  * **[[:zh:obe:kt:forgive]]** 赦免，饶恕
+  * **[[:zh:obe:kt:sin]]** 罪
+  * **[[:zh:obe:kt:Jesus]]** 耶稣
 ===== Translation Notes: =====
 
 翻译注解：
