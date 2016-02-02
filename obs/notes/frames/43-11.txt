@@ -8,14 +8,15 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/peter|Peter]]**
-  * **[[:zh:obs:notes:key-terms/repent|repent]]**
-  * **[[:zh:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]] [[:zh:obs:notes:key-terms/messiah|Christ]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/forgive|forgive]]**
-  * **[[:zh:obs:notes:key-terms/sin|sins]]**
-  * **[[:zh:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
+  * **[[:zh:obe:other:Peter]]**
+  * **[[:zh:obe:kt:repent]]**
+  * **[[:zh:obe:kt:baptize]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Christ]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:forgive]]**
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:kt:HolySpirit]]**
 
 
 ===== Translation Notes: =====
