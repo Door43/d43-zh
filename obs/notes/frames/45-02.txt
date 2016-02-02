@@ -8,14 +8,14 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/jew|Jews]]**
-  * **[[:zh:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:zh:obs:notes:key-terms/evil|evil]]**
-  * **[[:zh:obs:notes:key-terms/moses|Moses]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:zh:obs:notes:key-terms/witness|witnesses]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:other:Jew]]**
+  * **[[:zh:obe:other:Jewishleaders]]**
+  * **[[:zh:obe:kt:evil]]**
+  * **[[:zh:obe:other:Moses]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:highpriest]]**
+  * **[[:zh:obe:kt:witness]]**
 
 
 ===== Translation Notes: =====
