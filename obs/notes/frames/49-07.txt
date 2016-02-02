@@ -8,11 +8,11 @@
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obe:kt:Jesus]]** 耶稣
-  * **[[:zh:obe:kt:God]]** 上帝， 神
-  * **[[:zh:obe:kt:love]]** 爱
-  * **[[:zh:obe:kt:sin]]** 罪人们
-  * **[[:zh:obe:kt:forgive]]** 饶恕
+  * **[[:zh:obe:kt:Jesus]]** 
+  * **[[:zh:obe:kt:God]]** 
+  * **[[:zh:obe:kt:love]]** 
+  * **[[:zh:obe:kt:sin]]** 
+  * **[[:zh:obe:kt:forgive]]** 
 ===== Translation Notes: 翻译注解： =====
 
   * //(There are no notes for this frame.) （本章节没有注解）//
