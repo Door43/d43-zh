@@ -8,13 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/suffer|suffering]]**
-  * **[[:zh:obs:notes:key-terms/evil|evil]]**
-  * **[[:zh:obs:notes:key-terms/death|death]]**
-  * **[[:zh:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-  * **[[:zh:obs:notes:key-terms/peace|peace]]**
-  * **[[:zh:obs:notes:key-terms/justice|justice]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:suffer]]**
+  * **[[:zh:obe:kt:evil]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:kt:kingdomofGod]]**
+  * **[[:zh:obe:other:peace]]**
+  * **[[:zh:obe:kt:justice]]**
 
 
 ===== Translation Notes: =====
