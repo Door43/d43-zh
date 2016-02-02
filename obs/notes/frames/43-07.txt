@@ -8,15 +8,15 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/raise|raised]]**
-  * **[[:zh:obs:notes:key-terms/death|dead]]**
-  * **[[:zh:obs:notes:key-terms/fulfill|fulfills]]**
-  * **[[:zh:obs:notes:key-terms/prophet|prophecy]]**
-  * **[[:zh:obs:notes:key-terms/messiah|Holy One]]**
-  * **[[:zh:obs:notes:key-terms/witness|witnesses]]**
-  * **[[:zh:obs:notes:key-terms/life|life]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:raise]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:kt:fulfill]]**
+  * **[[:zh:obe:kt:prophet]]**
+  * **[[:zh:obe:kt:Christ]]**
+  * **[[:zh:obe:kt:witness]]**
+  * **[[:zh:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
