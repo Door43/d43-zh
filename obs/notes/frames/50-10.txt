@@ -8,12 +8,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/angel|angels]]**
-  * **[[:zh:obs:notes:key-terms/satan|devil]]**
-  * **[[:zh:obs:notes:key-terms/suffer|suffering]]**
-  * **[[:zh:obs:notes:key-terms/righteous|righteous]]**
-  * **[[:zh:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-  * **[[:zh:obs:notes:key-terms/god-father|God their Father]]**
+  * **[[:zh:obe:kt:angel]]**
+  * **[[:zh:obe:kt:satan]]**
+  * **[[:zh:obe:kt:suffer]]**
+  * **[[:zh:obe:kt:righteous]]**
+  * **[[:zh:obe:kt:KingdomofGod]]**
+  * **[[:zh:obe:kt:GodtheFather]]**
 
 
 ===== Translation Notes: =====
