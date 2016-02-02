@@ -8,10 +8,10 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/peter|Peter]]**
-  * **[[:zh:obs:notes:key-terms/john|John]]**
-  * **[[:zh:obs:notes:key-terms/temple|Temple]]**
-  * **[[:zh:obs:notes:key-terms/beg|begging]]**
+  * **[[:zh:obe:other:Peter]]**
+  * **[[:zh:obe:other:JohntheApostle]]**
+  * **[[:zh:obe:kt:Temple]]**
+  * **[[:zh:obe:other:beg]]**
 
 
 ===== Translation Notes: =====
