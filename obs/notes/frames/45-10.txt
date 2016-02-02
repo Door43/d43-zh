@@ -8,10 +8,10 @@ NOT TRANSLATED
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/isaiah|Isaiah]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/word-of-god|scriptures]]**
-  * **[[:zh:obs:notes:key-terms/good-news|good news]]**
+  * **[[:zh:obe:other:Isaiah]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:WordofGod]]**
+  * **[[:zh:obe:kt:goodnews]]**
 
 
 ===== Translation Notes: =====
