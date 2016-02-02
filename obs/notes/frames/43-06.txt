@@ -9,12 +9,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/israel|Israel]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/miracle|signs and wonders]]**
-  * **[[:zh:obs:notes:key-terms/power|power]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:vi:key-terms/crucify|crucified]]**
+  * **[[:zh:obe:other:Israel]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:miracle]]**
+  * **[[:zh:obe:kt:power]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:kt:crucify]]**
 
 
 ===== Translation Notes: =====
