@@ -8,9 +8,9 @@
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus]] ** 耶稣
-  * **[[:zh:obs:notes:key-terms:kingdom-of-god|kingdom of God]]** 天国, 神的国
-  * **[[:zh:obs:notes:key-terms:save|saved]]** 被拯救
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:kingdomofGod]]** 天国, 神的国
+  * **[[:zh:obe:kt:save]]** 被拯救
   * **[[:zh:obs:notes:key-terms:sin|sin]] 罪性**
 ===== Translation Notes: =====
 
