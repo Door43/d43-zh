@@ -8,11 +8,11 @@
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obe:kt:God]]** 上帝，神
-  * **[[:zh:obe:other:pray]]** 祷告
-  * **[[:zh:obe:kt:WordofGod]]** 他的话语
-  * **[[:zh:obe:kt:worship]]** 敬拜
-  * **[[:zh:obe:kt:Christian]]** 基督徒
+  * **[[:zh:obe:kt:God]]** 
+  * **[[:zh:obe:other:pray]]** 
+  * **[[:zh:obe:kt:WordofGod]]** 
+  * **[[:zh:obe:kt:worship]]** 
+  * **[[:zh:obe:kt:Christian]]** 
 ===== Translation Notes: =====
 
 翻译注解：
