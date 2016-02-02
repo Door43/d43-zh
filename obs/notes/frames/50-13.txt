@@ -8,12 +8,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/promise|promised]]**
-  * **[[:zh:obs:notes:key-terms/believe|believes]]**
-  * **[[:zh:obs:notes:key-terms/life|live]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/peace|peace]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:promise]]**
+  * **[[:zh:obe:kt:believe]]**
+  * **[[:zh:obe:kt:life]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:peace]]**
 
 
 ===== Translation Notes: =====
