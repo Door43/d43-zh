@@ -5,14 +5,12 @@
 The next day **the leaders of the city** released **Paul** and **Silas** from prison and asked them to leave **Philippi**. Paul and Silas visited **Lydia** and some other friends and then left the city. **The good news about Jesus kept spreading**, and **the Church kept growing**.
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/paul|Paul]]**
-  * **[[:zh:obs:notes:key-terms/silas|Silas]]**
-  * **[[:zh:obs:notes:key-terms/philippi|Philippi]]**
-  * **[[:zh:obs:notes:key-terms/good-news|good news]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/church|Church]]**
-
-
+  * **[[:zh:obe:other:Paul]]**
+  * **[[:zh:obe:other:Silas]]**
+  * **[[:zh:obe:other:Philippi]]**
+  * **[[:zh:obe:kt:goodnews]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:church]]**
 ===== Translation Notes: =====
 
   * **the leaders of the city** - This refers to, "the officials of the city" or, "the authorities of the city."
