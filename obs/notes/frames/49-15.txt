@@ -8,13 +8,13 @@ If you **believe** in **Jesus** and what he has done for you, you are a **Christ
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obs:notes:key-terms:believe|believe ]]** 相信，信
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]** 耶稣
-  * **[[:zh:obs:notes:key-terms:christian|Christian ]]** 基督徒
-  * **[[:zh:obs:notes:key-terms:god|God 上帝， 神]]**
-  * **[[:zh:obs:notes:key-terms:satan|Satan's ]]** 撒旦的
-  * **[[:zh:obs:notes:key-terms:kingdom|kingdom ]]** 王国
-  * **[[:zh:obs:notes:key-terms:kingdom-of-god|God's kingdom ]]** 神国， 神的国度
+  * **[[:zh:obe:kt:believe]]** 相信，信
+  * **[[:zh:obe:kt:]]** 耶稣
+  * **[[:zh:obe:kt:Christian]]** 基督徒
+  * **[[:zh:obe:kt:God]]** 上帝， 神
+  * **[[:zh:obe:kt:Satan]]** 撒旦的
+  * **[[:zh:obe:other:kingdom]]** 王国
+  * **[[:zh:obe:kt:KingdomofGod]]** 神国， 神的国度
 ===== Translation Notes: =====
 
 翻译注解：
