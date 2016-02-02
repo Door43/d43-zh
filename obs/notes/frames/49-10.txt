@@ -8,14 +8,14 @@
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obe:kt:sin]]** 罪
-  * **[[:zh:obe:kt:guilt]]** 有罪
-  * **[[:zh:obe:kt:death]]** 死
-  * **[[:zh:obe:kt:God]]** 上帝， 神
-  * **[[:zh:obe:kt:Jesus]]** 耶稣
-  * **[[:zh:obe:kt:cross]]** 十字架
-  * **[[:zh:obe:kt:receive]]** 接受
-  * **[[:zh:obe:other:punish]]** 惩罚
+  * **[[:zh:obe:kt:sin]]** 
+  * **[[:zh:obe:kt:guilt]]** 
+  * **[[:zh:obe:kt:death]]** 
+  * **[[:zh:obe:kt:God]]** 
+  * **[[:zh:obe:kt:Jesus]]** 
+  * **[[:zh:obe:kt:cross]]** 
+  * **[[:zh:obe:kt:receive]]** 
+  * **[[:zh:obe:other:punish]]** 
 ===== Translation Notes: =====
 
 翻译注解：
