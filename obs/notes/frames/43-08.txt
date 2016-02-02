@@ -8,10 +8,10 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/god-father|God the Father]]**
-  * **[[:zh:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:zh:obs:notes:key-terms/promise|promised]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:GodtheFather]]**
+  * **[[:zh:obe:kt:HolySpirit]]**
+  * **[[:zh:obe:kt:promise]]**
 
 
 ===== Translation Notes: =====
