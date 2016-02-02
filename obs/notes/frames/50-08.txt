@@ -8,11 +8,11 @@ The **disciples** did not understand the meaning of the story, so they asked **J
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/good|good]]**
-  * **[[:zh:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:zh:obs:notes:key-terms/kingdom-of-god|God's kingdom]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:good]]**
+  * **[[:zh:obe:kt:Christ]]**
+  * **[[:zh:obe:kt:kingdomofGod]]**
 
 
 ===== Translation Notes: =====
