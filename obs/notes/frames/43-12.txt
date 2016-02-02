@@ -8,13 +8,13 @@ About 3,000 people **believed** what **Peter** said and became **disciples** of 
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/believe|believed]]**
-  * **[[:zh:obs:notes:key-terms/peter|Peter]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:zh:obs:notes:key-terms/church|church]]**
-  * **[[:zh:obs:notes:key-terms/jerusalem|Jerusalem]]**
+  * **[[:zh:obe:kt:believe]]**
+  * **[[:zh:obe:other:Peter]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:baptize]]**
+  * **[[:zh:obe:kt:church]]**
+  * **[[:zh:obe:other:Jerusalem]]**
 
 
 ===== Translation Notes: =====
