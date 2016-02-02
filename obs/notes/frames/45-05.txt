@@ -8,12 +8,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/receive|receive]]**
-  * **[[:zh:obs:notes:key-terms/spirit|spirit]]**
-  * **[[:zh:obs:notes:key-terms/lord|Master]]**
-  * **[[:zh:obs:notes:key-terms/sin|sin]]**
-  * **[[:zh:obs:notes:key-terms/death|died]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:receive]]**
+  * **[[:zh:obe:kt:spirit]]**
+  * **[[:zh:obe:kt:Lord]]**
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:kt:death]]**
 
 
 ===== Translation Notes: =====
