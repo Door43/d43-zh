@@ -8,16 +8,16 @@
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obe:kt:save]]** 救
-  * **[[:zh:obe:kt:God]]** 上帝，神
-  * **[[:zh:obe:kt:Jesus]]** 耶稣
-  * **[[:zh:obe:kt:sin]]** 罪
-  * **[[:zh:obe:kt:believe]]** 信， 相信
-  * **[[:zh:obe:kt:SonofGod]]** 神的儿子
-  * **[[:zh:obe:kt:death]]** 死
-  * **[[:zh:obe:kt:cross]]** 十字架
-  * **[[:zh:obe:kt:raise]]** 升起，举起
-  * **[[:zh:obe:kt:life]]** 生命
+  * **[[:zh:obe:kt:save]]** 
+  * **[[:zh:obe:kt:God]]** 
+  * **[[:zh:obe:kt:Jesus]]** 
+  * **[[:zh:obe:kt:sin]]** 
+  * **[[:zh:obe:kt:believe]]** 
+  * **[[:zh:obe:kt:SonofGod]]** 
+  * **[[:zh:obe:kt:death]]** 
+  * **[[:zh:obe:kt:cross]]** 
+  * **[[:zh:obe:kt:raise]]** 
+  * **[[:zh:obe:kt:life]]** 
 ===== Translation Notes: =====
 
 翻译注解：
