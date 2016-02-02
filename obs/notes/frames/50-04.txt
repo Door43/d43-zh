@@ -12,19 +12,19 @@
 
 重要用语（词语）：
 
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:zh:obe:kt:Jesus]]**
   * **耶稣**
-  * **[[:zh:obs:notes:key-terms:servant|servant]]**
+  * **[[:zh:obe:other:servant]]**
   * **仆人**
-  * **[[:zh:obs:notes:key-terms:lord|master]]**
+  * **[[:zh:obe:kt:Lord]]**
   * **主人**
-  * **[[:zh:obs:notes:key-terms:suffer|suffer]]**
+  * **[[:zh:obe:kt:suffer]]**
   * **受苦/受难**
-  * **[[:zh:obs:notes:key-terms:satan|Satan]]**
+  * **[[:zh:obe:kt:Satan]]**
   * **撒旦**
-  * **[[:zh:obs:notes:key-terms:faithful|faithful]]**
+  * **[[:zh:obe:kt:faithful]]**
   * **信实的/忠实的**
-  * **[[:zh:obs:notes:key-terms:save|save]]**
+  * **[[:zh:obe:kt:save]]**
   * **拯救**
 ===== Translation Notes: =====
 
