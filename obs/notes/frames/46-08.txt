@@ -8,13 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/paul|Saul]]**
-  * **[[:zh:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:zh:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:zh:obs:notes:key-terms/believer|believer]]**
-  * **[[:zh:obs:notes:key-terms/barnabas|Barnabas]]**
-  * **[[:zh:obs:notes:key-terms/apostle|apostles]]**
-  * **[[:zh:obs:notes:key-terms/preach|preached]]**
+  * **[[:zh:obe:other:Paul]]**
+  * **[[:zh:obe:other:Jerusalem]]**
+  * **[[:zh:obe:kt:disciple]]**
+  * **[[:zh:obe:kt:believer]]**
+  * **[[:zh:obe:other:Barnabas]]**
+  * **[[:zh:obe:kt:apostle]]**
+  * **[[:zh:obe:other:preach]]**
 
 
 ===== Translation Notes: =====
