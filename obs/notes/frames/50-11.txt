@@ -9,10 +9,10 @@
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/christian|Christian]]**
-  * **[[:zh:obs:notes:key-terms/death|died]]**
-  * **[[:zh:obs:notes:key-terms/raise|rise]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:kt:Christian]]**
+  * **[[:zh:obe:kt:death]]**
+  * **[[:zh:obe:kt:raise]]**
 
 
 ===== Translation Notes: =====
