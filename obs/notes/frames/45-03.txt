@@ -8,16 +8,16 @@ The **high priest** asked Stephen, “**Are these things true**?” Stephen repl
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:zh:obs:notes:key-terms/true|true]]**
-  * **[[:zh:obs:notes:key-terms/god|God]]**
-  * **[[:zh:obs:notes:key-terms/abraham|Abraham]]**
-  * **[[:zh:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:zh:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:zh:obs:notes:key-terms/rebel|rebellious]]**
-  * **[[:zh:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:zh:obs:notes:key-terms/prophet|prophets]]**
-  * **[[:zh:obs:notes:key-terms/messiah|Messiah]]**
+  * **[[:zh:obe:kt:highpriest]]**
+  * **[[:zh:obe:kt:true]]**
+  * **[[:zh:obe:kt:God]]**
+  * **[[:zh:obe:other:Abraham]]**
+  * **[[:zh:obe:kt:Jesus]]**
+  * **[[:zh:obe:other:disobey]]**
+  * **[[:zh:obe:other:rebel]]**
+  * **[[:zh:obe:kt:HolySpirit]]**
+  * **[[:zh:obe:kt:prophet]]**
+  * **[[:zh:obe:kt:Christ]]**
 
 
 ===== Translation Notes: =====
