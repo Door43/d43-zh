@@ -8,13 +8,13 @@
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obe:kt:Jesus]]** 耶稣
-  * **[[:zh:obe:kt:God]]** 上帝， 神
-  * **[[:zh:obe:kt:sin]]** 罪性
-  * **[[:zh:obe:other:Adam]]** 亚当
-  * **[[:zh:obe:other:Eve]]** 夏娃
-  * **[[:zh:obe:kt:sin]]** 犯罪
-  * **[[:zh:obe:other:descendant]]** 后代， 后裔
+  * **[[:zh:obe:kt:Jesus]]** 
+  * **[[:zh:obe:kt:God]]** 
+  * **[[:zh:obe:kt:sin]]** 
+  * **[[:zh:obe:other:Adam]]** 
+  * **[[:zh:obe:other:Eve]]** 
+  * **[[:zh:obe:kt:sin]]** 
+  * **[[:zh:obe:other:descendant]]** 
 ===== Translation Notes: =====
 
 翻译注解：
