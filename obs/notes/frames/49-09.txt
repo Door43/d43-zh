@@ -8,17 +8,14 @@ But **God loved** everyone in the world so much that he **gave his only Son** so
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obs:notes:key-terms:god|God 上帝，神]]**
-  * **[[:zh:obs:notes:key-terms:love|loved 爱，被爱的]]**
-  * **[[:zh:obs:notes:key-terms:god-son|Son 儿子]]**
-  * **[[:zh:obs:notes:key-terms:believe|believes 相信]]**
-  * **[[:zh:obs:notes:key-terms:jesus|Jesus 耶稣]]**
-  * **[[:zh:obs:notes:key-terms:punish|punished 惩罚， 受]]** **__
-惩罚
-
-</font> __ **
-  * **sins 罪**
-  * **[[:zh:obs:notes:key-terms:life|live 活]]**
+  * **[[:zh:obe:kt:God]]** 上帝，神
+  * **[[:zh:obe:kt:love]]** 爱，被爱的
+  * **[[:zh:obe:kt:SonofGod]]** 儿子
+  * **[[:zh:obe:kt:believe]]** 相信
+  * **[[:zh:obe:kt:Jesus]]** 耶稣
+  * **[[:zh:obe:other:punish]]** 惩罚， 受_
+  * **[[:zh:obe:kt:sin]]**
+  * **[[:zh:obe:kt:life]]** 活
 ===== Translation Notes: =====
 
 翻译注解：
