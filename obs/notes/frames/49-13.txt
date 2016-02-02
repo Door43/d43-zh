@@ -8,13 +8,13 @@
 
 ===== Important Terms: 重要的术语 =====
 
-  * **[[:zh:obe:kt:God]]** 上帝， 神
-  * **[[:zh:obe:kt:save]]** 拯救
-  * **[[:zh:obe:kt:believe]]** 相信
-  * **[[:zh:obe:kt:Jesus]]** 耶稣
-  * **[[:zh:obe:kt:receive]]** 接受
-  * **[[:zh:obe:kt:Lord]]** 主人
-  * **[[:zh:obe:kt:love]]** 爱
+  * **[[:zh:obe:kt:God]]** 
+  * **[[:zh:obe:kt:save]]** 
+  * **[[:zh:obe:kt:believe]]** 
+  * **[[:zh:obe:kt:Jesus]]** 
+  * **[[:zh:obe:kt:receive]]** 
+  * **[[:zh:obe:kt:Lord]]** 
+  * **[[:zh:obe:kt:love]]** 
 ===== Translation Notes: =====
 
 翻译注解：
