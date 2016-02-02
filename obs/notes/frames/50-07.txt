@@ -1,6 +1,6 @@
 ===== Wait for the Harvest [50-07] =====
 
-<font 16px/inherit;;inherit;;inherit>** 等待收获  **</font>
+** 等待收获  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
@@ -12,9 +12,9 @@
 
 重要用语（词语）：
 
-  * **[[:zh:obs:notes:key-terms:servant|servants]]**
+  * **[[:zh:obe:other:servant]]**
   * **仆人**
-  * **[[:zh:obs:notes:key-terms:lord|master]]**
+  * **[[:zh:obe:kt:Lord]]**
   * **主人**
 ===== Translation Notes: =====
 
