@@ -8,8 +8,8 @@ NOT TRANSLATED
 
 ===== Important Terms: =====
 
-  * **[[:zh:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:zh:obs:notes:key-terms/chariot|chariot]]**
+  * **[[:zh:obe:kt:baptize]]**
+  * **[[:zh:obe:other:chariot]]**
 
 
 ===== Translation Notes: =====
