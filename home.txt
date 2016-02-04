@@ -1,18 +1,17 @@
-======  ======
+  
+===== Door43 (Mandarin) =====
 
+Welcome to Door43, an openly-collaborative platform for creating, translating, and distributing open-licensed discipleship resources in any language.
 
-====== Door43 (zh) ======
+==== Resources ====
 
+These are the resources currently available for translation and use:
 
-Welcome to Door43! Please feel free to [[:zh:home?do=edit|edit]] this page in your own language.
-
-
-
-
-
-===== Resources =====
-
-  * **[[:zh:obs|打开圣经故事 (zh)]]**
+  * **[[:zh:obs|打开圣经故事]]** – A visual mini-Bible in any language, in text, audio, and video formats.​
+  * [[:zh:obs:notes|translationNotes]] – Translation and exegetical notes for Open Bible Stories.
+  * [[:zh:lexicon|Open Bible Lexicon]] – A Biblical lexicon, intended for integration with Open Bible Stories and Bible translations.
+  * [[:zh:library|Open Christian Library]] – A growing catalog of open-licensed Biblical resources.
+  * [[:zh:ta|translationAcademy]] – A modular, media-based, self-paced training course for translators and translation facilitators. 
   * [[https://www.dropbox.com/s/d1z69wi1rfnke1b/Translation Textbook.pdf?dl=0|圣经翻译原则]]（译自Katy Barnwell的著作）
   * [[https://www.dropbox.com/s/53036yobhijpzsh/Semantics Textbook.pdf|语义学与翻译导论，译自SIL教材（zh）]]
   * [[https://www.dropbox.com/s/hanto91kydvigw1/BTandUse_JChung_BT2011_TransformChiDiasporaLaityViaBT_Chin.pptx|动员华人信徒参与圣经翻译]]
@@ -20,8 +19,24 @@ Welcome to Door43! Please feel free to [[:zh:home?do=edit|edit]] this page in yo
   * [[http://tushuoyiwen.blogspot.hk/|話題：聖經、猶太文化、希伯來文、希臘文、翻譯、編輯]]
   * [[http://bibletranslation-hk.blogspot.hk/p/blog-page_4.html|一個香港律師看中文聖經翻譯]]
   * [[http://www.translatebible.com|聖经、中文、翻译（繁体）]]
-  *
+  * [[http://bible.fhl.net/gbdoc/new/fhlwhparsing.html|中文线上希腊语圣经WH新约parsing]]
+  * [[http://www.themelios-genji.net/index.html|中文网上新约希腊语教程]]
 
-[[http://bible.fhl.net/gbdoc/new/fhlwhparsing.html|中文线上希腊语圣经WH新约parsing]]
 
-[[http://www.themelios-genji.net/index.html|中文网上新约希腊语教程]]
+
+==== About Door43 ====
+
+  * **[[:zh:get-started|How to Get Started]]** – Get started translating!
+  * **[[:zh:ta:vol1:intro:statement_of_faith|Statement of Faith]]** – The Statement of Faith, with which all Door43 contributors agree.
+  * **[[:zh:ta:vol1:intro:translation_guidelines|Translation Guidelines]]** – The principles and procedures that all contributors must follow.
+  * **[[:zh:ta:vol1:intro:open_license|Copyrights & Licensing]]** – All content on this website is made available under the terms of a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]].
+  * **[[:zh:technical|Technical Details]]** – The technology behind Door43.
+
+==== Extending Door43 ====
+
+Door43 is in active development, as we expand the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[:en:dev|Door43 Development]]**.
+
+----
+
+//"Pray… that God may open to us a **door**  for the Word." —Colossians **4**:**3**  //
+
