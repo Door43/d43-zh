@@ -1,7 +1,11 @@
 ====== 開源 圣經故事（簡體中文） ======
 
 
-{{  :en:obs-pic_360p.jpg?nolink&300}}**50 key stories of the Bible, from Creation to Revelation, for evangelism & discipleship, in text, audio, and video, on any mobile phone, in any language, for free.**
+====== Open Bible Stories ======
+
+**50 key stories of the Bible, from Creation to Revelation, for evangelism & discipleship, in text, audio, and video, on any mobile phone, in any language, for free.**
+
+{{  :obs:obs-homepage-web.jpg?nolink&  }}
 
 ==== A Free & Open Visual Mini-Bible ====
 
@@ -12,6 +16,7 @@ To find out more about Open Bible Stories, visit [[https://unfoldingword.org/sto
 ==== How You Can Help ====
 
 Feel free to join the Open Bible Stories translation team and start a new translation, complete one that has already been started, or help check a completed translation. Learn more about [[:en:get-started|how you can get started]] or read the [[:en:obs:help|help section]].
+
 
 ==== Stories in Mandarin ====
 {{page>zh:obs:stories}}
