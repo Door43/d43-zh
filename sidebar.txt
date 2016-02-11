@@ -1,13 +1,54 @@
-
-----
-
 **Door43**
 
-  * [[zh:home|Door43 (zh)]]
+  * [[zh:home|Door43 (Mandarin)]]
+
+**Help**
+
+  * [[:zh:ta|translationAcademy]]
+  * [[:zh:get-started|How to Get Started]]
+  * [[:zh:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  * [[zh:obs|Open Bible Stories (zh)]]
+  *  [[:zh:obs|Open Bible Stories]]
+      * [[:zh:obs:notes|translationNotes]]
+      * [[:zh:obs:notes:questions:home|translationQuestions]]
+      * [[:zh:obe:home|translationWords]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:zh:bible:intro|Bible (Mandarin)]]
+      * [[:zh:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:zh:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:zh:bible:notes:home|translationNotes]]
+      * [[:zh:bible:questions:comprehension:home|translationQuestions]]
+      * [[:zh:obe:home|translationWords]]
+  * [[:zh:ta|translationAcademy ]]
+      * [[:zh:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:zh:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:zh:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:zh:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:zh:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+
+**About Door43**
+
+  * [[:zh:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:zh:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:zh:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
