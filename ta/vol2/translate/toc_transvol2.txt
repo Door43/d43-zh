@@ -58,5 +58,3 @@ This module answers the question: What is in Volume 2 of the translation manual?
 
   - [[:en:ta:vol2:translate:translate_numbers|Translate Numbers]]
   - [[:en:ta:vol2:translate:writing_background|Writing Styles - Background Information]]
-
-  -
