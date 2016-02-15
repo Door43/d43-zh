@@ -1,0 +1,144 @@
+===== The unfoldingWord Project =====
+
+This module answers the question: What is the unfoldingWord Project?\\
+Before you start this module have you learned about:
+
+  *
+
+[[https://door43.org/en/ta/vol1/intro/ta_intro|Introduction to translationAcademy]]
+
+This section explains:
+
+  *
+
+Why the unfoldingWord project exists and why we do what we do
+
+  *
+
+How we go about trying to accomplish that goal
+
+  *
+
+What we do to meet that goal
+
+Edit
+
+==== Why ====
+
+Jesus commanded his disciples to make disciples of EVERY people group:
+
+“Jesus came to them and spoke to them and said, “All authority has been given to me in heaven and on earth. Go therefore and make disciples of all the nations. Baptize them into the name of the Father, of the Son, and of the Holy Spirit. Teach them to obey all the things that I have commanded you. And see, I am with you always, even to the end of the world.” -Matthew 28:18-20 (ULB)
+
+We have the promise that one day representatives from EVERY language will be in heaven:
+
+“After these things I saw, and behold, there was a great crowd, which no one was able to number, out of every nation, tribe, people, and language, standing before the throne and before the Lamb. ” -Revelation 7:9 (ULB)
+
+Understanding the WORD OF GOD in one's heart language is so important:
+
+“So faith comes from hearing, and hearing by the word of Christ.” -Romans 10:17 (ULB)
+
+So, why do we do what we do?
+
+The unfoldingWord project exists because every people group deserves to have the Word of God in their language. To this end we seek to make disciples of all nations by helping to provide **unrestricted biblical content in every language of the world**.
+
+Edit
+
+==== How ====
+
+How do we accomplish our goal of **unrestricted biblical content in every language**?
+
+  *
+
+The unfoldingWord Network - By partnering with other like-minded organizations (see [[https://unfoldingword.org/|https://unfoldingword.org]] )
+
+  *
+
+[[https://door43.org/en/ta/vol1/intro/statement_of_faith|Statement of Faith]] - By working with people and organizations who have the same beliefs
+
+  *
+
+[[https://door43.org/en/ta/vol1/intro/translation_guidelines|Translation Guidelines]] - By using a common translation theory
+
+  *
+
+[[https://door43.org/en/ta/vol1/intro/open_license|Open License]] - By releasing everything we create under an open license
+
+  *
+
+[[https://door43.org/en/ta/vol1/intro/gl_strategy|Gateway Languages Strategy]] - By making Biblical content available to translate from a known language
+
+Edit
+
+==== What ====
+
+What do we do?
+
+  *
+
+**Open-licensed content** - We create and make available for translation free and unrestricted biblical content
+      *
+
+**Open Bible Stories** - a chronological mini-Bible comprising 50 key stories of the Bible, from Creation to Revelation, for evangelism and discipleship, in print, audio, and video (see [[https://unfoldingword.org/stories/|https://unfoldingword.org/stories/]] )
+      *
+
+**the Bible** - the only inspired, inerrant, sufficient, authoritative Word of God made available under an open license for unrestricted translation, use, and distribution (see [[https://unfoldingword.org/bible/|https://unfoldingword.org/bible/]] )
+      *
+
+**translationNotes** - linguistic, cultural, and exegetical helps created for translators. They exist for Open Bible Stories and for the Bible (see [[https://unfoldingword.org/translationnotes/|https://unfoldingword.org/translationnotes/]] )
+      *
+
+**translationQuestions** - questions for each chunk of text that the translators and checkers can ask to help insure that the translation is being understood correctly. Available for Open Bible Stories and for the Bible (see [[https://unfoldingword.org/translationquestions/|https://unfoldingword.org/translationquestions/]] ).
+      *
+
+**translationWords** - a list of important Biblical terms with a short explanation, cross references, and translation aids. Useful for Open Bible Stories and the Bible (see [[https://unfoldingword.org/translationwords/|https://unfoldingword.org/translationwords/]] ).
+  *
+
+**Tools** - We create translation, checking, and distribution tools (all of these tools are explained in more detail in the [[https://door43.org/en/ta/vol1/tech/toc_techvol1|Technology Manual]])
+      *
+
+**Door43** - an online translation platform where people can collaborate on translation and checking, also the content management system for unfoldingWord (see [[https://door43.org/|https://door43.org]] ).
+      *
+
+**translationStudio** - a mobile app and a desktop app where translators can do offline translating (see [[https://unfoldingword.org/translationstudio/|https://unfoldingword.org/translationstudio/]] ).
+      *
+
+**translationKeyboard** - a mobile app where users can create custom keyboards for languages not supported by their mobile device (see [[https://unfoldingword.org/translationkeyboard/|https://unfoldingword.org/translationkeyboard/]] ).
+      *
+
+**unfoldingWord app** - a mobile app where checked unfoldingWord translations are published and distributed (see [[https://unfoldingword.org/app/|https://unfoldingword.org/app/]] ).
+      *
+
+**Digital Publishing Engine** - a system of pushing checked translations to the unfoldingWord website and app and creating print-ready documents of the content
+      *
+
+**Video Render Engine** - an automatic video render system that takes audio recordings and merges them with video clips to create custom videos for certain projects
+  *
+
+**Training** - We create resources to train mother tongue translation teams (the training course is called translationAcademy - see [[https://unfoldingword.org/academy/|https://unfoldingword.org/academy/]] )
+      *
+
+**[[https://door43.org/en/ta/vol1/process/toc_processvol1_2|Process Manual]]**- what next step to take
+      *
+
+**[[https://door43.org/en/ta/vol1/translate/toc_transvol1_2|Translation Manual]]**- how to translate
+      *
+
+**[[https://door43.org/en/ta/vol1/checking/toc_checkvol1_2|Checking Manual]]**- how to check a translation
+      *
+
+**[[https://door43.org/en/ta/vol1/tech/toc_techvol1_2|Technology Manual]]**- how to use the different technology tools
+      *
+
+**[[https://door43.org/en/ta/vol2/audio/toc_audiovol2|Audio Manual]]**- how to make high quality recordings
+      *
+
+**[[https://door43.org/en/ta/vol2/gateway/toc_gatewayvol2|Gateway Languages Manual]]**- how to open a gateway langauge
+Next we recommend you learn about:
+
+  *
+
+[[https://door43.org/en/ta/vol1/intro/statement_of_faith|Statement of Faith]]
+
+  *
+
+[[https://door43.org/en/ta/vol1/intro/gl_strategy|Gateway Languages Strategy]]
