@@ -1,25 +1,18 @@
 ===== The Water Became Blood [10-03] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink&}}
 
 **God turned the Nile River into blood**, but **Pharaoh** still would not let the **Israelites** go.
 
-神让尼罗河水变为血水，但法老不愿让以色列人离开。
+神让尼罗河水变为血水，但法老还是不愿意让以色列人离开。
 
 ==== Important Terms: ====
 
-
-  * **[[:zh:obe:kt:God]]**
-  * **[[:zh:obe:other:NileRiver]]**
-  * **[[:zh:obe:other:Pharaoh]]**
-  * **[[:zh:obe:other:Israel]]**
-
-
+  * **[[:zh:obe:kt:god|God (上帝)]]**
+  * **[[:zh:obe:other:nileriver|Nile River]]**
+  * **[[:zh:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:zh:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
-
-  * **turned the Nile River into blood** - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
-
-
+  * **turned the Nile River into blood**  - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
 **[[:zh:obs:notes:frames:10-02|<<]] | [[:zh:obs:notes:10|Up]] | [[:zh:obs:notes:frames:10-04|>>]]**
