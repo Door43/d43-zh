@@ -9,5 +9,5 @@ This module answers the question: What is in the Introduction?
   - [[:zh:ta:vol1:intro:statement_of_faith]]
   - [[:zh:ta:vol1:intro:translation_guidelines]]
   - [[:zh:ta:vol1:intro:open_license]]
-  - [[:zh:ta:vol1:intro:gl_strategy]]
+  - [[:en:ta:vol1:intro:gl_strategy]]
   - [[:zh:ta:vol1:intro:finding_answers]]
