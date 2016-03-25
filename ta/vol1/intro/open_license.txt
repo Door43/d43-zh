@@ -1,54 +1,55 @@
 ====== 版权和许可 ======
 
-Door43中所有内容均按 [[http://creativecommons.org/licenses/by-sa/4.0/|知识共享署名-相同方式共享4.0国际许可协议]]提供，即表示，
+Door43中所有内容均按[[http://creativecommons.org/licenses/by-sa/4.0/|知识共享署名-相同方式共享4.0国际许可协议]]提供，即表示，
 
 您可自由：
 
   * 分享 — 在任何媒介或格式中复制和重新发布有关材料
-  * 改编 — 为任何目的（甚至商业目的）在有关材料基础上合成    、转换和添加。
+  * 改编 — 为任何目的（甚至商业目的）在有关材料基础上合成、转换和添加。
 
 惟须满足以下条件：
 
-  * 署名 — 你必须如此指明作品归属：“原作品可登录[[http://door43.org|http://door43.org]]获取。”    衍生作品中的归属声明，不得以任何方式暗示我们支持你或支持你使用有关作品。
-  * 相同方式共享— 如果你在    有关材料基础上合成、转换和添加，则须按照原作品的许可协议发布你的供稿。
+  * 署名 — 你必须如此指明作品归属：“原作品可登录[[http://door43.org|http://door43.org]]获取。” 衍生作品中的归属声明，不得以任何方式暗示我们支持你或支持你使用有关作品。
+  * 相同方式共享— 如果你在有关材料基础上合成、转换和添加，则须按照原作品的许可协议发布你的供稿。
 
 ===== Door43贡献者的署名 =====
 
-在将资源（例如书籍、圣经研究等）导入Door43时，须通过适用的开放式许可协议指明原作品归属。例如，“打开圣经故事”中的插图乃按开放式许可协议提供，并在该项目    [[:en:obs|主页]]上明确予以归属。
+在将资源（例如书籍、圣经研究等）导入Door43时，须通过适用的开放式许可协议指明原作品归属。例如，“打开圣经故事”中的插图乃按开放式许可协议提供，并在该项目[[:en:obs|主页]]上明确予以归属。
 
-Door43有关项目的贡献人同意，**每个页面修订历史中自动出现的署名，均属相关作品的充分归属**  。即是说，每位将“打开圣经故事”译为不同语言的贡献者，均被列以“Door43世界宣教会    ”或类似署名。相关译文的修订历史将保存每位贡献者的个人供稿。
+Door43有关项目的贡献人同意，**每个页面修订历史中自动出现的署名，均属相关作品的充分归属**  。即是说，每位将“打开圣经故事”译为不同语言的贡献者，均被列以“Door43世界宣教会”或类似署名。相关译文的修订历史将保存每位贡献者的个人供稿。
 
-===== Open License =====
+===== 开放式许可 =====
 
-//This page answers the question:// //What freedoms do users have with unfoldingWord content?//
+//本页回答的问题是：用户对////unfoldingWord内容享有哪些自由？//
 
-//In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
-  * //[[en:ta:vol1:intro:statement_of_faith|Statement of Faith]]//
-  * //[[en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
+//为理解此主题，推荐阅读：//
 
-//The official version of this document is found at https://unfoldingword.org/license/ .//
+  * //[[:en:ta:vol1:intro:uw_intro|unfoldingWord项目]]//
+  * //[[:en:ta:vol1:intro:statement_of_faith|信仰宣言]]//
+  * //[[:en:ta:vol1:intro:translation_guidelines|翻译规范]]//
+//本文档的正式版本位于[[https://unfoldingword.org/license/|https://unfoldingword.org/license/]]。//
 
-==== Copyrights & Licensing ====
+==== 版权和许可 ====
 
-All content on Door43 is made available under a **Creative Commons Attribution-ShareAlike 4.0 International License** (http://creativecommons.org/licenses/by-sa/4.0/ ), which means
+Door43中所有内容均按**知识共享署名-相同方式共享4.0国际许可协议** （[[http://creativecommons.org/licenses/by-sa/4.0/|http://creativecommons.org/licenses/by-sa/4.0/]]）提供，即表示，
 
-You are free:
-  * Share — copy and redistribute the material in any medium or format
-  * Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+您可自由：
 
-Under the following conditions:
-  * Attribution — You must attribute the work as follows: "Original work available at http://door43.org ." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
-  * ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+  * 分享 — 在任何媒介或格式中复制和重新发布有关材料
+  * 改编 — 为任何目的（甚至商业目的）在有关材料基础上合成、转换和添加。
 
-==== Attribution of Door43 Contributors ====
+惟须满足以下条件：
 
-When importing a resource (e.g. a book, Bible study, etc.) into Door43, the original work must be attributed as specified by the open license under which it is available. For example, the artwork used in Open Bible Stories is available under an open license and is clearly attributed on the project's main page at www.openbiblestories.com .
+  * 署名 — 你必须如此指明作品归属：“原作品可登录[[http://door43.org|http://door43.org]]获取。” 衍生作品中的归属声明，不得以任何方式暗示我们支持你或支持你使用有关作品。
+  * 相同方式共享 — 如果你在有关材料基础上合成、转换和添加，则须按照原作品的许可协议发布你的供稿。
 
-Contributors to projects on Door43 agree that **the attribution that occurs automatically in the revision history of every page is sufficient attribution for their work.** That is, every contributor to a translation of Open Bible Stories into another language is listed as "the Door43 World Missions Community" or something to that effect. The individual contributions of each individual contributor are preserved in the revision history for that translation.
+==== Door43贡献者的署名 ====
 
+在将资源（例如书籍、圣经研究等）导入Door43时，须通过适用的开放式许可协议指明原作品归属。例如，“打开圣经故事”中的插图乃按开放式许可协议提供，并在该项目主页[[http://www.openbiblestories.com|www.openbiblestories.com]]上明确予以归属。
 
+Door43有关项目的贡献人同意，**每个页面修订历史中自动出现的署名，均属相关作品的充分归属** 。即是说，每位将“打开圣经故事”译为不同语言的贡献者，均被列以“Door43世界宣教会”或类似署名。相关译文的修订历史将保存每位贡献者的个人供稿。
 
-//Next we recommend you learn about://
-  * //[[en:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]//
-  * //[[en:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]//
+//接下来，我们推荐您了解：//
+
+  * //[[:en:ta:vol1:intro:gl_strategy|门户语言策略]]//
+  * //[[:en:ta:vol1:translate:translate_source_licensing|版权、许可及源文本]]//
