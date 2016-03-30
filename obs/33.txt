@@ -1,40 +1,37 @@
-﻿====== 33. 农夫的故事 ======
+====== 33. 农夫的故事 ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
 
-有一天，耶稣在海边，教训一大群人。人太多，耶稣便上了船，开始讲道。
+有一天，耶稣在海边，教训一大群人。听的人太多，所以他上了海边的船，以便有足够的空间。耶稣坐在船上，开始讲道。
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
-耶稣说了个故事。“一个农民出去种粮食。他撒种的时候，有些种子撒在了路边，鸟儿来吃了。”
+耶稣说了个故事：“一个农民出去撒种。他撒的时候，有些种子落在了路边，鸟儿来都吃了。”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
 
 “另外有些种子掉在了岩石地里，没有很多土壤。那岩石地中的种子发芽很快，但当太阳一出来，使它受热，作物就立刻枯萎死掉了。因为它的根扎得太浅。“
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
 “还有一些种子掉在了荆棘丛里。那些种子被荆棘缠住了，无法长出果实。”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
 还有一些种子掉进了好土里。这些种子长出30倍，60倍，100倍的果实。有耳可听的，就应当听。”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
 这个故事困扰了门徒们。耶稣解释道，“种子代表神的道。那掉到路边的种子就像人听了神的道，不理解，魔鬼来了，就把这道拿走了。”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
 
 “那掉到岩石土中的种子就像人听了神的道，欢喜领受。但是一碰到艰难困苦，就倒下了，因为他们还没有成熟。”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
-
-“那在荆棘丛中的种子就像人听了道，也相信。但是，随着时间流逝，他们对神的爱被世俗的思虑，财富，欢乐，所挤住了。他们所听到的无法产出果实。”
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
+“那在荆棘丛中的种子就像人听了道，也相信。但是，随着时间流逝，他们对神的爱被世俗的思虑，财富，欢乐，所挤住了。他们所听到的无法产出果实。” {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
 ”那落在好土里的种子代表人听了神的道，相信它，并产出了属灵的果实。”
-
 
 //A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
