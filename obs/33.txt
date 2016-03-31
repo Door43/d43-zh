@@ -14,7 +14,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
-“还有一些种子落在了荆棘里。种子开始生长，但是荆棘长起来，把它挤住了，就不接果实。”
+“还有一些种子落在了荆棘里。种子开始生长，但是荆棘长起来，把它挤住了，就不结果实。”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
@@ -30,7 +30,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
-“那在荆棘中的种子就是人听了上帝的道，随着时间流逝，他们对神的爱被世上的思虑、财富和享乐所挤住了。因此他们虽然听了却结不出果实来。” {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
+“那在荆棘中的种子就是人听了上帝的道，随着时间流逝，他们对上帝的爱被世上的思虑、财富和享乐所挤住了。因此他们虽然听了却结不出果实来。” {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
 ”那落在好土里的种子代表人听了上帝的道，相信它，并结出了果实。”
 
