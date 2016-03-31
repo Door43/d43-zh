@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
 
-有一天，耶稣在海边，教训一大群人。听的人太多，所以他上了海边的船，以便有足够的空间。耶稣坐在船上，开始讲道。
+有一天，耶稣在海边，教训一大群人。听的人太多，所以他上了海边的船，以便有足够的空间对众人传讲。耶稣坐在船上，开始讲道。
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
@@ -10,15 +10,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
 
-“另外有些种子落在土浅石头地上的。那岩石地中的种子发芽很快，但它扎根不深，太阳出来一晒，使它受热，作物就立刻枯死了。
+“另外有些种子落在土浅石头地上的。那岩石地中的种子发芽很快，但它扎根不深，太阳出来一晒，使它受热，作物就立刻枯死了。”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
-“还有一些种子落在了荆棘里。荆棘长起来，把它挤住了，就不接果实。”
+“还有一些种子落在了荆棘里。种子开始生长，但是荆棘长起来，把它挤住了，就不接果实。”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
-还有一些种子落进了好土里。这些种子就生长起来，结实有三十倍，六十倍，一百倍的。有耳可听的，就应当听。”
+“ 还有一些种子落进了好土里。这些种子就生长起来，结实有三十倍，六十倍，一百倍的。有耳可听的，就应当听。”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
@@ -26,11 +26,11 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
 
-“那掉到岩石土中的种子就像人听了上帝的道，欢喜领受。但是一碰到艰难困苦，就跌倒了。”
+“那掉到岩石土中的种子就像人听了上帝的道，欢喜领受。但是一碰到艰难困苦或是受了逼迫，就跌倒了。”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
-“那在荆棘中的种子就像人听了上帝的道，随着时间流逝，他们对神的爱被世俗的思虑、财富、欢乐所挤住了。因此他们虽然听了却结不出果实。” {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
+“那在荆棘中的种子就是人听了上帝的道，随着时间流逝，他们对神的爱被世上的思虑、财富和享乐所挤住了。因此他们虽然听了却结不出果实来。” {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
 ”那落在好土里的种子代表人听了上帝的道，相信它，并结出了果实。”
 
